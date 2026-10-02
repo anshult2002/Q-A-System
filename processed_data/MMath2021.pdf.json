@@ -1,0 +1,1708 @@
+{
+  "filename": "MMath2021.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "INDIAN STATISTICAL INSTITUTE\nStudents’ Brochure\nPART II\nMaster of Mathematics\n(Effective from 2021-22 Academic Year)\n(See PART I for general information, rules and regulations)\nThe Headquarters is at\n203 BARRACKPORE TRUNK ROAD\nKOLKATA 700108",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          1
+        ],
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "INDIAN STATISTICAL INSTITUTE\nMaster of Mathematics\nContents\n1\nCurriculum\n1\n2\nElective Courses\n1\n3\nList of permissible elective courses from non-M.Math. programmes\n4\n3.1\nJointly with M.Tech.(CS) . . . . . . . . . . . . . . . . . . . . . . . . . . .\n4\n3.2\nJointly with M.S. in Q.E. . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\n3.3\nJointly with M.Stat. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\n3.4\nB.Math. electives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\n4\nRules concerning M.Math. projects\n6\n4.1\nEligibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6\n4.2\nEvaluation of the project proposal\n. . . . . . . . . . . . . . . . . . . . . .\n6\n4.3\nEvaluation of projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6\n4.4\nContinuation\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n4.5\nApplication procedure\n. . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n5",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          3
+        ],
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "6\n4.4\nContinuation\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n4.5\nApplication procedure\n. . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n5\nDetailed Syllabi of the Courses\n7\n5.1\nCompulsory Courses . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n5.1.1\nFirst Year, Semester I . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n5.1.2\nFirst Year, Semester II . . . . . . . . . . . . . . . . . . . . . . . .\n12\n5.1.3\nSecond Year, Semester III\n. . . . . . . . . . . . . . . . . . . . . .\n16\n5.1.4\nSecond Year, Semester IV . . . . . . . . . . . . . . . . . . . . . .\n18\n5.2\nElective Courses\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n19",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          3
+        ],
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "1\nCurriculum\nAll the courses listed below are allocated three lecture sessions and one practical/tutorial\nsession per week. The practical/tutorial session consists of one period, which is meant to\nbe used for discussion on problems, practicals, computer outputs, assignments, for special\nlectures and self study, etc. All these need not be contact hours.\nFirst Year\nSemester I\nC1:\nMeasure Theory\nC2:\nLinear Algebra\nC3:\nAlgebra I\nC4:\nTopology I\nC5:\nAnalysis of Several Variables\nSemester II\nC6:\nComplex Analysis\nC7:\nFunctional Analysis\nC8:\nTopology II\nC9:\nAlgebra II\nC10:\nNumber Theory\nSecond Year\nSemester III\nC11:\nDifferential Geometry I\nC12:\nProbability Theory\nElective 1\nElective 2\nElective 3/Project I\nSemester IV\nC13:\nPartial Differential Equations\nElective 4\nElective 5\nElective 6\nElective 7/Project II\nThe list of permitted elective courses is given in Section 2. In addition, elective courses\ncan also be chosen from the list of courses from other programmes given in Section 3. At",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "The list of permitted elective courses is given in Section 2. In addition, elective courses\ncan also be chosen from the list of courses from other programmes given in Section 3. At\nmost two elective courses can be chosen from the courses mentioned in Section 3.\nIn each of the last two semesters, a student can take a project in place of an elective\ncourse subject to the criteria mentioned in Section 4.\n2\nElective Courses\nA student has to choose elective courses offered from the following list. Not all of these\ncourses can be offered in a particular semester.\nE1: Fourier Analysis\nE2: Differential Topology\nE3: Graph Theory and Combinatorics\n1",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "E4: Commutative Algebra I\nE5: Representation Theory of Finite Groups\nE6: Lie Groups and Lie Algebras\nE7: Algebraic Geometry\nE8: Commutative Algebra II\nE9: Random Measures and Geometry\nE10: Modular Forms\nE11: Analytic Number Theory\nE12: Sieve Methods\nE13: Riemann Surfaces\nE14: Several Complex Variables\nE15: Quasiconformal mappings and Teichmuller theory\nE16: Dynamical Systems\nE17: C∗algebraic K-theory\nE18: Algebra III\nE19: Topics in Discrete Probability\nE20: Topics in Gaussian Processes\nE21: Analysis on Graphs\nE22: Algebraic Graph Theory\nE23: Advanced Number Theory\nE24: Algebraic Number Theory\nE25: Advanced Functional Analysis\nE26: Operator Algebras\nE27: Unbounded Operators\n2",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "E28: Advanced Linear Algebra\nE29: Markov Chains\nE30: Ergodic Theory\nE31: Topology III\nE32: Topology IV\nE33: Differential Geometry II\nE34: Elliptic Curves\nE35: Convex Geometry\nE36: Linear Algebraic Groups\nE37: Mathematical Logic\nE38: Set Theory\nE39: Game Theory\nE40: Automata, Languages and Computation\nE41: Advanced Fluid Dynamics\nE42: Quantum Mechanics I\nE43: Quantum Mechanics II\nE44: Analytical Mechanics\nE45: Representations of Locally Compact Groups\nE46: Abstract Harmonic Analysis\nE47: Wavelet Analysis\nE48: Basics of C∗Algebras\nE49: Martingale Theory\nE50: Theory of Large Deviations\nE51: Brownian Motion and Diffusions\n3",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "E52: Weak Convergence and Empirical Processes\nApart from the elective courses listed above, a student may also take elective courses in\nspecial topics from the following subjects: Algebra, Analysis, Number Theory, Topology,\nGeometry, Complex Analysis, Functional Analysis, Probability Theory, Harmonic Analy-\nsis, Algebraic Geometry, Algebraic Topology, Differential Topology, Differential Geome-\ntry, Commutative Algebra, Afﬁne Algebraic Geometry, Discrete Mathematics, Statistics.\nThe course-name should specify the topic (i.e., the subarea). For instance, “Special Topics\nin Functional Analysis: Operator Algebra” or “Special Topics in Algebra: Advanced Field\nTheory”. A student may take more than one course in any of the above subjects, but the\nspeciﬁc topic cannot be repeated. For instance, a student may take a course titled “Special\nTopics in Functional Analysis: Operator Algebras” and another course titled “Special Top-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "speciﬁc topic cannot be repeated. For instance, a student may take a course titled “Special\nTopics in Functional Analysis: Operator Algebras” and another course titled “Special Top-\nics in Functional Analysis: Noncommutative Geometry” but the student cannot take more\nthan one course titled “Special Topics in Functional Analysis: Noncommutative Geome-\ntry”.\nSpecial topics in areas of mathematics not mentioned in the above list may be offered\nafter approval from the Dean/Associate Dean.\n3\nList of permissible elective courses from non-M.Math.\nprogrammes\nAt most two elective courses may be opted from the following list in the entire second\nyear. The availability of a course in a speciﬁc year or semester may vary, depending on\nresources and requirements of other programmes (M.Stat./ MSQE/ M.Tech.(CS) etc.). The\npre-requisites for these courses are as given in the corresponding syllabus documents and\nthe students should take these courses after discussing with the instructor.\n3.1",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "pre-requisites for these courses are as given in the corresponding syllabus documents and\nthe students should take these courses after discussing with the instructor.\n3.1\nJointly with M.Tech.(CS)\n1. Computational Complexity\n2. Combinatorial Geometry\n3. Cryptology\n4. Information and Coding Theory\n5. Logic for Computer Science\n6. Quantum Information Processing and Quantum Computation\n4",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "3.2\nJointly with M.S. in Q.E.\n1. Game Theory I\n3.3\nJointly with M.Stat.\n1. Analysis of Directional Data\n2. Branching Processes\n3. Life Testing and Reliability\n4. Markov Processes and Martingale Problems\n5. Mathematical Biology\n6. Percolation Theory\n7. Random walks and Electrical Networks\n8. Resampling Techniques\n9. Robust Statistics\n10. Signal and Image Processing\n11. Statistical Methods in Demography\n12. Statistical Methods in Epidemiology and Ecology\n13. Theory of Extremes and Point Processes\n14. Theory of Games and Statistical Decisions 1\n15. Theory of Random Graphs\n3.4\nB.Math. electives\n1. Games, Graphs and Algebra\n2. Information Theory\n3. Methods from Statistical physics.\n4. Mathematics of Data Science\n1This cannot be taken if the elective “Game Theory I” from MSQE (see (1) in 3.2) has been taken already.\n5",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "5. Geometric Group Theory.\n6. Geometric Algebra.\n7. Computational Biology.\n8. Introduction to Statistical Physics.\n9. Quantum Computation and Quantum Information.\n4\nRules concerning M.Math. projects\nA student can take at most two projects during M.Math. Second year with at most one\nproject in a semester. The project must be in Mathematics or related areas with sufﬁcient\nMathematical content.\n4.1\nEligibility\nA student should have the necessary background knowledge for taking a particular project.\nA student with an aggregate of 70% in previous semesters and having no compulsory back-\npaper can apply for a project. However, obtaining 70% in aggregate does not automatically\nqualify a student to undertake a project. A project will be undertaken by a student only if it\nis approved by the Teachers’ committee subject to the guideline given below.\n4.2\nEvaluation of the project proposal\nTo evaluate the merit of a project proposal the teachers committee may consult experts from",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "4.2\nEvaluation of the project proposal\nTo evaluate the merit of a project proposal the teachers committee may consult experts from\nrelated areas. The teachers committee will ensure that:\n(a) The student has the requisite background and motivation to undertake a particular\nproject.\n(b) The project has sufﬁcient Mathematical content.\n4.3\nEvaluation of projects\nThere will be a core committee of faculty members responsible for evaluation of projects.\nThe student will make two presentations, one around the time of the mid-semestral exami-\nnation and the other around the time of the semestral examination, and submit two reports\nafter their presentation. A committee consisting of 3 members, the supervisor, one mem-\nber from the core committee and a subject expert, will evaluate the student on the basis of\n6",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "the presentation, a viva-voce examination and project reports. The respective weights are\n40% (for the mid-semester presentation) and 60% (for the presentation at the end of the\nsemester). For every evaluation, the presentation and the report will carry equal weights.\nIn case a student obtains less than 45% in the composite score then (s)he will be offered\nan opportunity to appear for the backpaper examination. The student should submit a\nrevised project report by the last working day before the backpaper examination for the M.\nmath. There will be project presentation during the week of the backpaper examination (or\nthe week after that). The date will be ﬁnalized by the supervisor in consultation with the\nexaminers and be conveyed to the Dean of studies. The scoring will be based only on the\nnew presentation and the revised report. The maximum score possible will be 45%. The\nother rules and regulations regarding backpaper examination for a regular course will also\napply.\n4.4",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "new presentation and the revised report. The maximum score possible will be 45%. The\nother rules and regulations regarding backpaper examination for a regular course will also\napply.\n4.4\nContinuation\nTo take up project II in the fourth semester the student should satisfy the eligibility criteria\nas given above. However, if a student’s aggregate is less than 70% but not less than 65%\nthen based on recommendation of the supervisor the student may be allowed to continue\nwith the same project in the 4th semester.\n4.5\nApplication procedure\nThe interested student will have to apply for taking up a project, specifying the title of the\nproject, the name of the supervisor and an abstract of the proposed work, within a date\nsuggested by the Dean’s ofﬁce/teachers committee.\n5\nDetailed Syllabi of the Courses\n5.1\nCompulsory Courses\n5.1.1\nFirst Year, Semester I\nC1: Measure Theory\n• The concept of σ-algebra, Borel subsets of R, Construction of Lebesgue and",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "5\nDetailed Syllabi of the Courses\n5.1\nCompulsory Courses\n5.1.1\nFirst Year, Semester I\nC1: Measure Theory\n• The concept of σ-algebra, Borel subsets of R, Construction of Lebesgue and\nLebesgue-Stieltjes measures on the real line following outer measure.\n• Abstract measure theory: deﬁnition and examples of measure space, measur-\nable functions, Lebesgue integration, convergence theorems (Fatou’s Lemma,\nMonotone convergence and dominated convergence theorem).\n7",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "• Caratheodory extension theorem, completion of measure spaces.\n• Product measures and Fubini’s theorem.\n• Lp-spaces, Riesz-Fischer Theorem, approximation by step functions and con-\ntinuous functions.\n• Absolute continuity, Hahn-Jordan decomposition, Radon-Nikodym theorem,\nLebesgue decomposition theorem. Functions of bounded variation.\n• Complex measures.\nIf time permits: Vitali covering lemma, differentiation and fundamental theorem of\ncalculus.\nReferences\n(a) H. L. Royden and Patrick Fitzpatrick: Real Analysis, Pearson, 4th edition.\n(b) Robert B. Ash and Catherine A. Doleans-Dade, Probability and measure theory,\nGTM(211), Academic Press, 2nd edition.\n(c) Elias M. Stein, Rami Shakarchi, Real Analysis: Measure Theory, Integration\nand Hilbert Spaces , Princeton Lectures in Analysis.\n(d) Gerald B. Folland, Real Analysis: Modern Techniques and Their Applications,\nPure and Applied Mathematics, A Wiley Series.\n(e) G. de Barra, Measure Theory and Integration.\nC2: Linear Algebra",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "(d) Gerald B. Folland, Real Analysis: Modern Techniques and Their Applications,\nPure and Applied Mathematics, A Wiley Series.\n(e) G. de Barra, Measure Theory and Integration.\nC2: Linear Algebra\n• Quick review of solutions of a system of linear equations, vector spaces, sub-\nspaces, linear independence and span, Zorn’s lemma and existence of basis,\nquotient spaces and direct sum of vector spaces, exact sequences and splittings,\nlinear maps and matrices, matrix of a linear map in a basis, invertibility, rank\nand determinant, linear functionals, dual space, annihilator, transpose of a linear\nmap.\n[This part is mostly a review and should be covered quickly with emphasis on\nproblem solving.]\n• Eigenvalues, algebraic and geometric multiplicities, characteristic and minimal\npolynomials, upper triangularization, diagonalizability and semisimplicity, de-\ncomposition into nilpotent and semisimple matrices, Cayley-Hamilton Theo-\nrem.\n8",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "• Tensor product of vector spaces, extension of scalars, complexiﬁcation, tensor\nproduct of linear maps, symmetric and exterior algebra, determinant as a mul-\ntilinear map and Laplace expansion.\n• Inner-product spaces, orthogonality, Gram-Schmidt orthogonalization, Bessel’s\ninequality, projection and orthogonal projection, symmetric and Hermitian op-\nerators, orthogonal and unitary diagonalizability, normal operators, spectral the-\norem, bilinear and quadratic forms, positive deﬁnite operator, square-root of a\npositive operator, polar decomposition, isometry, rigid motions, the rotation\ngroup.\n• Structure theory of ﬁnitely generated modules over PID and application to\ncanonical forms.\nReferences\n(a) D.S. Dummit and R.M. Foote, Abstract Algebra, John Wiley (Asian reprint\n2003).\n(b) S. Lang, Algebra, GTM (211), Springer (Indian reprint 2002).\n(c) K. Hoffman and R. Kunze, Linear Algebra, Prentice-Hall of India (1998).\n(d) N.S. Gopalakrishnan, University Algebra, Wiley Eastern (1986).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "(c) K. Hoffman and R. Kunze, Linear Algebra, Prentice-Hall of India (1998).\n(d) N.S. Gopalakrishnan, University Algebra, Wiley Eastern (1986).\n(e) A. R. Rao and P. Bhimasankaram, Linear Algebra, TRIM(19), Hindustan Book\nAgency (2000).\n(f) P. R. Halmos, Finite-Dimensional Vector Spaces: Second Edition.\nC3: Algebra I\n• Commutative rings with unity: examples, ring homomorphisms, ideals, quo-\ntients, isomorphism theorems with applications to non-trivial examples. Prime\nand maximal ideals, Zorn’s Lemma and existence of maximal ideals. Product\nof rings, ideals in a ﬁnite product, Chinese Remainder Theorem. Prime and\nmaximal ideals in a quotient ring and a ﬁnite product. Field of fractions of an\nintegral domain. Irreducible and prime elements; PID and UFD.\n• Polynomial Ring: universal property; division algorithm; roots of polynomials.\nGauss’s Theorem (R UFD implies R[X] UFD); irreducibility criteria. Symmet-\nric polynomials: Newton’s Theorem. Power Series.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "Gauss’s Theorem (R UFD implies R[X] UFD); irreducibility criteria. Symmet-\nric polynomials: Newton’s Theorem. Power Series.\n• Modules over commutative rings: examples. Basic concepts: submodules, quo-\ntients modules, homomorphisms, isomorphism theorems, generators, annihila-\ntor, torsion, direct product and sum, direct summand, free modules, ﬁnitely\ngenerated modules, exact and split exact sequences.\n9",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "• Noetherian rings and modules, algebras, ﬁnitely generated algebras, Hilbert\nBasis Theorem. Tensor product of modules: deﬁnition, basic properties and\nelementary computations. Time permitting, introduction to projective modules.\nReferences\n(a) D.S. Dummit and R.M. Foote, Abstract Algebra, John Wiley (Asian reprint\n2003).\n(b) N. Jacobson, Basic Algebra Vol. I, W.H. Freeman and Co (1985).\n(c) S. Lang, Algebra, GTM (211), Springer (Indian reprint 2004).\n(d) N.S. Gopalakrishnan, University Algebra, Wiley Eastern (1986).\n(e) N.S. Gopalakrishnan, Commutative Algebra (Chapter 1), Oxonian Press (1984).\nC4: Topology I\n• Topological spaces, open and closed sets, basis, closure, interior and bound-\nary. Subspace topology, Hausdorff spaces. Continuous maps: properties and\nconstructions; Pasting Lemma. Homeomorphisms. Product topology.\n• Connected, path-connected and locally connected spaces. Lindel¨of and Com-\npact spaces, Locally compact spaces, one-point compactiﬁcation and Tychonoff’s",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "• Connected, path-connected and locally connected spaces. Lindel¨of and Com-\npact spaces, Locally compact spaces, one-point compactiﬁcation and Tychonoff’s\ntheorem. Paracompactness and Partitions of unity (if time permits).\n• Countability and separation axioms., Urysohn embedding lemma and metriza-\ntion theorem for second countable spaces. Urysohn’s lemma, Tietze extension\ntheorem and applications. Complete metric spaces. Baire Category Theorem\nand applications.\n• Quotient topology: Quotient of a space by a subspace. Group action, Orbit\nspaces under a group action. Examples of Topological Manifolds.\n• Topological groups. Examples from subgroups of GLn(R) and GLn(C).\n• Homotopy of maps. Homotopy of paths. Fundamental Group.\nReferences\n(a) J. R. Munkres, Topology: a ﬁrst course, Prentice-Hall (1975).\n(b) G.F. Simmons, Introduction to Topology and Modern Analysis, TataMcGraw-\nHill (1963).\n(c) M.A. Armstrong, Basic Topology, Springer.\n10",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "(d) J.L. Kelley, General Topology, Springer-Verlag (1975).\n(e) J. Dugundji, Topology, UBS (1999).\n(f) I. M. Singer and J. A. Thorpe, Lecture notes on elementary topology and ge-\nometry, UTM, Springer.\nC5: Analysis of Several Variables\n• Metric Topology of Rn. Topology induced by lp norms (p = 1, 2, ∞) on Rn and\ntheir equivalence. Continuous functions on Rn. Separation properties. Com-\npact subsets of Rn. Path-connectivity. Topological properties of subgroups like\nGLn(R), GLn(C), O(n), Hilbert-Schmidt norm and operator norm on Mn(R).\nSequence and series in Mn(R). Exponential of a matrix.\n• Differentiation and integration of functions on Rn. Partial derivatives of real-\nvalued functions on Rn. Differentiability of maps from Rm to Rn and the\nderivative as a linear map. Jacobian theorem. Chain Rule. Mean value the-\norem. Higher derivatives and Schwarz theorem, Taylor expansions in several\nvariables. Inverse function theorem and implicit function theorems. Local max-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "orem. Higher derivatives and Schwarz theorem, Taylor expansions in several\nvariables. Inverse function theorem and implicit function theorems. Local max-\nima and minima, Lagrange multiplier method.\n• Vector ﬁelds on Rn. Integration of vector ﬁelds and ﬂows. Picard’s Theorem.\n• Riemann integration of bounded real-valued functions on rectangles (product\nof intervals). Existence of the Riemann integral for sufﬁciently well-behaved\nfunctions. Iterated integral and Fubini’s theorem. Brief treatment of multiple\nintegrals on more general domains. Change of variable and the Jacobian for-\nmula.\n• Differential forms on Rn. Wedge product of forms. Pullback of differential\nforms. Exterior differentiation of forms. Integration of compactly supported\nn-forms on Rn. Change of variable formula revisited. Integration of k-forms\nalong singular k-chains in Rn. Stokes’ theorem on chains. [Special emphasis on\ncurves and surfaces in R2 and R3. Line integrals, Surface integrals. Gradient,",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "along singular k-chains in Rn. Stokes’ theorem on chains. [Special emphasis on\ncurves and surfaces in R2 and R3. Line integrals, Surface integrals. Gradient,\nCurl and Divergence operations, Green’s theorem and Gauss’s (Divergence)\ntheorem.]\nReference Texts:\n(a) M. Spivak: Calculus on manifolds, Benjamin (1965).\n(b) T.Apostol: Mathematical Analysis. S. Lang, Algebra, GTM (211), Springer\n(Indian reprint 2002).\n(c) K. Mukherjea: Differential Calculus in Normed Linear Spaces\n11",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "5.1.2\nFirst Year, Semester II\nC6: Complex Analysis\n• Review of sequences and series of functions including power series, Complex\ndifferentiation and Cauchy-Riemann equation, Cauchy’s theorem and Cauchy’s\nintegral formula, Power series expansion of holomorphic function, zeroes of\nholomorphic functions, Maximum Modulus Principle, Liouville’s Theorem,\nMorera’s Theorem.\n• Complex logarithm and winding number, Singularities, Meromorphic func-\ntions, Casorati Weierstrass theorem, Riemann sphere, Laurent series, Residue\nTheorem and applications to evaluation of deﬁnite integrals, Open Mapping\nTheorem, Rouche’s Theorem.\n• Conformal maps, Schwarz lemma, Linear fractional transformations, automor-\nphisms of a disc, Introduction to Gamma function.\n• Equicontinuity and Arzela-Ascoli Theorem, Normal family, Montel’s theorem\nand Riemann mapping theorem.\n• If time permits then the following topics can also be covered: Mittag-Lefﬂer\nTheorem, Inﬁnite product, Weierstrass factorization theorem.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "and Riemann mapping theorem.\n• If time permits then the following topics can also be covered: Mittag-Lefﬂer\nTheorem, Inﬁnite product, Weierstrass factorization theorem.\nReferences\n(a) Complex Analysis- L. Ahlfors.\n(b) Elementary Theory of Analytic Functions of One or Several Complex Variables-\nH. Cartan\n(c) Complex Analysis- E. M. Stein, R. Shakarchi.\n(d) Complex Analysis- D. Sarason\nC7: Functional Analysis\n• Quick review of sequences and series of functions, equicontinuity, Arzela-\nAscoli theorem.\n• Normed linear spaces and Banach spaces. Bounded linear operators. Dual of\na normed linear space. Hahn-Banach theorem, uniform boundedness principle,\nopen mapping theorem, closed graph theorem. Computing the dual of some\nwell known Banach spaces. Weak and weak-star topologies, Banach-Alaoglu\nTheorem. The double dual. Lp-spaces and their duality, Weierstrass and Stone-\nWeierstrass Theorems.\n12",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "• Hilbert spaces, adjoint operators, self-adjoint and normal operators, spectrum,\nspectral radius, analysis of the spectrum of a compact operator on a Banach\nspace, spectral theorem for compact self-adjoint operators on Hilbert spaces.\nBasics of complex measures and statement of the Riesz representation theorem\nfor the space C(X) for a compact Hausdorff space X.\n• If time permits, some of the following topics may be covered: Sketch of proof of\nthe Riesz Representation Theorem for C(X), Goldstein’s Theorem, reﬂexivity;\nspectral theorem for bounded normal operators.\nReferences\n(a) Real and complex analysis, W. Rudin, McGraw-Hill (1987).\n(b) Functional analysis, W. Rudin, McGraw-Hill (1991).\n(c) A course in functional analysis, J. B. Conway, GTM (96), Springer-Verlag\n(1990).\n(d) Functional analysis, K. Yosida, Grundlehren der Mathematischen Wissenschaften\n(123), Springer-Verlag (1980).\nC8: Topology II\n• Review of fundamental groups, necessary introduction to free product of groups,",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "(123), Springer-Verlag (1980).\nC8: Topology II\n• Review of fundamental groups, necessary introduction to free product of groups,\nVan Kampen’s theorem. Covering spaces, lifting properties, Universal cover,\nclassiﬁcation of covering spaces, Deck transformations, properly discontinuous\naction, covering manifolds, examples.\n• Categories and functors. Simplicial homology. Singular homology groups, ax-\niomatic properties, Mayer-Vietoris sequence, homology with coefﬁcients, state-\nment of universal coefﬁcient theorem for homology, simple computation of ho-\nmology groups.\n• CW-complexes and Cellular homology, Simplicial complex and simplicial ho-\nmology as a special case of Cellular homology, Relationship between funda-\nmental group and ﬁrst homology group. Computations for projective spaces,\nsurfaces of genus g.\nReferences\n(a) A. Hatcher, Algebraic Topology, Cambridge University Press (2002).\n(b) W. S. Massey, A basic course in algebraic topology, GTM (127), Springer\n(1991).\n13",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "(c) J. R. Munkres, Topology: a ﬁrst course, Prentice-Hall (1975).\n(d) J. R. Munkres, Elements of algebraic topology, Addison-Wesley (1984).\n(e) M. J. Greenberg, Lectures on algebraic topology, Benjamin (1967).\n(f) I. M. Singer and J. A. Thorpe, Lecture notes on elementary topology and ge-\nometry, UTM, Springer.\n(g) E. Spanier, Algebraic Topology, Springer-Verlag (1982).\nC9: Algebra II\n• Review of normal subgroups, quotient, isomorphism theorems, Group actions\nwith examples, class equations and their applications, Sylow’s Theorems; groups\nand symmetry. Direct sum and free Abelian groups. Composition series, exact\nsequences, direct product and semidirect product with examples. Results on\nﬁnite groups: permutation groups, simple groups, solvable groups, simplicity\nof An.\n• Algebraic and transcendental extensions; algebraic closure; splitting ﬁelds and\nnormal extensions; separable, inseparable and purely inseparable extensions;",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "of An.\n• Algebraic and transcendental extensions; algebraic closure; splitting ﬁelds and\nnormal extensions; separable, inseparable and purely inseparable extensions;\nﬁnite ﬁelds. Galois extensions and Galois groups, Fundamental theorem of Ga-\nlois theory, cyclic extensions, solvability by radicals, constructibility of regular\nn-gons, cyclotomic extensions.\n• Time permitting: Topics from Trace and Norms, Hilbert Theorem 90, Artin-\nSchreier theorem, Transcendental extensions, Real ﬁelds.\nReferences\n(a) J.J. Rotman, An Introduction to the theory of groups, GTM (148), Springer-\nVerlag (2002).\n(b) D.S. Dummit and R.M. Foote, Abstract Algebra, John Wiley (Asian reprint\n2003).\n(c) S. Lang, Algebra, GTM (211), Springer (Indian reprint 2004).\n(d) N.S. Gopalakrishnan, University Algebra, Wiley Eastern (1986).\n(e) N. Jacobson, Basic Algebra, W.H. Freeman and Co (1985).\n(f) G. Rotman, Galois theory, Springer (Indian reprint 2005).\n(g) TIFR pamphlet on Galois theory.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "(e) N. Jacobson, Basic Algebra, W.H. Freeman and Co (1985).\n(f) G. Rotman, Galois theory, Springer (Indian reprint 2005).\n(g) TIFR pamphlet on Galois theory.\n(h) Patrick Morandi, Field and Galois Theory, GTM(167) Springer-Verlag (1996).\n14",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "(i) M. Nagata, Field theory, Marcel-Dekker (1977).\nC10: Number Theory\n• Brief review of Division Algorithm, gcd and lcm, Euclidean algorithm; Lin-\near Diophantine equations, congruences and residues, the Chinese Remainder\nTheorem; The ring Z/nZ and its group of units, The Euler φ-function, Fer-\nmat’s little theorem, Euler’s theorem, Wilson’s Theorem, Sums of two and four\nsquares.\n• Pythagorean triplets and their geometric interpretation (rational points on cir-\ncles); Rational points on general conics; Fermat’s method of inﬁnite descent\nand application to simple Diophantine equations like x4 + y4 = z2; The Hasse\nprinciple for conics (statement only), Brief discussion on rational points on cu-\nbics and the failure of the Hasse principle (statement only).\n• Polynomial congruences and Hensel’s Lemma; Quadratic residues and non-\nresidues, Euler’s criterion, Detailed study of the structure of the group of units\nof Z/nZ, Primitive roots; Deﬁnition and properties of the Legendre symbol,",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "residues, Euler’s criterion, Detailed study of the structure of the group of units\nof Z/nZ, Primitive roots; Deﬁnition and properties of the Legendre symbol,\nEvaluation of Gauss sums, The law of quadratic reciprocity for Legendre sym-\nbols; Extension to the Jacobi symbols.\n• Arithmetical functions and their convolutions, multiplicative and completely\nmultiplicative functions, examples like the divisor function d(n), the Euler\nfunction φ(n), the M¨obius function µ(n) etc.; The M¨obius inversion formula;\nSieve of Eratosthenes; Notion of order of magnitude and asymptotic formulae;\nEuler and Abel summation formulae, Hyperbola method of Dirichlet, Average\norder of magnitude of various arithmetical functions such as φ(n), d(n) etc.;\nStatement of the Prime Number Theorem; Elementary estimates due to Cheby-\nshev and Mertens on primes.\n• Algebraic integers, Arithmetic in Z[i] and Z[ω], Primes of the forms x2 + y2\nand x2 + xy + y2; Integers in quadratic number ﬁelds; Examples of failure of",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "shev and Mertens on primes.\n• Algebraic integers, Arithmetic in Z[i] and Z[ω], Primes of the forms x2 + y2\nand x2 + xy + y2; Integers in quadratic number ﬁelds; Examples of failure of\nunique factorization; Units in the ring of integers of a real quadratic ﬁeld and\napplication to the Brahmagupta-Pell equation.\n• One or more topics from the following list can be discussed if time permits:\nA. Absolute values on Q, Ostrowski’s Theorem, Completions of Q, Qp and\nZp, The p-adic topology.\nB. The notion of algebraic and transcendental numbers; Transcendence of e,\nDiophantine Approximation, Dirichlet’s Theorem; Liouville’s Theorem,\nStatement of Roth’s Theorem.\n15",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "C. Continued fractions; Applications to Diophantine approximation, Applica-\ntion to the Brahmagupta-Pell equation.\nD. Introduction to Geometry of numbers.\nE. Application of Number Theory to RSA and other cryptosystems.\nReference Texts:\n(a) T. Apostol, Analytic Number Theory\n(b) D. Burton, Elementary Number Theory\n(c) G.H Hardy and E.M. Wright, An Introduction to The Theory of Numbers\n(d) K. Ireland, M. Rosen, A Classical Introduction to Modern Number Theory\n(e) Manin and Panchishkin, Introduction to Modern Number Theory\n(f) S.J. Miller and R. Takloo-Bighash, An Invitation to Modern Number Theory\n(g) I. Niven, H. S. Zuckerman, H. L. Montgomery, The Theory of Numbers\n(h) J.-P. Serre, A Course in Arithmetic.\n5.1.3\nSecond Year, Semester III\nC11: Differential Geometry I\n• Smooth manifolds: Manifolds in Rn, submanifolds, manifolds with boundary.\nSmooth maps between manifolds. Regular values. Examples of manifolds: A)",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "C11: Differential Geometry I\n• Smooth manifolds: Manifolds in Rn, submanifolds, manifolds with boundary.\nSmooth maps between manifolds. Regular values. Examples of manifolds: A)\nCurves and surfaces in R2 and R3. B) Level surfaces in Rn+1, C) Inverse image\nof regular values. Tangent spaces, derivatives of smooth maps, smooth vector\nﬁelds, Existence of integral curves of a vector ﬁeld near a point.\n• Geometry of curves and surfaces: Parametrized curves in R3, length, integral\nformula for smooth curves, regular curves, parametrization by arc length. Os-\nculating plane of a space curve, Frenet frame, Frenet formula, curvature, invari-\nance under isometry and reparametrization. Discussion of the cases for plane\ncurves, rotation number of a closed curve, osculating circle, ‘Umlaufsatz’.\n• Surfaces in R3: Existence of a normal vector of a connected surface. Gauss\nmap. The notion of a geodesic on a surface. The existence and uniqueness",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "• Surfaces in R3: Existence of a normal vector of a connected surface. Gauss\nmap. The notion of a geodesic on a surface. The existence and uniqueness\nof a geodesic on a surface through a given point with a given velocity vec-\ntor thereof. Covariant derivative of a smooth vector ﬁeld. Parallel vector ﬁeld\nalong a curve. Existence and uniqueness theorem of a parallel vector ﬁeld along\na curve with a given initial vector. The Weingarten map of a surface at a point,\n16",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "its self-adjointness property. Normal curvature of a surface at a point in a given\ndirection. Principal curvatures, ﬁrst and second fundamental forms, Gauss cur-\nvature and mean curvature. Gauss-Bonnet theorem (statement only).\n• Differential forms and orientation: Differential Forms, Orientation of mani-\nfolds, Integration of forms, Stokes’ Theorem. (proof to be given if time per-\nmits). Proof of Gauss-Bonnet theorem (if time permits).\nReferences\n(a) B O’ Neill, Elementary Differential Geometry, Academic Press (1997).\n(b) A. Pressley, Elementary Differential Geometry, Springer (Indian Reprint 2004).\n(c) J. A. Thorpe, Elementary topics in Differential Geometry, Springer (Indian\nreprint, 2004).\n(d) V. Guillemin and A. Pollack, Differential Topology, Prentice-Hall.\nC12: Probability Theory\n• Revision of Measure theory: probability spaces, distributions, random vari-\nables, standard random variable examples, expected value, inequalities (Holder,",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "C12: Probability Theory\n• Revision of Measure theory: probability spaces, distributions, random vari-\nables, standard random variable examples, expected value, inequalities (Holder,\nCauchy-Schwarz, Jensen, Markov, Chebyshev) , convergence notions(convergence\nin probability and almost sure, Lp), application of DCT, MCT, Fatou with ex-\namples, Revision of Fubini’s theorem.\n• Independence, sum of random variables, constructing independent random vari-\nables, weak law of large numbers, Borel-Cantelli lemmas, First and Second\nMoment methods, Chernoff bounds and some applications.\n• Strong law of large number, Kolmogorov 0 −1 law. Convergence of random\nseries. Kolmogorov’s three series theorem.\n• Weak convergence, tightness, characteristic functions with examples, Central\nlimit theorem (iid sequence and triangular array).\nReferences\n(a) Rick Durrett: Probability (Theory and Examples).\n(b) Patrick Billingsley: Probability and measure.\n(c) Robert Ash: Basic probability theory.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "References\n(a) Rick Durrett: Probability (Theory and Examples).\n(b) Patrick Billingsley: Probability and measure.\n(c) Robert Ash: Basic probability theory.\n(d) Leo Breiman: Probability.\n(e) David Williams: Probability with Martingales.\n17",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "5.1.4\nSecond Year, Semester IV\nC13: Partial Differential Equations\n• Basics of ODE: (local as well as global) existence and uniqueness results, Pi-\ncard iteration, Gronwall’s inequality, solving some ﬁrst order and second order\nequations. [7 lectures]\n• Introduction to PDE: order of a PDE, classiﬁcation of PDEs into linear, semi-\nlinear, quasi-linear, and fully nonlinear equations, Examples of equations from\nPhysics, Geometry, etc. The notion of well-posed PDEs [1 lecture]\n• First order PDEs: Method of characteristics, existence and uniqueness results\nof the Cauchy problem for quasilinear and fully nonlinear equations. [9 lec-\ntures] Second order linear PDEs in two independent variables: classiﬁcation\ninto hyperbolic, parabolic and elliptic equations, canonical forms. [1 lecture]\n• Laplace equation: Deﬁnition of Harmonic functions. Mean-value property,\nStrong Maximum principle for harmonic functions, Liouville’s theorem, smooth-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "• Laplace equation: Deﬁnition of Harmonic functions. Mean-value property,\nStrong Maximum principle for harmonic functions, Liouville’s theorem, smooth-\nness of harmonic functions, Poisson’s formula. Harmonic functions in rectan-\ngles, cubes, circles, wedges, annuli. [9 lectures]\n• Heat equation: Fundamental solution of heat equation, Duhamel’s principle,\nweak and strong maximum principles, smoothness of solutions of heat equation,\nill-posedness of backward heat equation. [9 lectures]\n• Wave equation: well-posedness of initial and boundary value problem in 1D\nand d’Alembert formula. method of descent in 2D and 3D. Duhamel’s princi-\nple, domain of dependence, range of inﬂuence, ﬁnite speed of propagation. [8\nlectures]\n• Boundary problems: Separation of variables, Dirichlet, Neumann and Robin\nconditions. The method of seperation of variables for Laplace, Heat and Wave\nequations. [2 lectures]\nReferences\n(a) Evans, L. C. Partial Differential Equations, AMS, 2010.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "conditions. The method of seperation of variables for Laplace, Heat and Wave\nequations. [2 lectures]\nReferences\n(a) Evans, L. C. Partial Differential Equations, AMS, 2010.\n(b) Han, Q. A Basic Course in Partial Differential Equations, AMS, 2011.\n(c) McOwen, R. Partial Differential Equations: Methods and Applications, Pear-\nson, 2002.\n(d) Pinchover, Y. and Rubinstein, J. An Introduction to Partial Differential Equa-\ntions, Cambridge, 2005.\n18",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "(e) Fritz John Partial Differential Equations, Springer.\n(f) Partial Differential Equations: An introduction by Walter Strauss.\n5.2\nElective Courses\nE1: Fourier Analysis\n• Fourier Series on T:\na) Dirichlet problem for the unit disc and origin of Fourier series, continuity\nof translation on Lp(T) and elementary convolution inequalities, approxi-\nmate identity.\nb) Fourier series and its elementary properties, completeness of trigonometric\npolynomials and Riemann-Lebesgue lemma, Uniqueness of Fourier coefﬁ-\ncients and the Fourier inversion, Plancherel theorem, Weyl’s equidistribu-\ntion theorem.\nc) Dirichlet kernel and pointwise convergence of Fourier series for Lipschitz\ncontinuous functions, Riemann’s localization principle, existence of a con-\ntinuous function with divergent Fourier series.\nd) Cesaro and Abel summability, Poisson integral and solution of Dirichlet\nproblem for appropriate function classes.\ne) Marcinkiewicz interpolation theorem, Young’s inequality and Hausdorff-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "d) Cesaro and Abel summability, Poisson integral and solution of Dirichlet\nproblem for appropriate function classes.\ne) Marcinkiewicz interpolation theorem, Young’s inequality and Hausdorff-\nYoung inequality, norm convergence of Fourier series for Lp, 1 < p < ∞.\n• Fourier transform on Rd:\na) Elementary properties of the Fourier transform involving translation, dila-\ntion, rotation, decay and smoothness, Riemann Lebesgue lemma, Fourier\ntransform of Gaussian and the Poisson kernel, the Fourier inversion. Schwartz\nclass functions and its image under Fourier transform.\nb) Fourier transform of L2-functions and the Plancherel theorem, Hausdorff-\nYoung inequality, Paley-Wiener theorem, Poisson summation formula.\nc) Tempered distribution and its Fourier transform, computation of some dis-\ntributional Fourier transform.\nd) Weak Lp spaces, Method of maximal function, Lebesgue differentiation\ntheorem, almost everywhere convergence of Poisson integrals.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "tributional Fourier transform.\nd) Weak Lp spaces, Method of maximal function, Lebesgue differentiation\ntheorem, almost everywhere convergence of Poisson integrals.\ne) Nontangential convergence of Poisson integral and characterization of Pois-\nson integral of Lp functions (If time permits).\n19",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "References\n(a) Real and complex analysis- W. Rudin.\n(b) Topics in Functional analysis- S. Kesavan.\n(c) Introduction to Fourier Analysis on Euclidean spaces- E. M. Stein, G. Weiss.\n(d) Fourier Analysis- E. M. Stein, R. Shakarchi.\n(e) Introduction to Harmonic Analysis-Y. Katznelson\nE2: Differential Topology\n• Manifolds in Rn, submanifolds, smooth maps of manifolds, derivatives and tan-\ngents, Inverse function theorem and immersions, submersions, Transversality,\nHomotopy and stability, Sard’s theorem and Morse functions, embedding man-\nifolds in Euclidean space.\n• Intersection of transverse manifolds, mod 2 intersection theory and winding\nnumbers. Jordan-Brouwer separation theorem.\n• Orientation of manifolds, Oriented intersection number. Lefschetz ﬁxed point\ntheory. Hopf Degree theorem.\nReferences\n(a) V. Guillemin and A. Pollack, Differential Topology, Prentice-Hall.\n(b) J. W. Milnor, Topology from the Differentiable Viewpoint, Univ Press of Vir-\nginia (1965).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "References\n(a) V. Guillemin and A. Pollack, Differential Topology, Prentice-Hall.\n(b) J. W. Milnor, Topology from the Differentiable Viewpoint, Univ Press of Vir-\nginia (1965).\n(c) R. Bott and L. W. Tu, Differential forms in algebraic topology, GTM (82),\nSpringer Verlag (1982).\nE3: Graph Theory and Combinatorics\n(Note: This course may be combined with the Discrete Mathematics course of M.Stat.\nor M. Tech CS.)\n• Construction and Uniqueness of Finite Fields, Linear Codes, Macwilliams iden-\ntity, Finite projective planes, strongly regular graphs and regular 2-graphs. t-\ndesigns with emphasis on Mathieu designs. Counting arguments and inclusion-\nexclusion principle. Ramsey Theory: graphical and geometric.\n20",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "• Graphs and digraphs, connectedness, trees, degree sequences, connectivity, Eu-\nlerian and Hamiltonian graphs, matchings and SDR ’s, chromatic numbers and\nchromatic index, planarity, covering numbers, ﬂows in networks, enumeration,\nInclusion-exclusion, Ramsey’s theorem, recurrence relations and generating\nfunctions.\n• Time permitting, some of the following topics may be done: (i) strongly regular\ngraphs, root systems, and classiﬁcation of graphs with least eigenvalue, (ii) El-\nements of coding theory (Macwilliams identity, BCH, Golay and Goppa codes,\nrelations with designs).\nReferences\n(a) F. Harary, Graph Theory, Addision-Wesley (1969), Narosa (1988).\n(b) D. B. West, Introduction to Graph Theory, Prentice-Hall (Indian Edition 1999).\n(c) J. A. Bondy and U. S. R. Murthy, Graph Theory and Applications, MacMillan\n(1976).\n(d) H. J. Ryser, Combinatorial Mathematics, Carus Math. Monograph, MAA (1963).\n(e) M. J. Erickson, Introduction to Combinatorics, John Wiley (1996).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "(1976).\n(d) H. J. Ryser, Combinatorial Mathematics, Carus Math. Monograph, MAA (1963).\n(e) M. J. Erickson, Introduction to Combinatorics, John Wiley (1996).\n(f) L. Lovasz, Combinatorial Problems and Exercises, AMS Chelsea (1979).\nE4: Commutative Algebra I\n• Quick review of Rings and ideals: ideals in quotient rings; prime ideals under\nquotient, existence of maximal ideals; operations on ideals (sum, product, quo-\ntient and radical); ideals and prime ideals in product rings, Chinese Remainder\ntheorem; nilradical and Jacobson radical; extension and contraction of ideals\nunder ring homomorphisms;\n• Free modules; Projective Modules; Tensor Product of Modules and Algebras;\nFlat, Faithfully Flat and Finitely Presented Modules; Shanuel’s Lemma.\n• Localisation and local rings, universal property of localisation, extended and\ncontracted ideals and prime ideals under localisation, localisation and quotients,\nexacteness property, Nagata’s criterion for UFD and applications.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "contracted ideals and prime ideals under localisation, localisation and quotients,\nexacteness property, Nagata’s criterion for UFD and applications.\n• Prime avoidance. Results on prime ideals like theorems of Cohen and Isaac,\nequivalence of PID and one-dimensional UFD.\n• Modules over local rings. Cayley-Hamilton, NAK lemma and applications. Ex-\namples of local-global principles. Projective and locally free modules. Patching\nup of Localisation.\n21",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 53,
+      "text": "• Polynomial and Power Series Rings. Noetherian Rings and Modules. Hilbert’s\nBasis Theorem, Graded Rings, equivalence of Noetherian rings and ﬁnitely\ngenerated algebras for graded rings.\n• Integral Extensions: integral closure, normalisation and normal rings. Cohen-\nSeidenberg Going-Up Theorem. Hilbert’s Nullstellensatz and applications. In-\ntroduction to Valuation rings.\n• Time permitting: Introduction to Grobner basis.\nReferences\n(a) N.S. Gopalakrishnan, Commutative Algebra, Oxonian Press (1984).\n(b) M.F. Atiyah and I.G. Macdonald, Introduction to commutative algebra, Addision-\nWesley(1969).\n(c) M. Reid: Undergraduate commutative algebra, LMS Student Texts (29), Cam-\nbridge Univ. Press (1995).\n(d) R.Y. Sharp: Steps in commutative algebra, LMS Student Texts, Cambridge\nUniv. Press.\n(e) E. Kunz: Introduction to commutative algebra and algebraic geometry, Birkhauser\n(1985).\n(f) D.S. Dummit and R.M. Foote: Abstract Algebra (Part V), John Wiley (2003).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 54,
+      "text": "Univ. Press.\n(e) E. Kunz: Introduction to commutative algebra and algebraic geometry, Birkhauser\n(1985).\n(f) D.S. Dummit and R.M. Foote: Abstract Algebra (Part V), John Wiley (2003).\n(g) D. Eisenbud: Commutative algebra with a view toward algebraic geometry\nGTM (150), Springer-Verlag (1995).\nE5: Representation Theory of Finite Groups\n• Representation of ﬁnite groups - deﬁnition and examples; symmetric and exte-\nrior powers; group algebra, Maschke’s Theorem, Simple Modules over group\nalgebras.\n• Characters and Orthogonality relations; Fourier analysis on ﬁnite Abelian groups;\nBurnside’s pq theorem. Construction of character tables with examples.\n• Permutation representations; Induced representations; Frobenius reciprocity;\n• Representation theory of symmetric groups – partitions and tableau, Young di-\nagrams and Frobenius character formula (from Fulton-Harris).\n• Time permitting: Brauer’s theorem on induced characters.\nReferences\n22",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 55,
+      "text": "(a) Benjamin Steinberg, Representation theory of ﬁnite groups, Springer (2012).\n(b) E. Kowalski, An Introduction to the Representation Theory of Groups, AMS\n(2014).\n(c) W. Fulton And J. Harris, Representation Theory, A ﬁrst course; GTM 129\nSpringer (1991).\n(d) C.W. Curtis and I. Reiner, Representation Theory of ﬁnite Groups and Associa-\ntive Algebras, Springer.\n(e) J-P Serre, Linear Representations of Finite Groups; GTM 42 Springer (2012).\n(f) N. Jacobson, Basic Algebra II, W.H. Freeman and Co (1985).\nE6: Lie Groups and Lie Algebras\n• Linear Lie groups: the exponential map and the Lie algebra of linear Lie group,\nsome calculus on a linear Lie group, invariant differential operators, ﬁnite di-\nmensional representations of a linear Lie group and its Lie algebra. Examples\nof linear Lie group and their Lie algebras, e.g., Complex groups: GL(n, C),\nSL(n, C), SO(n, C), groups of real matrices in those complex groups: GL(n, R),",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 56,
+      "text": "of linear Lie group and their Lie algebras, e.g., Complex groups: GL(n, C),\nSL(n, C), SO(n, C), groups of real matrices in those complex groups: GL(n, R),\nSL(n, R), SO(n, R), Isometry groups of Hermitian forms SO(m, n), U(m, n),\nSU(m, n). Finite dimensional representations of su(2) and SU(2) and their\nconnection. Exhaustion using the lie algebra su(2). [2 weeks]\n• Lie algebras in general, Nilpotent, solvable, semisimple Lie algebra, ideals,\nKilling form, Lies and Engels theorem. Universal enveloping algebra and Poincare-\nBirkhoff-Witt Theorem (without proof). [6 weeks]\n• Semisimple Lie algebra and structure theory: Deﬁnition of Linear reductive\nand linear semisimple groups. Examples of Linear connected semisimple/ re-\nductive Lie groups along with their Lie algebras (look back at 2 above and\nﬁnd out which are reductive/semisimple). Cartan involution and its differen-\ntial at identity; Cartan decomposition g = k + p, examples of k and p for the",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 57,
+      "text": "ﬁnd out which are reductive/semisimple). Cartan involution and its differen-\ntial at identity; Cartan decomposition g = k + p, examples of k and p for the\ngroups discussed above. Deﬁnition of simple and semisimple Lie algebras and\ntheir relation, Cartans criterion for semisimplicity. Statements and examples of\nGlobal Cartan decomposition, Root space decomposition; Iwasawa decompo-\nsition; Bruhat decomposition. [6 weeks]\n• If time permits, one of the following topics: (i) A brief introduction to Harmonic\nAnalysis on SL(2, R). (ii) Representations of Compact Lie Groups and Weyl\nCharacter Formula. (iii) Representations of Nilpotent Lie Groups.\nReferences\n23",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 58,
+      "text": "(a) J.E. Humphreys: Introduction to Lie algebras and representation theory, GTM\n(9), Springer-Verlag (1972).\n(b) S.C. Bagchi, S. Madan, A. Sitaram and U.B. Tiwari: A ﬁrst course on repre-\nsentation theory and linear Lie groups, University Press (2000).\n(c) Serge Lang: SL(2, R). GTM (105), Springer (1998).\n(d) W. Knapp: Representation theory of semisimple groups. An overview based\non examples, Princeton Mathematical Series (36), Princeton University Press\n(2001).\n(e) B.C. Hall, Lie Groups, Lie Algebras and Representations: An Elementary In-\ntroduction, Springer (Indian reprint 2004).\nE7: Algebraic Geometry\n(Note: For students opting for ‘Algebraic Geometry’, a prior knowledge of ‘Commu-\ntative Algebra’ is desirable.)\n• Topics from: Polynomial rings, Hilbert Basis theorem, Noether normalisation\nlemma, Hilbert Nullstellensatz, Afﬁne and Projective spaces, Afﬁne Schemes,\nElementary dimension theory, Smoothness, Curves, Divisors on curves, Be-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 59,
+      "text": "lemma, Hilbert Nullstellensatz, Afﬁne and Projective spaces, Afﬁne Schemes,\nElementary dimension theory, Smoothness, Curves, Divisors on curves, Be-\nzout’s theorem, Abelian differential, Riemann Roch for curves.\nReferences\n(a) W. Fulton, Algebraic curves. An introduction to algebraic geometry, Addison-\nWesley (1989).\n(b) D.S. Dummit and R.M. Foote, Abstract Algebra (Part V), John Wiley.\n(c) C.G. Gibson, Elementary Geometry of Algebraic Curves, Cambridge.\n(d) I.R. Shafarevich, Basic algebraic geometry, Springer.\n(e) J. Harris, Algebraic geometry. A ﬁrst course, GTM (133), Springer-Verlag\n(1995).\n(f) K. Kendig, Elementary algebraic geometry, GTM (44), Springer-Verlag (1977).\n(g) D. Mumford, The Red Book of Varieties and Schemes, Springer.\n(h) C. Musili, Algebraic geometry for beginners, TRIM (20), HBA (2001).\nE8: Commutative Algebra II\n• Associated Primes. Primary Decomposition. Homomorphisms and Ass M.\nSupp M, Artininan Modules. Modules of Finite Length.\n24",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 60,
+      "text": "• Going-up and Going-Down Theorems. Finiteness of Integral Closure. Krull-\nAkizuki theorem.\n• Dimension Theory: Hilbert Samuel Polynomial. Krull’s Principal Ideal Theo-\nrem. Dimension Theorem.\n• Normalisation Lemma. Hilbert’s Nullstellensatz. Integral Closure of Afﬁne\nDomains.\n• Valuations, Discrete Valuation Rings, Dedekind Domains, Fractional and In-\nvertible Ideals, Ramiﬁcation Formula.\n• Results on Normal and Regular Rings: Local property of Normal Domains,\nNormality and DVR at height one primes, Intersection of DVRs; Jacobian cri-\nterion for regular local rings (of afﬁne algebras).\n• Graded Rings and Modules. Artin-Rees Lemma. I-adic ﬁltrations. Completion.\nExacteness and Flatness properties. Krull’s Intersection Theorem. Hensel’s\nLemma and applications. Weierstrass’s Preparation theorem.\n• Time Permitting:\nA. Homological Characterisation of Regular Local Rings, Regular Local Ring\nis a UFD, Derivations and Modules of Differentials.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 61,
+      "text": "• Time Permitting:\nA. Homological Characterisation of Regular Local Rings, Regular Local Ring\nis a UFD, Derivations and Modules of Differentials.\nB. Cohen-Macaulay rings, Auslander-Buchsbaum-Serre theorem, Gorenstein\nrings and duality.\nReferences\n(a) N.S. Gopalakrishnan, Commutative Algebra, Oxonian Press (1984).\n(b) H. Matsumura, Commutative Algebra, W.A. Benjamin (1970).\n(c) TIFR pamphlet on Homological Methods in Commutative Algebra.\n(d) D. Eisenbud, Commutative algebra with a view toward algebraic geometry,\nGTM (150), Springer-Verlag (1995).\n(e) J.P. Serre, Local Algebra, Springer-Verlag (2000).\n(f) N. Bourbaki, Commutative Algebra, Springer-Verlag (1995).\n(g) M. Reid, Undergraduate Commutative Algebra, LMS Student Texts (29), Cam-\nbridge Univ. Press (1995).\n(h) B. Singh, Basic Commutative Algebra, World Scientiﬁc Publishing Company,\n(2011)\n25",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 62,
+      "text": "E9: Random Measures and Geometry\n[Prerequisite: Probability Theory]\n• Point processes and random measures, Poisson processes, Stationary point pro-\ncesses and random measures. Cox point processes. Mappings, Markings and\nThinning. Mecke equation and Factorial measures. Palm distributions - Slivnyak-\nMecke theorem, Local interpretation. Ergodic theorem. Boolean model, capac-\nity functional and the random geometric graph. Perturbation analysis. Limit\ntheorems in stochastic geometry.\nReferences\n(a) G. Last and M. Penrose: Lectures on the Poisson processes.\n(b) R. Schneider and W. Weil: Stochastic and Integral Geometry.\n(c) F. Baccelli and B. Blaszczyszyn: Stochastic Geometry and Wireless Networks.\nVolume I.\n(d) O. Kallenberg: Random measures and applications.\nE10: Modular Forms\n• Elliptic functions, the Weierstrass ℘-function, Eisenstein series, the modular\ngroup, Fundamental domain for the modular group SL(2, Z).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 63,
+      "text": "E10: Modular Forms\n• Elliptic functions, the Weierstrass ℘-function, Eisenstein series, the modular\ngroup, Fundamental domain for the modular group SL(2, Z).\n• Modular functions and modular forms for the modular group, Fourier expan-\nsion, Cusp forms, the Valence formula, the structure of the space modular\nforms, the j-function, Connection to elliptic curves, Dedekind η-function, Ja-\ncobi’s product formula for the Ramanujan ∆-function.\n• Bounds on the Fourier coefﬁcients of cusp forms, Statement of the Ramanujan\nconjecture, L-function of modular forms, Functional equation.\n• Hecke operators and Petersson inner product.\n• Time permitting: Introduction to modular forms on congruence subgroups, In-\ntroduction to Maass forms etc.\nReferences\n(a) J.-P. Serrre: A Course in Arithmetic.\n(b) N. Koblitz: Elliptic Curves and Modular Forms.\n(c) H. Iwaniec: Topics in Classical Automorphic Forms.\n26",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 64,
+      "text": "E11: Analytic Number Theory\n• Basic theory of multiplicative functions, Dirichlet convolutions, sums of multi-\nplicative functions, Euler-Maclaurin summation formula, Dirichlet’s hyperbola\nmethod, the Perron formula and Mellin inversion formula, Poisson summation\nformula.\n• The Riemman zeta function, analytic continuation, the functional equation,\nnon-vanishing on the line ℜs = 1, the zero-free region, the Prime Number\nTheorem.\n• Dirichlet characters and Dirichlet L-functions, the functional equation, non-\nvanishing on the line ℜs = 1, Dirichlet’s theorem on primes in arithmetic pro-\ngression, zero-free region, the exceptional zero and the theorems of Landau and\nSiegel.\n• Time permitting: Introduction to sieve methods, character sums, subconvex\nbounds of L-functions etc.\nReferences\n(a) H. Davenport: Multiplicative Number Theory.\n(b) T. Apostol: Analytic Number Theory.\n(c) H. Iwaniec and E. Kowalski: Analytic Number Theory.\nE12: Sieve Methods",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 65,
+      "text": "References\n(a) H. Davenport: Multiplicative Number Theory.\n(b) T. Apostol: Analytic Number Theory.\n(c) H. Iwaniec and E. Kowalski: Analytic Number Theory.\nE12: Sieve Methods\n• The sieve of Eratosthenes-Legendre, the set-up of the sieve problem.\n• Brun’s pure sieve, The combinatorial sieve, Buchstab iterations, the fundamen-\ntal lemma of sieve theory, applications to the Titchmarsh divisor problem Sel-\nberg sieve and applications.\n• The large sieve and its applications.\n• Time permitting: Bombieri-Vinogradov Theorem, Gaps between primes etc.\nReferences\n(a) H. Halberstam and H.E. Richert: Sieve Methods.\n(b) J. Friedlander and H. Iwaniec: Opera de Cribro.\nE13: Riemann Surfaces\n27",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 66,
+      "text": "• Deﬁnition of Riemann surfaces, holomorphic functions on Riemann surfaces,\nholomorphic maps between Riemann surfaces. Uniqueness principle. Local\nform of nonconstant holomorphic maps, local degree, open mapping theorem,\nmaximum modulus principle. Meromorphic functions on Riemann surfaces,\nﬁeld of meromorphic functions. Covering surfaces. Statement of Uniformiza-\ntion Theorem. Automorphism groups of the Riemann sphere, the unit disk and\nthe complex plane. Classiﬁcation of Riemann surfaces with abelian fundamen-\ntal group. Sheaf of holomorphic functions on a Riemann surface, germs of\nholomorphic functions, analytic continuation, Monodromy theorem. Branched\ncoverings of Riemann surfaces induce ﬁnite extensions of function ﬁelds. Exis-\ntence and uniqueness of the branched covering associated to a ﬁnite extension\nof function ﬁelds. Algebraic curves in the complex projective plane. Normal-\nization theorem for algebraic curves. Isomorphism of group of deck transfor-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 67,
+      "text": "of function ﬁelds. Algebraic curves in the complex projective plane. Normal-\nization theorem for algebraic curves. Isomorphism of group of deck transfor-\nmations of a branched covering and Galois group of corresponding extension of\nfunction ﬁelds. Riemann-Hurwitz formula and application to computing genus.\nAlmost complex structure, Hodge star operator, d-bar operator on a Riemann\nsurface. Harmonic, holomorphic and meromorphic 1-forms on a Riemann sur-\nface, residues and Residue theorem. Hilbert space of square integrable 1-forms\non a Riemann surface. Exact, co-exact and harmonic 1-forms. Weyl’s lemma\non harmonic functions. Hodge theorem for compact Riemann surfaces of genus\ng. Riemann bilinear relations for differentials of the 1st kind, period matrix, Ja-\ncobian variety, Abel-Jacobi map. Construction of harmonic and meromorphic\n1-forms on Riemann surfaces with prescribed singularities. Riemann existence\ntheorem. Mittag-Lefﬂer problem for ﬁnding meromorphic functions and mero-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 68,
+      "text": "1-forms on Riemann surfaces with prescribed singularities. Riemann existence\ntheorem. Mittag-Lefﬂer problem for ﬁnding meromorphic functions and mero-\nmorphic 1-forms with prescribed singular parts. Divisors on a Riemann surface.\nSerre duality. Riemann-Roch theorem. Uniformization of genus zero and genus\none surfaces. Algebraicity of compact Riemann surfaces. Compact Riemann\nsurfaces are determined by function ﬁelds. Abel-Jacobi map embedding. Abel’s\ntheorem. Jacobi inversion theorem.\n• If time permits: Belyi’s theorem.\nReferences\n(a) Forster: Riemman surfaces.\n(b) Farkas and Kra: Riemann surfaces.\nE14: Several Complex Variables\n28",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 69,
+      "text": "• d-bar operator on C, solution of d-bar equation for smooth data with compact\nsupport in C. Harmonic functions in C, harmonic conjugates, mean-value prop-\nerty, Poisson kernel and solution of the Dirichlet problem for the unit disc.\nSubharmonic functions in C, maximum principle, various properties of sub-\nharmonic functions. Approximating subharmonic functions by smooth subhar-\nmonic functions. Deﬁnition of holomorphic functions and mappings of several\ncomplex variables. dbar operators in Cn. Power series in several complex vari-\nables. Cauchy integral formula for holomorphic functions on a polydisc, local\npower series representation. Uniqueness principle. d-bar equation on Cn: 1-\nforms, (1, 0)-forms and (0, 1)-forms. Solution of the d-bar equation for smooth\ndata with compact support in Cn, application to proving Hartogs phenomenon.\nDomains of convergence of power series, Reinhardt domains, logarithmically\nconvex domains. Convergence of Taylor series on Reinhardt domains. Convex-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 70,
+      "text": "Domains of convergence of power series, Reinhardt domains, logarithmically\nconvex domains. Convergence of Taylor series on Reinhardt domains. Convex-\nity with respect to a family of functions. Convex domains in Rn, convex ex-\nhaustion functions, deﬁning functions for strongly convex domains, continuity\nprinciple for convex domains. Deﬁnitions and basic properties of plurisubhar-\nmonic functions in Cn. Deﬁnition of pseudoconvex domains in Cn. Various\nequivalent characterizations of pseudoconvexity. The Levi form and Levi pseu-\ndoconvexity for domains with C2-boundary, equivalence with pseudoconvexity.\nDeﬁning functions for strictly Levi pseudoconvex domains. Holomorphic con-\nvexity. Domains of holomorphy. Domain holomorphically convex if and only if\nit is a domain of holomorphy. Domains of holomorphy are pseudoconvex. Hor-\nmander’s solution of the d-bar equation on pseudoconvex domains. Unbounded\noperators on Hilbert spaces, adjoints, closed operators. Weak partial deriva-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 71,
+      "text": "mander’s solution of the d-bar equation on pseudoconvex domains. Unbounded\noperators on Hilbert spaces, adjoints, closed operators. Weak partial deriva-\ntives of locally integrable functions on Rn. d-bar operators on functions and\n1-forms. Weighted L2-spaces of functions, (0, 1)-forms and (0, 2)-forms. Ab-\nstract criterion for existence of weak solutions to d-bar problem. Approxima-\ntion in the graph norm of L2(0, 1)-forms by smooth (0, 1)-forms with compact\nsupport. Existence of weak[’6cf solutions to d-bar problem on pseudoconvex\ndomains. Sobolev spaces, Sobolev embedding, and regularity of solutions to\ndbar problem on pseudoconvex domains. Solution of the Levi Problem: any\npseudoconvex domain is a domain of holomorphy.\nReferences\n(a) Hormander: An Introduction to Complex Analysis in Several Variables.\n(b) Krantz: Function Theory of Several Complex Variables.\nE15: Quasiconformal mappings and Teichmuller theory\n29",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 72,
+      "text": "• Boundary behaviour of conformal mappings, Caratheodory’s theorem (bound-\nary locally connected if and only if the Riemann mapping extends continuously\nto the boundary). Conformal mapping between Jordan domains extends to a\nhomeomorphism between closures. Deﬁnition of C1 quasi-conformal mapping.\nSolution of Grotzsch problem on quasi-conformal mapping between two rect-\nangles with minimum dilatation. Modulus of a quadrilateral in C. Extremal\nlen.gth of a path family in C. Basic properties of extremal length. Calcula-\ntion of extremal length for examples of path families in rectangles and annuli.\nQuasi-invariance of extremal length /un+der quasi-conformal mappings. Ge-\nometric deﬁnition of quasi-conformal mappings in terms of moduli of quadri-\nlaterals. 1-quasi-conformal mappings are conformal. Analytic deﬁnition of\nquasi-conformal mappings in terms of absolute continuity on lines and weak\nderivatives. Equivalence of geometric and analytic deﬁnitions. Equicontinu-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 73,
+      "text": "quasi-conformal mappings in terms of absolute continuity on lines and weak\nderivatives. Equivalence of geometric and analytic deﬁnitions. Equicontinu-\nity of uniformly quasi-conformal mappings. Convergence of quasi-conformal\nmappings. Solution of the Beltrami equation on the Riemann sphere. Deﬁnition\nof Teichmuller space of a Riemann surface, and Teichmuller metric. Existence\nof extremal mapping with minimum dilatation in a ﬁxed homotopy class. Com-\npleteness of Tecihmuller metric. Teichmuller space of a complex torus is the\nhyperbolic plane. Holomorphic quadratic differentials on Riemann surfaces,\nnatural parameters, associated ﬂat metric and area form. Teichmuller map-\npings. Teichmuller’s Uniqueness theorem: a Teichmuller mapping is uniquely\nextremal in its homotopy class. Teichmuller’s homeomorphism from unit ball\nof holomorphic quadratic differentials to Teichmuller space. Fricke-Klein co-\nordinates on Teichmuller space. Teichmuller’s Existence theorem: each homo-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 74,
+      "text": "of holomorphic quadratic differentials to Teichmuller space. Fricke-Klein co-\nordinates on Teichmuller space. Teichmuller’s Existence theorem: each homo-\ntopy class contains a Teichmuller mapping. Teichmuller space homeomorphic\nto a cell of dimension 6g −6. The Schwarzian derivative, the Bers embedding\nand the complex structure on Teichmuller space.\nReferences\n(a) Ahlfors: Lectures on Quasiconformal Mappings.\n(b) Lehto-Virtanen: Quasiconformal mappings in the plane.\n(c) Imayoshi-Taniguchi: An Introduction to Teichmuller Spaces.\nE16: Dynamical Systems\n• Deﬁnition of dynamical systems and examples. Circle rotations. Expanding\nendomorphisms of the circle. Shifts and subshifts. Quadratic maps. Hyperbolic\ntoral automorphisms. The horseshoe. The solenoid. Flows and differential\n30",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 75,
+      "text": "equations. Suspension and cross-section. Chaos and Lyapunov exponents. At-\ntractors. Limit sets and recurrence. Topological transitivity. Topological mix-\ning. Expansiveness. Topological entropy, deﬁnition and calculation for some\nexamples. Equicontinuity, distality and proximality. Measure preserving trans-\nformations and Poincarre recurrence theorem. Ergodicity and mixing. Invari-\nant measures for continuous maps. Ergodic theorems. Unique ergodicity and\nWeyl’s theorem. Weak mixing. Hyperbolic dynamics. Hyperbolic sets, stable\nand unstable subspaces. Pseudo-orbits and Anosov shadowing theorem. Hy-\nperbolicity in terms of invariant cones. Stability of hyperbolic sets. Structural\nstability of Anosov diffeomorphisms. Graph transform and Hadamard-Perron\ntheorem. Existence of local stable and unstable manifolds. Local product struc-\nture. Density of periodic points for Anosov diffeomorphisms. Density of stable\nand unstable manifolds, topological mixing of Anosov diffeomorphisms. Cir-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 76,
+      "text": "ture. Density of periodic points for Anosov diffeomorphisms. Density of stable\nand unstable manifolds, topological mixing of Anosov diffeomorphisms. Cir-\ncle homeomorphisms, rotation number. Poincare classiﬁcation of circle homeo-\nmorphisms. Denjoy’s theorem on conjugacy to irrational rotation for C2 circle\ndiffeomorphisms. Complex dynamics. Fatou and Julia sets of rational maps.\nLocal linearization near attracting ﬁxed points, Bocher coordinates near super-\nattracting ﬁxed points. Finiteness of attracting and superattracting periodic or-\nbits. Density of repelling periodic points in the Julia set. Backward iterates of\npoints in the Julia set dense in the Julia set. Totally invariant components in the\nFatou set. Hyperbolic rational maps and totally disconnected Julia sets.\nReferences\n(a) Garrett Stuck and Michael Brin: Introduction to Dynamical Systems.\n(b) Anatole Katok and Boris Hasselblatt: Introduction to the Modern Theory of\nDynamical Systems.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 77,
+      "text": "References\n(a) Garrett Stuck and Michael Brin: Introduction to Dynamical Systems.\n(b) Anatole Katok and Boris Hasselblatt: Introduction to the Modern Theory of\nDynamical Systems.\n(c) John Willard Milnor: Dynamics in One Complex Variable.\nE17: C∗algebraic K-theory\n[Prerequisites: At least one course among Operator algebras, Basics of C∗-algebras,\nAdvanced Functional Analysis]\n• Homotopy classes of unitary elements, equivalence of projections, semigroup\nof projections, the K0 group of a C∗-algebra and its functorial properties, half\nexactness, split exactness and stability of K0, ordered K-theory, (deﬁnitions\nand a few easy computations only), K1 group and its functorial properties, K1\nand determinants, The index map, higher K groups, the long exact sequence\n31",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 78,
+      "text": "in K theory (statement with examples), Bott periodicity and its applications\n(sketch of proof if time permits), statement (without proof) and some easy appli-\ncations of the Connes-Thom isomorphism and the Pimsner-Voiculescu 6-term\nexact sequence.\nReferences\n(a) N E Wegge-Olsen: K theory and C∗-algebras: A Friendly Approach.\n(b) M. Rørdam, F. Larsen, N. Laustsen: An Introduction to K-theory for C∗-\nAlgebras.\n(c) Bruce Blackadar: K theory for Operator Algebras.\nE18: Algebra III\n• Modules over noncommutative rings: Noetherian and Artinian rings and mod-\nules. Modules of ﬁnite length. Krull-Schmidt theorem.\n• Tensor product of modules and algebras: deﬁnitions, basic properties, right\nexactness, change of base.\n• Semisimple rings and modules; Wedderburn-Artin theory.\n• Nilradical and Jacobson radical; NAK lemma; Jacobson radical of an Artinian\nring is nilpotent; Ring semi-simple if and only if Artinian with trivial radical;\nArtinian ring is Noetherian.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 79,
+      "text": "• Nilradical and Jacobson radical; NAK lemma; Jacobson radical of an Artinian\nring is nilpotent; Ring semi-simple if and only if Artinian with trivial radical;\nArtinian ring is Noetherian.\n• Central simple algebras; Skolem-Noether theorem (from Lam’s Noncommuta-\ntive rings).\n• Time permitting: Introduction to Quadratic forms; Witt’s theorem; Clifford al-\ngebras (from Lam’s Quadratic forms).\nReferences\n(a) T.Y. Lam, A First Course in Noncommutative Rings, Springer.\n(b) T.Y. Lam, Introduction to Quadratic Forms, AMS.\n(c) T. Hungerford, Algebra, Springer.\n(d) P.M. Cohn, Further Algebra and Applications, Springer.\n(e) S. Lang, Algebra, Springer.\n(f) D.S. Dummit and R.M. Foote, Abstract Algebra (Part VI), John Wiley.\n(g) TIFR notes on Semisimple rings and modules.\n32",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 80,
+      "text": "(h) N. Jacobson, Basic Algebra II, W.H. Freeman and Co (1985).\nE19: Topics in Discrete Probability\n• Review of discrete probability, First and Second Moment methods, Chernoff\nbounds and some applications.\n• Percolation on lattices: Phase-transition phenomena, subcritical and supercriti-\ncal phases, Uniqueness.\n• Random graphs: Phase transition, Inﬂuences, Russo’s formula and Sharp thresh-\nolds. Noise Sensitivity and Stability.\n• Introduction to Markov chains and Martingales. Branching processes. Random\nwalks and electrical networks, Uniform spanning trees.\nReferences\n(a) C. Garban and J. Steif: Noise Sensitivity of Boolean Functions and Percolation.\n(b) N. Lanchier: Stochastic Modelling.\n(c) Sebastien Roch: Modern Discrete Probability: A toolkit. (Notes).\n(d) R. Lyons and Y. Peres: Probability on trees and networks.\n(e) M. Barlow: Random walks and heat kernel on Graphs.\nE20: Topics in Gaussian Processes [Prerequisites: Probability theory (C12)]",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 81,
+      "text": "(d) R. Lyons and Y. Peres: Probability on trees and networks.\n(e) M. Barlow: Random walks and heat kernel on Graphs.\nE20: Topics in Gaussian Processes [Prerequisites: Probability theory (C12)]\n(Note: It is recommended to do Brownian motion and diffusions (E51) in parallel.)\n• Review of Gaussian random variables. Slepian and Sudakov-Fernique inequali-\nties. Variance bounds, Poincare inequality, Isoperimetric inequality, Log-sobolev\ninequality, Concentration and transport inequalities. Maxima of Gaussian pro-\ncesses. Majorizing measures and Generic chaining. Excursion probabilities.\nHypercontractivity.\n• Additional Topics (depending on time and audience interest): Geometry of\nGaussian random ﬁelds. Stein’s method. Introduction to Malliavin calculus.\nReferences\n(a) Ramon van Handel: Probability in high dimensions: Notes\n(b) Manjunath Krishnapur’s course on Gaussian processes: Notes\n(c) R. J. Adler: Introduction to continuity, extrema and related topics for general\nGaussian processes.\n33",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 82,
+      "text": "(d) R.J. Adler and J. E. Taylor: Random ﬁelds and Geometry.\n(e) M. Talagrand: Upper and lower bounds for stochastic processes.\nE21: Analysis on Graphs\n• Review of Matrices and Graphs. Incidence matrix, Adjacency matrix and Laplace\nmatrix of a graph. The Laplace operator on graphs. Random walks on graphs.\nDirichlet Problem. Spectral properties. Eigenvalues and mixing time. Cheeger’s\ninequality. Eigenvalues on inﬁnite graphs. Estimates of the heat kernel. Carne-\nVaropoulous bound.\nReferences\n(a) R. B. Bapat: Graphs and Matrices.\n(b) A. Grigor’yan.: Introduction to Analysis on Graphs.\n(c) M. T. Barlow: Random Walks and Heat Kernel on Graphs.\n(d) R. Lyons and Y. Peres: Probability on trees and networks.\nE22: Algebraic Graph Theory\n• Graph homomorphisms and automorphisms, Permutation groups (Orbits, prim-\nitivity and connectivity), Transitive graphs, Graphs and their spectra (adjacency\nalgebra and spectrum of a graph, Perron-Frobenius theory, interlacing proper-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 83,
+      "text": "itivity and connectivity), Transitive graphs, Graphs and their spectra (adjacency\nalgebra and spectrum of a graph, Perron-Frobenius theory, interlacing proper-\nties, invariant subspaces of an adjacency algebra), Cuts and Flows, Strongly\nregular graphs, Rank Polynomial and matroids.\nReferences\n(a) R. B. Bapat: Graphs and Matrices.\n(b) N.L. Biggs, Algebraic Graph Theory.\n(c) C. Godsil and G. Royle: Algebraic Graph Theory.\nE23: Advanced Number Theory\n• Review of ﬁnite ﬁelds; polynomial equations over ﬁnite ﬁelds: theorems of\nChevalley and Warning; Quadratic Forms over prime ﬁelds.\n• Review of the law of quadratic reciprocity.\n• The ring of p-adic integers; the ﬁeld of p-adic numbers; completion; p-adic\nequations and Hensel’s lemma; Quadratic Forms with p-adic coefﬁcients. Hilbert’s\nsymbol.\n34",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 84,
+      "text": "• Dirichlet series: abscissa of convergence and absolute convergence.\n• Riemann Zeta function and Dirichlet L-functions. Dirichlet’s theorem on primes\nin arithmetic progression. Functional equation and Euler product for L-functions.\n• Modular forms and the modular group SL(2, R). Eisenstein series. Zeros and\npoles of modular functions. Dimensions of the spaces of modular forms. The\nj-invariant and Picard’s Theorem. L-function and Ramanujan’s τ-function.\nReferences\n(a) J.P. Serre: A Course in Arithmetic, Springer-Verlag (1973).\n(b) Z. Borevich and I. Shafarevich: Number Theory (chapter 1).\n(c) K. Chandrasekharan: Introduction to Analytic Number Theory, Springer-Verlag\n(1968).\nE24: Algebraic Number Theory\n(Note: A priori knowledge of “Commutative Algebra” is desirable.)\n• Algebraic numbers and algebraic integers; Brief review of integral extensions;\nNorm, trace and discriminant; Existence of integral basis. Dedekind domains,",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 85,
+      "text": "• Algebraic numbers and algebraic integers; Brief review of integral extensions;\nNorm, trace and discriminant; Existence of integral basis. Dedekind domains,\nideal class group. Minkowsky theory, ﬁniteness of class group. Dirichlet unit\ntheorem. Factoring of prime ideals on extensions, fundamental identity; Quadratic\nnumber ﬁelds (computation of class numbers, prime decomposition, Pell’s equa-\ntions). Hilbert’s ramiﬁcation theory (decomposition and inertia groups); Cyclo-\ntomic ﬁelds. Valuations, completions, local ﬁelds.\nReferences\n(a) G.J. Janusz: Algebraic Number Fields, (chapter 1-4), AMS (1996).\n(b) D.A. Marcus: Number Fields, Springer-Verlag (1977).\n(c) J. Neukirch: Algebraic Number Theory, Springer (1999).\n(d) P. Ribenboim: Classical Theory of Algebraic Numbers, Springer Science and\nBusiness Media (2001).\n(e) J. Esmonde and M. Ram Murty: Problems in Algebraic Number Theory, Springer\n(Indian reprint 2006).\n(f) TIFR pamphlet on Algebraic Number Theory.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 86,
+      "text": "Business Media (2001).\n(e) J. Esmonde and M. Ram Murty: Problems in Algebraic Number Theory, Springer\n(Indian reprint 2006).\n(f) TIFR pamphlet on Algebraic Number Theory.\nE25: Advanced Functional Analysis\n35",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 87,
+      "text": "• Brief introduction to topological vector spaces (TVS) and locally convex TVS.\nLinear Operators. Uniform Boundedness Principle. Geometric Hahn-Banach\ntheorem and applications (Markov-Kakutani ﬁxed point theorem, Haar Measure\non locally compact abelian groups, Liapounovs theorem). Extreme points and\nKrein-Milman theorem.\n• In addition, one of the following topics:\n(a) Geometry of Banach spaces: vector measures, Radon-Nikodym Property\nand geometric equivalents. Choquet theory. Weak compactness and Eberlein-\nSmulian Theorem. Schauder Basis.\n(b) Banach algebras, spectral radius, maximal ideal space, Gelfand transform.\n(c) Unbounded operators, Domains, Graphs, Adjoints, spectral theorem.\nReferences\n(a) N. Dunford and J. T. Schwartz, Linear operators. Part II: Spectral theory. Self\nadjoint operators in Hilbert space, Interscience Publishers, John Wiley (1963).\n(b) Walter Rudin, Functional analysis, Second edition, International Series in Pure\nand Applied Mathematics. McGraw-Hill (1991).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 88,
+      "text": "(b) Walter Rudin, Functional analysis, Second edition, International Series in Pure\nand Applied Mathematics. McGraw-Hill (1991).\n(c) K. Yosida, Functional analysis, Springer (Indian reprint 2004).\n(d) J. Diestel and J. J. Uhl, Jr., Vector measures, Mathematical Surveys (15), AMS\n(1977).\nE26: Operator Algebras\n• Deﬁnition and examples of Banach and C∗algebras, Gelfand theory for abelian\nBanach and C∗algebras, Spectral theorem for bounded normal operators on a\nHilbert spaces.\n• General noncommutative C∗algebras: basic properties, Positive elements and\nstates, GNS theorem, ideals and quotients of C∗algebras, C∗algebra of com-\npact operators.\n• Deﬁnition of examples of von Neumann algebras, the double commutant the-\norem and Kaplansky density theorem, abelian von Neumann algebras and the\nL∞-functional calculus.\n• Time permitting: discussion on some concrete examples like AF algebras, group\nC∗algebras for discrete countable groups, Cuntz algebras, noncommutative tori\netc.\n36",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 89,
+      "text": "References\n(a) C∗Algebras by Examples, K R Davidson;\n(b) Functional A Course in Functional Analysis, J B Conway\n(c) C∗Algebra and Operator Theory, G. J. Murphy\n(d) Fundamentals of the theory of operator algebras, volume I and II, R.V. Kadison\nand J. R. Ringrose\nE27: Unbounded Operators\n• Review of bounded operators on Hilbert spaces and spectral theorem for com-\npact normal operators.\n• 2) Deﬁnition and examples of Banach and C∗algebras, Gelfand theory for\nabelian Banach and C∗algebras, Spectral theorem for bounded normal oper-\nators on a Hilbert spaces.\n• Unbounded operators: deﬁnition and examples; densely deﬁned, closable and\nclosed operators; graph of an unbounded operators; basic results involving these\nproperties.\n• Symmetric, self-adjoint and normal operators; Caley transform; spectral the-\norems for unbounded self adjoint and unbounded normal operators; examples\nand applications.\nReferences\n(a) Functional Analysis; W. Rudin\nE28: Advanced Linear Algebra",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 90,
+      "text": "orems for unbounded self adjoint and unbounded normal operators; examples\nand applications.\nReferences\n(a) Functional Analysis; W. Rudin\nE28: Advanced Linear Algebra\n• Majorization and doubly stochastic matrices. Matrix Decomposition Theorems\n(Polar, QR, LR, SVD etc.) and their applications. Perturbation Theory.\n• Nonnegative matrices and their applications. Wavelets and the Fast Fourier\nTransform. Basic ideas of matrix computations.\nReferences\n(a) R. Bhatia, Matrix Analysis, GTM (169), Springer (Indian reprint 2004).\nE29: Markov Chains\n37",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 91,
+      "text": "• Finite State Markov Chains. Examples, Classiﬁcation of States, Stationary Dis-\ntribution.\n• Random walk on Finite Groups. Connection to electrical networks. Recurrence\nand Transience of Random walks.\n• Branching chain, progeny distribution and progeny generating function, extinc-\ntion probability, geometric growth in the super-critical case.\n• Rates of convergence to stationarity, Dirichlet Form and Spectral gap methods,\nSome Coupling methods with applications, Cheeger’s inequality.\n• Poisson Processes, Continuous time Markov Chains, Birth-and-death processes.\nReferences\n(a) S. M. Ross, Stochastic processes, John Wiley (1996).\n(b) R. N. Bhattacharya and E. C. Waymire, Stochastic processes with applications.\n(c) E. Gine, R. Grimmett and L. Saloff-Coste, Lectures on probability theory and\nstatistics, Springer-Verlag (1997).\n(d) L. Levine, Y. Peres and E. Wilmer: Markov Chains and Mixing times.\n(e) D. Aldous and J. A. Fill: Reversible Markov Chains and Random Walk on\nGraphs.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 92,
+      "text": "statistics, Springer-Verlag (1997).\n(d) L. Levine, Y. Peres and E. Wilmer: Markov Chains and Mixing times.\n(e) D. Aldous and J. A. Fill: Reversible Markov Chains and Random Walk on\nGraphs.\nE30: Ergodic Theory\n• Measure preserving systems; examples. Hamiltonian dynamics and Liouville’s\ntheorem, Bernoulli shifts, Markov shifts, Rotations of the circle, Rotations of\nthe torus, Automorphisms of the Torus, Gauss transformations, Skew-product.\n• Poincare Recurrence lemma. Induced transformation: Kakutani towers: Rokhlin’s\nlemma. Recurrence in Topological Dynamics, Birkhoff’s Recurrence theorem.\n• Ergodicity, Weak-mixing and strong-mixing and their characterisations. Er-\ngodic theorems of Birkhoff and Von Neumann. Consequences of the ergodic\ntheorems.\nInvariant measures on compact systems.\nUnique ergodicity and\nequidistribution. Weyl’s theorem.\n• Isomorphism problem; conjugacy, spectral equivalence.\n• Transformations with discrete spectrum, Halmos von Neumann theorem.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 93,
+      "text": "Unique ergodicity and\nequidistribution. Weyl’s theorem.\n• Isomorphism problem; conjugacy, spectral equivalence.\n• Transformations with discrete spectrum, Halmos von Neumann theorem.\n• Entropy. The Kolmogorov-Sinai theorem. Calculation of Entropy. Shannon-\nMcMillan-Breiman Theorem.\n38",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 94,
+      "text": "• Flows. Birkhoff’s Ergodic Theorem and Wiener’s Ergodic Theorem for ﬂows.\nFlows built under a function.\nReferences\n(a) Peter Walters, An introduction to Ergodic Theory, GTM (79), Springer (Indian\nreprint 2005).\n(b) Patrick Billingsley, Ergodic theory and information, Robert E. Krieger Publish-\ning Co. (1978).\n(c) M. G. Nadkarni, Basic ergodic theory, TRIM 6, Hindustan Book Agency (1995).\n(d) H. Furstenberg, Recurrence in ergodic theory and combinatorial number theory,\nPrinceton University Press (1981).\n(e) K. Petersen, Ergodic theory, Cambridge Studies in Advanced Mathematics (2),\nCambridge University Press (1989).\nE31: Topology III\n• CW-complexes, cellular homology, comparison with singular theory, compu-\ntation of homology of projective spaces.\n• Deﬁnition of singular cohomology, axiomatic properties, statement of universal\ncoefﬁcient theorem for cohomology. Betti numbers and Euler characterisitic.\nCup and cap product, Poincare duality. Cross product and statement of Kunneth",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          43
+        ],
+        "start_page": 43,
+        "end_page": 43
+      }
+    },
+    {
+      "chunk_id": 95,
+      "text": "coefﬁcient theorem for cohomology. Betti numbers and Euler characterisitic.\nCup and cap product, Poincare duality. Cross product and statement of Kunneth\ntheorem. Degree of maps with applications to spheres.\n• Deﬁnition of higher homotopy groups, homotopy exact sequence of a pair. Def-\ninition of ﬁbration, examples of ﬁbrations, homotopy exact sequence of a ﬁbra-\ntion, its application to computation of homotopy groups. Hurewicz homomor-\nphism, The Hurewicz theorem. The Whitehead Theorem.\nReferences\n(a) A. Hatcher, Algebraic Topology, Cambridge University Press (2002).\n(b) M. J. Greenberg and J.R. Harper, Algebraic topology: A First Course, Ben-\njamin/Cummings (1981).\n(c) E. Spanier, Algebraic Topology, Springer-Verlag (1982).\n(d) J.W. Vick, Homology Theory: an introduction to algebraic topology, Springer\n(1994).\n(e) J. R. Munkres, Elements of algebraic topology, Addison-Wesley (1984).\n39",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          43
+        ],
+        "start_page": 43,
+        "end_page": 43
+      }
+    },
+    {
+      "chunk_id": 96,
+      "text": "(f) G.E. Bredon, Topology and Geometry, Springer (Indian reprint 2005).\nE32: Topology IV\n[Prerequisite: Differential Geometry I]\n• Smooth manifolds, differential forms on manifolds, integration on manifolds,\nStoke’s theorem, computation of cohomology rings of projective spaces, Borsuk-\nUlam theorem.\n• Degree, linking number and index of vector ﬁelds, the Poincare-Hopf theorem.\n• Deﬁnition and examples of principal bundles and ﬁbre bundles, clutching con-\nstruction, description of classiﬁcation theorem (without proof).\nReferences\n(a) R. Bott and L. W. Tu, Differential forms in algebraic topology, GTM (82),\nSpringer-Verlag (1982).\n(b) Ib H. Madsen and J. Tornehave, From Calculus to Cohomology: De Rham\nCohomology and Characteristic Classes, Cambridge Univ Press (1997).\n(c) F. W. Warner,t Foundations of differentiable manifolds and Lie groups, GTM\n(94), Springer-Verlag (1983).\n(d) D. Husemoller, Fibre Bundles, Springer-Verlag (1993).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          44
+        ],
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    {
+      "chunk_id": 97,
+      "text": "(c) F. W. Warner,t Foundations of differentiable manifolds and Lie groups, GTM\n(94), Springer-Verlag (1983).\n(d) D. Husemoller, Fibre Bundles, Springer-Verlag (1993).\n(e) N. Steenrod, The Topology of Fibre Bundles, Princeton Univ Press (1999)\nE33: Differential Geometry II\n[Prerequisite: Differential Geometry I]\n• A quick review of tensors, alternating forms, manifolds, immersion, submer-\nsion and submanifolds.\n• Tangent bundle, vector bundles, vector ﬁelds, ﬂows and the fundamental theo-\nrem of ODE. Riemann metrics, Riemannian connection on Riemannian mani-\nfolds. Parallel transport, geodesics and geodesic completeness, the theorem of\nHopf-Rinow.\n• Time permitting: Gauss-Bonnet theorem.\nReferences\n(a) F. W. Warner, Foundations of differentiable manifolds\nand Lie groups, GTM (94), Springer-Verlag (1983).\n40",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          44
+        ],
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    {
+      "chunk_id": 98,
+      "text": "(b) S. Helgason, Differential geometry, Lie groups, and symmetric space, Graduate\nStudies in Mathematics (34), AMS (2001).\n(c) W.M. Boothby, An Introduction to Differentiable Manifolds and Riemannian\nGeometry, Academic Press (1975); Elsevier (2008).\n(d) J.M. Lee, Riemannian Manifolds: An Introduction to Curvature, GTM (176),\nSpringer (1997).\nE34: Elliptic Curves\n[Prerequisites: algebraic number theory (could be simultaneous), algebraic geometry\n(could be simultaneous)]\n• Algebraic curves, divisors, Riemann-Roch theorem.\n• Deﬁnition of elliptic curves, Weierstrass form, isogeny, Tate module, Weil pair-\ning, Endomorphism ring.\n• Elliptic functions and integrals, Elliptic curves over complex numbers, Uni-\nformization.\n• Elliptic curves over ﬁnite ﬁelds, Weil conjectures, Hasse invariant.\n• Elliptic curves over local ﬁelds, Minimal Weierstrass equation, Torsion, Good\nand bad reduction and Neron-Ogg-Shafarevich criterion for good reduction.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          45
+        ],
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "chunk_id": 99,
+      "text": "• Elliptic curves over local ﬁelds, Minimal Weierstrass equation, Torsion, Good\nand bad reduction and Neron-Ogg-Shafarevich criterion for good reduction.\n• Elliptic curves over global ﬁelds, weak Mordell-Weil, Kummer pairing, Mordell-\nWeil theorem over Q.\n• If time permits: Heights on projective spaces and elliptic curves and Mordell-\nWeil theorem; Nagell-Lutz theorem.\nReferences\n(a) J. Silverman, Arithmetic of elliptic curves (chapters 2,3,5,6,7 and sections 8.1\nto 8.4), GTM 106, Springer-Verlag (1986).\n(b) N. Koblitz, Elliptic Curves and Modular Forms, GTM 97, Springer-Verlag\n1984.\n(c) J.W.S. Cassels, Lectures on Elliptic Curves, Cambridge Uni Press 1991.\n(d) D. Husemoller, Elliptic Curves, Springer Science and Business Media, Vol.111,\n1987.\nE35: Convex Geometry\n41",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          45
+        ],
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "chunk_id": 100,
+      "text": "• Geometric foundations: combinatorial properties, support and separation theo-\nrems, extremal representations.\n• Convex functions.\n• The Brunn-Minkowski Theory: basic functionals of convex bodies, mixed vol-\numes, geometric (isoperimetric) inequalities.\n• Surface area measures and projection functions.\n• Integral geometric formulas.\nReferences\n(a) P. Gruber. Convex and Discrete Geometry.\n(b) R. Schneider. Convex Bodies: the Brunn-Minkowski theory.\n(c) D. Hug and W. Weil: Lectures in Convex Geometry.\nE36: Linear Algebraic Groups\n[Prerequisites: Commutative Algebra, Lie Algebras (could be simultaneous), Alge-\nbraic Geometry (could be simultaneous)]\n• Review of background commutative algebra and algebraic geometry (as in chap-\nter 1 of Humphreys’s book or chapter 1 of Springer’s book). Deﬁnition of afﬁne\nalgebraic groups and homomorphisms over algebraically closed ﬁelds, exam-\nples.\n• Orbit-closures under actions, linearity of afﬁne groups. Lie algebra of an al-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 101,
+      "text": "algebraic groups and homomorphisms over algebraically closed ﬁelds, exam-\nples.\n• Orbit-closures under actions, linearity of afﬁne groups. Lie algebra of an al-\ngebraic group and adjoint representation. Homogeneous spaces and quotients,\nChevalley’s theorem. Correspondence between groups and Lie algebras. Jordan\ndecomposition, Commutative linear algebraic groups, diagonalizable groups\nand algebraic tori. Deﬁnition of weights and roots, Weyl group. Unipotent\ngroups, Lie-Kolchin theorem, Structure theorem for connected solvable groups.\nDeﬁnition of reductive and semisimple groups, Borel subgroups, parabolic sub-\ngroups. Basic facts on complete varieties, Borel’s ﬁxed point theorem. Con-\njugacy of maximal tori, Nilpotency of Cartan subgroups.\nDensity theorem\nand connectedness of centralizers of tori. Normalizer theorem for parabolic\nsubgroups. Regular and singular tori, Structure theorem for groups of semi-\nsimple rank one. Structure theorem for reductive groups, Bruhat decomposi-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 102,
+      "text": "subgroups. Regular and singular tori, Structure theorem for groups of semi-\nsimple rank one. Structure theorem for reductive groups, Bruhat decomposi-\ntion, semisimple groups. Tits system, standard parabolic subgroups, simplicity\nproof.\n42",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 103,
+      "text": "• If time permits, mention (without proof): Representations and classiﬁcation of\nsemisimple groups and statements for general ﬁelds.\nReferences\n(a) J. E. Humphreys, Linear algebraic groups, (chapters 1 to 10), GTM, Springer-\nVerlag (1975).\n(b) T. A. Springer, Linear algebraic groups, (chapters 1 to 8), Progress in Mathe-\nmatics, Birkh¨auser (1998).\n(c) R. Steinberg, Conjugacy classes in algebraic groups, (Chapters 1 and 2 just\nas reference, some proofs are not given), Lecture Notes in Mathematics (366),\nSpringer-Verlag (1974).\nE37: Mathematical Logic\n• Syntax of First-Order Logic: First Order Languages, Terms and Formulas of a\nFirst Order language, First Order Theories.\n• Semantics of First-Order Languages: Structures of First-Order Languages, Truth\nin a Structure, Model of a Theory.\n• Propositional Logic: Tautologies and Theorems of propositional Logic, Tautol-\nogy Theorem.\n• Proof in First Order Logic, Metatheorems of a ﬁrst order theory, e.g., theorems",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          47
+        ],
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    {
+      "chunk_id": 104,
+      "text": "• Propositional Logic: Tautologies and Theorems of propositional Logic, Tautol-\nogy Theorem.\n• Proof in First Order Logic, Metatheorems of a ﬁrst order theory, e.g., theorems\non constants, equivalence theorem, deduction and variant theorems etc., Con-\nsistency and Completeness, Lindenbaum Theorem.\n• Henkin Extension, Completeness theorem, Extensions by deﬁnition of ﬁrst or-\nder theories, Interpretation theorem.\n• Model Theory: Embeddings and Isomorphisms, L¨owenheim-Skolem Theorem,\nCompactness theorem, Categoricity, Complete Theories.\n• Recursive functions, Arithmatization of ﬁrst order theories, Decidable Theory,\nRepresentability, Godel’s ﬁrst Incompleteness theorem.\nReferences\n(a) S. M. Srivastava, A Course on Mathematical Logic, Springer (2013).\n(b) J. R. Shoenﬁeld, Mathematical logic, Addison-Wesley (1967).\n43",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          47
+        ],
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    {
+      "chunk_id": 105,
+      "text": "E38: Set Theory\nEither (A) or (B):\n(A) Descriptive Set Theory:\n• A quick review of elementary cardinal and ordinal numbers, transﬁnite induc-\ntion, induction on trees, Idempotence of Souslin operation.\n• Polish spaces, Baire category theorem, Transfer theorems, Standard Borel spaces,\nBorel isomorphism theorem, Sets with Baire property, Kuratowski-Ulam The-\norem. The projective hierarchy and and its closure properties.\n• Analytic and coanalytic sets and their regularity properties, separation and re-\nduction theorems, Von Neumann and Kuratowski-Ryll Nardzewskis selection\ntheorems, Uniformization of Borel sets with large and small sections. Kondos\nuniformization theorem.\nReferences\n(a) S. M. Srivastava, A course on Borel sets, GTM (180), Springer-Verlag (1998).\n(b) A. S. Kechris, Classical descriptive set theory, GTM (156), Springer-Verlag\n(1995).\n(B) Axiomatic Set Theory:\n• A naive review of cardinal and ordinal numbers including regular and singu-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          48
+        ],
+        "start_page": 48,
+        "end_page": 48
+      }
+    },
+    {
+      "chunk_id": 106,
+      "text": "(b) A. S. Kechris, Classical descriptive set theory, GTM (156), Springer-Verlag\n(1995).\n(B) Axiomatic Set Theory:\n• A naive review of cardinal and ordinal numbers including regular and singu-\nlar cardinals, some large cardinals like inaccessible and measurable cardinals.\nMartins Axiom and its consequences. Axiomatic development of set theory\nupto foundation axiom, Class and Class as models, relative consistency, abso-\nluteness, Reﬂection principle, Mostowski collapse lemma, non-decidability of\nlarge cardinal axioms, Godel’s second incompleteness theorem, Godel’s con-\nstructible universe, Forcing lemma and independence of CH.\nReferences\n(a) S. M. Srivastava, A course on Borel sets, GTM (180), Springer-Verlag (1998).\n(b) K. Kunen, Set theory.\nAn introduction to independence proofs, Studies in\nLogic and the Foundations of Mathematics (102), North-Holland Publishing\nCo. (1980).\n(c) T. Jech, Set theory, Academic Press (1978).\n44",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          48
+        ],
+        "start_page": 48,
+        "end_page": 48
+      }
+    },
+    {
+      "chunk_id": 107,
+      "text": "E39: Game Theory\n(Note: The course may be combined with the course “Game Theory-I” of the MSQE\nprogramme (see (1) in 3.2) or the course “Theory of games and statistical decisions”\nof M.Stat. 2nd year (see (22) in 3.3) at ISI.)\n• Non-Cooperative Games: Games in normal form. Rationalizability and iterated\ndeletion of never-best responses. Nash equilibrium: existence, properties and\napplications. Two-person Zero Sum Games. Games in extensive form: per-\nfect recall and behavoiour strategies. Credibility and Subgame. Perfect Nash\nequilibrium. Bargaining. Repeated Games; Folk Theorems.\n• Introduction to Cooperative Games (TU Games).\nReferences:\n(a) A. R. Karlin and Y. Peres. Game Theory, Alive (2016).\n(b) T. Ferguson. A Course in Game Theory (2020).\n(c) D. Easley and J. Kleinberg. Networks, Crowds, and Markets (2010).\n(d) M. Maschler, E. Solan and S. Zamir. Game Theory (2013).\n(e) M. J. Osborne and A. Rubinstein. A Course in Game Theory (1994).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          49
+        ],
+        "start_page": 49,
+        "end_page": 49
+      }
+    },
+    {
+      "chunk_id": 108,
+      "text": "(c) D. Easley and J. Kleinberg. Networks, Crowds, and Markets (2010).\n(d) M. Maschler, E. Solan and S. Zamir. Game Theory (2013).\n(e) M. J. Osborne and A. Rubinstein. A Course in Game Theory (1994).\n(f) Roger B. Myerson. Game Theory: Analysis of Conﬂict (1991).\n(g) D. Fudenberg and J. Tirole. Game Theory (1991).\n(h) Y. Narahari. Game Theory and Mechanism Design (2014).\nE40: Automata, Languages and Computation\n• Automata and Languages: Finite automata, regular languages, regular expres-\nsions, equivalence of deterministic and non-deterministic ﬁnite automata, min-\nimisation of ﬁnite automata, closure properties, Kleene’s theorem, pumping\nlemma and its applications, Myhill-Nerode theorem and its uses. Context-free\ngrammar, context-free languages, Chomsky normal form, closure properties,\npumping lemma for CFL, pushdown automata.\n• Computability: Computable functions, primitive and partial recursive func-\ntions, universality and halting problem, recursive and recursively enumerable",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          49
+        ],
+        "start_page": 49,
+        "end_page": 49
+      }
+    },
+    {
+      "chunk_id": 109,
+      "text": "pumping lemma for CFL, pushdown automata.\n• Computability: Computable functions, primitive and partial recursive func-\ntions, universality and halting problem, recursive and recursively enumerable\nsets, parameter theorem, diagonalisation and reducibility, Rice’s theorem and\nits applications, Turing machines and its variants, equivalence of different mod-\nels of computation and Church-Turing thesis.\n45",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          49
+        ],
+        "start_page": 49,
+        "end_page": 49
+      }
+    },
+    {
+      "chunk_id": 110,
+      "text": "• Complexity: Time complexity of deterministic and non-deterministic Turing\nmachines, P and NP, NP-completeness, Cook’s theorem: other NP-complete\nproblems.\nReferences\n(a) N. Cutland, Computability. An introduction to recursive function theory, Cam-\nbridge University Press (1980).\n(b) M. D. Davis, Ron Sigal and E. J. Weyuker, Computability, complexity, and lan-\nguages. Fundamentals of theoretical computer science, Academic Press (1994).\n(c) J. E. Hopcroft and J. D. Ullman, Introduction to automata theory, languages,\nand computation, Addison-Wesley (1979).\n(d) H. R. Lewis and C. H. Papadimitriou, Elements of the theory of computation,\nPrentice-Hall (1981).\n(e) S. M. Sipser, Introduction to the theory of computation, PWS Pub Co, NY\n(1999).\n(f) M. R. Garey and D. S. Johnson, Computers and intractability. A guide to the\ntheory of NP-completeness, W. H. Freeman and Co. (1979).\nE41: Advanced Fluid Dynamics\n• Inviscid incompressible ﬂuid: Two dimensional motion, stream function, com-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          50
+        ],
+        "start_page": 50,
+        "end_page": 50
+      }
+    },
+    {
+      "chunk_id": 111,
+      "text": "theory of NP-completeness, W. H. Freeman and Co. (1979).\nE41: Advanced Fluid Dynamics\n• Inviscid incompressible ﬂuid: Two dimensional motion, stream function, com-\nplex potential and velocity, sources, sinks. Doublets and their images. Circle\ntheorem, Blasiuss theorem, Kutta-Jokowaski theorem. Axi-symmetric motion,\nStokes stream function. Image of a source and a sink with respect to a sphere.\nVortex motion, vortex lines and ﬁlaments, systems of vortices, rectilinear vor-\ntices, vortex pair and doublets. A single inﬁnite row of vortices, Karmans vortex\nsheet.\n• Linearised gravity waves, progressive waves in deep and shallow water, station-\nary waves, energy and group velocity, long waves and their energy, capillary\nwaves.\n• Inviscid compressible ﬂuid: First and second law of thermodynamics, poly-\ntropic gas and its entropy, adiabatic and isentropic ﬂow, propagation of small\ndisturbances. Mach number, Mach cone, irrotational motion, Bernoulli’s’ Equa-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          50
+        ],
+        "start_page": 50,
+        "end_page": 50
+      }
+    },
+    {
+      "chunk_id": 112,
+      "text": "tropic gas and its entropy, adiabatic and isentropic ﬂow, propagation of small\ndisturbances. Mach number, Mach cone, irrotational motion, Bernoulli’s’ Equa-\ntion, pressure, density and temperature in terms of Mach number. Area velocity\nrelations in one-dimensional ﬂow, concept of subsonic and supersonic ﬂows.\nNormal shock-wave, Rankine-Hugonoit and Prandtl’s’ relations in case of a\nplane shock wave.\n46",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          50
+        ],
+        "start_page": 50,
+        "end_page": 50
+      }
+    },
+    {
+      "chunk_id": 113,
+      "text": "• Viscous incompressible ﬂuid: Equations of motion of a viscous ﬂuid, Reynold’s\nnumber, circulation in a viscous liquid, Flow between parallel plates, ﬂow\nthrough pipes of circular, elliptic and annular section under constant pressure\ngradient. Prandtl’s concept of boundary layer.\nReferences\n(a) L. M. Milne-Thomson, Theoretical hydrodynamics, Macmillan (1960).\n(b) L. D. Landau and E. M. Lifshitz, Fluid mechanics, Course of Theoretical Physics,\nVol. 6 Pergamon Press (1959).\n(c) H. Lamb, Hydrodynamics, Cambridge University Press (1993).\n(d) W. H. Besant and A. S. Ramsey, A treatise of Hydro-mechanics, Part II, ELBS.\n(e) P. K. Kundu, Fluid mechanics, Academic Press.\nE42: Quantum Mechanics I\n• (i) Physical Basis of Quantum Mechanics. (ii) Old Quantum theory. (iii) Uncer-\ntainty, Complimentarity and Duality. (iv) Measurement problems. (v) Heisen-\nberg and Schrodinger representation.\n• (i) Schrodinger wave equation (ii) Perturbation theory.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          51
+        ],
+        "start_page": 51,
+        "end_page": 51
+      }
+    },
+    {
+      "chunk_id": 114,
+      "text": "tainty, Complimentarity and Duality. (iv) Measurement problems. (v) Heisen-\nberg and Schrodinger representation.\n• (i) Schrodinger wave equation (ii) Perturbation theory.\n• Problem of two or more degrees of freedom without spherical symmetry; Stark\neffect.\n• Angular momentum, SU(2) algebra.\n• Three-dimensional Schrodinger equation. Problems with spherical symmetry.\nHarmonic Oscillator.\n• Scattering problem , differential cross section, phase shift, variational principle,\nSW transformation, Regge poles.\n• WKB approximation.\n• Particles with spin, Pauli matrices, Pauli-Schrodinger equation. Two and three\nbody problems. Hydrogen atom in electric and magnetic ﬁeld.\n• Quantum Statistics.\nReferences\n(a) L.I. Schiff, Quantum Mechanics.\n(b) J.J. Sakurai, Modern Quantum Mechanics.\n47",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          51
+        ],
+        "start_page": 51,
+        "end_page": 51
+      }
+    },
+    {
+      "chunk_id": 115,
+      "text": "(c) L. D. Landau and E. M. Lifshitz, Quantum mechanics: non-relativistic theory,\nCourse of Theoretical Physics Vol 3, Pergamon Press Ltd (1958).\n(d) L.M. Falicov, Group theory and its physical applications, Univ of Chicago Press\n(1966).\nE43: Quantum Mechanics II\n• Non stationary problems. Relativistic Dirac equation, Spinors. Scattering by\na central force. Radiation theory. Quantization of Schrodinger ﬁeld. Born\napproximation. Compton effect ( Klein Nishina formula). Bremsstrahlung.\nSymmetry and conservation laws. Quantum Probability and quantum Statistics.\nSupersymmetric Quantum Mechanics, SWKB. Path integral method.\nReferences\n(a) L.I. Schiff, Quantum Mechanics.\n(b) P.A.M. Dirac, The Principles of Quantum Mechanics, Oxford, Clarendon Press\n(1947).\n(c) P. A. M. Dirac, Spinors in Hilbert space, Plenum Press (1974).\n(d) M. E. Rose, Elementary theory of angular momentum, John Wiley.\n(e) R. P. Feynman and A. R. Hibbs, Quantum Mechanics and Path integrals.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          52
+        ],
+        "start_page": 52,
+        "end_page": 52
+      }
+    },
+    {
+      "chunk_id": 116,
+      "text": "(d) M. E. Rose, Elementary theory of angular momentum, John Wiley.\n(e) R. P. Feynman and A. R. Hibbs, Quantum Mechanics and Path integrals.\n(f) L. D. Landau and E. M. Lifshitz, Statistical physics, Course of Theoretical\nPhysics. Vol. 5. Pergamon Press Ltd (1958).\n(g) S. Flugge, Practical quantum mechanics, Springer-Verlag (1999).\n(h) H. Weyl, The theory of groups and Quantum Mechanics.\nE44: Analytical Mechanics\n• Generalised coordinates, Lagrange’s’ Equation. Examples of Lagrange’s’ equa-\ntion. Conservation laws. Motion in a central ﬁeld. Collision of particles. Small\nOscillations. Rotating Coordinate systems. Inertial forces. Dynamics of a rigid\nbody. Hamiltonian Mechanics.\nReferences\n(a) I. Arnold, Mathematical methods of classical mechanics, GTM (60), Springer-\nVerlag (1978).\n48",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          52
+        ],
+        "start_page": 52,
+        "end_page": 52
+      }
+    },
+    {
+      "chunk_id": 117,
+      "text": "(b) R. Abraham and J. E. Marsden, Foundations of mechanics, Second edition,\nBenjamin/Cummings (1978).\nE45: Representations of Locally Compact Groups\n(a) Topological Groups, basic properties like subgroups, quotients and products,\nfundamental systems of neighbourhoods, open subgroups, connectedness and\ncompactness. Existence of Haar measure on locally compact groups, properties\nof Haar measures.\n(b) Group actions on topological spaces, the space X/G in the topological as also\nin the analytical case assuming regularity conditions of the group action.\n(c) Representation of a locally compact group on a Hilbert space, the associated\nrepresentation of group algebra, invariant subspaces and irreducibility, Schur’s\nlemma.\n(d) Compact groups: Unitarity of ﬁnite dimensional representations, Peter-Weyl\ntheory, Representations of SU(2, C), Representation of a ﬁnite group.\n(e) Induced representation and Frobenius reciprocity theorem, Representations of",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          53
+        ],
+        "start_page": 53,
+        "end_page": 53
+      }
+    },
+    {
+      "chunk_id": 118,
+      "text": "theory, Representations of SU(2, C), Representation of a ﬁnite group.\n(e) Induced representation and Frobenius reciprocity theorem, Representations of\nHeisenberg groups and of Euclidean motion group, Principal series representa-\ntions of SL(2, R).\nReferences\n(a) P. J. Higgins, Introduction to topological groups, LMS Lecture Notes Series\n(15), Cambridge University Press (1974).\n(b) L. H. Loomis: An introduction to abstract harmonic analysis, D. Van Nostrand\n(1953).\n(c) G. B. Folland: A course in abstract harmonic analysis, Studies in Advanced\nMathematics. CRC Press (1995).\nE46: Abstract Harmonic Analysis\n[Prerequisite: Fourier Analysis]\n• Banach Algebras and spectral theory: Banach Algebras, Gelfand theory, spec-\ntral theorem.\n• Generalities on Locally compact groups: Haar measure, modular function and\nconvolution.\n• Basic representation theory: Unitary representation of groups, Schur’s lemma,\nPositive deﬁnite functions and GNS construction.\n49",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          53
+        ],
+        "start_page": 53,
+        "end_page": 53
+      }
+    },
+    {
+      "chunk_id": 119,
+      "text": "• Analysis on Locally compact abelian groups: Fourier transform and the dual\ngroup, Pontrajin Duality, Bochner’s theorem, Plancherel theorem.\n• If time permits: Peter Weyl theorem and analysis on compact groups.\nReferences\n(a) A course in abstract Harmonic Analysis- G. B. Folland.\n(b) Principles of Harmonic Analysis- A. Deitmar, S. Echterhoff.\n(c) Fourier Analysis on groups- W. Rudin.\n(d) Fourier Analysis on Number Fields- Dinakar Ramakrishnan, Robert J. Valenza.\nE47: Wavelet Analysis\n• Review of Fourier analysis: Fourier series, Parseval’s identity, Fourier transform\nof L1- and L2- functions, Plancherel theorem.\n• Multiresolution analysis (MRA): Construction of wavelets from an MRA, con-\nstruction of compactly supported wavelets.\n• Some important wavelets: Haar wavelet, Str¨omberg wavelet, Lemari´e-Meyer\nwavelets, spline wavelets, band-limited wavelets and wavelet sets.\n• Frames: The reconstruction formula for frames, Balian-Low theorem for frames,",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          54
+        ],
+        "start_page": 54,
+        "end_page": 54
+      }
+    },
+    {
+      "chunk_id": 120,
+      "text": "wavelets, spline wavelets, band-limited wavelets and wavelet sets.\n• Frames: The reconstruction formula for frames, Balian-Low theorem for frames,\nframes form traslations and dilations (wavelet frames).\n• Representation of functions by wavelets: Convergence of wavelet expansions\nin Lp(R), pointwise convergence of wavelet expansions, wavelets as uncondi-\ntional bases for Lp(R).\n• Optional topics:\n(a) Wavelets on T.\nPeriodization of wavelets on R, orthonormal bases of\npiecewise linear continuous functions for L2(T), orthonormal bases of pe-\nriodic splines.\n(b) Characterization of various functions associated with wavelets. Character-\nization of scaling functions, characterization of wavelets, characterization\nof MRA-wavelets.\n(c) Wavelets in higher dimensions. Tensor product of one-dimensional wavelets,\nMRA in higher dimensions associated with dilation matrices, construction\nof Haar wavelets.\nReferences\n50",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          54
+        ],
+        "start_page": 54,
+        "end_page": 54
+      }
+    },
+    {
+      "chunk_id": 121,
+      "text": "(a) E. Hern´andez and G. Weiss, A ﬁrst course on wavelets, CRC Press, Boca Raton,\n1996.\n(b) P. Wojtaszczyk, A mathematical introduction to wavelets, Cambridge Univer-\nsity Press, 1997.\n(c) Y. Meyer, Wavelets and operators, Cambridge University Press, 1992.\n(d) I. Daubechies, Ten lectures on wavelets, Society for Industrial and Applied\nMathematics (SIAM), Philadelphia, 1992.\nE48: Basics of C∗Algebras\n• Quick review of bounded operators on Hilbert spaces, Banach and C∗-algebras,\nGelfand’s Theorem for abelian C∗-algebras. Spectral Theorem for bounded\nnormal operators.\n• Noncommutative states and representations, Gelfand-Neumark rep- resentation\ntheorem.\n• Von-Neumann Algebras; Projections, Double Commutant theorem, L∞func-\ntional Calculus.\n• Time Permitting: Some concrete examples like Cuntz algebras, AF algebras,\ngroup C∗-algebras etc.\nReferences\n(a) W. Arveson, An invitation to C∗-algebras, GTM (39), Springer-Verlag (1976).",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          55
+        ],
+        "start_page": 55,
+        "end_page": 55
+      }
+    },
+    {
+      "chunk_id": 122,
+      "text": "• Time Permitting: Some concrete examples like Cuntz algebras, AF algebras,\ngroup C∗-algebras etc.\nReferences\n(a) W. Arveson, An invitation to C∗-algebras, GTM (39), Springer-Verlag (1976).\n(b) N. Dunford and J. T. Schwartz, Linear operators. Part II: Spectral theory. Self\nadjoint operators in Hilbert space, Interscience Publishers John Wiley (1963).\n(c) R. V. Kadison and J. R. Ringrose, Fundamentals of the theory of operator al-\ngebras. Vol. I. Elementary theory, Pure and Applied Mathematics (100), Aca-\ndemic Press (1983).\n(d) V. S. Sunder, An invitation to von Neumann algebras, Universitext, Springer-\nVerlag (1987).\n(e) K. R. Davidson, C∗Algebras by example, Fields Institute Monograph (also\navailable in TRIM series).\nE49: Martingale Theory\n[Prerequisite: Probability Theory]\n(Note: This has the same syllabus as the M-Stat course with the same name.)\n51",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          55
+        ],
+        "start_page": 55,
+        "end_page": 55
+      }
+    },
+    {
+      "chunk_id": 123,
+      "text": "• Absolute continuity and singularity of measures. Hahn-Jordon decomposition,\nRadon-Nikodym Theorem, Lebesgue decomposition. Conditional expectation -\nDeﬁnition and Properties. Regular conditional probability, proper RCP. Regular\nconditional distribution.\n• Discrete parameter martingales, sub-and super-martingales. Doob’s Maximal\nInequality, Upcrossing inequality, martingale convergence theorem, Lp inequal-\nity, uniformly integrable martingales, reverse martingales, Levy’s upward and\ndownward theorems. Stopping times, Doob’s optional sampling theorem. Dis-\ncrete martingale transform, Doob’s Decomposition Theorem.\n• Applications of martingale theory: Azuma-Hoeffding Inequality and some ap-\nplications. SLLN for i.i.d. random variables. Inﬁnite products of probability\nspaces, Hewitt-Savage 0-1 Law. Finite and inﬁnite exchangeable sequence of\nrandom variables, de Finetti’s Theorem. SLLN for U-Statistics for exchange-\nable data.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          56
+        ],
+        "start_page": 56,
+        "end_page": 56
+      }
+    },
+    {
+      "chunk_id": 124,
+      "text": "spaces, Hewitt-Savage 0-1 Law. Finite and inﬁnite exchangeable sequence of\nrandom variables, de Finetti’s Theorem. SLLN for U-Statistics for exchange-\nable data.\n• Introduction to continuous parameter martingales: deﬁnition, examples and ba-\nsic properties.\n• (If time permits) Martingale Central Limit Theorem and applications.\nReferences :\n(a) Y. S. Chow and H. Teicher: Probability Theory\n(b) Leo Breiman: Probability Theory\n(c) Jacques Nevue: Discrete Parameter Martingales\n(d) P. Hall , C. C. Heyde: Martingale Limit Theory and its Application\n(e) R. Durret: Probability Theory and Examples\n(f) P. Billingsley: Probability and Measures\nE50: Theory of Large Deviations\n[Prerequisite: Probability Theory]\n(Note: This has the same syllabus as the M-Stat course with the same name.)\n• Introduction to large deviations.\n• Sanov’s theorem and Cramer’s theorem for ﬁnitely supported random variables.\n• General notion of large deviation principle on Polish spaces: Laplace princi-",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          56
+        ],
+        "start_page": 56,
+        "end_page": 56
+      }
+    },
+    {
+      "chunk_id": 125,
+      "text": "• Introduction to large deviations.\n• Sanov’s theorem and Cramer’s theorem for ﬁnitely supported random variables.\n• General notion of large deviation principle on Polish spaces: Laplace princi-\nple, Varadhan’s lemma, weak large deviation principle, exponential tightness,\ngoodness of rate function, contraction principle, Bryc’s lemma.\n52",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          56
+        ],
+        "start_page": 56,
+        "end_page": 56
+      }
+    },
+    {
+      "chunk_id": 126,
+      "text": "• Cramer’s theorem for general random variables and vectors.\n• Exponential tightness of (a) sample averages of i.i.d. Banach space valued ran-\ndom variables and (b) empirical measures of i.i.d. Polish space valued random\nvariables.\n• Cramer’s theorem on locally convex separable Hausdorff topological vector\nspaces.\n• Large deviations of Brownian paths: Schilder’s theorem.\n• Sanov’s theorem on Polish spaces: Donsker-Varadhan variational formula. Gart-\nner and Ellis theorem.\nReferences\n(a) Large Deviations Techniques and Application by A. Dembo and O. Zeitouni\n(b) Large Deviations by Deuschel and Stroock\n(c) Large Deviations by Hollander\n(d) Large Deviations and Applications by S. R. S. Varadhan\n(e) A Weak Convergence Approach to the Theory of Large Deviations by P. Dupuis\nand T. Ellis.\nE51: Brownian Motion and Diffusions\n[Prerequisites: Probability Theory, Martingale Theory (could be simultaneous)]\n(Note: This has the same syllabus as the M-Stat course with the same name.)",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          57
+        ],
+        "start_page": 57,
+        "end_page": 57
+      }
+    },
+    {
+      "chunk_id": 127,
+      "text": "E51: Brownian Motion and Diffusions\n[Prerequisites: Probability Theory, Martingale Theory (could be simultaneous)]\n(Note: This has the same syllabus as the M-Stat course with the same name.)\n• Introduction to Brownian Motion, Kolmogorov Consistency theorem, Kolmogorov\nContinuity theorem, Construction of BM. Basic Martingale Properties and path\nproperties -including Holder continuity and non-differentiability.\nQuadratic\nvariation.\n• Markov Property and strong Markov property of BM, reﬂection principle, Blu-\nmenthal’s 0-1 law. Distributions of ﬁrst passage time and of running maximum\nof BM.\n• Brownian Bridge as BM conditioned to return to zero.\n• Ito Integral with respect to BM, properties of Ito integral. Ito formula, Levy\ncharacterization, representation of continuous martingales of Brownian ﬁltra-\ntion.\n53",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          57
+        ],
+        "start_page": 57,
+        "end_page": 57
+      }
+    },
+    {
+      "chunk_id": 128,
+      "text": "• Continuous path Polish space-valued markov processes, Feller processes, As-\nsociated semigroup operators, resolvent operators and generators on the Banach\nspace of bounded continuous functions. Generator of BM.\n• Ito diffusions, Markov property of Ito diffusions, Generators of Ito diffusions.\nReferences\n(a) K. Ito: TIFR Lecture Notes on Stochastic Processes\n(b) I. Karatzas , S. E. Shreve: Brownian Motion and Stochastic Calculus\n(c) D. Freedman: Brownian Motion and Diffusion\n(d) H. P. Mckean: Stochastic Integrals\nE52: Weak Convergence and Empirical Processes\n[Prerequisite: Probability Theory]\n(Note: This has the same syllabus as the M-Stat course with the same name.)\n• Probability measures on metric spaces. Weak convergence of probability mea-\nsures on metric spaces. Portmanteau theorem. Convergence determining classes.\nContinuity theorem. Prohorov’s theorem. Levy-Prohorov metric, Skorohod\nrepresentation theorem.",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          58
+        ],
+        "start_page": 58,
+        "end_page": 58
+      }
+    },
+    {
+      "chunk_id": 129,
+      "text": "sures on metric spaces. Portmanteau theorem. Convergence determining classes.\nContinuity theorem. Prohorov’s theorem. Levy-Prohorov metric, Skorohod\nrepresentation theorem.\n• Weak convergence on C(0, 1), Arzela-Ascoli theorem, sufﬁcient conditions for\nweak convergence on C(0, 1).\n• Construction of Weiner measure on C(0, 1), Donsker’s theorem, Application of\ncontinuity theorem to derive distributions of certain functionals of BM. Kolmogorov-\nSmirnov statistics. Weiner measure on C(0, ∞).\n• D(0, 1), Skorohod topology on D(0, 1), compactness on D(0, 1). Weak con-\nvergence of probability measures on D(0, 1). Empirical distribution functions,\nDonsker’s Theorem on D(0, 1).\n• Vapnik-Chervonenkis Theory in Empirical processes: Glivenko-Cantelli classes,\nDonsker classes, Vapnik-Chervonenkis classes, Shattering and VC-index, VC\ninequality with applications to convergence results.\nReferences\n(a) P. Billingsley: Weak Convergence of Probability Measures",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          58
+        ],
+        "start_page": 58,
+        "end_page": 58
+      }
+    },
+    {
+      "chunk_id": 130,
+      "text": "Donsker classes, Vapnik-Chervonenkis classes, Shattering and VC-index, VC\ninequality with applications to convergence results.\nReferences\n(a) P. Billingsley: Weak Convergence of Probability Measures\n(b) K. R. Parthasarathy: Probability measures on Metric Spaces\n(c) D. Pollard: Empirical Processes\n54",
+      "metadata": {
+        "pdf_name": "MMath2021.pdf",
+        "pdf_path": "DATA\\MMath2021.pdf",
+        "page_numbers": [
+          58
+        ],
+        "start_page": 58,
+        "end_page": 58
+      }
+    }
+  ]
+}

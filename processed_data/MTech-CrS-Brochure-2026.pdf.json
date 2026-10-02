@@ -1,0 +1,1409 @@
+{
+  "filename": "MTech-CrS-Brochure-2026.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "INDIAN STATISTICAL INSTITUTE\nStudents’ Brochure\nPART II\nMaster of Technology (M.Tech.) in Cryptology and Security\n(Effective from Academic Year 2026-27)\n(See PART I for general information, rules and regulations applicable to all programmes)\nThe Headquarters\n203 BARRACKPORE TRUNK ROAD\nKOLKATA 700108",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          1
+        ],
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "INDIAN STATISTICAL INSTITUTE\nMaster of Technology (M.Tech.) in Cryptology and Security\nContents\n1\nCS and Non-CS Streams\n1\n2\nStructure of the Programme\n2\n2.1\nStructure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2\n2.2\nSuggested ideal Semester-wise layout\n. . . . . . . . . . . . . . . . . . . .\n4\n3\nInformation/rules specific to the M.Tech. CrS programme\n5\n3.1\nDuration of the programme . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\n3.2\nWaiver of class attendance\n. . . . . . . . . . . . . . . . . . . . . . . . . .\n5\n3.3\nRegistering for a course . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\n3.4\nDissertation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6\n3.5\nInternship/industrial training . . . . . . . . . . . . . . . . . . . . . . . . .\n8\n3.6\nFinal Result . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n8\n3.7\nStipend\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n9\n3.8",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          3
+        ],
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "8\n3.6\nFinal Result . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n8\n3.7\nStipend\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n9\n3.8\nMentor Committee\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n9\n3.9\nTeachers’ Committee . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n10\n3.10 CrS Dissertation Committee\n. . . . . . . . . . . . . . . . . . . . . . . . .\n10\n3.11 Prizes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n10\n4\nDetailed Syllabi of the Courses\n11\n4.1\nCompulsory and Formative Courses . . . . . . . . . . . . . . . . . . . . .\n11\n4.2\nCrS Elective courses\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n32",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          3
+        ],
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "The structure of the M.Tech. in Cryptology and Security (MTCrS) programme differs from\nthat of the other degree programmes mentioned in Part I, which lays out general informa-\ntion, rules and regulations applicable to all programmes. Some information/rules specific\nto this programme supersede the corresponding information/rules in the general brochure;\nsee Section 3 for details.\n1\nCS and Non-CS Streams\nEvery student who is admitted to the programme is categorised as either a CS-stream stu-\ndent or a Non-CS-stream student. This categorisation is based on the general structure of\nthe common admission process that is followed for the M.Tech. Computer Science (MTCS)\nand MTCrS programmes.1 Typically, students qualify based on\n• EITHER their performance in two written tests conducted by the institute,\nOR a valid GATE score;\n• AND their performance in a subsequent interview.\nOne or more of the written tests generally have separate sections, comprising questions on",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "OR a valid GATE score;\n• AND their performance in a subsequent interview.\nOne or more of the written tests generally have separate sections, comprising questions on\n(i) Mathematics and (ii) Computer Science.\nTo be categorised as a CS-stream student, the candidate must be a graduate in Computer\nScience / Information Technology / any other discipline regarded as equivalent by the ad-\nmission committee2, AND must have qualified based on\n• EITHER their answers to questions from the Computer Science section(s) of the\nwritten test(s);\n• OR a valid GATE score (above a threshold as decided by the admission committee)\nin Computer Science / Information Technology / any other discipline regarded as\nequivalent by the admission committee.\nAll other candidates will be categorised as Non-CS-stream students.\nThe courses in this programme are categorised as compulsory, formative and elective.\nThe curricula for the two streams differ in terms of the formative courses that a student has",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "The courses in this programme are categorised as compulsory, formative and elective.\nThe curricula for the two streams differ in terms of the formative courses that a student has\nto pass. Students are required to follow the curriculum specified for their respective stream.\n1If the admission process followed in a particular year has a significantly different structure, the process\nfor assigning streams to incoming candidates will be specified in the Admission Prospectus for that year.\n2Likewise, in case of any dispute / lack of clarity about whether a candidate satisfies this eligibility\ncriterion, the admission committee will take the final decision, using the relevant year’s Admission Prospectus\nas a guideline.\n1",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "2\nStructure of the Programme\n2.1\nStructure\nA student has to pass the courses listed below. The courses are categorized as: Compulsory,\nFormative and Elective. The details are as follows.\n1. Compulsory non-credit course:\n• Introduction to Programming\nThis requirement may be waived if a student passes a programming test designed by\nthe Mentor Committee, and conducted within the first two weeks of the first semester.\n2. Seven compulsory courses :\ni. Discrete Mathematics\nii. Data Structures and Algorithms\niii. Design and Analysis of Algorithms\niv. Computing Laboratory\nv. Cryptology I\nvi. Cryptology II\nvii. Computing Systems Security\n3. Four Formative Courses from the list of formative courses given below:\nPool A\ni. Digital Design and Computer\nArchitecture\nii. Computer Networks\niii. Database Management Sys-\ntems\niv. Operating Systems\nPool B\ni. Abstract Algebra and Number\nTheory\nii. Linear Algebra\niii. Probability\nand\nStochastic\nProcesses\niv. Statistical Methods\nv. Theory of Computation",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "tems\niv. Operating Systems\nPool B\ni. Abstract Algebra and Number\nTheory\nii. Linear Algebra\niii. Probability\nand\nStochastic\nProcesses\niv. Statistical Methods\nv. Theory of Computation\n• A non-CS stream student must take at least 3 from Pool A.\n• A CS stream student must take at least 3 from Pool B.\n2",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "The following restrictions are applicable for choosing the formative courses.\n• For students with a master’s degree in Mathematics:\nLinear Algebra, and Abstract Algebra and Number Theory cannot be taken.\n• For students with a master’s degree in Statistics:\nProbability and Stochastic Processes, and Statistical Methods cannot be taken.\n• Students are discouraged from taking formative courses that they have success-\nfully completed in their previous programmes. The final selection of formative\ncourses should be done in consultation with the mentor committee.\n4. Six elective courses: There are two types of elective courses: CrS Elective courses\nand Free Elective courses.\n(a) CrS Elective: A student must take at least four courses from the list given\nbelow:\ni. Blockchains and Cryptocurrencies\nii. Coding and Information Theory\niii. Computational Complexity\niv. Computational Number Theory\nv. Computing Systems Security II\nvi. Cryptographic and Security Implementation\nvii. Hardware Security",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "ii. Coding and Information Theory\niii. Computational Complexity\niv. Computational Number Theory\nv. Computing Systems Security II\nvi. Cryptographic and Security Implementation\nvii. Hardware Security\nviii. Math Toolkits for CS\nix. Multiparty Computations\nx. Topics in Cryptology\nxi. Topics in Privacy\nxii. Quantum Computations and Cryptography\n(b) Free Elective: A student can take the remaining number of electives from the\nlist of:\ni. CrS Electives as listed in 4(a) of Section 2.1,\nii. Formative Courses (the restrictions noted for formative course would be\napplicable here also) as listed in 3 of Section 2.1, and\niii. CS Electives (the list of the courses and their corresponding syllabi can be\nfound in the MTCS Brochure).\n5. Dissertation: A semester long dissertation, whose details are in Section 3.4.\n3",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "2.2\nSuggested ideal Semester-wise layout\nOne who Passes the Programming Test\nCS\nnon-CS\nSemester 1\n1. Data Structures and Algorithms\n1. Data Structures and Algorithms\n2. Discrete Mathematics\n2. Discrete Mathematics\n3. Cryptology I\n3. Cryptology I\n4. Abstract Algebra and Number Theory\n4. Digital Design and Computer Architecture\n5. Probability and Stochastic Processes\n5. Statistical Methods\nSemester 2\n1. Design and Analysis of Algorithms\n1. Design and Analysis of Algorithms\n2. Cryptology II\n2. Cryptology II\n3. Computing Laboratory\n3. Computing Laboratory\n4. Theory of Computation\n4. Computer Networks\n5. Operating Systems\n5. Operating Systems\nSemester 3\n1. Computing Systems Security I\n1. Computing Systems Security I\n2. Electives (4)\n2. Electives(4)\nSemester 4\n1. Electives (2)\n1. Electives (2)\n2. Dissertation\n2. Dissertation\nOne who Fails the Programming Test\nCS\nnon-CS\nSemester 1\n1. Introduction to Programming\n1. Introduction to Programming\n2. Data Structures and Algorithms",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "2. Dissertation\n2. Dissertation\nOne who Fails the Programming Test\nCS\nnon-CS\nSemester 1\n1. Introduction to Programming\n1. Introduction to Programming\n2. Data Structures and Algorithms\n2. Data Structures and Algorithms\n3. Discrete Mathematics\n3. Discrete Mathematics\n4. Cryptology I\n4. Cryptology I\n5. Abstract Algebra and Number Theory\n5. Digital Design and Computer Architecture\n6. Probability and Stochastic Processes\n6. Statistical Methods\nSemester 2\n1. Design and Analysis of Algorithms\n1. Design and Analysis of Algorithms\n2. Cryptology II\n2. Cryptology II\n3. Computing Laboratory\n3. Computing Laboratory\n4. Theory of Computation\n4. Computer Networks\n5. Operating Systems\n5. Operating Systems\nSemester 3\n1. Computing Systems Security I\n1. Computing Systems Security I\n2. Electives (4)\n2. Electives(4)\nSemester 4\n1. Electives (2)\n1. Electives (2)\n2. Dissertation\n2. Dissertation\n4",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "3\nInformation/rules specific to the M.Tech. CrS programme\nThe information given in this section supplements, and occasionally supersedes (but is\nnever superseded by) the information given in the general brochure for all non-JRF degree\nprogrammes. In particular, the notions of promotion and repeating a year, and the corre-\nsponding sections of the general brochure, do not apply to the M Tech CrS programme.\n3.1\nDuration of the programme\nThe expected time for completion of the programme is two years. A student may take upto\na maximum of three years for completion. However, after completion of the second year,\na student will not be eligible for stipends, contingency grants or hostel facilities. In special\ncircumstances, e.g., medical emergencies, exceptions to this rule may be made by the Dean,\nin consultation with the Teacher’s Committee/Mentor Committee, on a case by case basis.\n3.2\nWaiver of class attendance",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "in consultation with the Teacher’s Committee/Mentor Committee, on a case by case basis.\n3.2\nWaiver of class attendance\nFor a formative course, a student can bypass regular classes and claim credit by complet-\ning only the assignments and passing the examination(s). This may give the student the\nflexibility to attend an elective during that time, and thus complete the course requirements\nearly.\n• If a student opts for waiver of class attendance, (s)he is required to seek permission\nfrom the Mentor Committee.\n• The teacher of the course and the Dean’s Office need to be informed before the mid-\nsemester week.\n• The usual attendance requirement for the student in such cases would be completely\nwaived for the specific course.\n• Under this option, the student has to obtain at least 60% to pass.\n3.3\nRegistering for a course\nWithin 2 weeks of the start of a semester, a student will have to inform the Dean’s Office",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "• Under this option, the student has to obtain at least 60% to pass.\n3.3\nRegistering for a course\nWithin 2 weeks of the start of a semester, a student will have to inform the Dean’s Office\nthrough the Mentor Committee about the courses that (s)he is registering for. A student\ncannot opt out of a course after these 2 weeks. The scores obtained in all the courses thus\n5",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "registered will be recorded in the marksheet. Even after passing a course, a student may,\nwith the approval of the Mentor Committee, opt to take the course again in subsequent\nsemester(s). In such cases, the highest score obtained in the course across all attempts will\nbe considered when computing the student’s final result.\n3.4\nDissertation\nA student is required to work for a dissertation on a topic assigned/approved by the CrS\nDissertation Committee under a supervisor.\nThe work for a dissertation should be substantial and related to some important problem\nin an area of Cryptology and/or Information Security. It should have notable theoretical\nand/or practical significance. A critical review of recent advances in an area of Cryptology\nand/or Information Security, with some contributions by the student, is also acceptable as\na dissertation.\nDuration: The work for the dissertation should cover one semester, which will typically be",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "and/or Information Security, with some contributions by the student, is also acceptable as\na dissertation.\nDuration: The work for the dissertation should cover one semester, which will typically be\nthe fourth semester. A student who opts for finishing the degree programme in more than\ntwo years but within three years, as per guidelines in the brochure, can commence her/his\ndissertation at the beginning of the fifth or the sixth semester. The semester in which a\nstudent starts his/her dissertation will be called as the dissertation semester.\nThe assignment of dissertation topics and the evaluation of students’ work will be coor-\ndinated by a CrS Dissertation Committee that is to be formed by the Dean’s Office in\nconsultation with the Mentor Committee before the students of that batch are promoted to\ntheir second year.\nSupervisor: The dissertation shall be carried out under the guidance of a supervisor. Typ-",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "consultation with the Mentor Committee before the students of that batch are promoted to\ntheir second year.\nSupervisor: The dissertation shall be carried out under the guidance of a supervisor. Typ-\nically, the supervisor will be a full-time faculty member of ISI; however, joint supervision\nmay also be permitted. In cases of joint supervision, at least one of the supervisors must be\nan ISI faculty member.\nIn case of joint supervision, a student may choose to have a primary supervisor from outside\nthe Institute. In such cases, provided the student has completed all course requirements, the\nstudent may be permitted to spend the dissertation semester at the institution of the primary\nsupervisor. A student may also have a primary supervisor external to ISI while conducting\nthe dissertation work at ISI.\nThe primary supervisor must hold at least a PhD degree and be affiliated with a reputed\nacademic institution or industry. All cases of joint supervision must be approved by the\n6",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "CrS Dissertation Committee within the first four weeks of the dissertation semester. The\nselection of the supervisor for the dissertation of each student should be done within the\nfirst four weeks of the dissertation semester.\nEvaluation: An interim progress report of the dissertation work should be submitted at\nthe middle of the semester in which it was commenced (typically by the first week of\nApril in the fourth semester). This report will be evaluated by a committee formed by the\nCrS Dissertation Committee. The committee will consist of relevant ISI faculty and the\nsupervisor(s).\n• The student’s interim report would be judged either satisfactory or unsatisfactory.\n• If the report is found to be unsatisfactory, the CrS Dissertation Committee will, in\nconsultation with the supervisor(s), allow the student extra time (not exceeding a\nmonth) to make up. If the progress of the student is deemed to be satisfactory at this",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "consultation with the supervisor(s), allow the student extra time (not exceeding a\nmonth) to make up. If the progress of the student is deemed to be satisfactory at this\nsecond evaluation, (s)he will be allowed to continue with the dissertation. Otherwise,\nthe student will have to start the dissertation afresh in the beginning of the following\nsemester (typically the fifth semester), possibly with a different supervisor.\nThere will be no back paper for the dissertation.\nThe final dissertation should be submitted at the end of the semester in which it was com-\nmenced as indicated in the academic calendar (typically by the middle of June of the stan-\ndard year of completion of the batch). The dissertation will be evaluated out of 300 marks\nby a committee formed by the CrS Dissertation Committee. The committee will consist of\nrelevant ISI faculty, the supervisor(s) and one or more external expert(s). The student has\nto defend his/her dissertation in an open seminar.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "relevant ISI faculty, the supervisor(s) and one or more external expert(s). The student has\nto defend his/her dissertation in an open seminar.\nIf the final dissertation is not submitted within the stipulated deadline, or if the evaluation\ncommittee, as mentioned earlier, evaluates the student to have failed in the dissertation,\nthen the dissertation will be evaluated at the end of the next semester (typically the fifth\nsemester). Thus, if a student’s interim progress report is regarded as unsatisfactory, or if\ns/he fails the final dissertation evaluation, her/his dissertation will typically be re-evaluated\nat the end of the fifth semester.\nIf a student undertakes her/his dissertation during the fifth or sixth semesters, and fails in\nthe interim or the final evaluation organized by the CrS Dissertation Committee, then the\nDean and the Mentor Committee will decide on a case-by-case basis whether the student is",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "the interim or the final evaluation organized by the CrS Dissertation Committee, then the\nDean and the Mentor Committee will decide on a case-by-case basis whether the student is\nnot to be awarded the degree at all, or to be given one last chance to finish the dissertation if\nthe student has strong reasons for the failure. In these exceptional cases, while continuing\nto work on the dissertation for another semester, the student will be enrolled as an ISI\n7",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "student (full-time or part-time) but will not be eligible for stipend and hostel facilities. The\nallowable exceptions are only for valid medical grounds, to be decided upon by the Dean,\nin consultation with the concerned mentor committee.\n3.5\nInternship/industrial training\nThere would be a mandatory 12 weeks gap between the first and the second year in the\nacademic calendar. During this period, students may pursue internship/industrial training\noutside the institute in research institutes or public/private sector organizations in India or\nabroad. However, internship is not mandatory.\nA student who undergoes internship/industrial training somewhere in India during the\ntraining period may receive his/her usual monthly stipend/remuneration/emoluments ei-\nther from the Institute (ISI) or from the host organization at his/her own discretion with\nappropriate permission from the Dean. The students who are placed outside Kolkata for",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "ther from the Institute (ISI) or from the host organization at his/her own discretion with\nappropriate permission from the Dean. The students who are placed outside Kolkata for\ntraining will be reimbursed to and fro train fare from Kolkata to the place of internship as\nper ISI rules unless the host organization provides travel assistance.\nTraining may also be arranged at a research/R&D organization abroad. In case a student\nundergoes practical training at such a place abroad, the Institute (ISI) will not provide any\nfinancial support including the monthly stipend for that period.\n3.6\nFinal Result\nUpon passing the minimum number of courses and dissertation, the final percentage ob-\ntained by a student is to be computed out of 2000 marks, and is the sum of (a) the best\nseventeen scores obtained in the courses passed as per requirements3, and (b) the disserta-\ntion marks.\n3A student is required to pass 7 compulsory courses, 4 formative courses, and 6 elective courses (of which",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "tion marks.\n3A student is required to pass 7 compulsory courses, 4 formative courses, and 6 elective courses (of which\n4 are required to be CrS electives). However, (s)he may, with permission from the Mentor Committee, repeat\none or more of the compulsory courses, take more than 4 formative courses, or more than 6 elective courses.\nIn such cases, the final score will be computed using the best score obtained in each compulsory course, the\nbest 4 scores obtained in the formative courses, and the best 6 scores obtained in the elective courses (this\nmust include 4 CrS electives).\n8",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "3.7\nStipend\nOn admission, each student will receive the institute specified stipend, subject to the rules\ndescribed in the general brochure for all non-JRF degree courses, with the following modi-\nfication in respect of ‘Performance in coursework’ criterion. A student is eligible for a full\nstipend\n• in the first semester, only if (s)he registers for at least four courses;\n• in the second semester, only if (s)he\n– registers for a total of at least nine courses in the first two semesters, and\n– obtains at least 45% in each of at least four courses in the first semester with an\naverage score of 60% in the best four courses;\n• in the third semester, only if (s)he\n– registers for a total of at least fourteen courses in the first three semesters, and\n– obtains at least 45% in each of at least nine courses in the first two semesters\nwith an average score of 60% in the best nine courses;\n• in the fourth semester, only if (s)he obtains at least 45% in each of at least fourteen",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "with an average score of 60% in the best nine courses;\n• in the fourth semester, only if (s)he obtains at least 45% in each of at least fourteen\ncourses in the first three semesters with an average score of 60% in the best fourteen\ncourses.\nFurther, a student who is ineligible for a full stipend in the second, third or fourth semester,\nmay be eligible for a half-stipend in that semester (i.e., second, third or fourth semester)\nif (s)he fulfils the registration requirements, and gets at least 45% score in each of the\nminimum number of individual courses as per the schedule listed above.\n3.8\nMentor Committee\nA group of students entering the M.Tech. (CrS) programme in a particular year is treated\nas a batch. The Mentor Committee for each batch of students is announced at the time of\ntheir admission, and remains valid until all the students of that batch leave the programme.\nThis Committee advises the students on their choice of courses (including opting for a",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "their admission, and remains valid until all the students of that batch leave the programme.\nThis Committee advises the students on their choice of courses (including opting for a\ncourse more than once even after passing it), and as a matter of fact, on any other problem.\nStudents should approach the Mentor Committee if they face any problems.\n9",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "A student’s choice of courses in a semester needs to be approved by the Mentor Committee.\nStudents are required to submit the final course choice list to the Dean’s office, signed by\nthe members of the Mentor Committee for his/her batch, within 2 weeks from the start of\nthe semester.\nThe Chairperson of the Mentor Committee acts as the Class Teacher for all students in a\nparticular batch. All communications on academic matters with other authorities or statu-\ntory bodies of the institute by a student should be routed through the Class Teacher.\n3.9\nTeachers’ Committee\nThe Teachers’ Committee in a particular semester consists of all the teachers of the courses\n(including regular courses and lab courses) opted for by all students (across all years) of the\nMTCrS programme in that semester. The Chairperson and Convener of the existing Mentor\nCommittees will be invited members of the Teachers’ Committee. The Dean of Studies is",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "MTCrS programme in that semester. The Chairperson and Convener of the existing Mentor\nCommittees will be invited members of the Teachers’ Committee. The Dean of Studies is\nthe Chair of the Teachers’ Committee. Every decision related to the academic performance\nof a student is taken after deliberation in the relevant Teachers’ Committee. A decision\ncan be taken by any higher authority/statutory body only after the recommendations of the\nrelevant Teachers’ Committee have been taken into cognizance.\n3.10\nCrS Dissertation Committee\nThis committee, formed for a batch at the start of its second year, is responsible for the\nfollowing tasks:\n• Create a list of dissertation topics from the relevant faculty members and circulate\nthe list among the students of that batch. However, the students are free to choose a\ntopic outside the list, provided a faculty member agrees to supervise such a project.\n• Help a student with finding a Dissertation topic and supervisor, if needed.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "topic outside the list, provided a faculty member agrees to supervise such a project.\n• Help a student with finding a Dissertation topic and supervisor, if needed.\n• Approve cases of joint supervision.\n• Conduct evaluation of the dissertation at appropriate times.\n3.11\nPrizes\nAt the end of the four semesters of a particular batch, the Mentor Committee may nominate\na few students for their outstanding academic performances during this period, for awards.\n10",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "There will be no consideration of prize for semester-specific performance.\n4\nDetailed Syllabi of the Courses\nThe courses are categorised as compulsory, formative and elective. Each course has a de-\ntailed syllabus, a few prerequisites, the number of hours of class needed, marks distribution,\nand names of reference books.\nPrerequisites.\nMany courses have a few suggested prerequisite(s). The prerequisite courses\nhave to be passed either at ISI or in the undergraduate / postgraduate degrees obtained be-\nfore joining ISI. The students need to confirm with the concerned teacher if her/his pre-\nrequisite courses satisfy the demands of the particular course being taught at ISI. It is the\nresponsibility of the students to verify from the concerned teacher that they satisfy the\nprerequisites.\nMarks distribution.\nThe marks distribution given against each course is suggestive for\nthe teacher. A teacher of a course will announce within two weeks of the start of the course",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "prerequisites.\nMarks distribution.\nThe marks distribution given against each course is suggestive for\nthe teacher. A teacher of a course will announce within two weeks of the start of the course\nthe explicit marks distribution for the course. The marks distribution for each course has\ntwo components.\nExamination: This includes mid-semester and end-semester examinations. Except for the\nComputing Laboratory course that has no mid-semester and end semester examina-\ntions, all other courses have at least 50% weightage for the end-semester examina-\ntion.\nLab/assignment: This component includes the internal assessment marks and comprises\nprogramming assignments, written assignments, class tests, quizzes, etc.\n4.1\nCompulsory and Formative Courses\nAbstract Algebra and Number Theory\n(a) Groups: Elementary properties, subgroups and cosets, Lagrange’s theorem, cyclic\ngroups, normal subgroups and quotient groups, homomorphism and isomorphism,\n11",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "permutation groups, Sylow’s theorem and applications. Applications to number the-\nory. (4 weeks)\nRings and fields: Introduction to rings, subrings, ideals and quotient rings, homomor-\nphism and isomorphism, integral domains, principal ideal domain(PID), Euclidean\ndomain(ED), Euclidean algorithm for gcd, extended Euclidean algorithm, modu-\nlar inverse of an integer, Chinese Remainder Theorem(CRT), Euler’s ϕ-function,\nquadratic residues, ring of polynomials, irreducible polynomials, factorizations, fields,\nfield of fractions, finite fields. (7 weeks)\nSelected topics in number theory: For example, arithmetic functions, Diophantine\nequations, continued fractions. (3 weeks)\n(b) Prerequisites: None\n(c) References:\n1. I. Niven, H. S. Zuckerman, and H. L. Montgomery, An Introduction to the\nTheory of Numbers. Wiley, 1991.\n2. J. B. Fraleigh, First Course in Abstract Algebra. Narosa/Addison-Wesley, New\nDelhi/Reading, 1982/1978.\n3. I. N. Herstein, Topics in Algebra. John Wiley & Sons., 1987.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "2. J. B. Fraleigh, First Course in Abstract Algebra. Narosa/Addison-Wesley, New\nDelhi/Reading, 1982/1978.\n3. I. N. Herstein, Topics in Algebra. John Wiley & Sons., 1987.\n4. M. Artin, Algebra. Pearson, 2010.\n5. D. M. Burton, Elementary Number Theory. Allyn and Bacon, 1976.\nData Structures and Algorithms\n(a) Introduction: [2 weeks] Initial ideas of algorithms and their resource usage in terms\nof space and time complexity; RAM model, initial ideas of memory model and mem-\nory hierarchy; asymptotic notations; ideas of worst case, average case and amortized\ncase analysis;\nData Structure basics: [4 weeks] Idea of Abstract Data Types and its concrete im-\nplementation; Basic data structures – Lists, Array implementation of lists; Linked\nlists, Doubly linked lists. Initial ideas of Queue and Stack and their implementation.\nBinary trees and their traversal.\nAlgorithms and Data Structures for searching and sorting: [2 weeks] Binary search",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "Binary trees and their traversal.\nAlgorithms and Data Structures for searching and sorting: [2 weeks] Binary search\nand binary search trees; finding maximum and minimum, k largest elements in order;\nbasic sorting and searching algorithms; heaps and heapsort, priority queue.\n12",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "Basic Graph Algorithms and associated data structures: [3 weeks] Representation\nof graphs; traversal algorithms (BFS, DFS) and their applications using Queue and\nStack data structure; Kruskal’s and Prim’s Algorithms and the use of data structure.\nAdvanced data structures and their applications: [3 weeks] Union Find Data struc-\ntures, tree representation of a set, path compression techniques and analysis; Height-\nbalanced binary search trees; Range search using K-d tree; B-tree and B+ tree.\nProgramming practices: Apart from theoretical analysis of data structures, program-\nming implementations should be done as assignments. The Introduction to program-\nming and Computing Laboratory courses acts as a supplement to this course.\n(b) Prerequisites: None\n(c) References:\n1. T. A. Standish, Data Structures, Algorithms and Software Principles in C. Addison-\nWesley, Reading, Mass., 1995.\n2. L. Nyhoff, C++: An Introduction to Data Structures. Prentice Hall, Englewood\nCliffs, 1998.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "Wesley, Reading, Mass., 1995.\n2. L. Nyhoff, C++: An Introduction to Data Structures. Prentice Hall, Englewood\nCliffs, 1998.\n3. A. M. Tenenbaum, Y. Langsam and M. J. Augenstein, Data Structures Using C.\nPearson, 1998.\n4. D. E. Knuth, The Art of Computer Programming. Vol. 1, 3rd. ed. Narosa/Addison-\nWesley, New Delhi/London, 1997.\n5. T. A. Standish, Data Structure Techniques. Addison-Wesley, Reading, Mass.,\n1980.\n6. E. Horowitz and S. Sahni, Fundamentals of Data Structures. Galgotia Book-\nsource, New Delhi, 1977.\n7. R. L. Kruse, Data Structures and Program Design in C. Prentice Hall of India,\nNew Delhi, 1996.\n8. A. Aho, J. Hopcroft, and J. Ullman, Data Structures and Algorithms. Addison-\nWesley, Reading, Mass., 1983.\n9. B. Salzberg, File Structures: An Analytical Approach. Prentice Hall, New Jer-\nsey, 1988.\n10. T. Harbron, File System Structure and Algorithms. Prentice Hall, New Jersey,\n1987.\n11. P. E. Livadas, File Structure: Theory and Practice. Prentice Hall, New Jersey,\n1990.\n13",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "12. T. Coreman, C. Leiserson, R. Rivest and C. Stein, Introduction to Algorithms.\nPHI Learning Pvt. Ltd., New Delhi, 2009.\n13. S. Sahani, Data Structure, Algorithms and Applications in JAVA. Universities\nPress (India) Pvt. Ltd., New York, 2005.\n14. D. Wood, Data Structure, Algorithms and Performance. Addison-Wesley, Read-\ning, Mass., 1993.\n15. M. T. Goodrich, R. Tamassia and David Mount, Data Structures and Algorithms\nin C++. 2nd ed., Wiley, 2011.\n16. M. A. Weiss, Data Structures and Algorithms in C. 2nd ed., Pearson, 2020.\n17. Pat Morin, Open Data Structures. Athabasca University Press, 2020.\nComputer Networks\n(a) Introduction: Characteristics of computer networks, Network hardware, Network\nsoftware, Layered network structures and Reference models.\nData communication fundamentals: Analog and digital transmissions, Different trans-\nmission media, Different transmission impairments, Different modulation techniques,",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "Data communication fundamentals: Analog and digital transmissions, Different trans-\nmission media, Different transmission impairments, Different modulation techniques,\nChannel capacity, Basic concept of spread spectrum (DSSS and FHSS), Asynchronous\nand synchronous transmission, Multiplexing.\nCommunication networks: Introduction to LANs, MANs, and WANs; Switching\ntechniques (Circuit-switching and Packet-switching), Network topologies, Ethernet\nand its performance, Repeaters, Hub, bridges, Switches and Routers.\nData link layer: Basic functions and services, Framing techniques, Error detec-\ntion and correction, Flow control (Stop-and-wait and Sliding window), Performance\nanalysis of stop-and-wait and sliding window protocols, MAC Protocols (ALOHA,\nCSMA, CSMA/CD, Collision free protocols, Limited contention protocol), Perfor-\nmance analysis of different MAC protocols, Wireless LAN (MACA, CSMA/CA).\nNetwork Layer: Design issues, Internet protocols (IPV4, IPV6, ICMP, ARP, RARP,",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "mance analysis of different MAC protocols, Wireless LAN (MACA, CSMA/CA).\nNetwork Layer: Design issues, Internet protocols (IPV4, IPV6, ICMP, ARP, RARP,\nDHCP), IP addressing (Classful and Classless), Introduction to subnetting, NAT,\nRouting (Flooding, Distance vector, Link state), Congestion control (choke packets,\nleaky bucket, token bucket).\nTransport Layer: Design issues and services, Connection establishment and release,\nTCP, UDP, TCP congestion control, TCP timer management, RPC, Introduction to\nports, sockets and socket programming.\n14",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "Application Layer: WWW, Emails, DSN.\nNetwork Labs: Interprocess communications and socket programming: Implemen-\ntation and realization of simple echo client-server over TCP and UDP, proxy web\nserver, FTP, TELNET, Chat programs, DNS and HTTP. Implementation of client-\nserver applications using remote procedure call. Create sockets for handling multi-\nple connections and concurrent server. Simulating PING and TRACEROUTE com-\nmands.\n(b) Prerequisites: None\n(c) References:\n1. L. L. Peterson and B. S. Davie, Computer Networks: A Systems Approach.\nMorgan Kaufmann Publishers, 2007.\n2. A. S. Tanenbaum, Computer Networks. 5th ed., Prentice Hall, 2010.\n3. W. Stallings, Data and Computer Communcations. 10th ed., Prentice Hall,\n2017.\n4. D. P. Bertsekas and R. G. Gallagher, Data Networks. 2nd ed., Prentice Hall,\n1992.\n5. B. A. Forouzan, Data Communications and Networking. McGraw-Hill.\n6. W. R. Stevens, Unix Network Programming. PHI, 2009.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "1992.\n5. B. A. Forouzan, Data Communications and Networking. McGraw-Hill.\n6. W. R. Stevens, Unix Network Programming. PHI, 2009.\n7. W. R. Stevens, TCP/IP Illustrated. Volume 1: The Protocols, Addison-Wesley\nProfessional.\nDigital Design and Computer Architecture\n(a) Information representation: Number systems – binary, octal and hexadecimal num-\nbers, signed number representation, fixed and floating point representations, and\narithmetic.\nBoolean algebra: Postulates and fundamental theorems, Representation of Boolean\nfunctions, canonical forms, fundamental Boolean operations, Karnaugh Maps, Min-\nimizing Boolean functions.\nCombinational Logic Design: Logic gates, Adder, Subtractor, Comparator, decoder,\nMultiplexer, PLA.\nSequential Logic Design: Latches and Flip-Flops, Finite state models for sequen-\ntial machines, registers, shift register, ripple counters, synchronous counters; state\n15",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "diagrams, characteristics and excitation tables of various memory elements, state\nminimization for synchronous and asynchronous sequential circuits.\nALU Design: Addition of numbers – carry look-ahead and pre-carry vector ap-\nproaches, carry propagation-free addition. Multiplication - using ripple carry adders,\ncarry save adders, redundant number system arithmetic, Booth’s algorithm. Division\n- restoring and non-restoring techniques, using repeated multiplication. Floating-\npoint arithmetic, multiplication and addition algorithms. ALU design, instruction\nformats, addressing modes.\nProcessor Design: ISA and Microarchitecture design, hardware control unit design,\nPipelining, Out of order execution.\nMemory Organization: Random and serial access memories, static and dynamic\nRAMs, ROM. Cache Memory fundamentals.\nI/O Organization: Different techniques of addressing I/O devices, data transfer tech-\nniques, programmed interrupt, DMA.\n(b) Prerequisites: None\n(c) References:",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "RAMs, ROM. Cache Memory fundamentals.\nI/O Organization: Different techniques of addressing I/O devices, data transfer tech-\nniques, programmed interrupt, DMA.\n(b) Prerequisites: None\n(c) References:\n1. Z. Kohavi, Switching and Finite Automata Theory. 2nd ed., McGraw Hill, New\nYork, 1978.\n2. E. J. Mcclusky, Logic Design Principles. Prentice Hall International, New York,\n1986.\n3. John L. Hennessy and David A. Patterson, Computer Architecture: A Quanti-\ntative Approach. 2012.\n4. John L. Hennessy and David A. Patterson, Computer Organization and Design:\nThe Hardware/Software Interface. 2021.\n5. J. P. Hayes, Computer Architecture and Organization. McGraw Hill, New York,\n1988.\n6. P. P. Choudhury, Computer Organization and Design. Prentice Hall of India,\nNew Delhi, 1994.\n7. M. M. Mano, Computer System Architecture. 3rd ed., Prentice Hall of India,\nNew Delhi, 1993.\n8. W. Stallings, Computer Organization and Architecture: Principles of Structure",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "New Delhi, 1994.\n7. M. M. Mano, Computer System Architecture. 3rd ed., Prentice Hall of India,\nNew Delhi, 1993.\n8. W. Stallings, Computer Organization and Architecture: Principles of Structure\nand Function. 2nd ed., Macmillan, New York, 1990.\n16",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "Computing Laboratory\n(a) This laboratory course is meant to complement the Data Structures and Algorithms\nand Design and Analysis of Algorithms courses. The material, assignments and ex-\naminations are to be designed based on the coverage in those courses. The initial\nprogramming language can be C or can be decided by the instructor based on the\nbackground of the students. For this course, conventional mid-semester and end-\nsemester examinations may be replaced by programming tests.\nThe laboratory sessions should include but are not limited to:\nProblem solving techniques: recursion, divide-and-conquer, branch-and-bound, dy-\nnamic programming.\nFunction pointers, generic data structures, implementation of generic stacks and\nqueues.\nTrees: binary trees, recursive and non-recursive traversal of trees; heaps; binary\nsearch trees, implementation of balanced search trees (AVL / Red-Black tree).\nTries.\nDisjoint set data structures (union-find).",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "search trees, implementation of balanced search trees (AVL / Red-Black tree).\nTries.\nDisjoint set data structures (union-find).\nGraphs: directed and undirected graphs, adjacency matrix and list representations,\ntraversal algorithms and their applications; connected components, strongly con-\nnected components; shortest path algorithms; minimum spanning tree algorithms.\nIntroduction to other programming languages: C++ or Python.\nObject oriented programming: introduction, classes and methods, polymorphism,\ninheritance.\nProject management: multi-file programs, build systems (GNU make, CMake, Me-\nson or similar), version management using Git.\nProgram debugging and testing: elementary testing methods, developing the test\nplan, developing a test, concept of writing automation scripts using bash / tcsh (or\nsimilar).\n(b) Prerequisites: Introduction to Programming, Data Structures and Algorithms, De-\nsign and Analysis of Algorithms (may be taken concurrently)\n(c) References:",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "similar).\n(b) Prerequisites: Introduction to Programming, Data Structures and Algorithms, De-\nsign and Analysis of Algorithms (may be taken concurrently)\n(c) References:\n1. T. A. Standish, Data Structures, Algorithms and Software Principles in C. Addison-\nWesley, Reading, Mass., 1995.\n17",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "2. L. Nyhoff, C++: An Introduction to Data Structures. Prentice Hall, Englewood\nCliffs, 1998.\n3. A. M. Tenenbaum, Y. Langsam and M. J. Augenstein, Data Structures Using C.\nPearson, 1998.\n4. D. E. Knuth, The Art of Computer Programming. Vol. 1, 3rd. ed. Narosa/Addison-\nWesley, New Delhi/London, 1997.\n5. T. A. Standish, Data Structure Techniques. Addison-Wesley, Reading, Mass.,\n1980.\n6. E. Horowitz and S. Sahni, Fundamentals of Data Structures. Galgotia Book-\nsource, New Delhi, 1977.\n7. R. L. Kruse, Data Structures and Program Design in C. Prentice Hall of India,\nNew Delhi, 1996.\n8. A. Aho, J. Hopcroft, and J. Ullman, Data Structures and Algorithms. Addison-\nWesley, Reading, Mass., 1983.\n9. B. Salzberg, File Structures: An Analytical Approach. Prentice Hall, New Jer-\nsey, 1988.\n10. T. Harbron, File System Structure and Algorithms. Prentice Hall, New Jersey,\n1987.\n11. P. E. Livadas, File Structure: Theory and Practice. Prentice Hall, New Jersey,\n1990.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "sey, 1988.\n10. T. Harbron, File System Structure and Algorithms. Prentice Hall, New Jersey,\n1987.\n11. P. E. Livadas, File Structure: Theory and Practice. Prentice Hall, New Jersey,\n1990.\n12. T. Cormen, C. Leiserson, R. Rivest and C. Stein, Introduction to Algorithms.\nPHI Learning Pvt. Ltd., New Delhi, 2009.\n13. S. Sahni, Data Structure, Algorithms and Applications in JAVA. Universities\nPress (India) Pvt. Ltd., New York, 2005.\n14. D. Wood, Data Structure, Algorithms and Performance. Addison-Wesley, Read-\ning, Mass., 1993.\n15. M. T. Goodrich, R. Tamassia and David Mount, Data Structures and Algorithms\nin C++. 2nd ed., Wiley, 2011.\n16. B. W. Kernighan and D. M. Ritchie, The C Programming Language. Prentice\nHall of India, 1994.\n17. B. Gottfried: Programming in C, Schaum Outline Series, New Delhi, 1996.\n18. B. W. Kernighan and R. Pike, The Unix Programming Environment. Prentice\nHall of India, 1996.\n19. R. G. Dromey, How to Solve it by Computers. Pearson, 2008.\n18",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "Cryptology I\n(a) Symmetric-Key encryption:\ni. Classical ciphers (like Shift, Substitute, Affine, Vigen`ere, Hill) and their crypt-\nanalysis;\nii. Information Theoretic Security, and One-Time Pad;\niii. Pseudorandom Generators (PRG) and Stream ciphers (like CSS, RC4, Trivium,\nSalsa/ChaCha); Cryptanalysis of Stream Ciphers;\niv. Pseudorandom Function (PRF) and Pseudorandom Permutation (PRP); Block\nciphers (like DES, AES); Cryptanalysis of Block ciphers;\nv. Mode of Operations;\nvi. Notion of CPA and CCA security with examples;\nCryptographic hash functions: Preimage, Second-Preimage and Collision resistance,\nMerkle-Damgard Transform; Universal and Almost-Universal hash functions;\nSymmetric-Key authentication: Message Authentication Code (MAC) (like CBC-\nMAC, NMAC, HMAC), and their cryptanalysis;\nModern modes of operations: Authenticated Encryption;\nKey Exchange Protocol: The Diffie-Hellman key exchange and its cryptanalysis;",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "MAC, NMAC, HMAC), and their cryptanalysis;\nModern modes of operations: Authenticated Encryption;\nKey Exchange Protocol: The Diffie-Hellman key exchange and its cryptanalysis;\nIntroduction to Public-key encryption (like The RSA, ElGamal, Rabin, Paillier en-\ncryption schemes) and their cryptanalysis;\nDigital Signatures (like RSA, ElGamal, DSA) and their cryptanalysis;\nElliptic curve based Cryptography: The group of points on an elliptic curve; Elliptic\ncurves over finite fields; The curve P256; The Montgomery and Edwards curves:\ncurve 25519; ECDH and ECDSA;\n(b) Prerequisites: None\n(c) References:\n1. J. Katz and Y. Lindell, Introduction to Modern Cryptography. Chapman &\nHall/CRC, 2007.\n2. D. R. Stinson, Cryptography Theory and Practice. 3rd ed., Chapman & Hall/CRC,\n2006.\n3. D. Boneh, V. Shoup, A Graduate Course in Applied Cryptography, 2023. (Source:\nhttp://toc.cryptobook.us).\n19",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 53,
+      "text": "4. B. S. Schneier, Applied Cryptography: Protocols, Algorithms, and Source Code\nin C. 2nd ed., John Wiley & Sons, New York, 1995.\n5. A. Menezes, P. C. Van Oorschot, and S. A. Vanstone, Handbook of Applied\nCryptography. CRC Press, Boca Raton, 1996.\nCryptology II\n(a) Theoretical construction of pseudorandom objects: One way functions, pseudoran-\ndom generators, pseudorandom functions and pseudorandom permutations.\nPublic-Key Encryption and Commitments: El-Gamal and its variants, additively ho-\nmomorphic encryptions; CCA-security - Fujisaki Okamoto; Cramer-Shoup; Com-\nmitment Schemes; Pedersen, Hash commitments;\nZero-Knowledge Proofs: Knowledge Extraction; Zero-knowledge Simulation; Sigma\nProtocols (like Schnorr Chaum-Pederson; Okamoto’s); General Sigma Protocols for\nany algebraic relations; Existential Soundness; OR proofs; Proof of Equal Plaintext;\nProof of 1-bit messages;\nSecure Multiparty Computations: Idea of Simulation-based definition; Oblivious",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 54,
+      "text": "any algebraic relations; Existential Soundness; OR proofs; Proof of Equal Plaintext;\nProof of 1-bit messages;\nSecure Multiparty Computations: Idea of Simulation-based definition; Oblivious\nTransfer; Yao’s Garbled Circuits; GMW- dishonest majority; BGW - honest ma-\njority; Beaver’s protocol in the pre-processing model - maliciously secure; MPC in\nthe head - ZK from MPC;\nBilinear pairings: Bilinear pairings; Signature schemes from bilinear pairings; Identity-\nbased encryption; Broadcast encryption.\nLattice Based Cryptology: Integer lattices; hard problems on lattices: SIS, LWE\nand ring LWE problems; Trapdoor sampling from lattices; signatures and encryption\nschemes from lattices;\nSome other relevant topics may be covered – however it will depend on the instructor;\n(b) Prerequisites: Cryptology I\n(e) References:\n1. O. Goldreich, Foundations of Cryptography Vol 1 and 2, Cambridge University\nPress.\n2. D. Boneh and V Shoup, A Graduate Course in Applied Cryptography. (Source:",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 55,
+      "text": "(e) References:\n1. O. Goldreich, Foundations of Cryptography Vol 1 and 2, Cambridge University\nPress.\n2. D. Boneh and V Shoup, A Graduate Course in Applied Cryptography. (Source:\nhttp://toc.cryptobook.us)\n20",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 56,
+      "text": "3. S. D. Galbraith, Mathematics of Public Key Cryptography. Cambridge Univer-\nsity Press, 2012.\n4. R. Pass and A. Shelat, A Course in Cryptography, Lecture notes. (Source:\nhttps://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.\npdf)\n5. D. Micciancio, S. Goldwasser, Complexity of Lattice Problems: A Crypto-\ngraphic Perspective. Kluwer, 2002.\n6. L. C. Washington, Elliptic Curves: Number Theory and Cryptography. 2nd ed.,\nCRC Press 2008.\n7. S. Chatterjee and P. Sarkar, Identity-Based Encryption. Springer, 2011.\nComputing Systems Security\n(a) Computer Security : Linux Security Basics, Set-UID Privileged Programs, Shell-\nshock Attack, Buffer-Overflow Attacks, Return-to-Libc Attacks, Race Condition,\nDirty COW Attack, Meltdown and Spectre Attacks, Format String Attacks\nInternet Security: Network Basics, Packet Sniffing and Spoofing, MAC Layer and\nAttacks, Network Layer: IP, ICMP and Attacks, Transport Layer: UDP and Attacks,",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 57,
+      "text": "Internet Security: Network Basics, Packet Sniffing and Spoofing, MAC Layer and\nAttacks, Network Layer: IP, ICMP and Attacks, Transport Layer: UDP and Attacks,\nTansport Layer: TCP and Attacks, DNS and Attacks, Virtual Private Network (VPN),\nFirewall, BGP Routing and Attacks, Heartbleed Attack\nWeb Security: Web Security Basics, Cross-Site Request Forgery Attack, Cross-Site\nScripting Attack, SQL Injection Attack, Clickjacking Attack\n(b) Prerequisites: Operating Systems, Computer Networks, Discrete Mathematics\n(c) References:\n1. Computer & Internet Security: A Hands-on Approach, Wenliang Du.\n2. Computer Security: A Hands-on Approach, Wenliang Du.\n3. Internet Security: A Hands-on Approach, Wenliang Du.\n4. C. P. Pfleeger, S. L. Pfleeger, and J. Margulies, Security in Computing. 5th ed.,\nPrentice Hall, 2015.\n5. D. Wheeler, Secure Programming HOWTO. (Source: https://www.dwheeler.\ncom/secure-programs/)\n21",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 58,
+      "text": "6. M. Zalewski, Browser Security Handbook. Michael Zalewski, Google. (Source:\nhttps://code.google.com/archive/p/browsersec/wikis/Main.\nwiki)\n7. B. S. Schneier, Applied Cryptography: Protocols, Algorithms, and Source Code\nin C. 2nd ed., John Wiley & Sons, New York, 1995.\n8. A. Menezes, P. C. Van Oorschot, and S. A. Vanstone, Handbook of Applied\nCryptography. CRC Press, Boca Raton, 1996.\nDatabase Management Systems\n(a) Introduction: Purpose of database systems, data abstraction and modelling, instances\nand schemes, database manager, database users and their interactions, data definition\nand manipulation language, data dictionary, overall system structure.\nRelational model: Structure of a relational database, operation on relations, relational\nalgebra, tuple and domain relational calculus, salient feature of a query language.\nSQL: domain types, construction, alteration and deletion of tables, query structure",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 59,
+      "text": "algebra, tuple and domain relational calculus, salient feature of a query language.\nSQL: domain types, construction, alteration and deletion of tables, query structure\nand examples, natural joins and other set operations, aggregations, nested subqueries,\ninserting, modifying and deleting data, advanced joins, views, transactions, integrity\nconstraints, cascading actions, autorization and roles. Hands on and practical assign-\nments.\nEntity - relationship model: Entities and entity sets, relationships and relationship\nsets, mapping constraints, E - R diagram, primary keys, strong and weak entities,\nreducing E - R diagrams to tables.\nIntroduction to hierarchical and network model: Data description and tree structure\ndiagram for hierarchical model, retrieval and update facilities, limitations; Database\ntask group (DDBTG) model, record and set constructs retrieval and update facilities,\nlimitations.\nDatabases in application development: cursors, database APIs, JDBC and ODBC,",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 60,
+      "text": "task group (DDBTG) model, record and set constructs retrieval and update facilities,\nlimitations.\nDatabases in application development: cursors, database APIs, JDBC and ODBC,\nJDBC drivers, Connections, Statements, ResultSets, Exceptions and Warnings. Prac-\ntical case studies.\nNormalization: Anomalies in RDBMS, importance of normalization, functional,\nmulti-valued and join dependencies, closures of functional dependencies and at-\ntribute sets, 1NF, 2NF, 3NF and BCNF; (Optionally) 4NF, 5NF and 6NF; Discussion\non tradeoff between performance and normalization.\n22",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 61,
+      "text": "Database tuning: Index selection and clustering, tuning of conceptual schema, de-\nnormalization, tuning queries and views;\nQuery optimization: Importance of query processing, equivalence of queries, join\nordering, cost estimation, cost estimation for complex queries and joins, optimizing\nnested subqueries, I/O cost models, external sort.\nCrash recovery: Failure classification, transactions, log maintenance, check point\nimplementation, shadow paging, example of an actual implementation. Concurrency\nControl in RDBMS: Testing for serializability, lock based and time - stamp based\nprotocols; Deadlock detection and Recovery.\nNoSQL: Introduction to NoSQL databases, ACID vs BASE requirements, practical\nexercises with one NoSQL system (e.g., MongoDB or Neo4j).\nMapReduce and Hadoop: Basics of MapReduce, Basics of Hadoop, Matrix-vector\nmultiplication using MapReduce, relational algebra using MapReduce, matrix mul-\ntiplication using MapReduce, combiners, cost of MapReduce algorithms, basics of",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 62,
+      "text": "multiplication using MapReduce, relational algebra using MapReduce, matrix mul-\ntiplication using MapReduce, combiners, cost of MapReduce algorithms, basics of\nSpark, practical exercises using Spark.\n(b) Prerequisites: None\n(c) References:\n1. A. Silberschatz, H. F. Korth and S. Sudarshan, Database System Concepts. Tata\nMcGraw-Hill, 6th ed., 2011. (Source: http://www.db-book.com)\n2. R. Ramakrishnan and J. Gehrke, Database Management Systems, McGraw-Hil,\n3rd ed., 2007. (Source: http://pages.cs.wisc.edu/˜dbbook)\n3. J. Leskovec, A. Rajaraman, J. Ullman, Mining of Massive Datasets. (Source:\nhttp://www.mmds.org)\n4. C. J. Date, An Introduction to Database Systems, Pearson Education, Inc., 8th\ned., 2006.\n5. R. Elmasri and S. B. Navathe, Fundamentals of Database Systems. Pearson\nEducation, Inc., 4th ed., 2004.\n6. G. Harrison and S. Feuerstein, MySQL stored procedure programming. O’Reilly\nMedia, Inc., 2006.\n7. P. J. Sadalage and M. Fowler, NoSQL distilled: a brief guide to the emerging",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 63,
+      "text": "6. G. Harrison and S. Feuerstein, MySQL stored procedure programming. O’Reilly\nMedia, Inc., 2006.\n7. P. J. Sadalage and M. Fowler, NoSQL distilled: a brief guide to the emerging\nworld of polyglot persistence. Pearson Education, Inc., 1st ed., 2013.\n23",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 64,
+      "text": "Design and Analysis of Algorithms\n(a) Paradigms of Algorithm Design and sorting and selection: [2 weeks] Initial ideas\nof algorithmic paradigms like divide-and-conquer, greedy, induction, dynamic pro-\ngramming, etc. Comparisons between various sorting algorithms, Quick sort (Av-\nerage case complexity), lower bounds on comparison based sorting algorithm, non-\ncomparative (linear time) sorting algorithms;\nRecursive Algorithms: [2 weeks] Karatsuba Algorithm; Median Finding Algorithm;\nStrassen’s Algorithm; Dynamic Programming Algorithms – longest common subse-\nquence, matrix chain multiplication, etc.\nHashing: [1 weeks] Hash tables, hash functions, open addressing, perfect hashing.\nGraph Algorithms: [2 weeks] Shortest Path Algorithms; Applications of depth\nfirst search – cycle detection in graph, topological sort, articulation points in graphs,\nstrongly connected components; Network Flow – Max-Flow Min-Cut theorem, Max-\nflow algorithms like Ford-Fulkerson;",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 65,
+      "text": "strongly connected components; Network Flow – Max-Flow Min-Cut theorem, Max-\nflow algorithms like Ford-Fulkerson;\nAlgorithms from different domains: [2 weeks] FFT, Number Theoretic Algo-\nrithms, Geometric Algorithms – convex hull, line segment intersection.\nRandomized Algorithms: [1 week] Randomized quicksort, Min-cut, Universal Hash-\ning.\n“Hard” Problems: [3 weeks] P vs. NP, NP-completeness, statement of Cook’s theo-\nrem, some important NP-complete problems, problems beyond NP, ideas on attack-\ning NP-complete problems, using reductions to solve hard problems.\nApproximation Algorithms: [1 week] Constant multiplicative factor approximation\nalgorithms – bin packing, vertex cover, Euclidean traveling salesman problem, etc.\nnotions of hardness of approximation.\n(b) Prerequisites: None\n(c) References:\n1. A. Aho, J. Hopcroft and J. Ullman, The Design and Analysis of Computer\nAlgorithms. A. W. L, International Student Edition, Singapore, 1998.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 66,
+      "text": "(b) Prerequisites: None\n(c) References:\n1. A. Aho, J. Hopcroft and J. Ullman, The Design and Analysis of Computer\nAlgorithms. A. W. L, International Student Edition, Singapore, 1998.\n2. S. Baase, Computer Algorithms: Introduction to Design and Analysis. 2nd ed.,\nAddison- Wesley, California, 1988.\n3. T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, Introduction to Algo-\nrithms. third edition, MIT Press, 2009.\n24",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 67,
+      "text": "4. E. Horowitz and S. Sahni, Fundamental of Computer Algorithms. Galgotia Pub.\n/Pitman, New Delhi/London, 1987/1978.\n5. K. Mehlhorn, Data Structures and Algorithms. Vol. 1 and Vol. 2, Springer-\nVerlag, Berlin, 1984.\n6. A. Borodin and I. Munro, The Computational Complexity of Algebraic and\nNumeric Problems. American Elsevier, New York, 1975.\n7. D. E. Knuth, The Art of Computer Programming. Vol. 1, 2nd ed., Narosa/Addison-\nWesley, New Delhi/London, 1973; Vol. 2: 2nd ed., Addison-Wesley, London,\n1981; Vol. 3: Addison-Wesley, London, 1973.\n8. S. Winograd, The Arithmetic Complexity of Computation. SIAM, New York,\n1980.\n9. S. Dasgupta, C. Papadimitriou, U. Vazirani, Algorithms. McGraw Hill India,\nChennai.\n10. J. Kleinberg and E. Tardos, Algorithm Design. Pearson Education.\n11. M. Mitzenmacher and E. Upfal, Probability and Computing: Randomized Al-\ngorithms and Probabilistic Analysis. Cambridge University Press.\nDiscrete Mathematics",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 68,
+      "text": "11. M. Mitzenmacher and E. Upfal, Probability and Computing: Randomized Al-\ngorithms and Probabilistic Analysis. Cambridge University Press.\nDiscrete Mathematics\n(a) Combinatorics: [6 weeks] Introduction to posets, relations, asymptotic notations,\nproof techniques, induction on sets and graphs, multinomial theorem, principle of\ninclusion exclusion; pigeonhole principle; Counting using (in)distinguishable balls\nand (in)distinguishable bins, functions and counting, Stirling number; Recurrences\nand ways to solve them, solving recurrences using asymptotic notations. Generating\nfunctions. Introduction to Probabilistic methods.\nGraph Theory: [6 weeks] Graphs and digraphs, isomorphism, connectedness and\nreachability, representation of graphs, Eulerian paths and circuits in graphs and di-\ngraphs, Hamiltonian paths and circuits in graphs and tournaments, trees; Minimum\nspanning tree, rooted trees and binary trees, planar graphs, Euler’s formula, statement",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 69,
+      "text": "graphs, Hamiltonian paths and circuits in graphs and tournaments, trees; Minimum\nspanning tree, rooted trees and binary trees, planar graphs, Euler’s formula, statement\nof Kuratowski’s theorem, dual of a planar graph, independence number and clique\nnumber, chromatic number, statement of Four-color theorem, dominating sets and\ncovering sets, matching, network flows\nBasic Logic: [2 weeks] Introduction to propositional logic – propositions and con-\nnectives, syntax; semantics – truth assignments and truth tables, validity and satisfia-\n25",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 70,
+      "text": "bility, tautology; Adequate set of connectives; Introduction to quantifers - first order\nlogic over simple relational vocabulary.\n(b) Prerequisites: None\n(c) References:\n1. C. L. Liu, Elements of Discrete Mathematics. McGraw Hill, 1985.\n2. D. B. West, Introduction to Graph Theory. Pearson, 2000.\n3. R. Diestel, Graph Theory. Springer, 2010.\n4. F. Harary, Graph Theory. Narosa Publishing House, 2001.\n5. E. Mendelsohn, Introduction to Mathematical Logic. Van-Nostrand, 1979.\n6. J. Matousek and J. Nesetril, Invitation to Discrete Mathematics Paperback. Ox-\nford University Press, 2009.\n7. D. West, Combinatorial Mathematics. Cambridge University Press, 2021.\n8. T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Al-\ngorithms. MIT Press, 1990.\nLinear Algebra\n(a) Matrices and System of Equations: System of Linear Equations, Row Echelon Form,\nMatrix Arithmetic, Matrix Algebra, Elementary Matrices, Partitioned Matrices, De-\nterminant and its properties.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 71,
+      "text": "(a) Matrices and System of Equations: System of Linear Equations, Row Echelon Form,\nMatrix Arithmetic, Matrix Algebra, Elementary Matrices, Partitioned Matrices, De-\nterminant and its properties.\nVector Spaces: Definition and Examples, Subspaces, Linear Independence, Basis\nand Dimension, Change of Basis, Row Space, Column Space, Null space\nInner product spaces: The Euclidean dot product, Orthogonal Subspaces, Least Squares\nProblems, Orthonormal Sets, The Gram-Schmidt Orthogonalization Process, Or-\nthogonal Polynomials\nLinear Transformations: Definition and Examples, Matrix Representations of Linear\nTransformations, Similarity\nEigenvalues and Eigenvectors: System of Linear Differential Equations, Diagonal-\nization, Hermitian Matrices, Singular Value Decomposition.\nQuadratic Forms: Classifiction and characterisations, Optimisation of quadratic forms.\nAlgorithms: Gaussian Elimination with different Pivoting Strategies; Matrix Norms",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 72,
+      "text": "Quadratic Forms: Classifiction and characterisations, Optimisation of quadratic forms.\nAlgorithms: Gaussian Elimination with different Pivoting Strategies; Matrix Norms\nand Condition Numbers; Orthogonal Transformations; The Eigenvalue Problem;\nLeast Squares Problems.\n26",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 73,
+      "text": "(b) Prerequisites: None\n(c) References:\n1. G. Strang, Introduction to Linear Algebra. 5th ed., Wellesley - Cambridge\nPress, 2016.\n2. S. Axler, Linear Algebra Done Right. 4th ed., Springer, 2025.\n3. G. H. Golub and C. F. Van Loan, Matrix Computations. 4th Edition, The Johns\nHopkins University Press, Baltimore, 2013.\nIntroduction to Programming\n(a) Introduction to UNIX-like systems.\nBasics of C programming: variables, operators, expressions, control flow (sequen-\ntial, conditional, repetitive, using factorial, Fibonacci, GCD, etc. as examples), basic\nI/O, arrays, strings, pointers, functions, parameter passing (call by value, call by ref-\nerence), structures, unions, dynamic memory allocation, multi-dimensional arrays,\nrecursion, preprocessor directives, file I/O.\nLinked lists, stacks, queues, circular queues: implementation of basic operations\n(insertion, deletion, reversal, etc.) and applications (prefix, infix, postfix expressions,",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 74,
+      "text": "Linked lists, stacks, queues, circular queues: implementation of basic operations\n(insertion, deletion, reversal, etc.) and applications (prefix, infix, postfix expressions,\npolynomial addition and multiplication, sparse matrix multiplication and addition,\netc.).\nSorting: insertion, selection, bubble sort, merge sort, quick sort; binary search.\nHashing: hash table implementation, searching, insertion and deletion.\nWriting and using multi-file programs and libraries.\nEfficient programming.\nMemory management in programs: call stack, heap management.\nDebugging tools: GDB, Valgrind.\n(b) Prerequisite(s): None\n(c) References:\n(a) B. W. Kernighan and D. M. Ritchie, The C Programming Language. Prentice\nHall, 1980.\n(b) B. Gottfried, Programming in C. Schaum Outline Series, 1996.\n27",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 75,
+      "text": "(c) B. Stroustrup, The C++ Programming Language. 2nd ed., Addison-Wesley,\n1995.\n(d) C. S. Horstmann, Core Java Volume I – Fundamentals. 11th ed., Prentice Hall,\n2018.\n(e) J. Bloch, Effective Java. 3rd ed., Addison-Wesley, 2018.\n(f) B. W. Kernighan and R. Pike, The Practice of Programming, Addison-Wesley.\n(g) B. W. Kernighan and R. Pike, The Unix Programming Environment. Prentice\nHall.\nOperating Systems\n(a) Introduction: Basic architectural concepts, interrupt handling, concepts of batch-\nprocessing, multiprogramming, time-sharing, real-time operations; Resource Man-\nager view, process view and hierarchical view of an OS.\nMemory management: Partitioning, paging, concepts of virtual memory, demand-\npaging – page replacement algorithms, working set theory, load control, segmenta-\ntion, segmentation and demand-paging, Cache memory management.\nProcess management: CPU scheduling – short-term, medium term and long term",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 76,
+      "text": "tion, segmentation and demand-paging, Cache memory management.\nProcess management: CPU scheduling – short-term, medium term and long term\nscheduling, non-preemptive and preemptive algorithms, performance analysis of mul-\ntiprogramming, multiprocessing and interactive systems; Concurrent processes, prece-\ndence graphs, critical section problem - 2-process and n-process software and hard-\nware solutions, semaphores; Classical process co-ordination problems, Producer-\nconsumer problem, Reader-writer problem, Dining philosophers problem, Barber’s\nshop problem, Interprocess communication.\nConcurrent Programming: Critical region, conditional critical region, monitors, con-\ncurrent languages (eq. concurrent Pascal), communicating sequential process (CSP);\nDeadlocks: prevention, avoidance, detection and recovery.\nDevice Management: Scheduling algorithms – FCFS, shortest-seek-time-first, SCAN,\nC-SCAN, LOOK, C-LOOK algorithms, spooling, spool management algorithm.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 77,
+      "text": "Device Management: Scheduling algorithms – FCFS, shortest-seek-time-first, SCAN,\nC-SCAN, LOOK, C-LOOK algorithms, spooling, spool management algorithm.\nInformation Management: File concept, file support, directory structures, symbolic\nfile directory, basic file directory, logical file system, physical file system, access\nmethods, file protection, file allocation strategies.\nProtection: Goals, policies and mechanisms, domain of protection, access matrix and\nits implementation, access lists, capability lists, Lock/Key mechanisms, passwords,\ndynamic protection scheme, security concepts and public and private keys, RSA en-\ncryption and decryption algorithms.\n28",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 78,
+      "text": "A case study: UNIX OS file system, shell, filters, shell programming, programming\nwith the standard I/O, UNIX system calls.\n(b) Prerequisites: None\n(c) References:\n1 A. Silberschatz and P. B. Galvin, Operating Systems Concepts. 5th ed., John\nWiley and Sons, New York, 1998.\n2 J. L. Peterson and A. Silberschatz, Operating Systems Concepts. Addison-\nWesley, Reading, Mass., 1987.\n3 P. B. Hansen, Operating System Principles, Prentice Hall, Englewood Cliffs,\n1980.\n4 A. S. Tannenbaum, Modern Operating Systems.\nPrentice Hall, Englewood\nCliffs, 1992.\n5 S. E. Madnick and J. J. Donovan, Operating Systems. McGraw Hill, New York,\n1974.\nProbability and Stochastic Processes\n(a) Introduction: Sample space, probabilistic models and axioms, conditional probabil-\nity, Total probability theorem and Bayes’ rule, independence.\nDiscrete random variables: basics, probability mass functions, functions of random\nvariables, expectation, variance, joint probability mass functions, conditioning and",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 79,
+      "text": "Discrete random variables: basics, probability mass functions, functions of random\nvariables, expectation, variance, joint probability mass functions, conditioning and\nindependence, notions of Bernoulli, Binomial, Poisson, Geometric, etc., covariance\nand correlation, conditional expectation and variance, some introduction to proba-\nbilistic methods.\nContinuous random variables: basics, probability density functions, cumulative dis-\ntribution function, normal random variable.\nMoments and deviations: Markov’s inequality, Chebyshev’s inequality, Chernoff\nbounds\nLimit theorems: Weak law of large numbers, central limit theorem, strong law of\nlarge numbers (proofs under some restrictive setups, if possible.)\nStochastic processes: Bernoulli and Poisson processes, branching processes. Markov\nchains, classification of states, ideas of stationary distributions. Introduction to Mar-\ntingales and stopping times.\n29",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 80,
+      "text": "Applications to computer science: Balls and bins, birthday paradox, hashing, sorting,\nrandom walks, etc.\n(b) Prerequisites: None\n(c) References:\n1. D. P. Bertsekas and J. N. Tsitsiklis, Introduction to Probability. 2nd ed., Athena\nScientific, 2008.\n2. W. Feller, An Introduction to Probability and its Applications. Volume I (3rd\nEdition), Wiley, 2008\n3. W. Feller, An Introduction to Probability and its Applications. Volume II (2nd\nEdition), John Wiley & Sons, Inc, 1971.\n4. S. Ross, A First Course in Probability, 11th ed., Academic Press, 2014.\n5. N. Alon and J. Spencer, The Probabilistic Method. 4th ed., Wiley-Blackwell,\n2016.\n6. M. Mitzenmacher and E. Upfal, Probability and Computing. 2nd ed., Cam-\nbridge University Press, 2017.\nStatistical Methods\n(a) Review of Descriptive statistics: Representation of Data (collection, tabulation and\ndiagrammatic representation of different types of univariate and bivariate data); Mea-",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 81,
+      "text": "Statistical Methods\n(a) Review of Descriptive statistics: Representation of Data (collection, tabulation and\ndiagrammatic representation of different types of univariate and bivariate data); Mea-\nsures of Central Tendency (Mean, Median, Quartiles and Percentiles, Trimmed Mean,\nMode); Measures of Dispersion (Range, Variance and Standard Deviation, Mean De-\nviation, Quartile Deviation), Measures of Shape (Skewness, Kurtosis), Contingency\nTable\nCorrelation: Pearson’s product-moment correlation coefficient, Spearman’s rank cor-\nrelation, Kendall’s tau statistic.\nRegression: Simple and multiple linear regression, Method of least squares.\nEstimation: Method of moments, Method of maximum likelihood estimation.\nHypothesis Testing: Concept of null and alternative hypotheses, Acceptance and\ncritical regions, Probabilities of Type I and Type II errors, Level and Power of a test,\nMost powerful tests, Tests for mean and variance of a normal distribution, Random-",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 82,
+      "text": "critical regions, Probabilities of Type I and Type II errors, Level and Power of a test,\nMost powerful tests, Tests for mean and variance of a normal distribution, Random-\nized test, Tests for parameters of Binomial and Poisson distributions. Concept of\n30",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 83,
+      "text": "P-value, Z-test, paired and unpaired t-test, Likelihood ratio tests, χ2 test for categor-\nical data.\nInterval Estimation: Interval estimation and its connection with hypothesis testing.\nInterval estimation for parameters of normal, binomial and Poisson distributions.\nANOVA: Fixed effect model for one-way classified data, two-way classified data\nwith one observation per cell (if time permits).\nBayesian Estimation and Bayesian Statistical Testing\n(b) Prerequisite: None.\n(c) References:\n1. C. E. Croxton and D. J. Cowden, Applied General Statistics, Pitman Publishing,\n3rd ed., 1968.\n2. M. J. Schervish, Theory of Statistics. Springer Series in Statistics, 1995.\n3. D. Montgomery and G. C. Runge, Applied Statistics and Probability for Engi-\nneers, Wiley, 1994.\n4. A. M. Goon, M. Gupta and B. Dasgupta, Fundamentals of Statistics. Vol I, II,\nIII and IV, World Press.\nTheory of Computation\n(a) Automata and Languages: Finite automata, regular languages, regular expressions,",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 84,
+      "text": "III and IV, World Press.\nTheory of Computation\n(a) Automata and Languages: Finite automata, regular languages, regular expressions,\ndeterministic and non-deterministic finite automata, minimization of finite automata,\nclosure properties, Kleene’s Theorem, Pumping Lemma and its application, Myhill-\nNerode theorem and its uses; Context-free grammars, context-free languages, Chom-\nsky normal form, closure properties, Pumping Lemma for context-free languages,\npush down automata.\nComputability: Computable functions, primitive and recursive functions, universal-\nity, halting problem, recursive and recursively enumerable sets, parameter theorem,\ndiagonalisation, reducibility, Rice’s Theorem and its applications. Turing machines\nand variants; Equivalence of different models of computation and Church-Turing\nthesis.\nIntroduction to Complexity: Discussions on time and space complexities; P and NP,\nNP-completeness, Cook’s Theorem, other NP-Complete problems; PSPACE; poly-\nnomial hierarchy.\n31",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 85,
+      "text": "(b) Prerequisites: Discrete Mathematics\n(c) References:\n1. N. J. Cutland, Computability: An Introduction to Recursive Function Theory.\nCambridge University Press, London, 1980.\n2. M. D. Davis, R. Sigal and E. J. Weyuker, Complexity, Computability and Lan-\nguages. Academic Press, New York, 1994.\n3. J. E. Hopcroft, J. D. Ullman and R. Motwani, Introduction to Automata Theory,\nLanguages and Computation. Addison-Wesley, California, 2001.\n4. H. R. Lewis and C. H. Papadimitriou, Elements of the Theory of Computation.\nPrentice Hall, Englewood Cliffs, 1981.\n5. M. Sipser, Introduction to the Theory of Computation. PWS Pub. Co., New\nYork, 1999.\n6. M. R. Garey and D. S. Johnson, Computers and Intractability: A Guide to The\nTheory of NP- Completeness. Freeman, New York, 1979.\n4.2\nCrS Elective courses\nBlockchains and Cryptocurrencies\n(a) This course will provide an introduction to blockchains and cryptocurrencies, in-",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 86,
+      "text": "Theory of NP- Completeness. Freeman, New York, 1979.\n4.2\nCrS Elective courses\nBlockchains and Cryptocurrencies\n(a) This course will provide an introduction to blockchains and cryptocurrencies, in-\ncluding Bitcoin and contracts. Basic tools will be introduced first, followed by the\nimplementation of practical blockchain protocols.\ni. Motivation and overview of blockchains.\nii. Building blocks: Hash functions, signature schemes, zero-knowledge proofs,\nconsensus algorithms.\niii. Bitcoin: Transactions, blocks, mining, scripting, attacks on mining.\niv. Proof of work, proof of stake, proof of burn, proof of storage.\nv. Smart contracts\nvi. Privacy issues: Anonymity, mixing techniques, privacy with ZK-Snarks.\nvii. Permissioned blockchains: Distributed consensus, sharing algorithms, privacy\nissues.\nviii. Scaling issues: Lightning networks, Payment networks.\n32",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 87,
+      "text": "ix. Platforms and ledgers: Ethereum, Ripple, Hyperledger, Algorand, etc.\nx. Altcoins and their analysis.\nxi. Applications: Banking and finance, Data Sharing, Supply-chain, etc.\n(b) Prerequisites: None\n(c) References:\n1. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S Goldfeder, J. Clark: Bitcoin\nand Cryptocurrency Technologies, Princeton University Press. 2017.\n2. A. M. Antonopoulos: Mastering Bitcoin: Programming the Open Blockchain,\nO’Reilly, 2017.\n3. Web Resources.\nComputational Complexity\n(a) Introduction: Review of machine models, Turing machines and its variants, reduction\nbetween problems and completeness, time and space complexity classes\nStructural Results: Time and space hierarchy theorems, polynomial hierarchy, Lad-\nner’s theorem, relativization, Savitch’s theorem\nCircuit Complexity: Circuits and non-uniform models of computation, parallel com-\nputation and NC, P-completeness, circuit lower bounds, AC0 and parity not in AC0,",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 88,
+      "text": "Circuit Complexity: Circuits and non-uniform models of computation, parallel com-\nputation and NC, P-completeness, circuit lower bounds, AC0 and parity not in AC0,\nHastad’s Switching Lemma, introduction to natural proof barrier\nRandom Computation: Probabilistic computation and complexity classes and their\nrelations with other complexity classes, BPP=P?\nInteractive proofs: Introduction to Arthur-Merlin Games, IP=PSPACE, multiprover\ninteractive proofs, introduction to PCP theorem\nComplexity of counting: Complexity of optimization problems and counting classes,\nToda’s theorem, inapproximability, application of PCP theorem to inapproximability\nand introduction to unique games conjecture\nCryptography: Public-key cryptosystems, one-way functions, trapdoor-functions,\napplication to derandomization\n(b) Prerequisites: Discrete Mathematics, Design and Analysis of Algorithms\n(c) References:\n33",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 89,
+      "text": "1. J. Balcazar, J. Diaz, and J. Gabarro, Structural Complexity – I and II. Springer-\nVerlag, Berlin, 1988/1990.\n2. D. P. Bovet and P. Crescenzi, Introduction to the Theory of Complexity. Pren-\ntice Hall, Englewood Cliffs, 1994.\n3. M. Sipser, Introduction to Theory of Computation, PWS Publishing, New York,\n1999.\n4. C. H. Papadimitriou, Computational Complexity. Addison-Wesley, 1994.\n5. J. E. Hopcroft and J. D. Ullman, Introduction to Automata Theory. Languages\nand Computation, Addison-Wesley, 1979.\n6. O. Goldreich, Lecture Notes on Computational Complexity. Tel Aviv Univer-\nsity, 1999.\n7. S. Arora and B. Barak, Computational Complexity: A Modern Approach. Cam-\nbridge University Press, 2009.\nComputational Number Theory\n(a)\ni. Divisibility, primality, GCD, factorization.\nii. Congruences: Basic properties; solving linear congruences, Chinese remainder\ntheorem. Euler’s ϕ function, quadratic residues.\niii. Computing with integers: Asymptotic notations, Integer arithmetic, computing\nin Zn.",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 90,
+      "text": "theorem. Euler’s ϕ function, quadratic residues.\niii. Computing with integers: Asymptotic notations, Integer arithmetic, computing\nin Zn.\niv. Euclid’s Algorithm: Division Algorithm, extended Euclidean Algorithm, Com-\nputing modular inverses.\nv. Distribution of primes: Chebyshev’s Theorem and the distribution of primes,\nBertrand’s postulate, Prime Number Theorem.\nvi. Probabilistic Algorithms: Basic definitions, generating a random prime, gener-\nating a random factored number. Primality testing - Miller-Rabin; generating\nrandom primes using Miller-Rabin, Factoring and computing Euler’s ϕ func-\ntion.\nvii. Finding generators and discrete log in Z∗\np. Diffie-Hellman key exchange. Test-\ning quadratic residuosity. Computing modular square root. Quadratic residuos-\nity assumption.\nviii. Subexponential-time discrete log and factoring.\nix. Algorithms for finite fields.\n34",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 91,
+      "text": "x. Special topics.\n(b) Prerequisites: None\n(c) References:\n1. Victor Shoup: A Computational Introduction to Number Theory and Algebra,\nCambridge University Press.\n2. Abhijit Das: Computational Number Theory, CRC Press.\nCryptographic and Security Implementations\n(a) This course would be project-based; by the end of the course, each student should\nhave done two non-trivial implementation projects in the following broad areas.\n(a) Cryptographic Implementations:\ni. Instruction set architecture of modern processors with emphasis on instruc-\ntions dedicated for cryptographic use.\nii. Programming in micro controllers.\niii. Software side channel attacks and countermeasures.\niv. Principles of hardware design.\nv. Introduction to hardware description languages.\nvi. Hardware side channel attacks, fault attacks and countermeasures.\nvii. Crypto libraries.\n(b) Security Implementations:\ni. Logging, Auditing and Log Monitoring\nii. Enforcing password complexity, aging, and lockout",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 92,
+      "text": "vii. Crypto libraries.\n(b) Security Implementations:\ni. Logging, Auditing and Log Monitoring\nii. Enforcing password complexity, aging, and lockout\niii. Implementing Security Access Control\niv. File locks, database locks\nv. Firewall and Antivirus implementation and setup.\nvi. Intrusion Detection and Malware Detection.\n(b) Prerequisites: Introduction to Programming, Computing Laboratory\n(c) References:\n(a) N. Ferguson, B. Schneier: Practical Cryptography, Wiley, 2003.\n35",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 93,
+      "text": "(b) B. S. Schneier: Applied Cryptography: Protocols, Algorithms, and Source\nCode in C, 2nd Edition, John Wiley and Sons, New York, 1995.\n(c) F. Rodr´ıguez-Henrı´ıquez, A. D´ıaz P´erez, N. A. Saqib, etin Kaya Koc: Crypto-\ngraphic\n(d) Algorithms on Reconfigurable Hardware, Springer.\n(e) Luca Giancane: Side-Channel Attacks and Countermeasures, LAP Lambert\nAcademic Publishing, 2012.\n(f) Eric Cole: Network Security Bible, 2nd ed., Wiley 2009.\nComputing Systems Security II\n(a)\n1. Cellular networks, Access Technologies, GSM, CDMA, GPRS, 3G networks,\nWireless LAN, WLAN security.\n2. Operating Systems Security:\ni. Access Control Fundamentals\nii. Generalized Security Architectures\niii. Analysis of security in Unix/Linux and problems with the design of its\nsecurity architecture\niv. Analysis of security in Windows and problems with its security architec-\nture\nv. Security Kernels: SCOMP design and analysis, GEM-SOS design",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 94,
+      "text": "security architecture\niv. Analysis of security in Windows and problems with its security architec-\nture\nv. Security Kernels: SCOMP design and analysis, GEM-SOS design\nvi. Difficulties with securing Commercial Operating Systems (Retrofitting Se-\ncurity)\nvii. Security issues in Virtual Machine Systems\nviii. Security issues in sandboxing designs: design and analysis of Android.\n3. Database Security:\ni. Introduction: Security issues faced by enterprises\nii. Security architecture\niii. Administration of users\niv. Profiles, password policies, privileges and roles\nv. Database auditing\n(b) Prerequisites: Operating Systems, Computer Networks, Database Management Sys-\ntems\n36",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 95,
+      "text": "(c) References:\n1. Ross Anderson: Security Engineering, 2nd ed., Wiley. Available online: http:\n//www.cl.cam.ac.uk/˜rja14/book.html.\n2. C.P. Pfleeger, S.L. Pfleeger, J. Margulies: Security in Computing, 5th ed., Pren-\ntice Hall, 2015.\n3. David Wheeler: Secure Programming HOWTO. Available online: https://dwheeler.com/secure-\nprograms/.\n4. Michal Zalewski: Browser Security Handbook, Michael Zalewski, Google.\nAvailable online: https://code.google.com/archive/p/browsersec/wikis/Main.wiki.\n5. M. Gertz, S. Jajodia (Eds.): Handbook of Database Security, Springer, 2008.\n6. B. S. Schneier: Applied Cryptography: Protocols, Algorithms, and Source\nCode in C, 2nd Edition, John Wiley and Sons, New York, 1995.\n7. A. Menezes, P. C. Van Oorschot and S. A. Vanstone: Handbook of Applied\nCryptog- raphy, CRC Press, Boca Raton, 1996.\nCoding and Information Theory\n(a) Introduction: Basic definitions: codes, dimension, distance, rate, error correction,\nerror detection.\nEntropy and its application",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 96,
+      "text": "Coding and Information Theory\n(a) Introduction: Basic definitions: codes, dimension, distance, rate, error correction,\nerror detection.\nEntropy and its application\nShannon’s Theorems: Noiseless coding; Noisy Coding; Shannon Capacity;\nGilbert Varshamov bound; Singleton bound; Plotkin bound\nLinear Codes: Properties of linear codes; Hamming codes; Efficient decoding of\nHamming codes; Dual of a linear code\nAlgebraic codes: Reed-Solomon codes; Concatenated codes; BCH codes; Reed-\nMuller codes; Hadamard codes; Dual BCH codes.\nAlgorithmic issues in coding: Decoding Reed-Solomon Codes; Decoding Concate-\nnated Codes\nList Decoding: List decoding; Johnson bound; List decoding capacity; List decoding\nfrom random errors. List decoding of Reed-Solomon codes.\nAdvanced Topics: Graph Theoretic Codes; Locality in coding: Locally decodable\ncodes, locally testable codes; codes and derandomization.\n37",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 97,
+      "text": "(b) Prerequisites: Probability and Stochastic Processes, Linear Algebra.\n(c) References:\n1. V. Guruswami, A. Rudra, and M. Sudan, Essential Coding Theory, 2025. (Source:\nhttps://cse.buffalo.edu/faculty/atri/courses/coding-theory/\nbook)\n2. F. J. MacWilliams and N. J. A. Sloane, Theory of Error-Correcting Codes.\nNorth Holland Publishing Co., 1977.\n3. J. H. van Lint, Introduction to Coding Theory. Springer, 1973.\n4. V. S. Pleaa and W. C. Huffman (Eds.), Handbook of Coding Theory, I and II,\nElsevier, 1998.\nHardware Security\n(a)\ni. Introduction to Hardware Security\nii. Introduction to Verilog, ISE and Vivado Toolflow\niii. Algorithm to Hardware, Finite Field Architectures, Hardware Design for Finite\nInverse\niv. Hardware Implementation of cryptographic algorithms like AES, DES and oth-\ners\nv. Introduction to Side Channel Analysis: Power Analysis, Fault Analysis of Cryp-\ntosystems like DES, AES\nvi. Power Attack Countermeasures\nvii. Threshold Implementation\n(b) Prerequisites: None",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 98,
+      "text": "ers\nv. Introduction to Side Channel Analysis: Power Analysis, Fault Analysis of Cryp-\ntosystems like DES, AES\nvi. Power Attack Countermeasures\nvii. Threshold Implementation\n(b) Prerequisites: None\n(c) References:\n1. Hardware Security: Design, Threats, and Safeguards, CRC Press, by Debdeep\nMukhopadhyay, and Rajat Subhra Chakraborty.\n2. Timing Channels in Cryptography, Springer, by Chester Rebeiro, Debdeep Mukhopad-\nhyay, and Sarani Bhattacharya.\n3. Hardware Security: A Hands-on Learning Approach by Swarup Bhunia, and\nMark Tehranipoor.\n38",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 99,
+      "text": "4. Towards Hardware-Intrinsic Security: Foundations and Practice by Ahmad-\nReza Sadeghi, and David Naccache (Eds.)\n5. Handbook of FPGA Design Security by T. Huffmire, C. Irvine, T.D. Nguyen,\nT. Levin, R. Kastner, and T. Sherwood.\n6. Power Analysis Attacks - Revealing the Secrets of Smart Cards by Stefan Man-\ngard, Elisabeth Oswald, and Thomas Popp.\n7. Cryptography Theory and Practice, Third Edition, by Douglas Stinson.\nMath Toolkits for CS\n(a) Information Theory and its applications: Entropy, Mutual Information, Chain rule,\nRelative entropy, KL divergence, and its applications in combinatorics and computer\nscience\nSpectral Graph Theory: Graph Laplacians and their eigenvalues, connections to ran-\ndom walks and mixing, isoperimetric and Cheeger inequalities, expanders, and algo-\nrithmic applications\nConvex Geometry: Geometric properties of high-dimensional convex bodies, Fritz\nJohn’s theorem and isotropy, Brunn-Minkowski’s theorem and isoperimetric inequal-",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          43
+        ],
+        "start_page": 43,
+        "end_page": 43
+      }
+    },
+    {
+      "chunk_id": 100,
+      "text": "rithmic applications\nConvex Geometry: Geometric properties of high-dimensional convex bodies, Fritz\nJohn’s theorem and isotropy, Brunn-Minkowski’s theorem and isoperimetric inequal-\nities, Dvoretzky’s theorem, concentration of measure, and applications to include\nvolume computation and convex programming\nFourier Analysis on the Boolean cube: Fundamental results of Fourier analysis on\nthe Boolean cube, and its applications in learning theory, social choice theory, and\nhardness of approximation\nAlgebraic Techniques in Combinatorics: Linear algebra background, orthogonality\nand rank arguments, and the polynomial method\n(b) Prerequisites: Discrete Mathematics, Probability and Stochastic Processes\n(c) References:\n1. T. M. Cover and J. A. Thomas, Elements of Information Theory. John Wiley,\n1991.\n2. L. Trevisan, Graph Partitioning, Expanders and Spectral Methods.\nLecture\nNotes, UC Berkeley, 2016.\n2. J. Matouˇsek, Lectures on Discrete Geometry. Springer, 2002.\n39",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          43
+        ],
+        "start_page": 43,
+        "end_page": 43
+      }
+    },
+    {
+      "chunk_id": 101,
+      "text": "3. R. O’Donnell, Analysis of Boolean Functions. Cambridge University Press,\n2014.\n4. L. Babai and P. Frankl, Linear Algebra Methods in Combinatorics. Department\nof Computer Science, University of Chicago, preliminary version, 1992.\n5. J. Matouˇsek, Thirty-Three Miniatures (Mathematical and Algorithmic Applica-\ntions of Linear Algebra). American Mathematical Society, 2010.\nSecure Multiparty Computations\n(a)\n(i) Definitions of multiparty computation (MPC) security (simulators)\n(ii) Secret Sharing\n(iii) Oblivious Transfer\n(iv) The Goldreich, Micali, and Wigderson (GMW) Protocol\n(v) Garbled Circuits\n(vi) MPC Toolchains\n(vii) Malicious security\n(viii) Oblivious RAM\n(ix) Some advanced topics from the following (but not limited to): Function se-\ncret sharing; Private Set Intersection; Private Information Retrieval;Universal\nCircuits; Oblivious Transfer Extension; Garbled RAM\n(b) References:\n1. David Evans, Vladimir Kolesnikov, and Mike Rosulek: A Pragmatic Introduc-",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          44
+        ],
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    {
+      "chunk_id": 102,
+      "text": "Circuits; Oblivious Transfer Extension; Garbled RAM\n(b) References:\n1. David Evans, Vladimir Kolesnikov, and Mike Rosulek: A Pragmatic Introduc-\ntion to Secure Multi-Party Computation, Ingram 2019.\n2. Carmit Hazay and Yehuda Lindell: Efficient Two-party Protocols- Techniques\nand Constructions, Springer.\n3. Ronald Cramer, Ivan Damgaard and Jesper Buus Nielsen: Secure Multiparty\nComputation and Secret Sharing - An Information Theoretic Approach, Cam-\nbridge Press.\n4. Recent relevant papers\n40",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          44
+        ],
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    {
+      "chunk_id": 103,
+      "text": "Topics in Cryptology\n(a) In-depth study of some contemporary and emerging areas in cryptology. The list\nwill be updated from time to time. Topics may include, but are not limited to, the\nfollowing.\ni. Algorithms for factoring and discrete logarithms,\nii. Authenticated encryption,\niii. Tweakable Enciphering schemes,\niv. Hash-based Cryptography,\nv. Isogeny-based Cryptography,\nvi. Multivariate Cryptography,\nvii. Homomorphic Encryption,\nviii. Secure Multiparty Computation,\n(b) Prerequisites: Cryptology I\n(c) References:\n1. Cynthia Dwork, Aaron Roth: The Algorithmic Foundations of Differential Pri-\nvacy (Foundations and Trends in Theoretical Computer Science).\n2. Jonathan Katz and Yehuda Lindell: Introduction to Modern Cryptography, Sec-\nond Edition, CRC Press.\n3. Rafael Pass and Abi Shelat, A Course in Cryptography, Lecture notes. Avail-\nable online: https://www.cs.cornell.edu/courses/cs4830/2010fa/\nlecnotes.pdf\n4. Internet Resources and research papers.\nTopics in Privacy",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          45
+        ],
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "chunk_id": 104,
+      "text": "able online: https://www.cs.cornell.edu/courses/cs4830/2010fa/\nlecnotes.pdf\n4. Internet Resources and research papers.\nTopics in Privacy\n(a) Cryptographic foundations: Homomorphic Encryption, group signatures, blind sig-\nnatures, anonymous credential management, commitment schemes, zero-knowledge\nproofs, proof of knowledge, SNARK, oblivious transfer, secure multiparty computa-\ntion, Oblivious RAM, private set intersections, private information retrieval.\nPerturbation, K-anonymity, L-diversity\nDifferential privacy\n41",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          45
+        ],
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "chunk_id": 105,
+      "text": "De-anonymization techniques\nPrivacy-preserving analytics\nApplications: Mixnets, Onion Routing (TOR), e-cash, e-voting, location privacy,\nprofiling, Web Privacy (Online tracking and advertising), Bitcoin, Zerocash etc.\nPrivacy for outsourced data\nPrivacy risk analysis\nEthical Aspects of privacy: Privacy compliance, GDPR, HIPAA etc.\n(b) Prerequisites: None\n(c) References:\n1. C. Dwork and A. Roth, The Algorithmic Foundations of Differential Privacy.\nFoundations and Trends in Theoretical Computer Science.\n2. J. Katz and Y. Lindell, Introduction to Modern Crypography. 2nd ed., CRC\nPress.\n3. R. Pass and A. Shelat, A Course in Cryptography. Lecture notes. (Source:\nhttps://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.\npdf)\nQuantum Computations and Cryptography\n(a) Introduction and Basics\n• Brief history about the emergence of quantum computation and cryptograhy.\n• Brief review of fundamental concepts of the quantum theory: Axioms of Hilbert",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 106,
+      "text": "(a) Introduction and Basics\n• Brief history about the emergence of quantum computation and cryptograhy.\n• Brief review of fundamental concepts of the quantum theory: Axioms of Hilbert\nspace quantum mechanics; indeterminism; interference; uncertainty; superpo-\nsition; entanglement.\n• Quantum bits; Reversible computation; Measurement; Schmidt decomposition\n• Density operators; General quantum measurement(POVM); Evolution of quan-\ntum state, partial trace\n• Quantum no-cloning theorem\nQuantum Algorithms\n• Bernstein–Vazirani algorithm\n• Simon’s algorithm\n42",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 107,
+      "text": "• Deutsch’s algorithm\n• Deutsch-Jozsa algorithm\n• Quantum Fourier Transform and Quantum phase estimation\n• Shor’s factoring Algorithm\n• Grover ’s search algorithm\nQuantum Cryptography\n• Motivation: why quantum cryptography\n• No-cloning theorem and its cryptographic implications\n• Bell inequalities and CHSH game\n• Entanglement in cryptographic tasks\n• Security definitions in cryptography\n• Classical vs. quantum adversaries\n• Privacy amplification against quantum adversaries\n• Quantum Key Distribution. Detail description of BB84 protocol\n(b) Prerequisites: Data Structures and Algorithms, Design and Analysis of Algorithms,\nDigital Design and Computer Architecture\n(c) References:\n1. M. A. Nielsen and I. L. Chuang, Quantum Computation and Quantum Informa-\ntion. Cambridge University Press, 2010.\n2. J. Watrous, The Theory of Quantum Information. Cambridge University Press,\n2018.\n3. T. Vidick, Introduction to Quantum Cryptography. Cambridge University Press,\n2023.\n43",
+      "metadata": {
+        "pdf_name": "MTech-CrS-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MTech-CrS-Brochure-2026.pdf",
+        "page_numbers": [
+          47
+        ],
+        "start_page": 47,
+        "end_page": 47
+      }
+    }
+  ]
+}

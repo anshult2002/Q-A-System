@@ -1,0 +1,942 @@
+{
+  "filename": "MS(QE)2014.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "INDIAN STATISTICAL INSTITUTE\nStudents’ Brochure\nPART II\nMaster of Science in Quantitative Economics\n(Effective from 2014-15 Academic Year)\n(See PART I for general information, rules and regulations)\nThe Headquarters is at\n203 BARRACKPORE TRUNK ROAD\nKOLKATA 700108\n\nINDIAN STATISTICAL INSTITUTE\nMaster of Science in Quantitative Economics\nContents\n1\nCurriculum\n1\n2\nDetailed Syllabi of the Courses\n3\n2.1\nCompulsory Courses . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n3\n2.2\nElective Courses\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n9\n3\nProject (Econ301A) and Thesis (Econ301B)\n31\n3.1\nEligibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n31\n3.2\nGuidelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n31\n3.3\nEvaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n31",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          1,
+          3
+        ],
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "1\nCurriculum\nThe two-year programme consists of a total of twenty credit-courses distributed over four\nsemesters. There are many elective courses including project and thesis. The courses other\nthan project and thesis are allocated four hours per week.\nFirst Year\nSemester I\nEcon271A:\nMicroeconomics I\nEcon272A:\nGame Theory I\nStat271:\nStatistics*\nMath271:\nMathematical Methods*\nElective 1\nSemester II\nEcon271B:\nMicroeconomics II\nEcon273A:\nEconometric Methods I\nEcon274A:\nMacroeconomics I\nElective 2\nElective 3\nSecond Year\nSemester III\nEcon274B:\nMacroeconomics II\nElective4\nElective 5\nElective 6\nElective 7\nSemester IV\nElective 8\nElective 9\nElective 10\nElective 11\nElective 12\n*Students having Mathematics and/or Statistics as major/honours subjects at their Bache-\nlor’s level may take suitable other courses including Econ298 (Basic Economics) (in con-\nsultation with the appropriate Teachers’ Committee) in lieu of Math271 and Stat271.\nElective Courses\nEcon272B: Game Theory II",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "sultation with the appropriate Teachers’ Committee) in lieu of Math271 and Stat271.\nElective Courses\nEcon272B: Game Theory II\nEcon273B: Econometric Methods II\nEcon275: Agricultural Economics\nEcon276A: Industrial Organization\nEcon276B: Advanced Topics in Industrial Organization\nEcon277A: Economic Development I\nEcon277B: Economic Development II\n1",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "Econ277C: Economic Development III\nEcon278: Modern Growth Theory\nEcon279A: Selected Topics I\nEcon279B: Selected Topics II\nEcon279C: Selected Topics III\nEcon280A: Individual and Collective Choice\nEcon280B: Political Economy\nEcon281: Incentives and Organizations\nEcon282: Incentives and Regulation\nEcon283A: Econometric Applications I\nEcon283B: Econometric Applications II\nEcon284: Bayesian Econometrics\nEcon285: Inter temporal Economics\nEcon286: Theory of Planning\nEcon287: Social Accounting\nEcon288: Public Economics\nEcon289: Regional Economics\nEcon290A: International Economics I\nEcon290B: International Economics II\nEcon290C: Advanced Topics in International Economics\nEcon291: Mathematical Programming with Applications to Economics\nEcon292: Monetary Economics\nEcon293: History of Economic Thought\nEcon294: Environmental Economics\n2",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "Econ295A: Finance I\nEcon295B: Finance II\nEcon295C: Finance III\nEcon296: Comparative Systems\nEcon297: Law and Economics\nEcon298: Basic Economics\nEcon299: Indian Economy: Selected Topics\nEcon300: Experimental and Behavioural Economics\nEcon301A: Project\nEcon301B: Thesis\nEcon302: The Theory of Mechanism Design\nEcon303: Corporate Finance\nEcon304: Global Macroeconomics\nEcon305: Labour Economics\nStat272: Sample Survey: Theory and Practice\nStat273: Time Series Analysis and Forecasting\nComp271: Computer Programming and Applications\n2\nDetailed Syllabi of the Courses\n2.1\nCompulsory Courses\nEcon271A: Microeconomics I\n• Theory of consumer behaviour: preference orderings, demand, duality theory, re-\nvealed preference, aggregate demand.\n• Theory of the ﬁrm: production sets, cost minimization, proﬁt maximization, supply,\nduality theory, aggregate supply.\n3",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "• Equilibrium in a single market: stability and comparative statics. Imperfect compe-\ntition and market structure.\n• Decision-making under uncertainty: lotteries, measures of risk, stochastic domi-\nnance.\nReferences\n1. Microeconomic Theory, A. Mas-Colell, M. Whinston and J. Green, Oxford Univer-\nsity Press.\n2. Advanced Microeconomic Theory, G. Jehle and P. Reny, Prentice Hall.\n3. Microeconomic Analysis, H. Varian.\nEcon271B: Microeconomic Theory II\n• General equilibrium in exchange and production economies.\n• Welfare economics: the fundamental theorems of welfare economics, core of an\neconomy, introduction to social choice theory.\n• Public goods and externalities.\n• Asymmetric information: moral hazard and adverse selection; the principal agent\nmodel.\nReferences\n1. Microeconomic Theory, A. Mas-Colell, M. Whinston and J. Green, Oxford Univer-\nsity Press.\n2. Advanced Microeconomic Theory, G. Jehle and P. Reny, Prentice Hall.\n3. Microeconomic Analysis, H. Varian.\nEcon272A: Game Theory I",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "sity Press.\n2. Advanced Microeconomic Theory, G. Jehle and P. Reny, Prentice Hall.\n3. Microeconomic Analysis, H. Varian.\nEcon272A: Game Theory I\n• Games in normal form: notions of domination; rationalisable strategies.\n• Nash equilibrium: existence, properties and applications.\n• Two-person Zero Sum Games.\n• Games in extensive form: credibility and Sub-game Perfect Nash Equilibrium.\n4",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "• Introduction to Bargaining and Repeated Games.\n• Equilibrium reﬁnements.\n• Games of incomplete information: Bayes-Nash equilibrium; applications to the the-\nory of auctions and bilateral trade.\n• Dynamic Games of incomplete information; signalling games.\nReferences\n1. A Course in Game Theory, M. Osborne and A. Rubinstein, MIT Press.\n2. Game Theory for Applied Economists, R. Gibbons, Princeton University Press.\n3. Game Theory, R. Myerson, Harvard University Press.\n4. Game Theory, D. Fudenberg and J. Tirole, MIT Press.\nEcon273A: Econometric Methods I\n• Method of least squares: graphical demonstration, model along with assumptions,\nGauss- Markov theorem, least-squares estimates (matrix notation), interpretation,\nFrisch-Waugh theorem, statistical properties (ﬁnite samples as well as large sam-\nples including consistency) and inference. Omitted variable bias and other special\ntopics such as restricted least square, dummy variables, model selection and multi-",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "ples including consistency) and inference. Omitted variable bias and other special\ntopics such as restricted least square, dummy variables, model selection and multi-\ncollinearity. Generalised least squares method of estimation and its properties. Het-\neroscedasticity: nature of the problem, tests for heteroscedasticity and estimation.\nAutocorrelation: models for autocorrelation, tests for autocorrelated disturbances\nand estimation.\n• Model evaluation and other diagnostic tests: Chow test, RESET, Jarque-Bera test of\nnormality of errors and Hausman speciﬁcation test.\n• Measurement errors: inconsistency of OLS estimator, proxy variables and IV esti-\nmator. Simultaneous equation systems: Structural and reduced forms, least squares\nbias, identiﬁcation problem and estimation methods; Zellner’s SURE procedure.\n• Introduction to nonlinear models: limitations of linear probability model, probit and\nlogit models, truncated and censored (Tobit) models.\n5",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "Applications of these models and the methodologies thereof should be adequately demon-\nstrated using software.\nReferences\n1. Introduction to Econometrics, James H. Stock and Mark W. Watson, Addison-Wesley.\n2. Introductory Econometrics: A Modern Approach, Jeffrey M. Wooldridge. Thomson.\n3. Mostly Harmless Econometrics, Joshua B. Angrist and Jorn-Steffen Pischke.\n4. Macroeconometric, A.C. Cameron and P.K. Trivedi.\n5. Econometric Analysis, W.H. Green.\nEcon274A: Macroeconomic Theory I\nEmpirics of Growth: The Neo-classical Growth Model (exogenous growth): Harrod-Domar,\nSolow-Swan, Solow-Swan Augmented with Human Capital and the Mahalanobis Model.\nOptimal Control and Dynamic Programming. The Ramsey-Cass-Koopmans Model. The\nOverlapping Generations Model, ﬁnite lifetime OLG models. Endogenous Growth The-\nory: endogenous growth models with human capital, public capital and externalities. En-\ndogenous Technological Change: expanding variety models, the Schumpeterian model and",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "ory: endogenous growth models with human capital, public capital and externalities. En-\ndogenous Technological Change: expanding variety models, the Schumpeterian model and\ndirected technological change. Unbalanced Growth.\nReferences\n1. Introduction to Modern Economic Growth, Daron Acemoglu, Princeton University\nPress, 2010.\n2. Economic Growth, Robert Barro and Xavier Sala-i-Martin, 2nd Edition, McGraw\nHill, 2004.\n3. Advanced Macroeconomics, Fourth Edition, David Romer, McGraw Hill, 2011.\nEcon274B: Macroeconomic Theory II\n• IS-LM to Rational expectations and staggered wage contracts.\n• Micro-founded New Keynesian models: Menu cost argument, Efﬁciency wage, Im-\nplicit contracts, Explicit wage bargaining, Insider outsider models, coordination fail-\nures Foundations of Money including money demand, neutrality, super-neutrality and\nif possible money in the OLG framework.\n6",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "• Fiscal policy including pension issues – both Pay-as-you go and fully funded-its\nrelationship with other instruments in endogenous growth setup.\n• Money in Public Finance.\n• Time consistency.\n• New Keynesian Phillips curve analysis.\n• Macroeconomics and Financial Markets (including lending channel of monetary poli-\ncies - traditional lending issues - bank run at the end).\n• Stochastic Dynamic Programming with applications to growth Asset pricing, Con-\ntingent claim prices, the equity premium.\n• Search and Matching.\nReferences\n1. Monetary Policy, Inﬂation, and the Business Cycle, Jordi Gali, Princeton University\nPress, 2008.\n2. Recursive Macroeconomic Theory, Thomas Sargent and Lars Ljungqvist, 2nd Edi-\ntion, September 2004.\n3. Theory: A Dynamic General Equilibrium Approach, Michael Wickens, Princeton\nUniversity Press, 2008.\n4. Monetary Theory and Policy, Carl Walsh, 3rd Edition, MIT Press, 2010.\n5. The ABCs of RBCs, Georg McCandless, Harvard University Press, 2008.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "University Press, 2008.\n4. Monetary Theory and Policy, Carl Walsh, 3rd Edition, MIT Press, 2010.\n5. The ABCs of RBCs, Georg McCandless, Harvard University Press, 2008.\nStat271: Statistics\n• Theory of Probability: Elements of probability theory: classical and axiomatic def-\ninitions of probability, standard theorems, conditional probability, independence,\nBayes’ theorem; discrete random variables- negative binomial distribution; contin-\nuous random variables– normal, uniform and gamma distributions; moment generat-\ning function and characteristic function; bivariate distribution, marginal probabilities,\ncorrelation; bivariate normal distribution and its properties; convergence on proba-\nbility space, Chebysev’s inequality, law of large numbers and central limit theorem.\n7",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "• Estimation: Standard sampling distributions: χ2, t and F distributions and their prop-\nerties. Estimation of parameters: basic concepts – parameter and statistics, estimator\nand estimate, sampling distribution, sampling variance and mean squared error, prop-\nerties of an estimator – unbiasedness, consistency, efﬁciency, sufﬁciency; Cramer-\nRao inequality, point and interval estimations.\n• Testing of hypotheses: Type I and II errors, level, size and power of a test, testing\nhypotheses about the mean and the variance of a normal population.\n• Classical linear regression model: Assumptions, ordinary least squares (OLS) and\nmaximum likelihood methods of estimation, properties of OLS and ML estimators,\ntests of signiﬁcance of the parameters, and ANOVA.\nReferences\n1. An Introductory to Probability Theory and Mathematical Statistics, V.K. Rohatgi.\n2. A First Course in Probability, S. Ross.\n3. Probability, J. Pitman.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "References\n1. An Introductory to Probability Theory and Mathematical Statistics, V.K. Rohatgi.\n2. A First Course in Probability, S. Ross.\n3. Probability, J. Pitman.\n4. Introduction to Statistical Theory, P.G. Hoel, S.C. Port and C.J. Stone.\n5. Introduction to Theory of Statistics, A.M. Mood, F.A. Graybill and D.C. Boes.\n6. Statistical Inference, G. Casella and R.L. Berger.\nMath271: Mathematical Methods\n• Linear Algebra: Vectors and Vector Spaces, Vector Operations; Scalar Product; Lin-\near Dependence; Vector Spaces and Subspaces; Basis of a Vector Space.\n• Matrix Algebra: Basic Operations; Trace of a Matrix; Rank and Inverse of a Matrix;\nVector and Matrix Differentiation; Orthogonal, Symmetric, Idempotent and Deﬁnite\nMatrices – Deﬁnition and Properties; Rank Factorization.\n• Characteristic Value Problem and Quadratic Forms: Characteristic roots and vectors\nof a square matrix; Similarity; Characteristic value problem of a symmetric matrix",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "• Characteristic Value Problem and Quadratic Forms: Characteristic roots and vectors\nof a square matrix; Similarity; Characteristic value problem of a symmetric matrix\nand properties of eigenvectors; Quadratic Forms.\n• Real Analysis: Introduction to real number system, elements of set theory, selected\nresults in point set topology, compactness, convergence, continuity.\n8",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "• Static Optimization Theory: Optimization under inequality constraints, Kuhn-Tucker\ntheory. Dynamic Optimization Theory: Introduction to methods of control theory.\nReferences\n1. Mathematics for Economists, Carl P. Simon and Lawrence Blume, 1994, W.W. Nor-\nton & Co.\n2. A First Course in Optimization Theory, Rangarajan K. Sundaram, 1996, Cambridge\nUniversity Press.\n3. Linear Algebra, A.R. Rao and P. Bhimasankaram.\n2.2\nElective Courses\nEcon272B: Game Theory II\n• Further topics in Bargaining, Repeated Games and Equilibrium Reﬁnements. Topics\nin Dynamic Games; models of reputation.\n• Further topics in the theory of auctions. Topics in the theory of common knowledge.\n• Topics in cooperative games: Core, Shapley Value, Nucleolus in TU Games. Voting:\nmodels with interdependent values; analysis of voting power.\n• Topics in evolutionary game theory.\nReferences\n1. A Course in Game Theory, M. Osborne and A. Rubinstein, MIT Press.\n2. Game Theory, R. Myerson, Harvard University Press.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "• Topics in evolutionary game theory.\nReferences\n1. A Course in Game Theory, M. Osborne and A. Rubinstein, MIT Press.\n2. Game Theory, R. Myerson, Harvard University Press.\n3. Game Theory, D. Fudenberg and J. Tirole, MIT Press.\nEcon273B: Econometric Methods II\n• Analysis of Panel Data: Fixed effects model, random effects model /error compo-\nnents models; ﬁxed or random effects? Wu-Hausman test; dynamic panel.\n• Speciﬁcation testing and diagnostic checking: Inferential problem in misspeciﬁed\nmodels; White’s information matrix test; tests for non-nested hypotheses – Davidson\nand Mckinnon’s J test, encompassing test.\n9",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "• Estimation by generalized method of moments (GMM): Orthogonality conditions,\nproperties, and test for over identiﬁcation.\n• Models of volatility: ARCH/GARCH models and their properties, method of estima-\ntion, testing and the problem of nuisance parameters, other generalizations–EGARCH,\nGJR, TGARCH models; GARCH – M model.\n• Regressions with time series data: Concept of cointegration, two-variable model\n– Engle–Granger method and ECM; system of equations – vector autoregression\n(VAR), Johansen procedure, VECM, extensions with deterministic components; tests\nfor cointegration; Granger causality.\nApplications of these models and the methodologies thereof should be adequately demon-\nstrated using softwares. Students should be given assignments as well.\nReferences\n1. Micro Econometrics, A.C. Cameron and P.K. Trivedi.\n2. Time Series Analysis, J.D. Hamilton.\n3. Econometric Analysis of Panel Data, B.H. Baltagi.\n4. Misspeciﬁcation Tests in Econometrics, L.G. Godfrey.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "2. Time Series Analysis, J.D. Hamilton.\n3. Econometric Analysis of Panel Data, B.H. Baltagi.\n4. Misspeciﬁcation Tests in Econometrics, L.G. Godfrey.\n5. Econometric Analysis of Cross Section and Panel Data, J. Wooldridge.\nEcon275: Agricultural Economics\n• Agriculture in Development: Two sector models and agricultural productivity.\n• Production and Supply, Uncertainty, risk aversion and grower decision-making, Risk-\nManagement, Crop Insurance, Risk Sharing and Community Institutions.\n• Patterns and sources of technological change, innovation , adoption and diffusion\n, Public sector Research, Intellectual Property Rights, Biotechnology, Agricultural\nExtension.\n• Land markets: Farm size distribution and efﬁciency, Labour Markets, Migration\nmodels and evidence, Rural Credit Markets.\n• Storage and price stabilization, Commodity Markets, Futures exchanges.\n10",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "• Marketing margins, Industrial organization of agricultural trade and markets, Stan-\ndards and Grading, Economics of International Agricultural Trade.\n• Agriculture and the Environment; common property resources, land and water re-\nsources, Climate Change.\n• Welfare analysis of agricultural policies, Political Economy Issues,\n• Food policy, Food Security and Subsidies, Food-Safety Nets and Nutrition, Food\nSafety, Labelling Policies and Quality Standards.\nEcon276A: Industrial Organization\n• The theory of the ﬁrm: Why do ﬁrms exist? Firm boundaries and proﬁt-maximization.\nMonopoly: Linear and non-linear pricing; menu pricing, inter-temporal price dis-\ncrimination; bundling; regulation; non-price strategies (e.g., quality, advertisement).\n• Classical oligopoly models: Homogeneous and differentiated product models; price\nvs. quantity competition (strategic substitutes and strategic complements); location\nmodels; monopolistic competition.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "vs. quantity competition (strategic substitutes and strategic complements); location\nmodels; monopolistic competition.\n• Entry Deterrence: leader-follower structures; entry-exit models; strategic entry de-\nterrence models; managerial delegations.\n• Vertically related markets and vertical control. Cartel, collusion and horizontal merger.\n• R&D, patent protection and technology transfer: Market structure and R&D incen-\ntives; Innovation race; Cooperative vs. non-cooperative R&D.\n• Network Industries: The standardization-variety trade-off; competition under net-\nwork externalities; technology advance in network industries; standards and switch-\ning costs; demand for telecommunication; copyright enforcement.\nReferences\n1. Industrial Organization: Markets and Strategies, Paul Belleﬂamme and Martin Peitz,\nCambridge Univ Press, 2010.\n2. Introduction to Industrial Organization, Luis M.B. Cabral, MIT Press, 2000.\n3. The Theory of Industrial Organization, Jean Tirole, MIT Press, 1988.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "Cambridge Univ Press, 2010.\n2. Introduction to Industrial Organization, Luis M.B. Cabral, MIT Press, 2000.\n3. The Theory of Industrial Organization, Jean Tirole, MIT Press, 1988.\n4. Industrial Organization: Theory and Applications, Oz Shy, MIT Press, 1995.\n11",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "5. Advanced Industrial Economics, Stephen Martin, Blackwell, 2003.\n6. Handbook of Industrial Organization, Vol. I, II, and III.\nEcon277A: Economic Development I\n• Introduction: Economic Lives of the Poor. Nutrition: The Capacity Curve; Nutrition\nand Productivity: Interrelationship. Health: Health Seeking Behaviour; Productivity\nEffects of Health.\n• Education: Private and Social Returns to Education; Education Quality; Education\nPolicy. Gender Discrimination.\n• Decision Making within Families. Fertility Decisions and Population.\nEcon277B: Economic Development II\n• Labour Markets: Labour Supply and Labour Demand; Migration. Land Markets:\nLand Rental Contracts; Land Ownership; Land Reform.\n• Markets for Credit and Savings: Credit Constraints; Informal Credit Markets; Mi-\ncroﬁnance. Risk and Insurance.\n• Property Rights.\n• Social Networks and Informal Institutions. Provision of Public Goods.\nEcon277C: Economic Development III",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "croﬁnance. Risk and Insurance.\n• Property Rights.\n• Social Networks and Informal Institutions. Provision of Public Goods.\nEcon277C: Economic Development III\n• Development from the viewpoint of convergence. Development from the viewpoint\nof non-convergence:\n– Expectations and Development.\n– Aspirations and Development.\n– History-dependence: Inequality and Markets.\n– History-dependence: Political and Legal Institutions.\n• Financial Institutions and Economic Development.\n• Population Growth and Economic Development.\n12",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "Econ278, Modern Growth Theory\n• Labour market distortions (labour unions, unemployment etc.) and endogenous growth.\nEnvironmental pollution and endogenous growth.\n• Public capital and endogenous growth.\n• Neoclassical Growth Models with Heterogeneous agents (Complete and Incomplete\nMarkets) Heterogeneous OLG models Review of traditional growth models, efﬁ-\nciency results, barriers to growth, technical progress. AK models of growth/growth\nmodels with linear production functions - alternative foundation.\n• Education and growth. Market structure and innovation. Obsolescence, Schum-\npeterian growth.\nDistribution and Political Economy of growth.\nOpen growing\neconomies, trade policies.\nReferences\n1. Income Distribution in Macroeconomic Models, by G. Bertola, R. Foellmi, J. Zweimuller,\nPrinceton University Press, 2005.\nEcon279A: Selected Topics I\nTo be determined by the instructor.\nEcon279B: Selected Topics II\nTo be determined by the instructor.\nEcon279C: Selected Topics III",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "Princeton University Press, 2005.\nEcon279A: Selected Topics I\nTo be determined by the instructor.\nEcon279B: Selected Topics II\nTo be determined by the instructor.\nEcon279C: Selected Topics III\nTo be determined by the instructor.\nEcon280A: Individual and Collective Choice\n• Decision Theory: Decision-making under uncertainty, von-Neumann-Morgenstern’s\nexpected utility, risk-aversion, Savage’s subjective expected utility, Anscombe-Aumann\nsubjective expected utility, ambiguity.\n• Collective Choice Theory: Classical aggregation theory: Arrow’s theorem, aggrega-\ntion with rich informational structures, probabilistic aggregation, judgement aggre-\ngation, the liberal paradox.\n13",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "• Axiomatic Approaches to Welfare Economics: Stochastic Dominance, Lorenz and\nGeneralized Lorenz orderings, ethical approaches to measurement of inequality and\npoverty, fair allocations.\nEcon281: Incentives and Organizations\n• Theory of incentives: adverse selection, moral hazard, multiple agents, contract dy-\nnamics. Organization theory: team theory, message space size, costly information\nprocessing models.\n• Incentive-based approaches: supervision, managerial slack, limited commitment.\nApplications to the theory of the ﬁrm: decentralization, hierarchies, transfer pric-\ning, managerial compensation, cost allocation.\nEcon282: Incentives and Regulation\nCost-reimbursement rules: Pricing by a single-product ﬁrm; pricing and incentives in a\nmulti- product ﬁrm; Regulation of quality; Ramsey-pricing; Bypass and cream-skimming;\nAuctioning incentive contracts – static and dynamic (with and without commitment); Cost-",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "multi- product ﬁrm; Regulation of quality; Ramsey-pricing; Bypass and cream-skimming;\nAuctioning incentive contracts – static and dynamic (with and without commitment); Cost-\npadding, auditing and collusion; Regulatory capture and political economy; Privatization\nand incentives.\nReferences\n1. A Theory of Incentives in Procurement and Regulation, J.J. Laffont and J. Tirole.\nEcon283A: Econometric Applications I\n• Income and allied size distribution: Measurement of income inequality and poverty,\nproblem of measurements, Indian studies on inequality and poverty.\n• Demand analysis: Demand function and elasticities of demand, Engle curve analy-\nsis aggregation issue, methodologies for estimation of constrained demand function\nusing macro and micro data, demand system, zero expenditure and corner solution,\nnonlinear budget frontiers, sources of dynamics in consumer behaviour, properties\nand estimation of multi-output production and cost functions, and non-parametric\ndemand analysis.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "nonlinear budget frontiers, sources of dynamics in consumer behaviour, properties\nand estimation of multi-output production and cost functions, and non-parametric\ndemand analysis.\n• Empirical approaches to measurement of household welfare: Parametric and non-\nparametric approaches to revealed preference and cost of living indices.\n14",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "• Production analysis: Frontier production function, data envelopment analysis (DEA),\nstochastic frontier, measurement of productivity, technical change, cost function, Ol-\nley Pakes algorithm and Levinsohn-Petrin algorithm.\n• Empirical industrial organization: Estimating market power in static competition\nmodels, collusion and strategic interaction, price discrimination, ﬁrm turnover and\nsunk cost.\nApplications of these models and the methodologies thereof should be adequately demon-\nstrated using softwares. Students should be given assignments as well.\nReferences\n1. Handbook of Income Distribution, Anthony Atkinson and F. Bourguignon, 2000.\n2. Economics and Consumer Behaviour, A. Deaton and J. Muellbauer, 1980.\n3. Econometric Models, Techniques, and Applications, Michael D. Intriligator, 1978.\n4. Handbook of Applied Econometrics: Microeconomics, M. Hashem Pesaran and Peter\nSchmidt, 1999.\n5. An Introduction to Efﬁciency and Productivity Analysis, T. Coelli, D.S.P. Rao and G.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "4. Handbook of Applied Econometrics: Microeconomics, M. Hashem Pesaran and Peter\nSchmidt, 1999.\n5. An Introduction to Efﬁciency and Productivity Analysis, T. Coelli, D.S.P. Rao and G.\nBattese, 1998.\n6. Data Envelopment Analysis: A Comprehensive Text with Models, Applications, Ref-\nerences and DEA Solver Software, W.W. Cooper, L.M. Seiford and K. Tone, 2000.\n7. Data Envelopment Analysis, S.C. Ray, 2004.\n8. Stochastic Frontier Analysis: An Econometric Approach, S.C. Kumbhakar and C.A.K.\nLovell, 2000.\n9. Applied Non-parametric Regression, W. Hardle.\n10. Non-parametric Econometrics: Theory and Practice, Q. Li and J. Racine.\n11. Micro Econometrics, A.C. Cameron and P.K. Trivedi.\n15",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "Econ283B: Econometric Applications II\nAt least four of the following topics will be covered depending on the interests of the in-\nstructor as well as of the students.\n• Non-parametric and semi-parametric methods: Kernel density estimator, Kernel re-\ngression, alternative non-parametric regression estimators; semiparametric regres-\nsion, single index model and illustrations.\n• Simulation-based methods: Jackknife and Bootstrap methods: concept and theory,\npaired bootstrap, residual bootstrap, bootstrap for dependent data.\n• Monte Carlo studies: purpose, random number generation, basics of computing inte-\ngrals, indirect inference.\n• Bayesian approach: Bayesian linear regression, Monte Carlo integration, Gibbs sam-\npling, MCMC, model selection.\n• Project Methodology: Primary data: preparation of questionnaire, implementation\nand related issues. Basic concepts in design and analysis of surveys.\n• Secondary data: Treatment evaluations: Set up and assumption, treatment effects",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "and related issues. Basic concepts in design and analysis of surveys.\n• Secondary data: Treatment evaluations: Set up and assumption, treatment effects\nand selection bias, matching and propensity score estimators, and difference-in –\ndifference estimators.\n• Financial econometrics: The predictability of asset returns – random walk hypothe-\nsis, and tests of this hypothesis; market microstructure – bid-ask spread, rounding and\nbarrier models, ordered probit model; capital asset pricing model – statistical frame-\nwork for estimation and testing, size and power of tests; derivative pricing models –\nthe Black- Scholes and Merton approach, and the martingale approach.\n• Empirical developmental issues: Household behaviour- theory and applications: uni-\ntary models, bargaining models, empirical tests of models of intra-household re-\nsource distribution, gender discrimination, health and education.\n• Macro econometric models: Measurement of cycles, Dynamic Stochastic General",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "source distribution, gender discrimination, health and education.\n• Macro econometric models: Measurement of cycles, Dynamic Stochastic General\nEquilibrium (DSGE) models, application of Monte Carlo, Bootsrap and VAR meth-\nods.\n• Empirical models of labour market: Duration analysis, labour supply and labour\ndemand functions, and studies on Indian labour market.\n16",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "Applications of these models and the methodologies thereof should be adequately demon-\nstrated using softwares. Students should be given assignments as well.\nReferences\n1. Applied Non-parametric Regression, W. Hardle.\n2. Non-parametric Econometrics: Theory and Practice, Q. Li and J. Racine.\n3. Econometrics of Financial Markets, J. Campbell, A.W. Lo and A.C. MacKinlay.\n4. Micro Econometrics, A.C. Cameron and P.K. Trivedi.\n5. The Jackknife and Bootstrap, J. Shao.\n6. Structural Macroeconometrics, David N. DeJong with Chetan Dave.\n7. Applied Macroeconometrics, Carlo A. Favero.\nEcon284: Bayesian Econometrics\n• Principles of Bayesian analysis.\n• Simple univariate normal linear regression models.\n• Analysis of single equation nonlinear models.\n• Multivariate regression models. Comparison and testing of hypothesis.\n• Simultaneous equations econometric models.\nEcon285: Intertemporal Economics\n• Models of intertemporal accumulation.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "• Multivariate regression models. Comparison and testing of hypothesis.\n• Simultaneous equations econometric models.\nEcon285: Intertemporal Economics\n• Models of intertemporal accumulation.\n• Efﬁcient programmes, characterizations of efﬁciency, efﬁciency and present value\nmaximization.\n• Optimal programmes, optimality criteria in discounted and undiscounted models,\nexistence of optimal programmes.\n17",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "Econ286: Theory of Planning\n• Political economy of the state, alternative viewpoints.\n• Modelling government behaviour, rational choice models, median voter model, leg-\nislatures and special interest groups, bureaucracy models.\n• Planning models, centralized planning, informationally decentralized planning pro-\ncesses, Lange-Lerner, MDP procedures, team theory.\n• Incentives within the public sector.\n• Performance incentives for managers, decentralized organisation of production, mul-\ntidivisional ﬁrms, cost centres and proﬁt centres, cost allocation transfer pricing,\nlabour policies: Soviet and East European ﬁrms.\n• Cost-beneﬁt analysis.\n• Pricing public sector outputs, marginal cost and average cost pricing, peak load pric-\ning, priority pricing.\nEcon287: Social Accounting\n• The economic process and various concepts.\n• A system of social/national accounts.\n• National accounts and various estimates.\n• ‘Real’ gross domestic product and ‘real’ national income. Estimation of national",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "• A system of social/national accounts.\n• National accounts and various estimates.\n• ‘Real’ gross domestic product and ‘real’ national income. Estimation of national\nincome in India.\n• Preparation of an input-output (IO) table.\nEcon288: Public Economics\n• Public goods: optimal provision and decentralization, local public goods and the\noptimal size of clubs, heterogeneity of tastes and endowments.\n• Social welfare functions, Median voter theorems, inter-personal utility trade-offs.\n• Optimal taxation, effects and incidence, taxation of goods and incomes, dynamic\nmodels.\n18",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "• Tax policy: Alternatives within direct and indirect taxation corporate and individual\nincome taxation, VAT.\n• Federal systems.\n• Taxation and the environment.\n• Taxation and political economy: Issues relating to avoidance, evasion, corruption and\nfraud; behavioural models.\nEcon289: Regional Economics\n• Introduction to regional planning. Review of the Indian situation.\n• Concepts and techniques used in regional planning.\n• Regional decision making and regional balance.\n• Functional spatial conﬁguration and regional synthesis.\nEcon290A: International Economics I\n• Various comparative-advantage based competitive theories of international trade in-\ncluding the Ricardian model, the Heckscher-Ohlin model and the sector speciﬁc\nmodel and their generalizations.\n• Theory of commercial policy: tariffs, taxes and quantitative restrictions in traditional\ntrade models.\n• Imperfectly competitive and intra-industry trade models of international trade.\n• Implications of WTO, and its features.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "trade models.\n• Imperfectly competitive and intra-industry trade models of international trade.\n• Implications of WTO, and its features.\nEcon290B: International Economics II\n• Political Economy of Trade Protection.\n• Preferential Trading Arrangements.\n• Firm Heterogeneity and Implications of international trade and investment.\n• Trade, growth and innovation (Grossman Helpman type models, product cycle mod-\nels).\n• International Trade and Income/Wealth Distribution.\n• International Factor Movements.\n19",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "Econ290C: Advanced Topics in International Economics\n• Political economy of trade policy.\n• International trade and endogenous growth.\n• Trade and environment.\n• Trade and distribution.\n• Exchange rate dynamics in a small country setting.\n• Agency problems and international lending.\n• The New-Keynesian Models of the Open Economy.\n• International Capital Mobility and Development.\nEcon291: Mathematical Programming with Applications to Economics\n• Convex Sets, Separating hyperplane theorems, polyhedra and polytopes, Farkas Lemma\nwith applications in cooperat.\n• Linear Programming: the simplex method, duality, weak and strong duality theo-\nrems, applications to zero-sum games.\n• Integer Programming: linear relaxation of integer programs, totally unimodular ma-\ntrices, applications to assignment problem and prices.\n• Discrete Optimization. Basic graph theory - path, cycle, degree, cut, tree, connect-\nedness, minimum cost spanning tree problem, application: a game on graph, Hall’s",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "• Discrete Optimization. Basic graph theory - path, cycle, degree, cut, tree, connect-\nedness, minimum cost spanning tree problem, application: a game on graph, Hall’s\nmarriage theorem, max-ﬂow min-cut theorem, Gale’s demand theorem, graph de-\ncomposition, shortest paths and potentials, application: fair prices.\n• Non-linear Programming: KKT Conditions, convex optimization - unconstrained\nand constrained.\nEcon292: Monetary Economics\n• Classical monetary models.\n• Deterministic and Stochastic Dynamic Programming.\n• Solving Social Planning Problems on the Computer.\n20",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "• Recursive Competitive Equilibrium.\n• RBC model with money.\n• Calibration techniques (use of Matlab and DYNARE).\n• Closed economy nre Keynesian models.\n• Open economy new Keynesian DSGE models.\nReferences\n1. Monetary policy, Inﬂation and the Business Cycles, J. Gali, Princeton University\nPress, 2008.\n2. The ABCs of RBCs, G. McCandles, Harvard University Press, 2008.\n3. Macro-economic Theory: A Dynamical General Equilibrium Approach, M. Wickens,\nPrinceton University Press, 2008.\n4. Monetary Theory and Policy, C. Walsh, MIT Press (3rd edition), 2010.\nEcon293: History of Economic Thought\n• The classical economists.\n• The marginalist revolution. Neo-classical microeconomics. General equilibrium and\nwelfare theorems.\n• The origins of macroeconomics - the Keynesian breakthrough and the neoclassical\nsynthesis.\n• The information revolution – missing markets, adverse selection, moral hazard.\n• Unemployment and credit rationing as market failure in the markets for capital and\nlabour.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "synthesis.\n• The information revolution – missing markets, adverse selection, moral hazard.\n• Unemployment and credit rationing as market failure in the markets for capital and\nlabour.\n• The impact of game theory.\n• Making economics a science: econometrics and the testing of predictions. The Lucas\ncritique, new classical and new Keynesian macro-economics and their critics.\n• A new methodological individualism: behavioural economics and evolutionary mod-\nels.\n21",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "Econ294: Environmental Economics\n• Theories of externalities and public goods.\n• Valuing environmental services.\n• The design of environmental policy. Marketable pollution permits, pollution taxes\nand other policy instruments.\n• Models of resource depletion, exhaustible and renewable resources.\n• The commons problem. International issues in environmental economics.\n• The economics of global warming.\nEcon295A: Finance I\nPre-requisites and co-requisites: Micro-economics I, Econometrics I.\n• Choice under uncertainty and stochastic dominance, mean-variance portfolio theory.\n• Asset pricing theories: CAPM, APT, multi-factor, IPO, Fundamental Theorem of\nAsset Pricing.\n• Pricing of forwards and futures.\n• Option pricing: general properties, binomial-tree and Black-Scholes models, Greeks,\nImplied Volatility.\n• Financial Markets in the Arrow-Debreu General Equilibrium Framework.\n• Brief overview of relevant properties of random walk, martingale, stopping times,",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "Implied Volatility.\n• Financial Markets in the Arrow-Debreu General Equilibrium Framework.\n• Brief overview of relevant properties of random walk, martingale, stopping times,\nBrownian motion, stochastic differential equation.\n• Numerical pricing of options, Trinomial tree model, exotic options, trading strate-\ngies.\nEcon295B: Finance II\nPre-requisite: Finance I\n• Incomplete market, deﬁnition and testing of different levels of efﬁcient market hy-\npothesis, regulations, role of different agents.\n• Term structure of interest rates, swaps, stochastic volatility, estimation of volatility,\nARCH/ GARCH models, management of market risk (VaR etc.).\n22",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "• Valuation of Bonds and Interest Rates: ‘Yield to maturity, Duration and convexity,\nimmunization of interest rate risk, forward interest rate and forward rate agreement.’\n• Modigliani- Miller theorem. Agency costs and management. Debt vs. equity.\n• Valuation of stocks, valuation of cash cows and capital budget allocation.\nEcon295C: Finance III\n• Advanced Topics in Banking and Finance.\n• Market Microstructure.\n• Regulation and Incentives.\nEcon296: Comparative Systems\n• Classical political economy: Crystallization of the concept of “social structure” in\nthe concept of “class”, class division and boundary of production (“productive” vs\n“unproductive” class/labour) in Quesnay and Smith, the systems of social account-\ning policy aspects, reaction against “mercantilism: theoretical structure of classical\npolitical economy, value, distribution and accumulations, the Ricardian system, the\npost Ricardian scene, emergence of “socialist” doctrines.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "political economy, value, distribution and accumulations, the Ricardian system, the\npost Ricardian scene, emergence of “socialist” doctrines.\n• Marxian political economy: the broader perspectives and view of history, “modes of\nproduction” (feudalism, capitalism and socialism), the political economy of capital-\nism, surplus value, theories of crises.\n• Further developments in the political economy of capitalism: developments within a\n“class” framework, Kalecki’s theory of effective demand and business cycles, aban-\ndoning the “class” framework or the turning point in the history of economic thought,\nbirth of “welfare economics”, “competition” and “monopoly”, Keynes’ theory of ef-\nfective demand and its link up with the theory of growth.\n• Political economy of socialism: doctrines and experiences.\n• Political economy of LDCs: the intrinsic heterogeneity and amorphousness of LDCs,\nthe “goal” of development in a historical perspective, the concept of “dual economy”,\nglobal perspectives.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "• Political economy of LDCs: the intrinsic heterogeneity and amorphousness of LDCs,\nthe “goal” of development in a historical perspective, the concept of “dual economy”,\nglobal perspectives.\n23",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "Econ297: Law and Economics\n• Role of Property Rights in Economic Transactions: Allocating and Establishing\nOwnership Rights, Conﬂicting Property Rights and Externalities, Common Property,\nThe Coase Theorem.\n• Legal Aspects of Complete and Incomplete Contracts: Notion of Contracts and Con-\ntracting Costs, Complete and Incomplete Contracts, Breach of Contract and Reme-\ndies.\n• Economics of Tort-Liability Rules-Accident Laws: Theories of Tort-Liability and In-\ncentives for Precaution, A Game Theoretic Analysis of Tort-Liability Rules, Products\nLiability, The Role of Uncertainty and Insurance.\n• Crime and Punishment: Criminal Intents and Public Harm, Rational Crime and Op-\ntimal Deterrence, Economic Goal of Criminal Law, Fines versus Imprisonment.\n• Selected Topics: Aspects of Intellectual Property Rights and the WTO, Law and\nCorporate Governance, Environmental laws.\nStat272: Sample Survey: Theory and Practice\n• Introduction.\n• Sampling techniques.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "Corporate Governance, Environmental laws.\nStat272: Sample Survey: Theory and Practice\n• Introduction.\n• Sampling techniques.\n• Planning and conduct of sample surveys.\n• Non-sampling errors.\n• Experience of Indian surveys on selected topics.\nStat273: Time Series Analysis\n• Exploratory analysis of time series: graphical display, classical decomposition model,\nestimation and elimination of trend and seasonal components.\n• Stationary stochastic time series models: weak and strong stationarity , AR, MA and\nARMA processes – their properties, conditions for stationarity and invertibility, au-\ntocorrelation function (ACF), partial autocorrelation function (PACF), identiﬁcation\nbased on ACF and PACF, estimation, order selection and diagnostic checks.\n24",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "• Modelling non-stationary processes: ARIMA models, determination of the order of\nintegration, trend stationarity and difference stationary processes tests of nonstation-\narity (unit root tests) – Dickey-Fuller (DF) test, augmented DF test, Phillips-Perron\ntest.\n• Forecasting: Simple exponential smoothing, Holt-Winters method, minimum MSE\nforecast, forecast error, in sample and out-of-sample forecasts.\n• Modelling seasonal time series: seasonal ARIMA models, estimation; seasonal unit\nroot test (HEGY test).\n• Intervention analysis and detection of outliers: different types of interventions, im-\nplications of interventions, additive and innovational outliers and procedures for de-\ntecting outliers.\n• Structural breaks in time series: Quandt-Andrews test for single structural break,\nestimation of break date, structural break and unit root tests, and Perron’s extension\nof the ADF test.\n• Simple state space models: state space representation of ARIMA models, basic struc-",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 53,
+      "text": "estimation of break date, structural break and unit root tests, and Perron’s extension\nof the ADF test.\n• Simple state space models: state space representation of ARIMA models, basic struc-\ntural model and Kalman recursion.\n• Elements of spectral analysis: spectral density function (s.d.f.) and its properties,\ns.d.f. of AR, MA and ARMA processes, and periodogram analysis.\nApplications of these models and the methodologies thereof should be adequately demon-\nstrated using software. Students should be given assignments as well.\nReferences\n1. Time Series Analysis, J.D. Hamilton.\n2. Introduction to Time Series Analysis, P.J. Brockwell and R.A. Davis.\n3. Introduction to Time Series: C. Chatﬁeld.\n4. Introduction to Statistical Time Series, W.A. Fuller.\n5. The Statistical Analysis of Time Series, T.W. Anderson.\n6. Analysis of Financial Time Series, R.S. Tsay.\n7. Time Series Techniques for Economists, T.C. Mills.\n8. Applied Time Series Econometrics, H. Lutkepohl and M. Kratzig.\n25",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 54,
+      "text": "Comp271: Computer Programming and Applications\n• Elements and characteristics of a computer system, basic computer operations, stor-\nage information, compiler and high level languages, algorithm, analysis of algorithm,\nﬂow chart, data-structure, sorting and searching techniques.\n• Program development in a suitable language or languages, for example, C, C++, and\nFORTRAN.\n• FORTRAN: Constants; simple and subscripted variables; records; arithmetic, string,\nlogical and related operators; arithmetic, string and logical expressions; speciﬁcation\nstatements; arithmetic, string and logical assignment statements; control statements;\nI/O statements; statement function statement; block data statement; function and\nsubroutine subprograms.\n• C: Constant, variables and data types, operators and expression, decision making\nand branching, looping, arrays, user deﬁned functions, standard library, structure and\nunions, pointers, ﬁle management, C pre-processor.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 55,
+      "text": "and branching, looping, arrays, user deﬁned functions, standard library, structure and\nunions, pointers, ﬁle management, C pre-processor.\n• Solutions of elementary problems on numerical analysis, using C/FORTRAN lan-\nguage.\n• Excel, R and Matlab.\nReferences\n1. Programming in C: Schaum Outline Series, B.C. Gottfried.\n2. The C Programming Language, B.W. Kernighan and D.M. Ritchie.\n3. The Art of R Programming: A Tour of Statistical Software Design, Norman Matloff.\n4. R in Action: Data Analysis and Graphics with R, Robert I. Kabacoff.\n5. Matlab: A Practical Introduction to Programming and Problem Solving, Stormy\nAttaway.\n6. Matlab Programming, Y.K. Singh and B.B. Chaudhuri.\n7. Excel 2010 Bible, John Walkenbach.\n26",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 56,
+      "text": "Econ276B: Advanced Topics in Industrial Organization\nPre-requisite: Industrial Organization\nTheory of competition policy. MNC business strategies. Strategic alliances, coalition for-\nmation. Theory of the ﬁrm. Theory of regulation. Employment contracts. Information and\nstrategic behaviour. Dynamic models of oligopoly. Price discrimination, vertical control\nand the theory of the ﬁrm. Networks, standardization and compatibility. Market interme-\ndiation. Empirical studies on topics of industrial organization.\nEcon280B: Political Economy\nElectoral competition and voter behaviour: Downsian and citizen-candidate models, dy-\nnamic voting models, voter response to economic performance, electoral accountability,\ncareer concerns. Partisan politics and political agency: basic partisan models, partisan in-\nﬂuence on politics, Special interest politics: collective action, lobbying and special interest\ngroups, strategic delegation. Models of legislative bargaining. Role of political institutions",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 57,
+      "text": "ﬂuence on politics, Special interest politics: collective action, lobbying and special interest\ngroups, strategic delegation. Models of legislative bargaining. Role of political institutions\nand economic policy.\nReferences\n1. Political Economics, T. Persson and G.E. Tabellini.\nEcon298: Basic Economics1\n• Macro Economics\n– National income accounting: different concepts and three methods of measure-\nment, circular ﬂow of income.\n– Determination of equilibrium income (employment): Classical model, simple\nKeynesian model and its extension to government sector and open economy.\n– Money market: Supply of money and monetary policy, Demand for money.\n– Determination of equilibrium income and interest: IS-LM model in a closed\neconomy. Role of ﬁscal policy.\n– Determination of equilibrium price: Aggregate supply-demand model. Inﬂa-\ntion: Causes and methods to control it.\n– Concepts of cyclical ﬂuctuation and economic growth.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 58,
+      "text": "– Determination of equilibrium price: Aggregate supply-demand model. Inﬂa-\ntion: Causes and methods to control it.\n– Concepts of cyclical ﬂuctuation and economic growth.\n1May be offered in MS (QE) 1st semester to those students who have degrees other than BA/BSc (Hons)\ndegree in Economics.\n27",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 59,
+      "text": "• Development Economics: Developed vs. underdeveloped economy; features of back-\nward agriculture; dual economy and problems of industrialization; problem of unem-\nployment; poverty and inequality.\n• International Trade: Explanations of trade; balance of payment equilibrium; effects\nof devaluation.\nReferences\n1. Macroeconomics, R. Dornbusch and S. Fischer.\n2. Macroeconomic Theory, W.H. Branson.\n3. Macroeconomics, N. Gregory Mankiw.\n4. Economic Development, M.P. Todaro, .\n5. International Economics, P. Krugman and M. Obstfeld.\n6. Economics, P.A. Samuelson and H.D. Nordhaus.\nEcon299: Indian Economy: Selected Topics\nThe topics to be covered would be decided by the instructor. An indicative list is the fol-\nlowing.\nPoverty, Standards of Living and Welfare, Income Distribution, Agriculture and Food Poli-\ncies, Migration and Urbanization, Land markets and Land Acquisition, Labour Markets\nand Regulation, Industrial Policies and Manufacturing Growth, Infrastructure policies and",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 60,
+      "text": "cies, Migration and Urbanization, Land markets and Land Acquisition, Labour Markets\nand Regulation, Industrial Policies and Manufacturing Growth, Infrastructure policies and\nInvestment, Regional and Spatial Inequalities, Education and Health, Gender Inequalities,\nEnvironment and Economic Growth, International Trade and Foreign Direct Investment,\nSectoral Composition of Growth, Taxation and Public Finance, Political Economy Issues,\nMacro issues of Fiscal and Monetary Policies, Inﬂation.\nEcon300: Behavioural and Experimental Economics\n• Design of laboratory (also ﬁeld/survey) experiments: social and clinical psychology,\nsociology and anthropology and evolutionary biology.\n• Deviations from homo-economicus: altruism, reciprocity, boredom, spite, uncer-\ntainty and loss aversion.\n• Theories pertaining to learning, dynamic choice behaviour and norm formation.\n28",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 61,
+      "text": "Econ301A: Project\nSee Section 3 below.\nEcon301B: Thesis\nPre-requisite: Project\nSee Section 3 below.\nEcon302: The Theory of Mechanism Design\n• Complete Information implementation theory: Maskin monotonicity and Nash im-\nplementation, sub-game perfect implementation, virtual implementation, 2-agent im-\nplementation, honest implementation, Bayesian implementation, the King Solomon\nproblem.\n• Auctions: revelation principle, quasi-linearity, dominant strategy-mechanisms, efﬁ-\nciency with Groves transfers, afﬁne maximizers and generalized Groves transfers,\ncombinatorial auctions and the pivotal (VCG) mechanism, public good provision\nwith Groves transfers, cycle monotonicity, single object auction, Myerson mono-\ntonicity, revenue equivalence, optimal auction design, budget balance, bilateral trade.\n• Voting: Unrestricted domain and Gibbard-Satterthwaite Theorem, single-peaked and\nsingle- crossing domains, the median voter rule, randomization and random dicta-",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 62,
+      "text": "• Voting: Unrestricted domain and Gibbard-Satterthwaite Theorem, single-peaked and\nsingle- crossing domains, the median voter rule, randomization and random dicta-\ntorship theorem, separable domain and decomposition, matching - top trading cycle\nand serial dictatorship, two-sided matching - deferred acceptance algorithm, stable\nmatching.\nEcon303: Corporate Finance\n• Corporate governance and corporate ﬁnancing; some stylized facts. Corporate ﬁ-\nnancing and agency costs: Outside ﬁnancing capacity, some determinants of bor-\nrowing capacity, liquidity and risk management, long term ﬁnance, corporate ﬁnanc-\ning under asymmetric information, product markets and earning manipulations. In-\nvestors of Passage: Entry, Exit, and Speculation, Lending Relationships and Investor\nActivism\n• Security Design: The Control Right View: corporate governance, takeovers\n• Security Design: The Demand Side View\n29",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 63,
+      "text": "Econ304: Global Macroeconomics\nPre-requisites: Macroeconomics II, Monetary Economics\n• International Economic Interdependence: Theoretical Foundations.\n• Traditional Approaches and the Inter-temporal Approach to the Current Account.\n• Inter-temporal approaches to Fiscal Policy in the World Economy.\n• Monetary Policy.\n• International Financial Integration and Foreign Exchange Rate Policy.\n• Growth Policies.\n• Tax Policy.\n• Financial Crises.\nReferences\n1. Economic Policy: Theory and Practice, Benassy-Quere, Agnes, Coeure, Benoit,\nJacquet, Pierre, and Jean Pisani-Ferry, Oxford University Press.\n2. Fiscal Policies and Growth in the World Economy, Frankel, Jacob, and Assaf Razin,\nMIT Press.\n3. he Oxford Handbook of the Indian Economy, C. Ghate (Ed.), Oxford University\nPress, New York.\nEcon305: Labour Economics\nRecent empirical approaches to labour economics; Static Labour Supply models; Female\nlabour supply; Intertemporal Labour Supply: Theory and empirics; Empirical estimates",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 64,
+      "text": "Econ305: Labour Economics\nRecent empirical approaches to labour economics; Static Labour Supply models; Female\nlabour supply; Intertemporal Labour Supply: Theory and empirics; Empirical estimates\nof labour supply relationships; Labour demand and wage determination; Compensating\nDifferentials; Incentive pay and efﬁciency wages; Human capital Investment and returns\nto education (private and social); Signalling approach to education; Education Production\nFunctions; Labour market discrimination; Wage Inequality: Decomposition, Empirical ev-\nidence and Theoretical explanation.\nReferences\n1. Labour Economics, Pierre Cahuc and Andre Zylberberg (2004), MIT Press.\n2. Handbook of Labour Economics (relevant volumes).\n30",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 65,
+      "text": "3\nProject (Econ301A) and Thesis (Econ301B)\nThe objective of these two courses is to develop a capacity for independent thinking and a\ntaste for research among the students. Course Econ301A may be offered in Semester III or\nSemester IV (as decided in the 64th meeting of the Academic Council). Course Econ301B,\nif offered, will be in Semester IV.\n3.1\nEligibility\nEcon301A (Project) is a pre-requisite for Econ301B (Thesis). If a student who has opted\nfor ‘Project’ in the third semester likes to continue with the optional course ‘Thesis’ in the\nlast (fourth) semester, he/she has to satisfy either of the following conditions:\n(a) His/her average score (averaged over the aggregates obtained in the ﬁrst three semesters)\nis 65 percent or above;\n(b) His/her score in the ‘Project’ is 80 percent or above.\n3.2\nGuidelines\nThe project/thesis supervisor can only be a regular or visiting faculty member of the Insti-",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 66,
+      "text": "is 65 percent or above;\n(b) His/her score in the ‘Project’ is 80 percent or above.\n3.2\nGuidelines\nThe project/thesis supervisor can only be a regular or visiting faculty member of the Insti-\ntute. It is the responsibility of the student to ﬁnd a suitable supervisor from amongst the\nfaculty members of the respective Centre for both ‘Project’ and ‘Thesis’.\nThe student shall also submit a Thesis Proposal, prepared in consultation with supervi-\nsor, and having the supervisor’s written approval, to the Dean of Studies or the In-charge,\nStudents’ Academic Affairs within the due date.\nA supervisor may supervise at most three students on three different projects.\nIf a supervisor is unable to continue as supervisor for whatever reason, the supervisor\nmust ﬁnd a substitute who shall supervise the concerned student on the same topic.\n3.3\nEvaluation\nThe distribution of weights for a project/thesis course shall be 20% for mid-semester as-",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 67,
+      "text": "must ﬁnd a substitute who shall supervise the concerned student on the same topic.\n3.3\nEvaluation\nThe distribution of weights for a project/thesis course shall be 20% for mid-semester as-\nsessment by the supervisor and 80% for semester-end assessment by the supervisor and\ntwo other examiners who are regular or visiting faculty of the Institute. Regular faculty\nmembers of other recognized universities/ institutes may also be considered as examiners.\nThe supervisor will identify the two other examiners and submit their names directly to the\nDean of Studies or the In-charge, Students’ Academic Affairs by the due date.\nThe student shall submit one hard copy of the work done for the mid-semester eval-\nuation to the supervisor by a date decided by him/her. The supervisor shall forward this\n31",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 68,
+      "text": "hard copy, together with a mid-semester score out of 100, to the Dean of Studies or the\nIn-charge, Students’ Academic Affairs directly within the due date.\nThe student shall submit the project/thesis to the supervisor within the due date. The\nsupervisor should forward copies to the relevant people.\nThe student shall make an oral presentation of the project/thesis within the due date\nto the supervisor and two other examiners; the semester-end assessment shall be based on\nthe project/thesis and the oral presentation. The weights for the semester-end assessment\nshall be at least 60% on the thesis and at least 30% on the oral presentation, adding up\nto 100%. The ﬁnal weights should be decided by the supervisor in consultation with the\nexaminers. The supervisor will inform the Dean of Studies or the In-charge, Students’\nAcademic Affairs of the ﬁnal weights, while submitting the name of the examiners. The",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 69,
+      "text": "examiners. The supervisor will inform the Dean of Studies or the In-charge, Students’\nAcademic Affairs of the ﬁnal weights, while submitting the name of the examiners. The\nsupervisor will also inform the student. The supervisor and the two other examiners may\nscore separately, or give a combined score. When supervisor and the two other examiners\nscore separately, the simple average or the median shall be the ﬁnal score.\nThe date and time for the project/thesis presentation shall be decided by the supervisor\nin consultations with two other examiners. The Dean of Studies, or the In-charge, Stu-\ndents’ Academic Affairs should be informed of the thesis presentation preferably a week\nin advance, with a minimum of three working days’ notice.\nThe Dean’s Ofﬁce or the In-Charge Student Academic Affairs will announce the thesis\npresentation dates and time; the presentation will be open to all. However, the evaluation\nwill be open only to the supervisor and the examiners.",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 70,
+      "text": "presentation dates and time; the presentation will be open to all. However, the evaluation\nwill be open only to the supervisor and the examiners.\nThe minimum composite score to pass any of these two optional courses is 35%. In\ncase a student obtains less than 45% in the composite score in any of these two optional\ncourses, the student will be offered an opportunity to appear for a back-paper examination.\nThe student should submit a revised project/thesis by the last working day before the back-\npaper examinations for that semester. There will be a project/thesis presentation during\nthe week of the back-paper examination — the date will be ﬁnalized by the supervisor in\nconsultation with the examiners and be conveyed to the Dean of Studies, or the In-charge,\nStudents’ Academic Affairs for announcement as done in the usual Project Presentation.\nThe scoring will be based only on the new project/thesis presentation. The maximum",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 71,
+      "text": "Students’ Academic Affairs for announcement as done in the usual Project Presentation.\nThe scoring will be based only on the new project/thesis presentation. The maximum\npossible score in the back paper examination shall be 45%. The other rules and regulations\nregarding back-paper examinations for a regular subject will also apply.\nThe supervisor shall forward the semester-end score (out of 100) to the Dean of Studies\nor the In-charge, Students’ Academic Affairs directly within due date.\n32",
+      "metadata": {
+        "pdf_name": "MS(QE)2014.pdf",
+        "pdf_path": "DATA\\MS(QE)2014.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    }
+  ]
+}

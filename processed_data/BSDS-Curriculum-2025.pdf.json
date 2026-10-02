@@ -1,0 +1,1201 @@
+{
+  "filename": "BSDS-Curriculum-2025.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "Indian Statistical Institute\nBachelor of Statistical Data Science (BSDS)\nCourse Structure and Syllabus",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          1
+        ],
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "Contents\nCurriculum\n3\n1\nDetailed Syllabus for Semester I\n5\nStatistics I: Data Exploration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\nProbability I\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\nMathematics I\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6\nIntroduction to Computing\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n7\n[E] Biology I\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n8\n[E] Economics I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n9\n[E] Earth System Sciences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n10\n2\nDetailed Syllabus for Semester II\n11\nStatistics II: Introduction to Inference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n11",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          2
+        ],
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "10\n2\nDetailed Syllabus for Semester II\n11\nStatistics II: Introduction to Inference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n11\nMathematics II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n12\nData Analysis using R and Python . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n13\nOptimization and Numerical Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n13\n[E] Biology II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n14\n[E] Economics II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n14\n[E] Physics\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n16\n3\nDetailed Syllabus for Semester III\n17\nStatistics III: Multivariate Data and Regression . . . . . . . . . . . . . . . . . . . . . . . . . . .\n17\nStatistical Inference",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          2
+        ],
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "16\n3\nDetailed Syllabus for Semester III\n17\nStatistics III: Multivariate Data and Regression . . . . . . . . . . . . . . . . . . . . . . . . . . .\n17\nStatistical Inference\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n17\nProbability II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n18\nMathematics III\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n19\nData Structures and Algorithms\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n19\n4\nDetailed Syllabus for Semester IV\n21\nAdvanced Statistical Methods I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n21\nLinear Statistical Models\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n22\nStochastic Processes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n22\nMathematics IV",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          2
+        ],
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "22\nStochastic Processes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n22\nMathematics IV\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n23\nDatabase Management Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n23\n5\nDetailed Syllabus for Semester V\n25\nRegression Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n25\nBayesian Inference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n26\n1",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          2
+        ],
+        "start_page": 2,
+        "end_page": 2
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "Statistical Learning I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n26\nAdvanced Statistical Methods II\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n27\nSignal, Image & Text Processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n28\n6\nDetailed Syllabus for Semester VI\n30\nMultivariate Statistical Analysis\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n30\nDiscrete Data Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n31\nLarge Sample and Resampling Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n31\nTime Series Analysis & Forecasting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n32\nStatistical Learning II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n33\n2",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          3
+        ],
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "Curriculum\nThe course structure for the first four years is given below. The structure for the third year onwards\nis tentative, and subject to minor changes. The course structure for the first four years is given below.\nDetailed syllabi are provided for the subjects of the first three years. Syllabi for the subjects of the Fourth\nYear (Semesters VII and VIII) will be published in due course.\nFirst Year\nSemester I\nSemester II\nStatistics I: Data Exploration\nStatistics II: Introduction to Inference\nProbability I\nMathematics II\nMathematics I\nData Analysis using R and Python\nIntroduction to Computing\nOptimization and Numerical Methods\nElective (1 out of 3)\nElective (1 out of 3)\n[E] Biology I\n[E] Biology II\n[E] Economics I\n[E] Economics II\n[E] Earth System Sciences\n[E] Physics\nSecond Year\nSemester III\nSemester IV\nStatistics III: Multivariate Data and Regression\nAdvanced Statistical Methods I\nStatistical Inference\nLinear Statistical Models\nProbability II\nStochastic Processes\nMathematics III",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          4
+        ],
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "Semester IV\nStatistics III: Multivariate Data and Regression\nAdvanced Statistical Methods I\nStatistical Inference\nLinear Statistical Models\nProbability II\nStochastic Processes\nMathematics III\nMathematics IV\nData Structures and Algorithms\nDatabase Management Systems\nThird Year\nSemester V\nSemester VI\nRegression Techniques\nMultivariate Statistical Analysis\nBayesian Inference\nDiscrete Data Analysis\nStatistical Learning I\nLarge Sample and Resampling Methods\nAdvanced Statistical Methods II\nTime Series Analysis & Forecasting\nSignal, Image & Text Processing\nStatistical Learning II\nFourth Year\n3",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          4
+        ],
+        "start_page": 4,
+        "end_page": 4
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "Semester VII\nSemester VIII\nDeep Learning I with GPU programming\nDeep Learning II\nDistributed and Parallel Computing\nAnalysis of (Algorithms for) Big Data\nElective (3 out of 5)\nData Analysis, Report writing and Presentation\n[E] Genetics and Bioinformatics\nElective (2 out of 4)\n[E] Introduction to Statistical Finance\n[E] Causal Inference\n[E] Clinical Trials\n[E] Actuarial Statistics\n[E] Sample Surveys & Design of Experiments\n[E] Survival Analysis\n[E] Statistical Quality Control and Operations\nResearch\n[E] Analysis of Network Data\n4",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "Chapter 1\nDetailed Syllabus for Semester I\nStatistics I: Data Exploration\nR should be introduced at the very beginning of the course and should be used to discuss, illustrate and\nsubstantiate the lectures through the analysis of suitable data sets.\n1. Concepts of population and sample. Intuitive idea about a random sample.\n2. Observational studies and randomized studies.\n3. Types of data and methods of data collection. Primary and secondary data. Summarization and\npresentation of different kinds of univariate and bivariate data. Box plots, histograms, empirical\nc.d.f., Q-Q plots, scatter plots. Bar plots, pie charts.\n4. Descriptive measures: Location, dispersion and skewness. Concept of outliers and robust measures.\nComparison of various methods.\n5. Analysis of bivariate data. Measures of association, correlation and simple linear regression.\n6. Categorical data. Cross tabulation. Basic properties. Odds Ratio.\nReferences\n1. Fundamentals of Descriptive Statistics by Zealure Holcomb.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "6. Categorical data. Cross tabulation. Basic properties. Odds Ratio.\nReferences\n1. Fundamentals of Descriptive Statistics by Zealure Holcomb.\n2. Statistics by David Freedman, Robert Pisani and Roger Purves.\n3. The Art of Statistics. How to Learn from Data by David Spiegelhalter.\nProbability I\n1. Mathematical set-up for probability, equally likely outcomes, basic counting arguments.\n2. Conditional probability, Bayes’ rule, independent events.\n3. Sampling with and without replacement, Binomial distribution, Normal and Poisson approximations\nto Binomial distribution.\n4. Discrete random variables: Discrete Uniform, Bernoulli, Binomial, Poisson, Hyper-geometric,\nGeometric distributions.\n5",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "5. Expectation of a random variable. Variance, standard error, higher moments and generating\nfunctions.\n6. Discrete joint distributions, independent random variables, repeated trials.\n7. Continuous random variables, density, cumulative distribution function, change of variable formula.\nExpectation, variance and higher moments for continuous random variables. Uniform, Exponential,\nGamma, Beta and Normal distributions.\n8. Continuous joint distributions, independence. Discrete and continuous conditional distributions\nand conditional expectations. Covariance and correlation of two random variables. Correlation and\nindependence.\n9. Bivariate Normal distribution, density function and basic properties. Marginal and conditional\ndistributions. Spherical symmetry of the Bivariate Normal distribution.\n10. Distribution of sums, products and quotients for continuous distributions. Student’s t, χ2 (Chi-\nsquare) and F distributions, and their elementary properties.\nReferences",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "10. Distribution of sums, products and quotients for continuous distributions. Student’s t, χ2 (Chi-\nsquare) and F distributions, and their elementary properties.\nReferences\n1. Probability by J. Pitman\n2. Introduction to Probability Theory by R. G. Hoel, S. C. Port and C. J. Stone\n3. A First Course in Probability by Sheldon M. Ross\nMathematics I\nOne variable calculus\n1. Sets: Set operations. Countable and uncountable sets.\n2. Functions: injective and surjective functions. Composition of functions. Inverse of a bijective\nfunction.\n3. Sequences and their limits. Convergent sequences. Cauchy sequences. Series, sum of a series.\n4. Catalogue of essential functions (Polynomial, Trigonometric, Exponential, Logarithmic).\n5. Limit and continuity of a function. Computation of limits. Properties of continuous functions.\n6. Derivative of a function. Derivatives of polynomial, exponential and trigonometric functions. Chain\nrule.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "6. Derivative of a function. Derivatives of polynomial, exponential and trigonometric functions. Chain\nrule.\n7. Properties of differentiable functions. Mean Value Theorem, Taylor’s theorem. Maxima/minima of\na function, L’Hôpital’s rule.\n8. Riemann integration. Some classes of integrable functions. Rules of Integration: Integration by\nparts, substitution rule. (Trigonometric integrals. Trigonometric substitution.) Fundamental\nTheorems of Calculus.\n9. Improper Riemann integrals.\n10. Sequence of functions: definition and examples.\n6",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "Linear Algebra\n1. Vector spaces, subspaces, linear independence. Basis. Dimension. Sum and intersection of subspaces.\n2. Matrices. Elementary row operations. Rank of a matrix. Column space and row space.\n3. Operations with partitioned matrices. Trace and determinant of a matrix.\n4. Linear transformations, matrix of a linear transformation.\n5. Linear equations. Homogeneous and inhomogeneous system of equations. Consistency. Solution\nspace.\nReferences\n1. Linear Algebra and its Applications by Gilbert Strang\n2. Introduction to Linear Algebra by Gilbert Strang\n3. Calculus: One-Variable Calculus with An Introduction to Linear Algebra, Vol 1 by Tom Apostol\n4. Calculus and Analytical Geometry by George B. Thomas and Ross L. Finney\nIntroduction to Computing\nSoftware Programming / General techniques\n1. Introduction to number system: binary, octal, hexadecimal. Introduction to algorithms: Illustration\nusing simple examples (Euclid’s algorithm, bisection method, regula falsi). Representation of",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "1. Introduction to number system: binary, octal, hexadecimal. Introduction to algorithms: Illustration\nusing simple examples (Euclid’s algorithm, bisection method, regula falsi). Representation of\nnumbers and data types: Signed and unsigned integers, floating points, overflow, underflow.\n2. Imperative programming: Introduction, common syntax and constructs — variables, assignment,\nexpressions, conditionals and branching, iteration. Input / output. Functions: parameter passing,\ncall by value, call by reference, recursion. Illustration using C / R / Python / Javascript (basic\nsimilarities and differences).\n3. Arrays. Illustration using sorting.\n4. Pointers, structures, dynamic allocation.\n5. Data Structures: Queue, Stack, Linked lists, Trees.\n6. Basic ideas of Object-oriented programming: Introduction to classes, inheritance, overloading,\npolymorphism.\nSoftware / hardware / Software-hardware interface",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "6. Basic ideas of Object-oriented programming: Introduction to classes, inheritance, overloading,\npolymorphism.\nSoftware / hardware / Software-hardware interface\n1. Introduction to digital computers: CPU, main memory, peripherals, I/O devices, storage.\n2. Random access machine model of computing. Basic concepts of formal run-time analysis.\n3. Basic ideas of parallel programming.\n4. Memory management strategies: C (dynamic allocation / free) vs R / Python (garbage collection)\n7",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "Algorithms\n1. Introduction to error analysis: round-off errors, floating point operations, error propagation,\ncondition number and stability. Illustration using simple examples.\nReferences\n1. C++ How to Program by Paul Deitel and Harvey Deitel\n2. Introduction to Numerical Analysis by Josef Stoer and Roland Bulirsch\n[E] Biology I\nOnly if no Biology in +2\n1. Biological classification of living organisms: Distinguishing characteristics of living and non-living\nthings; Definition and concept of Biodiversity; Need for classification; Three domains of life;\nConcept of species and taxonomical hierarchy; Binomial nomenclature. Five kingdom classifications;\nclassification of plants; classification of animals\n2. Cell and cell division: Study of cell structure and functions; Mitosis and Meiosis, comparative\naccount of mitosis and meiosis. Cell theory and cell as the basic unit of life, structure of prokaryotic",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "account of mitosis and meiosis. Cell theory and cell as the basic unit of life, structure of prokaryotic\nand eukaryotic cells; Plant cell and animal cell; Cell envelope; Cell membrane, Cell wall. Chemical\nconstituents of living cells: biomolecules, structure and function of proteins, carbohydrates, lipids,\nnucleic acids; Enzymes- types, properties, enzyme action; Cell cycle, mitosis, meiosis and their\nsignificance\n3. Central dogma: Structure and function of DNA and RNA; Replication, transcription, translation.\n4. Basic biochemistry: Metabolism of protein, carbohydrate and fat.\n5. Basic microbiology: Microbial culture medium. Microbial morphology, growth and development.\nApplications of microbiology.\n6. Basic agriculture: Plant, soil and environment interaction. Major agricultural and horticultural\ncrops of India. Pest and diseases of crop plants.\n7. Plant Physiology: Photosynthesis: Light harvesting complexes; mechanisms of electron transport;",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "crops of India. Pest and diseases of crop plants.\n7. Plant Physiology: Photosynthesis: Light harvesting complexes; mechanisms of electron transport;\nphotoprotective mechanisms; CO2 fixation-C3, C4 and CAM pathways. Respiration and photores-\npiration: Citric acid cycle; plant mitochondrial electron transport and ATP synthesis; alternate\noxidase; photorespiratory pathway. Nitrogen metabolism: Nitrate and ammonium assimilation;\namino acid biosynthesis.\n8. Animal Physiology: Digestive system. Cardiovascular System. Respiratory system. Nervous system.\nSense organs: Vision, hearing and tactile response. Excretory system.\nReferences\n1. Instant Notes on Biochemistry by B. D. Hames, N. M. Hooper, J. D. Houghton, Viva publications\n2. Instant Notes on Genetics by P. C. Winter, G. I. Hickey and H. L. Fletcher, Viva Publication\n3. Principles of Genetics by D. P. Snustad and M. J. Simmons, John Wiley & Sons Inc\n4. Biochemistry by U. Satyanarayana and U. Chakrapani\n8",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "5. Plant Physiology, Development and Metabolism by Satish C. Bhatla and Manju A. Lal, Springer\n6. Textbook of Animal Physiology by P. B. Reddy\n7. Biochemistry by Lehninger\n8. Microbiology by Michael Pelczar, Jr. and Noel R. Kreig\n9. Principles and Methods in Landscape Ecology by Almo Farina\n10. Microbiology: Concepts and Applications by Michael Pelczar, Jr., E. C. S. Chan, Noel R. Krieg,\nMcGraw Hill Education; 5th edition\n11. General Microbiology by R. P. Singh, Kalyani Publishers\n12. Microbiology by Lansing Prescott, J. P. Harley, D. A. Klein, Brown (William C.) Co, U.S.; 2nd\nedition\n13. Microbiology Fundamentals and Applications (7th Ed.) by S. S. Purohit, Agrobios\n14. Environmental Science by S. C. Santra, New Central Book Agency\n15. Environmental Science: A comprehensive Treatise on Ecology and Environment by Sovan Roy,\nPublishing Syndicate, Calcutta\n[E] Economics I\nOnly if no Economics in +2\nMicro Economics\n1. Welfare Economics: Supply and Demand, Elasticity.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "Publishing Syndicate, Calcutta\n[E] Economics I\nOnly if no Economics in +2\nMicro Economics\n1. Welfare Economics: Supply and Demand, Elasticity.\n2. Consumption and Consumer behaviour.\n3. Production and Theory of costs.\n4. Market Organisation: Competition, Monopoly.\nMacro Economics.\n1. National income accounting, demand and supply.\n2. Simple Keynesian model and extensions.\n3. Consumption and Investment.\n4. Inflation and Unemployment.\n5. Fiscal policy.\n6. Money, banking and finance.\nReferences\n1. Intermediate Microeconomics by Hal Varian.\n2. Microeconomic Theory by Richard Layard and A.A. Walters\n3. Microeconomics in Context by N. Goodwin, J. Harris, J. Nelson, B. Roach and M. Torras\n9",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "4. Microeconomics: behavior, institutions, and evolution by S. Bowles\n5. Macroeconomics by N. G. Mankiw\n6. Macroeconomics by R. Dornbusch and S. Fisher\n[E] Earth System Sciences\nPrerequisite: Physics, Chemistry and Mathematics in +2\n1. The Earth System: The Scientific Method; System Concept, Dynamic Interactions among Systems,\nThe Energy Cycle, Introduction to Geological data.\n2. Earth as a Planet in the Solar System: Origin of the Universe and the Solar System, Evolution of\nthe Planets, Meteorites and Asteroids, Origin of Atmosphere, Ocean and Life.\n3. The Solid Earth: The Earth as a Layered Planet/ Mechanical Layering of the Earth, Layers of\nDifferent Composition and Physical State, Earthquake and the Earth’s Interior, Plate Tectonics,\nGeothermal Gradient, Magmas and Volcanoes.\n4. The Earth’s Evolving Crust: Sedimentary Strata; Sedimentary process and Sedimentary Rocks;\nMetamorphism and Metamorphic Rocks; Plate Tectonics, Continental Crust and Mountain Building;",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "4. The Earth’s Evolving Crust: Sedimentary Strata; Sedimentary process and Sedimentary Rocks;\nMetamorphism and Metamorphic Rocks; Plate Tectonics, Continental Crust and Mountain Building;\nUnderstanding the past from Stratigraphic Records; Geological Time Scale.\n5. Hydrosphere, Atmosphere and Biosphere: Water and the Hydrologic Cycle; Snow and Ice; The\nOceans; The Atmosphere; Winds and the Global Air Circulation; The Earth’s Climate System and\nthe Changing Climate.\n6. Life on Earth: A Planetary Perspective on Life; The Habitable Planet; Biogeochemical Cycles and\nBiological Evolution; Mass Extinctions.\n7. Resources on Earth: Coal and Petroleum Resources; Nuclear, Wind and Hydroelectric Power\nEnergy.\n8. Geostatistics: Application of statistics to Geological Data; Pattern recognition of geological events;\nStatistics for earth resources.\nReferences\n1. The Blue Planet – An Introduction to Earth System Science by B.J. Skinner, S.C. Porter and D.B.\nBotkin",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "Statistics for earth resources.\nReferences\n1. The Blue Planet – An Introduction to Earth System Science by B.J. Skinner, S.C. Porter and D.B.\nBotkin\n2. The Earth Machine – The Science of a Dynamic Planet by E.A. Mathez and J.D. Webster\n3. Understanding Earth, 5th Edition by J. Grotzinger, T.H. Jordan, F. Press and R. Siever\n4. Planet Earth: Cosmology, Geology, and the Evolution of Life and Environment by C. Emiliani\n10",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "Chapter 2\nDetailed Syllabus for Semester II\nStatistics II: Introduction to Inference\nMethods will be motivated through real-life examples. Performance of statistical procedures will be\nassessed through numerical simulations.\n1. Population vs. sample. Empirical distribution. Parametric statistical models. Need for inference on\na parameter.\n2. Point estimation: Concept of bias, variance, mean squared error (MSE), relative efficiency.\n3. Estimation of parameters by method of moments and maximum likelihood method.\n4. Sampling distributions derived from Normal populations: χ2 (Chi-square), t and F distributions.\n(Discussion of properties without derivation).\n5. Introduction to asymptotic inference: Informal discussion of Weak Law of Large Numbers and\nCentral Limit Theorem. Consistency of estimators. Approximating sampling distributions through\nCLT.\n6. Numerical computation of sampling distributions based on independent samples from an arbitrary",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "Central Limit Theorem. Consistency of estimators. Approximating sampling distributions through\nCLT.\n6. Numerical computation of sampling distributions based on independent samples from an arbitrary\npopulation. Comparison with CLT-based approximations.\n7. Hypothesis testing: Null and alternative hypotheses, simple and composite hypotheses, Type I and\nType II errors, level and power of a test, p-value. Neyman-Pearson Lemma, most powerful tests,\nunbiased tests.\n8. Exact and large sample tests for binomial proportion and mean of a Normal distribution (one\nsample case). One-sided and two-sided alternatives.\n9. Exact (pooled-t) and large sample tests for the equality of two Normal means. Paired t-test. Test for\nequality of variances of two Normal populations. Test for the equality of two binomial proportions.\n10. Interval estimation: Construction using pivotal quantities and critical regions. Exact and large",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "10. Interval estimation: Construction using pivotal quantities and critical regions. Exact and large\nsample confidence intervals. Confidence intervals for Binomial, Normal and Poisson parameters\n(one sample case).\n11. Large sample confidence intervals for the difference of two Binomial proportions. Exact and large\nsample confidence intervals for the difference of means of two Normal populations.\n11",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "12. Sample size determination in tests of hypotheses for ensuring a specified power, and in constructing\nconfidence intervals for ensuring a specified interval width.\nReferences\n1. Statistics by David Freedman, Robert Pisani and Roger Purves.\n2. The Art of Statistics. How to Learn from Data by David Spiegelhalter.\n3. All of Statistics: A Concise Course in Statistical Inference by L. Wasserman.\n4. Probability and Statistics by M. H. DeGroot and M. J. Schervish.\n5. Mathematical Statistics with Applications by D. Wackerly, W. Mendenhall, R. L. Scheaffer.\nMathematics II\nCalculus\n1. Infinite Series. Alternating Series. Absolute Convergence. Tests of convergence: comparison test,\nroot test, ratio test, integral test.\n2. Power Series: Radius of convergence of a power series. Differentiation/integration of power series.\nRevisit Trigonometric functions, Exponential Functions and Logarithms.\n3. Functions of Several Variables. Limits and Continuity.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "Revisit Trigonometric functions, Exponential Functions and Logarithms.\n3. Functions of Several Variables. Limits and Continuity.\n4. Partial Derivatives, directional derivatives. Differentiability. Differentiability of functions with\ncontinuous partial derivatives. Jacobian and Chain rule.\n5. Matrix differentiation with examples.\n6. Maximum and minimum values. Hessian matrix. Multivariate Taylor series.\n7. Multiple Integrals as iterated integrals. Change of variables in multiple integrals. Jacobian formula.\nLinear Algebra\n1. Orthogonality and its geometric interpretation.\n2. Eigenvalues and eigenvectors. Spectral decomposition. Singular value decomposition (SVD).\n3. Positive semidefinite matrices. Projection matrices.\n4. Matrix norms, and low rank matrix approximation using SVD.\n5. Computations using matrices: QR decomposition, Gram-Schmidt orthogonalization, Cholesky\ndecomposition.\nReferences\n1. Linear Algebra and its Applications by Gilbert Strang",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "5. Computations using matrices: QR decomposition, Gram-Schmidt orthogonalization, Cholesky\ndecomposition.\nReferences\n1. Linear Algebra and its Applications by Gilbert Strang\n2. Introduction to Linear Algebra by Gilbert Strang\n3. Calculus: One-Variable Calculus with An Introduction to Linear Algebra, Vol 1 by Tom Apostol\n4. Calculus: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations\nand Probability, Vol 2 by Tom Apostol\n12",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "Data Analysis using R and Python\n1. The REPL model for R and Python. IDEs such as RStudio and Jupyter.\n2. Vectors (arrays) in R and Python (through numpy). Indexing. Other data types: Lists, data frames,\ndictionaries. Operators and functions, attributes. Using the help system.\n3. Objects, workspace, add-on packages. Data import and export. Excel / CSV, native file formats.\nCommon data manipulation and summary operations in R; base packages and dplyr. Scoping rules.\n4. Probability calculations and simulation. Data visualization. Basic statistical modeling, formula\ninterface.\n5. Dynamic documents and notebooks. Illustration using knitr and related packages in R. Exporting\nas PDF / HTML reports.\n6. Working simultaneously with multiple languages. Calling C / C++ / Python from R (Rcpp,\nreticulate).\nReferences\n1. Introductory Statistics with R by Peter Dalgaard\n2. R for Data Science by Hadley Wickham and Garrett Grolemund\n3. Python Data Science Handbook by Jake Vanderplas",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "reticulate).\nReferences\n1. Introductory Statistics with R by Peter Dalgaard\n2. R for Data Science by Hadley Wickham and Garrett Grolemund\n3. Python Data Science Handbook by Jake Vanderplas\n4. Python for Data Analysis by Wes McKinney\nOptimization and Numerical Methods\nFocus will be on methods and applications. Relevant mathematical results will be stated without proof.\nSelected optimization methods will be implemented in R, Python or Julia.\nOptimization\n1. Role of optimization in Data Science/Statistics through motivating examples (e.g., least squares\nand maximum quasi-likelihood methods in linear/generalized linear models, support vector machine,\npenalized regression, matrix approximation).\n2. Basics of convex optimization: Overview of convex sets and convex functions. Convexity preserving\noperations. Notions of convex hull, cone, polyhedra.\n3. Optimization problems: Convex vs. non-convex optimization.\nConstrained vs. unconstrained\noptimization. Global and local optima.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "operations. Notions of convex hull, cone, polyhedra.\n3. Optimization problems: Convex vs. non-convex optimization.\nConstrained vs. unconstrained\noptimization. Global and local optima.\n4. Optimality conditions: First and second order optimality conditions. Primal and dual problems.\nMethod of Lagrange multiplier. KKT condition.\n5. Introduction to Linear Programming with examples.\n6. Introduction to Quadratic Programming with examples.\n7. Introduction to Gradient-based methods with examples.\n8. Introduction to Second order methods with examples.\n13",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "Numerical Methods\n1. Numerical solution of nonlinear equations in one variable: Bisection and Newton-Raphson methods.\n2. Basic concepts of interpolation. Polynomial interpolation.\n3. Introduction to Numerical integration with examples.\nReferences\n1. Convex Optimization: Algorithms and Complexity by S. Bubeck.\n2. Convex Optimization by S. Boyd and L. Vandenberghe.\n3. Numerical Optimization by J. Nocedal and S. Wright.\n4. Modern Optimization with R by P. Cortez.\n5. Julia Programming for Operations Research by C. Kwon.\n6. Linear Algebra and Learning from Data by G. Strang.\n7. Elementary Numerical Analysis: An Algorithmic Approach by S. D. Conte and C. de Boor.\n[E] Biology II\nPrerequisite: Either Biology I or Biology in +2\n1. Predator-prey interaction: Definitions, relationships and population dynamics, Evolution and\nexamples.\n2. Principles of genetics: Definition of gene and genetic code; relationship between them. Mendel’s",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "examples.\n2. Principles of genetics: Definition of gene and genetic code; relationship between them. Mendel’s\nLaw of genetics and application in human population. Interaction of Genes or Factor Hypothesis:\nIntroduction; incomplete dominance or blending inheritance; lethal factor; simple interaction or\ntwo factor pairs affecting the same character; epistasis — complementary factor; supplementary\nfactor; inhibitory factor; duplicating factor or multiple factor; polymerisms. Sex Chromosome and\nSex-Linkage: Sex chromosomes; sex-linkage or sex-linked inheritance or inheritance related to sex.\nCytoplasmic Inheritance or Extranuclear inheritance: Introduction; maternal effect; extranuclear\ninheritance.\n3. Landscape ecology: Introduction to landscape ecology framework. Scaling patterns and processes\nacross landscapes. Landscape heterogeneity and disturbances. Principles of landscape dynamics.\nMethods in landscape ecology.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "across landscapes. Landscape heterogeneity and disturbances. Principles of landscape dynamics.\nMethods in landscape ecology.\n4. Environmental science: Components of environment, Environmental pollution and management,\nClimate change and global warming, Environmental quality analysis.\nReferences\nSee references for Biology I\n[E] Economics II\nPrerequisite: Either Economics 1 or Economics in +2\n14",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "1. Index numbers: Construction of index numbers, properties, some well-known index number formulae,\nproblem of construction of index numbers, chain indices, cost of living indices, splicing of index\nnumbers, different types of index numbers used in India.\n2. Analysis of income and allied size distributions: Pareto and log-normal distributions, genesis,\nspecification and estimation, Lorenz curve, Gini coefficient.\n3. Demand analysis: Classification of commodities, Engel curve analysis using cross-section and\ntime series data, Engel curves incorporating household characteristics, demand projection, specific\nconcentration curves.\n4. Production analysis: Profit maximization, cost minimization, returns to scale, Cobb-Douglas and\nACMS production functions.\n5. International Statistical system: Overview on Sectoral statistics and other economic Statistics:\nStandard International classifications used for compilation of economic statistics – International",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "5. International Statistical system: Overview on Sectoral statistics and other economic Statistics:\nStandard International classifications used for compilation of economic statistics – International\nStandard Industrial Classification (ISIC Rev. 4), Administrative data, Business Registers Overview\nof Sectoral Statistics: Agriculture, forestry, fisheries; Mining, Manufacturing, Energy & construction,\nDomestic Trade and Transport, Banking, insurance, financial statistics, Government finance statistics,\nand Services sector statistics. Employment & Labour, Prices, Merchandise trade statistics and\nStatistics on International Trade in Services, System of National Accounts.\n6. Measurement of vital rates: SRS, Life table, Literacy rate, etc.\n7. Statistics of Production: agriculture and industry, annual survey of industries, index of industrial\nproduction.\n8. Price Statistics, consumer price index numbers.\n9. Income and consumer expenditure distribution, poverty.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "production.\n8. Price Statistics, consumer price index numbers.\n9. Income and consumer expenditure distribution, poverty.\n10. Employment and unemployment.\nReferences\n1. Statistics for Economists by P.H. Karmel and M. Polasek.\n2. Price Index Numbers by R.G.D. Allen.\n3. Income Inequality and Poverty by N. Kakwani.\n4. An Introduction to Econometrics by L.R. Klein.\n5. Empirical Econometrics by J.S. Cramer.\n6. Econometric Models, Techniques and Applications by M.D. Intrilligator.\n7. Indian Official Statistical Systems by M.R. Saluja.\n8. Living Standard Measurement Surveys. World Bank\n9. National Accounts: A Practical Introduction. United Nations, New York, 2003\n10. Business Registers - Recommendations Manual. EUROSTAT, 2010\n11. International Standard Industrial Classification of All Economic Activities, Revision 4. United\nNations, New York, 2008.\n12. Classifications of Expenditure according to Purpose. United Nations, New York, 2000.\n15",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "13. International Recommendations for Industrial Statistics. United Nations, New York, 2008.\n[E] Physics\nPrerequisite: Physics in +2\n1. Thermodynamics (Zeroth to Third Laws), Carnot Engines, Heat Equations, Various thermodynamic\npotentials, Relations (Requires partial derivatives, multivariable extrema).\n2. Equilibrium Statistical mechanics: The microcanonical, Canonical and Grand Canonical Ensembles;\nIdeal Classical Gas from Statistical Mechanics; Applications of the three ensemble formulations\n(spin systems, gases, etc.: preferably should include a fairly detailed investigation of Ising Model in\nd = 1 and 2 with introduction of mean-field theory).\n3. Classical Equilibrium Phase Transitions: Gibbs phase rule, Classification of phase transitions,\nClausius-Clapeyron Equations, Rankine Cycles, etc.; Scaling ideas, Widom’s scaling hypothesis,\ncontinuous phase transitions, critical exponents, calculation of critical exponents from mean-field\ntheory in suitable systems.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "continuous phase transitions, critical exponents, calculation of critical exponents from mean-field\ntheory in suitable systems.\n4. Basics of Renormalization Group: Kadanoff’s block spin transformation/coarse graining, Exposition\nof various concepts (dimensional analysis for scaling, relevant, marginal and irrelevant operators,\nfixed points and their stabilities, RG flow diagrams, corrections to critical exponents etc.) through\nsimple problems, universality.\n5. Random systems: annealed and quenched disorder, Harris criterion, introduction to spin glasses\nand Replica method, perturbative approach to random fixed point, introduction to percolation.\n6. Computer Simulations in Classical Statistical Mechanics: Monte Carlo simulations, Molecular and\nparticle dynamics.\nReferences\n1. Statistical Physics of Particles by Mehran Kardar\n2. Statistical Physics of Fields by Mehran Kardar\n3. Statistical Mechanics by Pathria and Beale",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "particle dynamics.\nReferences\n1. Statistical Physics of Particles by Mehran Kardar\n2. Statistical Physics of Fields by Mehran Kardar\n3. Statistical Mechanics by Pathria and Beale\n4. Thermodynamics and an Introduction to Thermostatistics by Herbert Callen\n5. Lectures on Phase Transitions and the Renormalization Group by Nigel Goldenfeld\n6. Statistical Mechanics: Entropy, Order Parameters, and Complexity by James P. Sethna\n7. Scaling and Renormalization in Statistical Physics by John Cardy\n8. A Guide to Monte Carlo Simulations in Statistical Physics by David P. Landau, Kurt Binder\n16",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "Chapter 3\nDetailed Syllabus for Semester III\nStatistics III: Multivariate Data and Regression\n1. Review of bivariate Normal distribution: Conditional distribution and its relation to the simple\nlinear regression model.\n2. Multiple linear regression: Least squares estimation. Normal equations. Properties of residuals.\nMultiple and partial correlation coefficients.\n3. Inference on linear regression: Properties of least squares estimators under Gaussian noise. Hypoth-\nesis tests and confidence intervals for regression coefficients.\n4. Analysis of Variance for one-way classified data. Interpretation of identifiability constraints. ANOVA\ntable. Tests of hypothesis.\n5. Review of Multinomial distribution: Conditional and marginal distributions. Large sample properties.\n6. Graphical summary of categorical response: Stacked bar plot, tile chart, sunburst chart, parallel\ncoordinates plot.\n7. Regression with binary response: Odds ratio. Logistic regression and probit models. Estimation",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "coordinates plot.\n7. Regression with binary response: Odds ratio. Logistic regression and probit models. Estimation\nusing Fisher scoring (description only).\n8. Goodness of fit for categorical response: Tests of independence and homogeneity in contingency\ntables.\nReferences\n1. Practical Regression and ANOVA with R by Julian Faraway\n2. Applied Logistic Regression by David W. Hosmer, Stanley Lemeshow\n3. Categorical Data Analysis by Alan Agresti\n4. Applied Regression Analysis by Norman N. Draper and Harry Smith\nStatistical Inference\n1. Review of estimation and hypothesis testing for one-parameter families of distributions.\n17",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "2. Order statistics and heuristic derivation of its distribution for i.i.d. samples from continuous\ndistributions.\n3. Likelihood principle and sufficiency. Examples.\n4. Unbiased estimation and Rao-Blackwell theorem. UMVUE.\n5. Fisher information. Cramer-Rao lower bound for one and multi-parameter families.\n6. Maximum likelihood estimation. Likelihood equations. Fisher’s scoring method.\n7. Most Powerful test and Neymann-Pearson lemma. Examples involving Binomial, Poisson, Normal,\nUniform and Exponential Distributions.\n8. Likelihood ratio test. Rao’s score test. Wald’s test. Examples involving standard families of\ndistributions.\n9. Connection between hypothesis testing and interval estimation. Examples.\n10. Simultaneous inference: Notion of p-values and their distribution under null hypothesis. Notions of\nfamilywise error rate and false discovery rate. Methods for simultaneous testing: Bonferroni proce-",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "familywise error rate and false discovery rate. Methods for simultaneous testing: Bonferroni proce-\ndure, Holm procedure, Benjamini-Hochberg procedure. Discussion of advantages and disadvantages.\n11. Introduction to U-statistics with examples.\nReferences\n1. Stat Labs: Mathematical Statistics Through Applications by Deborah Nolan, Terry Speed\n2. Mathematical Statistics by Peter J. Bickel and Kjell A. Doksum\n3. Statistical Inference by George Casella and Roger L. Berger\n4. U-Statistics, Mm-Estimators and Resampling by Arup Bose and Snigdhansu Chatterjee\n5. Testing Statistical Hypothesis (Chapter 9) by E. L. Lehmann and Joseph P. Romano\n6. Multiple Testing Procedures with Applications to Genomics by S. Dudoit and M. van der Laan\n7. Multiple Comparisons: Theory and Methods by Jason Hsu\nProbability II\n1. Distributions of functions of random vectors and Jacobian formula. Examples.\n2. Sampling distribution for mean and sample variance of i.i.d. Normal observations.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "Probability II\n1. Distributions of functions of random vectors and Jacobian formula. Examples.\n2. Sampling distribution for mean and sample variance of i.i.d. Normal observations.\n3. Cauchy-Schwartz, Markov and Chebyshev inequalities. Weak Law of Large Numbers (WLLN) and\nStrong Law of Large Numbers (SLLN) (statements only).\n4. Concept of almost sure and in probability convergence. Concept of “infinitely often”, First and\nSecond Borel-Cantelli Lemmas. Concepts of L1, L2 and general Lp convergence where p > 1.\n5. Statements of the Monotone Convergence Theorem (MCT), Fatou’s Lemma and the Dominated\nConvergence Theorem (DCT).\n6. Basic notion of distributional convergence. Statement of the i.i.d. Central Limit Theorem (CLT).\nSlutsky’s Theorem. Delta method. Multivariate CLT, Cramer-Wold device, statement and examples.\n18",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "7. Basic idea of generating functions. Definition and examples of probability generating function\n(pgf) for discrete integer valued random variables, moment generating functions (mgf) and the\ncharacteristic function (chf). Properties of characteristic functions, uniqueness, inversion and\ndensity formula (statements only). Connection between chf and distributional convergence, Levy’s\nContinuity Theorem (statement only).\nReferences\n1. Probability by J. Pitman\n2. Introduction to Probability Theory by R. G. Hoel, S. C. Port and C. J. Stone.\n3. A First Course in Probability, 6th Edition by Sheldon M. Ross.\nMathematics III\nGraph Theory\n1. Types of graphs, Simple Graph, Directed Graph, Undirected Graph, Complete Graph. Degree of a\nvertex in an undirected graph, Indegrees and Outdegrees of a directed graph.\n2. Paths and Reachability in Graphs, Graph coloring, Vertex cover, Independent set, Matching,\nRepresenting graphs, Adjacency matrix.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "2. Paths and Reachability in Graphs, Graph coloring, Vertex cover, Independent set, Matching,\nRepresenting graphs, Adjacency matrix.\n3. Breadth-First Search (BFS) algorithm. Depth-First Search (DFS) algorithm. Applications.\nAnalysis\n1. Basics of complex number system. Roots of polynomials. Power series in complex variables, complex\nexponential.\n2. Basic properties of metric spaces. Open and closed sets, notion of convergence and continuity,\ncompactness, completeness.\n3. Normed vector spaces and Hilbert spaces (definition and examples). Basic properties of Hilbert\nspaces: notion of complete orthogonal basis, basis expansion.\nReferences\n1. Topology and Modern Analysis by George F. Simmons\n2. Introduction to Graph Theory by Douglas B. West\nData Structures and Algorithms\n1. Introduction: Idea of data structure design (in terms of static and dynamic data), and the basic\noperations needed; initial ideas of algorithms and its resource usage in terms of space and time",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "1. Introduction: Idea of data structure design (in terms of static and dynamic data), and the basic\noperations needed; initial ideas of algorithms and its resource usage in terms of space and time\ncomplexity; ideas of worst case, average case and ammortized case analysis, complexity classes.\n2. Construction and manipulation of basic data structures: Idea of abstract data types and its concrete\nimplementation; basic data structures — list, array, stack, queue, dequeue, linked lists; binary tree\nand traversal algorithms, threaded tree, m-ary tree, its construction and traversals; priority queue\nand heap.\n19",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "3. Data Structures for searching: Binary search trees, height-balanced binary search tree; weight-\nbalanced binary search tree; red-black tree; binomial heap; splay tree; skip list; trie.\n4. Hashing: separate chaining, linear probing, quadratic probing.\n5. Sorting and selection: Finding maximum and minimum, k largest elements in order; Sorting by\nselection, tournament and heap sort methods, lower bound for sorting, other sorting algorithms —\nradix sort, quick sort, merge sort; selection of k-th largest element.\n6. Searching and set manipulation: Searching in static table — binary search, path lengths in binary\ntrees and applications, optimality of binary search in worst cast and average-case, binary search\ntrees, construction of optimal weighted binary search trees; Searching in dynamic table; randomly\ngrown binary search trees, AVL and (a, b) trees.\n7. Union-Find problem: Tree representation of a set, weighted union and path compression analysis\nand applications.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "grown binary search trees, AVL and (a, b) trees.\n7. Union-Find problem: Tree representation of a set, weighted union and path compression analysis\nand applications.\n8. Graph problems: Graph searching — BFS, DFS, shortest first search, topological sort; connected\nand biconnected components; minimum spanning trees, Kruskal’s and Prim’s algorithms, Johnson’s\nimplementation of Prim’s algorithm using priority queue data structures.\n9. Algebraic problems: Evaluation of polynomials with or without preprocessing. Winograd’s and\nStrassen’s matrix multiplication algorithms and applications to related problems, FFT, simple lower\nbound results.\n10. String processing: String searching and pattern matching, Knuth-Morris-Pratt algorithm and its\nanalysis.\nReferences\n1. Data Structures, Algorithms and Software Principles in C by T. A. Standish. Addison-Wesley,\nReading, Mass., 1995.\n2. Data Structures Using C by A. M. Tenenbaum, Y. Langsam and M. J. Augenstein:, Pearson, 1998.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 53,
+      "text": "Reading, Mass., 1995.\n2. Data Structures Using C by A. M. Tenenbaum, Y. Langsam and M. J. Augenstein:, Pearson, 1998.\n3. The Art of Computer Programming: Volume 1 by D. E. Knuth. Third edition, Narosa / Addison-\nWesley, New Delhi / London, 1997.\n4. Fundamentals of Data Structures by E. Horowitz and S. Sahni. Galgotia Booksource, New Delhi,\n1977.\n5. The Design and Analysis of Computer Algorithms by A. Aho, J. Hopcroft and J. Ullman. A. W. L,\nInternational Student Edition, Singapore, 1998.\n6. Introduction to Algorithms by T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein. Third\nedition, MIT Press, 2009.\n20",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 54,
+      "text": "Chapter 4\nDetailed Syllabus for Semester IV\nAdvanced Statistical Methods I\nSampling Techniques\n1. Simulating probability distributions through exact sampling: Algorithms for simulating standard\nunivariate distributions, multivariate Normal and Multinomial.\n2. Monte Carlo techniques: Basic Monte Carlo, Rejection sampling, Importance sampling. Application\nto evaluating integrals. Comparison with numerical integration.\n3. Introduction to MCMC: Basic introduction to discrete time Markov chains. Gibbs sampling with\napplication to sampling from conditional distributions.\nNonparametric methods\n1. Nonparametric and distribution-free methods for testing: Sign test and signed rank test. Mann-\nWhitney test, Wilcoxon rank sum statistic. Nonparametric tests for one-sample and two-sample\nscale problems. Kolmogorov-Smirnov test. Kruskal-Wallis test for k-sample location problem.\n2. Nonparametric density estimation: Shifted histogram and kernel density estimation. Bandwidth",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 55,
+      "text": "scale problems. Kolmogorov-Smirnov test. Kruskal-Wallis test for k-sample location problem.\n2. Nonparametric density estimation: Shifted histogram and kernel density estimation. Bandwidth\nselection through cross-validation.\n3. Nonparametric regression: k-nearest neighbor regression. Kernel smoothing. Bias and variance as\nfunctions of bandwidth. Bandwidth selection through cross-validation. Splines and their applications\nto nonparametric regression.\nResampling techniques\n1. Introduction to Resampling techniques: Jackknife, Bootstrap and Cross-Validation as data analytic\ntools. Application to inference for one parameter families and linear regression.\nReferences\n1. MCMC from Scratch by Masanori Hanada and So Matsuura\n2. Nonparametric Statistical Methods Using R By John Kloke and Joseph McKean\n3. Nonparametric Statistical Inference by Jean D. Gibbons and Subhabrata Chakraborti\n21",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 56,
+      "text": "4. Resampling Methods by Phillip I. Good\n5. Theory and Methods of Statistics (Chapter 9) by P. K. Bhattacharya and P. Burman\nLinear Statistical Models\n1. Linear models from regression, ANCOVA, classification, and dimension reduction perspectives.\nBuilding linear models based on designed experiments and observational studies.\n2. Gauss-Markov framework for linear models. Identifiability and estimability of parameters. Best\nLinear Unbiased Estimator (BLUE).\n3. Projections approach to least squares model fitting. Degrees of freedom. ANOVA decomposition.\n4. Testing linear hypothesis: test based on residual sums of squares, likelihood ratio test, Wald’s test.\n5. Analysis of Variance (ANOVA): One-way and two-way classified data. Roles of identifiability\nconstraints. Interaction plots for two-way classified data. Tests for main effects and interactions.\nNested two-way ANOVA.\n6. Analysis of Covariance (ANCOVA): Model fitting and testing of hypotheses.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 57,
+      "text": "constraints. Interaction plots for two-way classified data. Tests for main effects and interactions.\nNested two-way ANOVA.\n6. Analysis of Covariance (ANCOVA): Model fitting and testing of hypotheses.\n7. Multiple comparisons: Inference on contrasts. Bonferroni’s method, Tukey’s method, Scheffé’s\nmethod, Holm’s procedure.\n8. Introduction to random and mixed effects models: Bayesian interpretation. Variance components.\nMarginal maximum likelihood (MML) and restricted maximum likelihood (REML) methods for\nestimation. Approximations to MLE. Best Linear Unbiased Predictor (BLUP). Tests of hypothesis.\nReferences\n1. Linear Models with R by Julian Faraway\n2. Linear Models by S. R. Searle and M. H. J. Gruber\n3. Applied Linear Statistical Models by M. H. Kutner, C. J. Nachtsheim, J. Neter and W. Li\n4. Multiple Comparisons: Theory and Methods by Jason Hsu\n5. Stat Labs: Mathematical Statistics Through Applications by Deborah Nolan, Terry Speed\nStochastic Processes",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 58,
+      "text": "4. Multiple Comparisons: Theory and Methods by Jason Hsu\n5. Stat Labs: Mathematical Statistics Through Applications by Deborah Nolan, Terry Speed\nStochastic Processes\n1. Introduction and examples of collection of random variables and concept of a Stochastic Process.\n2. Introduction to discrete Markov chains with finite and countably infinite state space, examples\nincluding two-state chain, random walks on integer line, birth and death chains, Ehrenfest chains,\netc.\n3. Concept of recurrent and transient states. Absorbing states. Irreducibility, decomposition of state\nspace into irreducible classes.\n4. Concept of stationary distribution, positive and null recurrence. Periodicity, cyclic decomposition of\na periodic chain. Limit theorem for a finite state, aperiodic and irreducible chain (without proof).\n5. Introduction to reversible chains with examples.\n22",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 59,
+      "text": "6. Introduction to Markov Chain Monte Carlo (MCMC), specific examples including perfect sampling\nand Metropolis-Hastings algorithm.\n7. Poisson process and its basic properties. Inhomogeneous and compound Poisson processes, examples.\nSimple birth and death processes. A brief introduction to the general continuous time but discrete\nstate space Markov chains. Introduction to M/M/1, M/M/c and M/M/∞queues.\nReferences\n1. Introduction to Stochastic Processes by R. G. Hoel, S. C. Port and C. J. Stone.\n2. Finite Markov Chains by J. G. Kemeny, J. L. Snell and A. W. Knapp.\n3. Stochastic Processes with Applications by R. N. Bhattacharya and E. Waymire.\n4. Markov Chain Monte Carlo in Practice by W. R. Gilks, S. Richardson and David Spiegelhalter.\n5. Monte Carlo Statistical Methods by C. P. Robert and G. Casella.\nMathematics IV\nCalculus (7 weeks)\n1. Vectors and the Geometry of Space: Three-Dimensional Coordinate Systems, Vectors, The Dot",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 60,
+      "text": "5. Monte Carlo Statistical Methods by C. P. Robert and G. Casella.\nMathematics IV\nCalculus (7 weeks)\n1. Vectors and the Geometry of Space: Three-Dimensional Coordinate Systems, Vectors, The Dot\nProduct, The Cross Product, Equations of Lines and Planes, Cylinders and Quadric Surfaces.\n2. Applications of integration: Arc Length, Area of a Surface of Revolution, Applications.\n3. Parametric equations: Statements of Inverse Function Theorem and Implicit Function Theorem.\nCurves Defined by Parametric Equations, Calculus with Parametric Curves.\nDifferential equations (7 weeks)\n1. First order differential equations, Picard’s theorem, linear dependence and Wronskian.\n2. Dimensionality of space of solutions, linear ODE with constant coefficients of second and higher\norder, Cauchy-Euler equations, Method of undetermined coefficients and method of variation of\nparameters.\n3. Boundary Value Problems: System of linear differential equations with constant coefficients,",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 61,
+      "text": "parameters.\n3. Boundary Value Problems: System of linear differential equations with constant coefficients,\nfundamental matrix, matrix methods, Laplace Transform Method.\nReferences\n1. Advanced Engineering Mathematics by Erwin Kreyszig\nDatabase Management Systems\n1. Introduction: Purpose of database systems, data abstraction and modelling, instances and schemes,\ndatabase manager, database users and their interactions, data definition and manipulation language,\ndata dictionary, overall system structure, data integration, Database Indexing.\n2. Relational data model: Structure of a relational database, operation on relations, relational algebra,\ntuple and domain relational calculus, salient features of a query language.\n23",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 62,
+      "text": "3. SQL: domain types, construction, alteration and deletion of tables, query structure and examples,\nnatural joins and other set operations, aggregations, nested subqueries, inserting, modifying\nand deleting data, advanced joins, views, transactions, integrity constraints, cascading actions,\nautorization and roles. Hands on and practical assignments.\n4. Entity-relationship model: Entities and entity sets, relationships and relationship sets, mapping\nconstraints, E-R diagram, primary keys, strong and weak entities, reducing E-R diagrams to tables.\n5. Databases in application development: cursors, database APIs, JDBC and ODBC, JDBC drivers,\nConnections, Statements, ResultSets, Exceptions and Warnings. Practical case studies.\n6. Normalization: Anomalies in RDBMS, importance of normalization, functional, multi-valued and\njoin dependencies, closures of functional dependencies and attribute sets, 1NF, 2NF, 3NF and",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 63,
+      "text": "6. Normalization: Anomalies in RDBMS, importance of normalization, functional, multi-valued and\njoin dependencies, closures of functional dependencies and attribute sets, 1NF, 2NF, 3NF and\nBCNF; Discussion on tradeoff between performance and normalization. Database tuning: Index\nselection and clustering, tuning of conceptual schema, denormalization, tuning queries and views.\n7. Query optimization: Importance of query processing, equivalence of queries, join ordering, cost\nestimation, cost estimation for complex queries and joins, optimizing nested subqueries, I/O cost\nmodels, external sort.\n8. Transaction Processing and Concurrency Control in RDBMS: Transaction Life Cycle, Concurrent\nExecution of Transactions; Testing for serializability, lock based and time-stamp based protocols;\nDeadlock detection and Recovery.\n9. Crash recovery: Failure classification, transactions, log maintenance, check point implementation,\nshadow paging, example of an actual implementation.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 64,
+      "text": "Deadlock detection and Recovery.\n9. Crash recovery: Failure classification, transactions, log maintenance, check point implementation,\nshadow paging, example of an actual implementation.\n10. NoSQL: Introduction to NoSQL databases, ACID vs BASE requirements, practical exercises with\none noSQL system (for example MongoDB).\nReferences\n1. An Introduction to Database Systems by C. J. Date, Pearson Education, Inc., 8th Edition, 2006.\n2. Database System Concepts by A. Silberschatz, H. F. Korth and S. Sudarshan, Tata McGraw-Hill,\n6th Edition, 2011.\n3. Fundamentals of Database Systems by R. Elmasri and S. B. Navathe, Pearson Education, Inc., 4th\nEdition, 2004.\n4. Database Management Systems by R. Ramakrishnan and J. Gehrke, McGraw-Hil, 3rd Edition, 2007.\n5. Database Systems: The Complete Book by H. Garcia-Molina, J. D. Ullman and J. Widom, , Pearson\nEducation, Inc., 2nd Edition, 2009.\n6. MySQL stored procedure programming by G. Harrison and S. Feuerstein, O’Reilly Media, Inc., 2006.\n24",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 65,
+      "text": "Chapter 5\nDetailed Syllabus for Semester V\nRegression Techniques\n1. Multiple linear regression: Properties of least squares estimators and residuals. (Review only)\n2. Geometric view of regression: Orthogonal projections on subspaces associated with predictors.\nDecomposition of sum of squares. Degrees of freedom. Multiple and partial correlation coefficients.\n(Review only)\n3. Prediction in linear regression: Point and interval prediction. Measures of prediction accuracy.\n4. Inference on linear regression: Confidence and prediction intervals. Tests of hypotheses for linear\nparametric functions. Simultaneous inference.\n5. Violation of linear model assumptions: (i) Outliers: high-leverage and influential observations,\nconsequences, diagnostics. (ii) Heteroscedasticity: consequences, diagnostics, tests (Bruesch-Pagan\nand White’s test). (iii) Autocorrelated errors: consequences, diagnostics, ACF and PACF plots,\ntests (Durbin-Watson test).",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 66,
+      "text": "and White’s test). (iii) Autocorrelated errors: consequences, diagnostics, ACF and PACF plots,\ntests (Durbin-Watson test).\n6. Methods of addressing model violation: Variable transformation (Box-Cox family). Weighted least\nsquares.\n7. Multicollinearity: Consequences, diagnostics. Notion of variable importance.\n8. Model building: Subset selection, Forward and backward stepwise regression. Categorical predictors\nand dummy variables.\n9. Model selection: Prediction and model error. Adjusted R2, FPE, Mallows’ Cp, AIC, BIC criteria.\nCross-validation approach.\nReferences\n1. Applied Regression Analysis by Norman N. Draper and Harry Smith\n2. Modern Regression Methods by Thomas P. Ryan\n3. Linear Models and Regression with R (an integrated approach) by D. Sengupta and S. R. Jammala-\nmadaka\n4. Applied Regression Analysis and Generalized Linear Models by John Fox\n25",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 67,
+      "text": "Bayesian Inference\n1. Background and motivation: What is Bayesian Inference? Why use Bayes? Bayes theorem, prior\nand posterior distributions. Examples.\n2. Exponential families: One-parameter exponential families, Conjugate priors. Multi-parameter\nexponential families, Motivations for using exponential families. Beta-Bernoulli model, Gamma-\nExponential model, Gamma-Poisson model. Normal with conjugate Normal-Gamma prior, Dirichlet-\nMultinomial model.\n3. Bayesian estimation: Point estimation from posterior distribution, maximum a posteriori (MAP)\nestimate. Credible intervals.\n4. Bayesian hypothesis testing: Testing hypotheses, posterior odds and Bayes factor.\n5. Choice of priors: Conjugate priors. Non-informative prior. Jefferey’s prior.\n6. Sampling from posterior distribution: Markov chain Monte Carlo (MCMC) with Gibbs sampling,\nMetropolis-Hastings method. Diagnostics for convergence of MCMC schemes (emphasis on graphical\nsummaries).",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 68,
+      "text": "Metropolis-Hastings method. Diagnostics for convergence of MCMC schemes (emphasis on graphical\nsummaries).\n7. Bayesian linear models: Normal-Inverse-Gamma prior. Ridge and LASSO regression as Bayesian\nsolutions. Spike-and-slab prior. Variable selection in linear regression.\n8. Hierarchical models: Hierarchical Bayes and Empirical Bayes, profile likelihood.\nReferences\n1. Bayesian Essentials with R by J-M. Marin and C. P. Robert, Springer.\n2. Bayesian Data Analysis by A. Gelman et al., Chapman and Hall/CRC,\n3. Likelihood and Bayesian Inference: With Applications in Biology and Medicine by L. Held and S.-B.\nDaniel, Springer.\n4. An Introduction to Bayesian Analysis: Theory and Methods by Jayanta K. Ghosh, Mohan Delampady\nand Tapas Samanta. Springer.\nStatistical Learning I\n1. Concepts of Statistical Learning: Prediction vs. estimation. Accuracy vs. interpretability. Supervised\nmethods vs. unsupervised methods. Bias-variance trade-off and overfitting. Ensemble learning.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 69,
+      "text": "1. Concepts of Statistical Learning: Prediction vs. estimation. Accuracy vs. interpretability. Supervised\nmethods vs. unsupervised methods. Bias-variance trade-off and overfitting. Ensemble learning.\nAdaptive learning. Model complexity. Model selection.\n2. Classification: Bayes rule for classification. Linear and quadratic discriminant analysis. Fisher’s LDA.\nMultivariate logistic regression. k-nearest neighbour classifier. Decision tree classifiers including\nCART and Random forests. Maximum margin classifiers including Support Vector Machine (SVM)\nand kernel SVM.\n3. Nonparametric regression: Kernel smoothing. Local polynomial regression. Bandwidth selection.\nSplines and wavelets regression with appropriate penalization schemes. Multivariate generalizations\n(e.g. MARS).\n4. Additive models: Generalized additive models. Projection pursuit regression. Fitting algorithms\nand motivating examples.\n26",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 70,
+      "text": "5. Introduction to neural networks: Radial basis functions and single-layer neural networks. Model\nfitting through backpropagation.\n6. Variable selection through penalization: Types of penalization – complexity-based, smooth, non-\nsmooth. Soft and hard thresholding concepts. Lasso, Elastic Net and Group Lasso methods.\nData-driven selection of penalty parameters.\n7. Matrix completion problem: Motivating examples (e.g., Netflix challenge, social network recov-\nery, linear systems identification). Compressed sensing and low-rank matrix recovery problems.\nAlgorithms based on low rank representation and nuclear norm penalization.\n8. Tensor regression: Motivating examples (e.g., in weather forecasting, biomedical image analysis).\nTensor linear regression based on convex optimization and spectral regularization.\n9. Functional data analysis: Curves as data points. Mean and covariance functions. Karhunen-Loève",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 71,
+      "text": "Tensor linear regression based on convex optimization and spectral regularization.\n9. Functional data analysis: Curves as data points. Mean and covariance functions. Karhunen-Loève\nexpansion. Fitting procedures for sparse and dense functional data. Brief introduction to functional\nlinear regression.\nReferences\n1. The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie,\nRobert Tibshirani and Jerome Friedman\n2. An Introduction to Statistical Learning, with Applications in R by G. James, D. Witten, T. Hastie\nand R. Tibshirani.\n3. An Introduction to Statistical Learning, with Applications in Python by G. James, D. Witten, T.\nHastie, R. Tibshirani and J. Taylor.\n4. Modern Multivariate Statistical Techniques by A. J. Izenman.\n5. Linear Algebra and Optimization for Machine Learning by C. C. Aggarwal.\n6. Linear Algebra and Learning from Data by G. Strang.\nAdvanced Statistical Methods II\nEM algorithm and generalizations",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 72,
+      "text": "5. Linear Algebra and Optimization for Machine Learning by C. C. Aggarwal.\n6. Linear Algebra and Learning from Data by G. Strang.\nAdvanced Statistical Methods II\nEM algorithm and generalizations\n1. Treatment of Missing Data: Types of missingness and their implications. Imputation methods based\non full conditional distributions. EM algorithm for computing MLE under missingness.\n2. MM algorithm for optimization: Principles and applications to maximum likelihood estimation in\ngeneralized linear models, least squares estimation and related optimization problems.\nAdvanced topics in regression\n1. Introduction to Time-to-Event data: Hazard function, failure rate, censoring. Maximum likelihood\nestimation for censored data. Kaplan-Meier estimator. Proportional hazard model.\n2. Penalization and regularization schemes in linear regression: Ridge regression, Principal components\nregression, Partial least squares, LASSO, LARS.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 73,
+      "text": "2. Penalization and regularization schemes in linear regression: Ridge regression, Principal components\nregression, Partial least squares, LASSO, LARS.\n3. Robust regression: LAD regression, quantile regression. Implementation and properties of estimators.\n27",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 74,
+      "text": "4. Nonlinear regression: Examples from compartmental model, exponential model, growth models and\ngeneralized linear models. Estimating parameters through nonlinear least squares (NLSE) methods.\nOptimization using Newton’s and gradient descent methods. Asymptotic inference on parameters.\nCommon issues: convergence of iterative methods, identifiability and ill-conditioning.\nReferences\n1. The EM Algorithm and Extensions by Geoffrey J. McLachlan and Thriyambakam Krishnan\n2. Modern Regression Methods by Thomas P. Ryan\n3. Robust Nonlinear Regression: with Applications using R by Hossein Riazoshams, Habshah Midi and\nGebrenegus Ghilagaber\n4. Survival Analysis: A Self-Learning Text by David G. Kleinbaum , Mitchel Klein\nSignal, Image & Text Processing\nSignal processing\n1. Signals and their characteristics, Fourier series and Convolution, The continuous Fourier transform\nand its accompanying theorems, Sampling in time, aliasing, interpolation, and quantization.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 75,
+      "text": "1. Signals and their characteristics, Fourier series and Convolution, The continuous Fourier transform\nand its accompanying theorems, Sampling in time, aliasing, interpolation, and quantization.\n2. System characteristics such as linearity, time invariance, causality and stability. Difference equations,\nFIR and IIR filters, basic properties of discrete-time systems.\n3. The discrete-time and discrete Fourier transforms and their basic properties, elementary Z-transform,\n1D correlation.\nImage processing\n1. From 1-D to 2-D Fourier transform. Discrete Fourier transform, Convolution and filtering, transla-\ntion, scaling, derivative, rotation, and other linear operations on digital images.\n2. Histogram-based image processing and thresholding.\n3. Convolution kernels in the spatial and Fourier domain, low-pass, high-pass, and derivative (e.g. Sobel\nand Prewitt filters). Edge detection using the magnitude of the gradient.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 76,
+      "text": "3. Convolution kernels in the spatial and Fourier domain, low-pass, high-pass, and derivative (e.g. Sobel\nand Prewitt filters). Edge detection using the magnitude of the gradient.\n4. Image Segmentation: detection of Discontinuities Edge linking and boundary detection Thresholding.\nText Processing\n1. What is Natural Language Processing? Textual Sources and Formats 1: “What’s in a Text?”\n2. Tokenization, N-grams and Scriptio continua.\n3. Stemming and Lemmatization, Synsets and Hypernyms.\n4. Building and Tokenizing your Corpus, POS Tagging and Stopwords.\n5. Text “Features” and TF-IDF Classification.\n6. Named Entity Recognition (NER)\n7. Topic Modeling Basics: Document Clustering and Word Vectors, Doc2vec, Word2vec.\n28",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 77,
+      "text": "8. Application overviews: information extraction, question answering, and machine translation.\nReferences\n1. Digital Image Processing by Rafael Gonzalez and Richard Woods, Pearson, 2017.\n2. Discrete-Time Signal Processing by Alan V Oppenheim and Ronald W. Schafer, 3rd Ed.\n3. Mining Text Data by Charu C. Aggarwal and Cheng Xiang Zhai, Springer, 2012.\n4. Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit by\nSteven Bird, Ewan Klein, Edward Loper, O’Reilly 2009, website 2018.\n29",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 78,
+      "text": "Chapter 6\nDetailed Syllabus for Semester VI\nMultivariate Statistical Analysis\n1. Representation of multivariate data: Vectors, Matrix and Tensor representation.\n2. Multivariate Normal distribution and its basic properties. Distribution of linear and quadratic\nforms. Maximum likelihood estimation of parameters.\n3. Wishart distribution: Definition and basic properties.\n4. Inference on mean of multivariate Normal distribution: Two sample problem. Union-intersection\ntest and likelihood ratio test. Hotelling’s T 2 test.\n5. Multivariate regression problems and MANOVA: Definition and properties of test statistics. Exam-\nples.\n6. Estimating covariance matrix: Unbiased estimation. Linear and nonlinear shrinkage estimation.\nEstimating quadratic forms involving inverse covariance matrix. Examples.\n7. Dimension reduction methods: Principal components analysis (PCA), Factor analysis, Canonical\ncorrelation analysis (CCA).\n8. Copula: Specifying dependency beyond multivariate normal.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 79,
+      "text": "7. Dimension reduction methods: Principal components analysis (PCA), Factor analysis, Canonical\ncorrelation analysis (CCA).\n8. Copula: Specifying dependency beyond multivariate normal.\nDefinition, basic properties and\npractical uses. Sklar’s theorem on existence (statement only). Examples of copulas.\nReferences\n1. Applied Multivariate Statistical Analysis by R. Johnson and D. Wichern.\n2. Applied Multivariate Statistical Analysis by W. Härdle and L. Simar.\n3. An Introduction to Applied Multivariate Analysis by R. B. Everitt and T. Hothorn.\n4. Modern Multivariate Statistical Techniques by A. J. Izenman.\n5. Multivariate Analysis by K. V. Mardia, J. T. Kent and J. M. Bibby.\n6. An Introduction to Copulas by Roger B. Nelsen\n30",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 80,
+      "text": "Discrete Data Analysis\n1. Examples of discrete data: From observational studies (prospective, retrospective, and cross-\nsectional), sample surveys and designed experiments.\n2. Multinomial, Poisson and Hypergeometric sampling.\n3. Contingency tables: Joint, marginal and conditional probabilities. Independence. Relative risk.\nOdds ratio.\n4. Inference on Binomial and Multinomial probabilities: Score, Wald and likelihood ratio tests.\n5. Inference for two-way contingency tables: Pearson statistic, likelihood ratio statistic. Chi-square\ntest of independence. Test of independence for ordinal data.\n6. Logistic regression: Estimation procedures.\nConfidence intervals for effects and probabilities.\nHypothesis tests. Diagnostics and model comparisons.\n7. Multicategory logit models: Baseline-category logit model. Cumulative logit model for ordinal\nresponse.\n8. Poisson and Negative binomial regression for count data: Specification and interpretation. Regression",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 81,
+      "text": "response.\n8. Poisson and Negative binomial regression for count data: Specification and interpretation. Regression\ndiagnostics and prediction. Overdispersion and zero inflated models.\n9. Log-linear models for two-way and three-way contingency tables: Interpretation of parameters and\nassociation among categories. Model fitting and inference procedures.\n10. Bayesian approach to categorical data analysis: Dirichlet and non-informative priors for Multinomial.\nPosterior distributions. Estimates of cell probabilities. Bayesian tests and credible regions for\nparameters in two-way contingency tables.\nReferences\n1. An Introduction to Categorical Data Analysis by A. Agresti.\n2. The Analysis of Cross-Classified Categorical Data by S. A. Fienberg.\n3. Generalized Linear Models by P. McCullagh and J. A. Nelder.\n4. Applied Linear Statistical Models by M. H. Kutner, C. J. Nachtsheim, J. Neter and W. Li\nLarge Sample and Resampling Methods\nLarge Sample Methods",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 82,
+      "text": "4. Applied Linear Statistical Models by M. H. Kutner, C. J. Nachtsheim, J. Neter and W. Li\nLarge Sample and Resampling Methods\nLarge Sample Methods\n1. Introduction: Exact vs. approximate inference. Limitations of exact methods and the need for\napproximate methods. Illustrations via examples.\n2. Brief review of (a) modes of convergence, (b) Laws of Large Numbers, (c) Central Limit theorem,\n(d) Slutsky’s theorem, (e) Delta method.\n3. Asymptotic distribution of functions of sample moments. The sample correlation coefficient.\n4. Asymptotic distribution of Pearson’s χ2 (Chi-square) statistic.\n5. Some rank statistics: Sign test statistic, Signed-rank test statistic, Mann-Whitney test statistic.\n6. Asymptotic distribution of sample quantiles.\n31",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 83,
+      "text": "7. Asymptotic normality of the maximum likelihood estimate. Asymptotic distributions of likelihood\nratio statistic, Rao’s score statistic, Wald’s test statistic.\n8. Asymptotic distribution of one-sample U-statistics.\nResampling Methods\n1. Importance of resampling methods. Some examples: Bias and variance estimation, estimation of\ndistribution function, confidence interval.\n2. Jackknife in the i.i.d. case: Bias and variance estimation, construction of large sample confidence\ninterval. Consistency results (statements only) and discussion on inconsistency issues.\n3. Bootstrap in the i.i.d. case: Bias and variance estimation. Estimation of distribution function\nand confidence interval. Parametric and nonparametric bootstrap, smooth bootstrap. Consistency\nresults (statements only). Comparison between bootstrap approximation and Normal approximation.\n4. Bootstrap in general regression problems: Paired bootstrap, residual bootstrap.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 84,
+      "text": "results (statements only). Comparison between bootstrap approximation and Normal approximation.\n4. Bootstrap in general regression problems: Paired bootstrap, residual bootstrap.\n5. Idea of cross-validation and its use. Some examples. V-fold and leave-one-out methods.\n6. Permutation tests. Demonstration through examples.\nReferences\n1. Large Sample Techniques for Statistics by Jiming Jiang\n2. A Course in Large Sample Theory by Thomas S. Ferguson\n3. Bootstrap Methods and Their Application by Anthony C. Davison and David Hinkley\n4. An Introduction to the Bootstrap by Bradley Efron and R. J. Tibshirani\n5. U-Statistics, Mm-Estimators and Resampling by Arup Bose and Snigdhansu Chatterjee\nTime Series Analysis & Forecasting\n1. Exploratory analysis of time series: Graphical display, classical decomposition model, concepts of\ntrend, seasonality and cycle, estimation of trend and seasonal components.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 85,
+      "text": "1. Exploratory analysis of time series: Graphical display, classical decomposition model, concepts of\ntrend, seasonality and cycle, estimation of trend and seasonal components.\n2. Stationary linear time series models: Concepts of weak and strong stationarity. Autoregressive\n(AR), Moving Average (MA), and ARMA processes — basic properties, conditions for stationar-\nity and invertibility. Autocorrelation function (ACF), partial auto-correlation function (PACF).\nIdentification of time series based on ACF and PACF.\n3. Estimation of ARMA models: AR model estimation and Yule-Walker equation. Estimation, order\nselection and diagnostics tests for ARMA models.\n4. Linear non-stationary model: ARIMA model, determination of the order of integration. Trend\nstationarity and different stationary processes. Tests for non-stationarity, i.e., unit root tests —\nDickey-Fuller test, Phillips-Perron test.\n5. Forecasting: Exponential smoothing. Holt-Winters method. Forecasting error. Minimum MSE",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 86,
+      "text": "Dickey-Fuller test, Phillips-Perron test.\n5. Forecasting: Exponential smoothing. Holt-Winters method. Forecasting error. Minimum MSE\nforecast. In-sample and out-of-sample forecast.\n6. State space models: State space representation of ARIMA models. Kalman filtering and smoothing.\n32",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 87,
+      "text": "7. Spectral analysis of weakly stationary time series: Spectral density function (s.d.f.) and its properties.\nSpectral densities of AR, MA and ARMA processes. Fourier transform of time series and periodogram.\nNonparametric estimation of s.d.f.\n8. Models for volatility: ARCH and GARCH models. Identification based on PACF function. Model\nfitting. Forecasting volatility. Application to econometrics.\nReferences\n1. Time Series Analysis and Its Applications with R by R. H. Shumway and D. S. Stoffer.\n2. Introduction to Time Series and Forecasting by P. J. Brockwell and R. A. Davis.\n3. Time Series Analysis: Forecasting and Control by G. E. P. Box, G. M. Jenkins and G. C. Reinsel.\n4. Introductory Time Series with R by P. S. P. Cowpertwait and A. V. Metcalfe.\n5. Forecasting: Principles and Practice by R. J. Hyndman and G. Athanasopolous.\nStatistical Learning II\n1. Concepts of unsupervised learning: Unlabeled data – examples and challenges. Dimensionality issues",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 88,
+      "text": "Statistical Learning II\n1. Concepts of unsupervised learning: Unlabeled data – examples and challenges. Dimensionality issues\nand phenomena. Relevant optimization concepts.\n2. Nonlinear dimension reduction: Concepts of data on manifolds, geodesics on manifolds. Kernel\nPCA. Graph-based learning methods — Local linear embedding, Laplacian eigenmaps, Isomap,\nSelf-organizing maps. Multidimensional scaling (MDS) — motivation from visualization perspective.\nMetric and non-metric MDS methods.\n3. Clustering: Measures of similarity. Traditional clustering approaches: k-means clustering, hierar-\nchical clustering, Gaussian mixture models. Graph-based clustering: stochastic block models and\ncommunity detection problems. Spectral clustering.\n4. Graphical models: Undirected graphs and Gaussian Graphical Models (GGM). Graphical Lasso\nmethod for estimating GGM. Causal modeling and Directed Acyclic Graphs (DAG).",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 89,
+      "text": "4. Graphical models: Undirected graphs and Gaussian Graphical Models (GGM). Graphical Lasso\nmethod for estimating GGM. Causal modeling and Directed Acyclic Graphs (DAG).\n5. Bayesian learning models: Gaussian process models. Dirichlet process models. Latent Dirichlet\nallocation model. Examples. Computational schemes.\n6. Hidden Markov models: Probabilistic representation. Discrete vs. continuous observation space.\nViterbi and Baum-Welch algorithms for estimating states and parameters.\n7. Introduction to Reinforcement Learning: Basic concepts. Brief introduction to Multi-arm bandit\nproblems, Markov decision processes.\nReferences\n1. The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie,\nRobert Tibshirani and Jerome Friedman\n2. An Introduction to Statistical Learning, with Applications in R by G. James, D. Witten, T. Hastie\nand R. Tibshirani.\n3. An Introduction to Statistical Learning, with Applications in Python by G. James, D. Witten, T.",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 90,
+      "text": "and R. Tibshirani.\n3. An Introduction to Statistical Learning, with Applications in Python by G. James, D. Witten, T.\nHastie, R. Tibshirani and J. Taylor.\n33",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 91,
+      "text": "4. Modern Multivariate Statistical Techniques by A. J. Izenman.\n5. Machine Learning: A Probabilistic Perspective by K. P. Murphy.\n6. Linear Algebra and Optimization for Machine Learning by C. C. Aggarwal.\n7. Linear Algebra and Learning from Data by G. Strang.\n8. Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids by Richard Durbin,\nSean R. Eddy, Anders Krogh and Graeme Mitchison\n9. Reinforcement Learning: An Introduction by R. S. Sutton and A. G. Barto.\n34",
+      "metadata": {
+        "pdf_name": "BSDS-Curriculum-2025.pdf",
+        "pdf_path": "DATA\\BSDS-Curriculum-2025.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    }
+  ]
+}

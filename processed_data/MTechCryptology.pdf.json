@@ -1,0 +1,695 @@
+{
+  "filename": "MTechCryptology.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "INDIAN STATISTICAL INSTITUTE\nStudents’ Brochure\nPART II\nMaster of Technology in Cryptology and Security\n(Effective from 2018-19 Academic Year)\n(See PART I for general information, rules and regulations)\nThe Headquarters is at\n203 BARRACKPORE TRUNK ROAD\nKOLKATA 700108\n\nINDIAN STATISTICAL INSTITUTE\nMaster of Technology in Cryptology and Security\nContents\n1\nCurriculum\n1\n2\nDetailed Syllabi of Courses\n2\n2.1\nFirst Semester Courses: Pool A . . . . . . . . . . . . . . . . . . . . . . . .\n2\n2.2\nFirst Semester Courses: Pool B . . . . . . . . . . . . . . . . . . . . . . . .\n5\n2.3\nSecond Semester Courses . . . . . . . . . . . . . . . . . . . . . . . . . . .\n10\n2.4\nThird Semester Courses: Compulsory\n. . . . . . . . . . . . . . . . . . . .\n16\n2.5\nThird Semester Courses: Elective . . . . . . . . . . . . . . . . . . . . . . .\n19",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          1,
+          3
+        ],
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "1\nCurriculum\nThis two-year programme consists of 13 compulsory courses, 2 elective courses in the ﬁrst\nthree semesters, and a dissertation or industry internship during the fourth semester. The\ncourses other than dissertation/internship are allocated four hours per week.\nFirst Year\nSemester I\nSemester II\nPool A\nA1\nDiscrete Mathematics\nC1\nDesign and Analysis of Algorithms\nA2\nComputing Systems I (OS and Ar-\nchitecture)\nC2\nCryptology\nPool B*\nB1\nAlgebra and Number Theory\nC3\nInformation and Coding Theory\nB2\nProbability and Statistics\nC4\nComputing Systems II (Computer\nNetworks and Data Bases)\nB3\nAutomata Theory, Languages and\nComputation\nC5\nComputing Systems Security I\nB4\nComputing Lab (Programming and\nData Structures)\n*A student has to take three courses from Pool B, to be decided by a faculty advisor based\non the background of the student.\nSecond Year\nSemester I\nSemester II\nC6\nAdvanced Cryptology\nDissertation\nC7\nComputing Systems Security II\nC8\nCryptographic and Security Imple-",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "on the background of the student.\nSecond Year\nSemester I\nSemester II\nC6\nAdvanced Cryptology\nDissertation\nC7\nComputing Systems Security II\nC8\nCryptographic and Security Imple-\nmentations\nElective 1\nElective 2\n1",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "Elective Courses*\nE1\nQuantum Cryptology and Security\nE2\nTopics in Privacy\nE3\nTopics in Security\nE4\nTopics in Cryptology\nE5\nComputational Number Theory\nE6\nMachine Learning for Security\nE7\nBlockchains and Cryptocurrencies\nE8\nSocial and Legal Aspects of Security\n2\nDetailed Syllabi of Courses\n2.1\nFirst Semester Courses: Pool A\nA1: Discrete Mathematics\n1. Combinatorics: Sets, Diagonalization and the Pigeonhole Principle, Multinomial\ntheorem, principle of inclusion exclusion; Recurrence relations - classiﬁcation, sum-\nmation method, extension to asymptotic solutions from solutions for subsequences;\nLinear homogeneous relations, characteristic root method, general solution for dis-\ntinct and repeated roots, non-homogeneous relations and examples, generating func-\ntions and their application to linear homogeneous recurrence relations, non-linear\nrecurrence relations, exponential generating functions, brief introduction to Polya\ntheory of counting.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "tions and their application to linear homogeneous recurrence relations, non-linear\nrecurrence relations, exponential generating functions, brief introduction to Polya\ntheory of counting.\n2. Graph Theory: Graphs and digraphs, complement, isomorphism, connectedness and\nreachability, adjacency matrix, Eulerian paths and circuits in graphs and digraphs,\nHamiltonian paths and circuits in graphs and tournaments, trees; Minimum spanning\ntree, rooted trees and binary trees, planar graphs, Euler’s formula, statement of Kura-\ntowskey’s theorem, dual of a planer graph, independence number and clique number,\nchromatic number, statement of Four-color theorem, dominating sets and covering\nsets.\n3. Logic: Propositional calculus: propositions and connectives, syntax; Semantics:\ntruth assignments and truth tables, validity and satisﬁability, tautology; Adequate set\nof connectives; Equivalence and normal forms; Compactness and resolution; Formal",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "truth assignments and truth tables, validity and satisﬁability, tautology; Adequate set\nof connectives; Equivalence and normal forms; Compactness and resolution; Formal\nreducibility – natural deduction system and axiom system; Soundness and complete-\nness.\n2",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "4. Introduction to Predicate Calculus: Syntax of ﬁrst order language; Semantics: struc-\ntures and interpretation; Formal deductibility; First order theory, models of a ﬁrst\norder theory (deﬁnition only), validity, soundness, completeness, compactness (state-\nment only), outline of resolution principle.\nReferences\n1. Ji˘ri Matou˘sek, Jorosalav Ne˘set˘ril: Invitation to Discrete Mathematics, 2nd ed., Ox-\nford University Press, 2006.\n2. F. S. Roberts: Applied Combinatorics, 2nd ed.,Pearson Education/ Prentice Hall,\nEnglewood Cliffs, NJ, 2005.\n3. Peter J. Cameron: Combinatorics: Topics, Techniques, Algorithms, Cambridge Uni-\nversity Press, 1994.\n4. N. Deo: Graph Theory with Applications to Engineering and Computer Science,\nPrentice Hall, Englewood Cliffs, 1974.\n5. J. L. Mott, A. Kandel and T. P. Baker: Discrete Mathematics for Computer Scientists,\nReston, Virginia, 1983.\n6. D. F. Stanat and D. E. McAllister: Discrete Mathematics in Computer Science, Pren-",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "5. J. L. Mott, A. Kandel and T. P. Baker: Discrete Mathematics for Computer Scientists,\nReston, Virginia, 1983.\n6. D. F. Stanat and D. E. McAllister: Discrete Mathematics in Computer Science, Pren-\ntice Hall, Englewood Cliffs, 1977.\n7. C. L. Liu: Elements of Discrete Mathematics, 2nd ed., McGraw Hill, New Delhi,\n1985.\n8. R. A. Brualdi: Introductory Combinatorics, North-Holland, New York, 1977.\n9. Reingold et al.: Combinatorial Algorithms: Theory and Practice, Prentice Hall, En-\nglewood Cliffs, 1977.\n10. J. A. Bondy and U. S. R. Murty: Graph Theory with Applications, Macmillan Press,\nLondon, 1976.\n11. E. Mendelsohn: Introduction to Mathematical Logic, 2nd ed. Van-Nostrand, London,\n1979.\n12. L. Zhongwan: Mathematical Logic for Computer Science, World Scientiﬁc, Singa-\npore, 1989.\n3",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "13. Lewis and Papadimitriou: Elements of Theory of Computation (relevant chapter on\nLogic), Prentice Hall, New Jersey, 1981.\n14. Joseph R. Shoenﬁeld: Mathematical Logic, CRC Press, 1967.\nA2: Computing Systems I (OS and Architecture)\n1. Computer Organization and Architecture:\n(a) Binary systems, boolean algebra, boolean operations, minimization of boolean\noperations\n(b) Combinatorial and sequential logic\n(c) Processor design\n(d) Floating point arithmetic\n(e) Control Unit Design: Hardware control unit design, hardware programming\nlanguage, microprogramming, horizontal, vertical and encoded-control micro-\nprogramming, microprogrammed control unit design.\n(f) Memory Organization: Random and serial access memories, ROMs, addressing\n(g) I/O Organization: Different techniques of addressing I/O devices, data transfer\ntechniques, interrupts, bus control.\n2. Operating Systems:\n(a) Basic architectural concepts, interrupt handling, concepts of batch-processing,",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "techniques, interrupts, bus control.\n2. Operating Systems:\n(a) Basic architectural concepts, interrupt handling, concepts of batch-processing,\nmultiprogramming, time- sharing, real-time operations; Resource Manager view,\nprocess view and hierarchical view of an OS.\n(b) Processor management: Scheduling, concurrent processes, critical sections,\nprocess co-ordination, deadlocks.\n(c) Memory management: Partitioning, paging, virtual memory, demand-paging,\ncache\n(d) Device Management: Scheduling algorithms - FCFS, shortest-seek-time-ﬁrst,\nSCAN, C-SCAN, LOOK, C-LOOK algorithms, spooling, spool management\nalgorithm.\n(e) Information Management: Concepts of ﬁle systems and access methods,\n(f) Case study of Unix ﬁle system.\nReferences\n4",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "1. Z. Kohavi: Switching and Finite Automata Theory, 2nd ed., McGraw Hill, New York,\n1978.\n2. J. P. Hayes: Computer Architecture and Organization, 2nd ed., McGraw Hill, New\nYork, 1988\n3. P. Pal Choudhury: Computer Organization and Design, Prentice Hall of India, New\nDelhi, 1994.\n4. M. M. Mano: Computer System Architecture, 3rd ed., Prentice Hall of India, New\nDelhi, 1993.\n5. Y. Chu: Computer Organization and Micro-Programming, Prentice Hall, Englewood\nCliffs, 1972.\n6. D. A. Patterson and J. L. Hennessy: Computer Organization and Design: The Hard-\nware/Software Interface, Revised Printing, 3 rd ed., The Morgan Kaufmann Series in\nComputer Architecture and Design, July 2007.\n7. W. Stallings: Computer Organization and Architecture: Principles of Structure and\nFunction, 2nd ed., Macmillan, New York, 1990.\n8. A. Silberschatz, P. B. Galvin, G. Gagne: Operating Systems Concepts, 9th ed., John\nWiley and Sons, New York, 2005.\n9. A. S. Tannenbaum: Mode Operating Systems, Pearson, 2016.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "8. A. Silberschatz, P. B. Galvin, G. Gagne: Operating Systems Concepts, 9th ed., John\nWiley and Sons, New York, 2005.\n9. A. S. Tannenbaum: Mode Operating Systems, Pearson, 2016.\n10. S. E. Madnick and J. J. Donovan: Operating Systems, McGraw Hill, New York, 1974.\n2.2\nFirst Semester Courses: Pool B\nB1: Algebra and Number Theory\n1. Group Theory: Elementary properties, subgroups, cosets, normal groups, quotient\ngroups, cyclic groups, homomorphiosm and isomorphism, Isomorphisn theorem,\nper- mutation groups, Sylow’s theorem and application, Application to Number the-\nory: Lagrange’s theorem , Euler’s theorem, Fermat’s theorem.\n2. Rings and ﬁelds: Rings, Ideals, maximal ideals, quotient rings, Integral domains,\nprincipal ideal domain(PID), Euclidean domain(ED), ring of integers as example of\nPID and ED, Euclidean algorithm for GCD, extended Euclidean algorithm, ﬁnd-\ning modular inverse of an integer, Chinese Remainder Theorem(CRT), Euler’s φ-\nfunction, quadratic residues.\n5",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "3. Polynomials: Polynomial rings as ED and PID, irreducible polynomials, factoriza-\ntion, maximal ideals.\n4. Vector spaces: subspaces, linear independence, basis, dimension, direct sum and\ncomplement, isomorphism\n5. Linear transformation and matrices, algebra of matrices, rank and inverse, normal\nforms\n6. System of linear equations, algorithms for solving linear equations\n7. Determinants and their elementary properties\n8. Finite Fields: elementary properties, construction\n9. Selected Topics in Elementary Number Theory.\nReferences\n1. D. F. Stanat and D. E. McAllister: Discrete Mathematics in Computer Science, Pren-\ntice Hall, Englewood Cliffs, 1977.\n2. C. S. Sims: Abstract Algebra: A Computational Approach, John Wiley, New York,\n1984.\n3. L. L. Domhoff and F. E. Hohn: Applied Modern Algebra, Macmillan, New York,\n1978.\n4. J. B. Fraleigh: First Course in Abstract Algebra, Narosa/Addison-Wesley, New Delhi/\nReading, 1982/1978.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "1984.\n3. L. L. Domhoff and F. E. Hohn: Applied Modern Algebra, Macmillan, New York,\n1978.\n4. J. B. Fraleigh: First Course in Abstract Algebra, Narosa/Addison-Wesley, New Delhi/\nReading, 1982/1978.\n5. I. N. Herstein: Topics in Algebra, Vikas Pub., New Delhi 1987.\n6. G. Birkhoff and S. McLane: A Survey of Modern Algebra, 4th ed. Macmillan, New\nYork, 1977.\n7. D. Burton: Elementary Number Theory, 7th ed., McGraw Hill Education, 2017.\n8. R. Lidl and H. Niederreiter: Introduction to Finite Fields and their Applications,\nCambridge University Press, London, 1994.\n9. H. Cohen: A Course in Computational Number Theory, Springer-Verlag, Berlin,\n1993.\n10. G. A. Jones and J. M. Jones: Elementary Number Theory, Springer-Verlag, London,\n1998.\n6",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "B2: Probability and Statistics\n1. Probability Theory\n(a) Probability, conditional probability and independence.\n(b) Random variables and their distributions (discrete and continuous), bivariate\nand multivariate distributions.\n(c) Laws of large numbers, central limit theorem (statement and use only).\n(d) Introduction to Stochastic process: Markov chains, random walks, queueing\ntheory.\n2. Statistics\n(a) Descriptive statistics: measures of location, spread, skewness, kurtosis; mea-\nsures of association.\n(b) Estimation techniques.\n(c) Tests of Hypothesis.\n(d) Simulation techniques.\nReferences\n1. W. Feller: An Introduction to Probability Theory and its Applications (Volume I and\nII), 3rd ed. John Wiley, New York, 1973.\n2. P. G. Hoel, S. C. Port and C. J. Stone: Introduction to Probability Theory, University\nBook Stall/ Houghton Mifﬂin, New Delhi/New York.\n3. K. L. Chung: Elementary Probability Theory and Stochastic Processes, Springer-\nVerlag, New York, 1974.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "Book Stall/ Houghton Mifﬂin, New Delhi/New York.\n3. K. L. Chung: Elementary Probability Theory and Stochastic Processes, Springer-\nVerlag, New York, 1974.\n4. S. M. Ross: Stochastic Processes, John Wiley, New York, 1983.\nB3: Automata Theory, Languages and Computation\n1. Automata and Languages:Finite automata, regular languages, regular expressions,\nequivalence of deterministic and non-deterministic ﬁnite automata, minimization of\nﬁnite automata, closure properties, Kleenes theorem, pumping lemma and its ap-\nplication, Myhill-Nerode theorem and its uses; Context-free grammars, context -free\nlanguages, Chomsky normal form, closure properties, pumping lemma for CFL, push\ndown automata.\n7",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "2. Computability: Computable functions, primitive and recursive functions, universal-\nity, halting problem, recursive and recursively enumerable sets, parameter theorem,\ndiagonalisation, reducibility, Rices Theorem and its applications. Turing machines\nand variants; Equivalence of different models of computation and Church-Turing\nthesis.\n3. Complexity: Time complexity of deterministic and nondeterministic Turing ma-\nchines, P and NP, NP-completeness, Cooks Theorem, other NP -Complete problems.\nReferences\n1. Sipser: Introduction to The Theory of Computation, PWS Pub. Co., New York, 1999.\n2. J. E. Hopcroft, J. D. Ullman and R. Motwani: Introduction to Automata Theory,\nLanguages and Computation, Addison-Wesley, California, 2001.\n3. M. D. Davis, R. Sigal and E. J. Weyuker: Complexity, Computability and Languages,\nAcademic Press, New York, 1994.\n4. J. E. Hopcroft and J. D. Ullman: Introduction to Automata Theory, Languages and\nComputation, Addison-Wesley, California, 1979.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "Academic Press, New York, 1994.\n4. J. E. Hopcroft and J. D. Ullman: Introduction to Automata Theory, Languages and\nComputation, Addison-Wesley, California, 1979.\n5. H. R. Lewis and C. H. Papadimitriou: Elements of The Theory of Computation, Pren-\ntice Hall, Englewood Cliffs, 1981.\n6. M. R. Garey and D. S. Johnson: Computers and Intractability: A Guide to The\nTheory of NP Completeness, Freeman, New York, 1979.\nB4: Computing Lab (Programming and Data Structures)\n1. Data Structures\n(a) Introduction to problem-solving and basic algorithms.\n(b) Introduction to running time - basic concepts.\n(c) C programming: loops, arrays, pointers, structures, functions, recursion, ﬁle\nhandling.\n(d) Basic data structures: Linked lists, Stacks, Queues, and their applications.\n(e) Searching and Sorting algorithms and their implementations.\n(f) Hash Tables.\n8",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "(g) Non-linear data structures: Graphs, Trees and some applications (BFS, DFS,\ntree traversals, BST etc.)\n2. Programming Tools and Techniques\n(a) Program testing, developing test-plan, developing tests.\n(b) Version management, concept of CVS/SVN.\n(c) Concept of debugging and using debugging tools.\n(d) Writing shell scripts, using bash/tcsh.\n(e) Different compilation options and optimizations, concept of makeﬁles.\nReferences\n1. L. Nyhoff: C++: An Introduction to Data Structures, Prentice Hall, Englewood\nCliffs, 1998.\n2. A. M. Tannenbaum and M. J. Augesestein: Data Structures Using PASCAL, Prentice\nHall, New Jersey, 1981.\n3. D. E. Knuth: The Art of Computer Programming, Vol. 1, 2nd ed. Narosa/Addison-\nWesley, New Delhi/London, 1973.\n4. T. A. Standish: Data Structure Techniques, Addison-Wesley, Reading, Mass., 1980.\n5. E. Horowitz and S. Sahni: Fundamentals of Data Structures, CBS, New Delhi, 1977.\n6. R. L. Kruse: Data Structures and Program Design in C, Prentice Hall of India, New",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "5. E. Horowitz and S. Sahni: Fundamentals of Data Structures, CBS, New Delhi, 1977.\n6. R. L. Kruse: Data Structures and Program Design in C, Prentice Hall of India, New\nDelhi, 1996.\n7. A. Aho, J. Hopcroft, and J. Ullman: Data Structures and Algorithms, Addison- Wes-\nley, Reading, Mass., 1983.\n8. B. Salzberg: File Structures: An Analytical Approach, Prentice Hall, New Jersey,\n1988.\n9. P. E. Livadas: File Structure: Theory and Practice, Prentice Hall, New Jersey, 1990.\n10. T. Coreman, C. Leiserson and R. Rivest: Introduction to Algorithms, McGraw Hill,\nNew York, 1994.\n11. S. Sahani: Data Structure, Algorithms and Applications in JAVA, McGraw Hill, New\nYork, 2000.\n9",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "12. D. Wood: Data Structure, Algorithms and Performance, Addison-Wesley, Reading,\nMass., 1993.\n13. B. W. Kernighan and D. M. Ritchie: The C Programming Language, Prentice Hall\nof India, 1994.\n14. B. Gottfried: Programming in C, Schaum Outline Series, New Delhi, 1996.\n15. B. W. Kernighan and R. Pike: The Unix Programming Environment, Prentice Hall of\nIndia, 1996.\n2.3\nSecond Semester Courses\nC1: Design and Analysis of Algorithms\n1. Complexity measure and asymptotic notations, worst, best and average case analysis.\n2. Complexity analysis of different searching and sorting algorithms.\n3. Divide and conquer algorithms.\n4. Greedy algorithms and applications in optimization.\n5. Dynamic programming techniques and applications in optimization.\n6. Graph algorithms.\n7. NP-completeness.\nReferences\n1. J. Kleinberg, E. Tardos: Algorithm Design, Pearson Education, 2006.\n2. A. Aho, J. Hopcroft and J. Ullman: The Design and Analysis of Computer Algo-",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "7. NP-completeness.\nReferences\n1. J. Kleinberg, E. Tardos: Algorithm Design, Pearson Education, 2006.\n2. A. Aho, J. Hopcroft and J. Ullman: The Design and Analysis of Computer Algo-\nrithms, A. W. L, International Student Edition, Singapore, 1998\n3. S. Baase: Computer Algorithms: Introduction to Design and Analysis, 2nd ed.,\nAddison-Wesley, California, 1988.\n4. T. H. Cormen, C. E. Leiserson and R. L. Rivest: Introduction to Algorithms, Prentice\nHall of India, New Delhi, 1998.\n5. E. Horowitz and S. Sahni: Fundamental of Computer Algorithms, Galgotia Pub.\n/Pitman, New Delhi/London, 1987/1978.\n10",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "6. K. Mehlhorn: Data Structures and Algorithms, Vol. 1 and Vol. 2, Springer-Verlag,\nBerlin, 1984.\n7. A. Borodin and I. Munro: The Computational Complexity of Algebraic and Numeric\nProblems, American Elsevier, New York, 1975.\n8. D. E. Knuth: The Art of Computer Programming, Vol. 1, 2nd ed., Narosa/Addison-\nWesley, New Delhi/London, 1973; Vol. 2: 2nd ed., Addison- Wesley, London, 1981;\nVol. 3: Addison-Wesley, London, 1973.\n9. S. Winograd: The Arithmetic Complexity of Computation, SIAM, New York, 1980.\nC2: Cryptology\n1. Classical ciphers\n2. Information Theoretic Security\n3. Stream ciphers\n4. Block ciphers\n5. Cryptanalysis of Block and Stream Ciphers\n6. Formal models for block and stream ciphers: Pseudorandom generators, Pseudoran-\ndom functions and permutations\n7. Symmetric key encryption: Notion of CPA and CCA security with examples.\n8. Symmetric key authentication.\n9. Cryptographic hash functions.\n10. Modern modes of operations: Authenticated Encryption, Tweakable Enciphering\nschemes.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "8. Symmetric key authentication.\n9. Cryptographic hash functions.\n10. Modern modes of operations: Authenticated Encryption, Tweakable Enciphering\nschemes.\n11. Introduction to public key encryption, computational security and computational as-\nsumptions.\n12. The Difﬁe Hellman key exchange.\n13. The RSA, ElGamal, Rabin and Pailler encryption schemes\n14. Digital Signatures\n11",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "15. Introduction to Elliptic Curve Cryptosystems.\n16. Public key infrastructures\nReferences\n1. Jonathan Katz, Yehuda Lindell: Introduction to Modern Cryptography, Chapman &\nHall/CRC, 2007.\n2. Douglas R. Stinson: Cryptography Theory and Practice, 3rd ed., Chapman & Hall/\nCRC, 2006.\n3. Dan Boneh, Victor Shoup: A Graduate Course in Applied Cryptography, online draft\navailable at http://toc.cryptobook.us/.\n4. B. S. Schneier: Applied Cryptography: Protocols, Algorithms, and Source Code in\nC, 2nd Edition, John Wiley and Sons, New York, 1995.\n5. A. Menezes, P. C. Van Oorschot and S. A. Vanstone: Handbook of Applied Cryptog-\nraphy, CRC Press, Boca Raton, 1996.\nC3: Information and Coding Theory\n1. Information Theory:\n(a) Concepts of Entropy its characterization and related properties\n(b) Asymptotic Equipartition Property\n(c) Data compression: Optimal codes, Huffman codes, Shannon-Fano coding, ro-\nbustness of coding techniques",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "(b) Asymptotic Equipartition Property\n(c) Data compression: Optimal codes, Huffman codes, Shannon-Fano coding, ro-\nbustness of coding techniques\n(d) Channel capacity, fundamental theorem of information theory, applications.\n2. Coding Theory:\n(a) Basics of coding theory\n(b) Linear Codes: Properties, Hamming Bound, MDS Codes\n(c) Cyclic codes: Hamming Codes, BCH Codes, Reed-Solomon Codes\n(d) Non-linear codes: Hadamard codes\n(e) Convolution codes\n(f) Construction of codes using combinatorial Designs\n12",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "3. Fundamentals of Network Coding.\nReferences\n1. T. M. Cover, J. A. Thomas: Elements of Information Theory, 2nd ed., Wiley Inter-\nscience, 2005.\n2. R. Ash: Information Theory, Interscience Publ., Singapore, 1965.\n3. E. R. Berlekamp: Algebraic Coding Theory, McGraw Hill, New York, 1986.\n4. S. Lin: An Introduction to Error-Correcting Codes, Prentice Hall, Englewood Cliffs,\n1970.\n5. W. W. Peterson et al: Error Correcting Codes, Wiley, London, 1961.\n6. R. W. Hamming: Coding and Information Theory, Prentice Hall, Englewood Cliffs,\n1980.\n7. A. Khinchin, Mathematical Foundations of Information Theory, Dover Publn., Lon-\ndon, 1957.\n8. F. J. McWilliams and N. J. Sloane: Theory of Error Correcting Codes, Parts I and II,\nNorth-Holland, Amsterdam, 1977.\n9. V. Pless: Introduction to the Theory of Error Correcting Codes, 3rd ed., John Wiley,\nNew York, 1982.\nC4: Computing Systems II (Computer Networks and Data Bases)\n1. Computer Networks:\n(a) OSI Stack: Details of layers of the OSI stack",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "New York, 1982.\nC4: Computing Systems II (Computer Networks and Data Bases)\n1. Computer Networks:\n(a) OSI Stack: Details of layers of the OSI stack\n(b) Application layer protocols in details.\n(c) Routing Algorithms\n(d) Internet: IP protocol, Internet control protocols ICMP, APR and RAPP, Internet\nrouting protocols OSPF, BGP and CIDR.\n(e) Wireless networks\n2. Database Management Systems\n(a) Entity relationship model\n13",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "(b) Relational Model\n(c) Structured query language\n(d) Normalization\n(e) Crash recovery\n(f) Concurrency control\nReferences\n1. A. Tannenbaum: Computer Networks, 3rd ed., Prentice Hall India, 1996.\n2. W. Stallings: ISDN and Broadband ISDN With Frame Relay and ATM, Prentice Hall,\nEnglewood Cliffs, 1995.\n3. W. Stallings: Local and Metropolitan Area Networks, 4th ed., Macmillan, New York,\n1993.\n4. Kaufman, R. Perlman and M. Speciner: Network Security, Prentice Hall, Englewood\nCliffs, 1995.\n5. V. P. Ahuja: Design and Analysis of Computer Communication Networks, McGraw\nHill, New York, 1987.\n6. L. Gracial and I. Widjaja: Communication Networks, Tata-McGraw Hill, New Delhi,\n2000.\n7. L. L. Paterson and B. S. Davie: Computer Network, Morgan Kaufman, San Mateo,\n2000.\n8. H. F. Korth and A. Silberschatz: Database System Concepts, McGraw Hill, New\nDelhi, 1997.\n9. R. A. Elmasri and S. B. Navathe: Fundamentals of Database Systems, 3rd ed.,\nAddison-Wesley, 1998.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "2000.\n8. H. F. Korth and A. Silberschatz: Database System Concepts, McGraw Hill, New\nDelhi, 1997.\n9. R. A. Elmasri and S. B. Navathe: Fundamentals of Database Systems, 3rd ed.,\nAddison-Wesley, 1998.\n10. R. Ramakrishnan: Database Management Systems, 2nd ed., McGraw Hill, New\nYork, 1999.\n14",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "C5: Computing Systems Security I\n1. Introduction to basic security services: Conﬁdentiality, integrity, availability, non-\nrepudiation, privacy.\n2. Anatomy of an Attack: Network Mapping using ICMP queries, TCP Pings, tracer-\noutes, TCP and UDP port scanning, FTP bounce scanning, stack ﬁngerprinting tech-\nniques, Vulnerability scanning, System and Network Penetration, Denial of Service.\n3. Network Layer Protocols attacks and defense mechanisms: Hacking Exploits in ARP,\nIP4, IPv6, ICMP based DOS, ICMP covert Tunneling, Network Controls against\nﬂooding, Network Monitoring, SSL, IPSEC.\n4. Transport Layer Protocols Attacks and Defense mechanisms: Covert TCP, TCP Syn\nﬂooding DOS, TCP Sequence Number Prediction attacks, TCP session hijacking,\nUDP Hacking Exploits, Network security controls for defense mechanism, OS hard-\nening, kernel parameter tuning, DDOS and DDOS Mitigation, Stateful ﬁrewall, ap-\nplication ﬁrewalls, HIDS, NIDS and IPS.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "UDP Hacking Exploits, Network security controls for defense mechanism, OS hard-\nening, kernel parameter tuning, DDOS and DDOS Mitigation, Stateful ﬁrewall, ap-\nplication ﬁrewalls, HIDS, NIDS and IPS.\n5. Application Layer Protocol Attacks and Defense mechanisms: DNS spooﬁng at-\ntacks, DNS cache poisoning attacks, organization activity ﬁnger print- ing using\nDNS, SMTP vulnerability and Hacking Exploits, Mails relays, SMTP Security and\nControls, HTTP hacking, Buffer Overﬂow Attacks, SQL Injection, Cross Side Script-\ning HTTP security and controls.\n6. Malware detection and prevention\nReferences\n1. Ross Anderson: Security Engineering, 2nd ed., Wiley. Available online: http://www.\ncl.cam.ac.uk/∼rja14/book.html.\n2. C.P. Pﬂeeger, S.L. Pﬂeeger, J. Margulies: Security in Computing, 5th ed., Prentice\nHall, 2015.\n3. David Wheeler: Secure Programming HOWTO. Available online: https://dwheeler.\ncom/secure-programs/.\n4. Michal Zalewski: Browser Security Handbook, Michael Zalewski, Google. Available",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "Hall, 2015.\n3. David Wheeler: Secure Programming HOWTO. Available online: https://dwheeler.\ncom/secure-programs/.\n4. Michal Zalewski: Browser Security Handbook, Michael Zalewski, Google. Available\nonline: https://code.google.com/archive/p/browsersec/wikis/Main.wiki.\n5. B. S. Schneier: Applied Cryptography: Protocols, Algorithms, and Source Code in\nC, 2nd Edition, John Wiley and Sons, New York, 1995.\n15",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "6. A. Menezes, P. C. Van Oorschot and S. A. Vanstone: Handbook of Applied Cryptog-\nraphy, CRC Press, Boca Raton, 1996.\n2.4\nThird Semester Courses: Compulsory\nC6: Advanced Cryptology\n1. Theoretical construction of pseudorandom objects: One way functions, pseudoran-\ndom generators, pseudorandom functions and pseudorandom permutations.\n2. Secure Multiparty Computations.\n3. Elliptic curves and bilinear pairings.\n4. Lattice Based Cryptology.\nReferences\n1. Oded Goldreich: Foundations of Cryptography Vol 1\n2. Oded Goldreich: Foundations of Cryptography Vol 2\n3. Dan Boneh, Victor Shoup: A Graduate Course in Applied Cryptography, online draft\navailable at http://toc.cryptobook.us/.\n4. Steven D. Galbraith: Mathematics of Public Key Cryptography, Cambridge Univer-\nsity Press, 2012\n5. Rafael Pass and Abi Shelat: A Course in Cryptography, Lecture notes. Available\nonline: https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "sity Press, 2012\n5. Rafael Pass and Abi Shelat: A Course in Cryptography, Lecture notes. Available\nonline: https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf\n6. Daniele Micciancio, ShaﬁGoldwasser, Complexity of Lattice Problems: A Crypto-\ngraphic Perspective, Kluwer, 2002.\n7. Lawrence C. Washington, Elliptic Curves: Number Theory and Cryptography, Sec-\nond Edition, CRC Press 2008.\n8. S. Chatterjee, P. Sarkar: Identity-Based Encryption, Springer, 2011.\n16",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "C7: Computing Systems Security II\n1. Cellular networks, Access Technologies, GSM, CDMA, GPRS, 3G networks, Wire-\nless LAN, WLAN security.\n2. Operating Systems Security:\n(a) Access Control Fundamentals\n(b) Generalized Security Architectures\n(c) Analysis of security in Unix/Linux and problems with the design of its security\narchitecture\n(d) Analysis of security in Windows and problems with its security architecture\n(e) Security Kernels: SCOMP design and analysis, GEM-SOS design\n(f) Difﬁculties with securing Commercial Operating Systems (Retroﬁtting Secu-\nrity)\n(g) Security issues in Virtual Machine Systems\n(h) Security issues in sandboxing designs: design and analysis of Android.\n3. Database Security:\n(a) Introduction: Security issues faced by enterprises\n(b) Security architecture\n(c) Administration of users\n(d) Proﬁles, password policies, privileges and roles\n(e) Database auditing\nReferences\n1. Ross Anderson: Security Engineering, 2nd ed., Wiley. Available online: http://www.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "(c) Administration of users\n(d) Proﬁles, password policies, privileges and roles\n(e) Database auditing\nReferences\n1. Ross Anderson: Security Engineering, 2nd ed., Wiley. Available online: http://www.\ncl.cam.ac.uk/∼rja14/book.html.\n2. C.P. Pﬂeeger, S.L. Pﬂeeger, J. Margulies: Security in Computing, 5th ed., Prentice\nHall, 2015.\n3. David Wheeler: Secure Programming HOWTO. Available online: https://dwheeler.\ncom/secure-programs/.\n4. Michal Zalewski: Browser Security Handbook, Michael Zalewski, Google. Available\nonline: https://code.google.com/archive/p/browsersec/wikis/Main.wiki.\n17",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "5. M. Gertz, S. Jajodia (Eds.): Handbook of Database Security, Springer, 2008.\n6. B. S. Schneier: Applied Cryptography: Protocols, Algorithms, and Source Code in\nC, 2nd Edition, John Wiley and Sons, New York, 1995.\n7. A. Menezes, P. C. Van Oorschot and S. A. Vanstone: Handbook of Applied Cryptog-\nraphy, CRC Press, Boca Raton, 1996.\nC8: Cryptographic and Security Implementations\nThis course would be project based, by the end of the course each student should do two\nnon-trivial implementation projects in the following broad areas.\n1. Cryptographic Implementations:\n(a) Instruction set architecture of modern processors with emphasis on instructions\ndedicated for cryptographic use.\n(b) Programming in micro controllers.\n(c) Software side channel attacks and countermeasures.\n(d) Principles of hardware design.\n(e) Introduction to hardware description languages.\n(f) Hardware side channel attacks, fault attacks and countermeasures.\n(g) Crypto libraries.\n2. Security Implementations:",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "(e) Introduction to hardware description languages.\n(f) Hardware side channel attacks, fault attacks and countermeasures.\n(g) Crypto libraries.\n2. Security Implementations:\n(a) Logging, Auditing and Log Monitoring\n(b) Enforcing password complexity, aging, and lockout\n(c) Implementing Security Access Control\n(d) File locks, database locks\n(e) Firewall and Antivirus implementation and setup.\n(f) Intrusion Detection and Malware Detection.\nReferences\n1. N. Ferguson, B. Schneier: Practical Cryptography, Wiley, 2003.\n2. B. S. Schneier: Applied Cryptography: Protocols, Algorithms, and Source Code in\nC, 2nd Edition, John Wiley and Sons, New York, 1995.\n18",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "3. F. Rodr´ıguez-Henr´ıquez, A. D´ıaz P´erez, N. A. Saqib, etin Kaya Koc: Cryptographic\nAlgorithms on Reconﬁgurable Hardware, Springer.\n4. Luca Giancane: Side-Channel Attacks and Countermeasures, LAP Lambert Aca-\ndemic Publishing, 2012.\n5. Eric Cole: Network Security Bible, 2nd ed., Wiley 2009.\n2.5\nThird Semester Courses: Elective\nE1: Quantum Cryptology and Security\n1. Introduction to Quantum Information.\n2. States, Operators, Measurements.\n3. Quantum Entanglement.\n4. Quantum Teleportation.\n5. Super-dense coding.\n6. Quantum gates and circuits.\n7. Quantum search.\n8. Shor’s factoring algorithm and its implication towards security in quantum world.\n9. Quantum key distribution.\n10. Quantum secret sharing and multiparty computation.\nReferences\n1. Michael A. Nielsen and Isaac L. Chuang: Quantum Computation and Quantum In-\nformation, Cambridge University Press, 2002.\n2. Phillip Kaye, Raymond Laﬂamme, and Michele Mosca: An Introduction to Quantum\nComputing, Oxford U. Press, New York, 2007.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "formation, Cambridge University Press, 2002.\n2. Phillip Kaye, Raymond Laﬂamme, and Michele Mosca: An Introduction to Quantum\nComputing, Oxford U. Press, New York, 2007.\n3. Presskil: Lecture notes. Available online: http://www.theory.caltech.edu/∼preskill/\nph229/.\n4. N. David Mermin: Quantum Computer Science, Cambridge University Press 2007.\n19",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "E2: Topics in Privacy\n1. Review of cryptographic protocols: Homomorphic Encryption, group signatures,\nblind signatures, anonymous credential management, commitment schemes, zero-\nknowledge proofs, proof of knowledge, ZK-SNARK, oblivious transfer, secure mul-\ntiparty computation, Oblivious RAM, private set intersections, private information\nretrieval.\n2. Perturbation, K-anonymity, L-diversity\n3. Differential privacy\n4. De-anonymization techniques\n5. Privacy preserving analytics\n6. Applications: Mixnets, Onion Routing (TOR), e-cash, e-voting, location privacy,\npro- ﬁling\n7. Privacy for outsourced data\n8. Privacy risk analysis\n9. Privacy Ethics: Privacy compliance, GDPR, HIPPA etc.\nReferences\n1. Cynthia Dwork, Aaron Roth: The algorithmic foundations of differential privacy,\nFoundations and Trends in Theoretical Computer Science, Vol. 9, Nos. 3–4 (2014),\npp. 211–407.\n2. Jonathan Katz and Yehuda Lindell: Introduction to Modern Crypography, Second\nEdition, CRC Press.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "Foundations and Trends in Theoretical Computer Science, Vol. 9, Nos. 3–4 (2014),\npp. 211–407.\n2. Jonathan Katz and Yehuda Lindell: Introduction to Modern Crypography, Second\nEdition, CRC Press.\n3. Rafael Pas and Abi Shelat, A Course in Cryptography, Lecture notes. Available\nonline: https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf.\n4. Internet Resources and research papers.\n20",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "E3: Topics in Security\nTopics related to contemporary and emerging areas in security would be discussed.\n1. Digital Forensics\n2. Penetration testing and Vulnerability Analysis\n3. Biometrics\n4. Cybersecurity for critical infrastructure\n5. Game theory and security\nReferences\n1. Gerard Johansen: Digital Forensics and Incident Response, Packt Publishing Limited\n2017.\n2. Wil Allsopp: Advanced Penetration Testing, Wiley 2017.\n3. A.K. Jain, A. A. Ross, K. Nandakumar, Introduction to Biometrics, Springer 2011.\n4. John Chirillo, Scott Blaul: Implementing Biometric Security, Wiley 2003.\n5. Recent papers and internet resources.\nE4: Topics in Cryptology\nIn depth study in some contemporary and emerging areas in cryptology. The list will be\nupdated from time to time. Topics may include but not limited to the following.\n1. Algorithms for factoring and discrete logarithms\n2. Cryptosystems based on Isogenies,\n3. Secure Multiparty Computation\n4. Homomorphic Encryption\n5. Cloud Cryptology",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "1. Algorithms for factoring and discrete logarithms\n2. Cryptosystems based on Isogenies,\n3. Secure Multiparty Computation\n4. Homomorphic Encryption\n5. Cloud Cryptology\n6. Authenticated encryption\nReferences\n21",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "1. H. Cohen: A Course in Computational Algebraic Number Theory, Springer 1996\n2. Steven D. Galbraith: Mathematics of Public Key Cryptography, Cambridge Univer-\nsity Press, 2012\n3. Dan Boneh, Victor Shoup: A Graduate Course in Applied Cryptography, online draft\navailable at http://toc.cryptobook.us/.\n4. Recent research papers and internet resources.\nE5: Computational Number Theory\n1. Divisibility, primality, GCD, factorization.\n2. Congruences: Basic properties; solving linear congruences, Chinese remainder the-\norem. Eulers φ function, quadratic residues.\n3. Computing with integers: Asymptotic notations, Integer arithmetic, computing in\nZn.\n4. Euclid’s Algorithm: Division Algorithm, extended Euclidean Algorithm, Computing\nmodular inverses.\n5. Distribution of primes: Chebyshev’s Theorem and the distribution of primes, Be-\ntrands postulate, prime number Theorem.\n6. Probabilistic Algorithms: Basic deﬁnitions, generating a random prime, generating a",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "trands postulate, prime number Theorem.\n6. Probabilistic Algorithms: Basic deﬁnitions, generating a random prime, generating a\nrandom factored number. Primality testing - Miller-Rabin; generating random primes\nusing Miller-Rabin, Factoring and computing Euler’s φ function.\n7. Finding generators and discrete log in Z∗\np. Difﬁe-Hellman key exchange. Testing\nquadratic residuosity. Computing modular square root. Quadratic residuposity as-\nsumption.\n8. Subexponential-time discrete log and factoring.\n9. Algorithms for ﬁnite ﬁelds.\n10. Special topics.\nReferences\n1. Victor Shoup: A Computational Introduction to Number Theory and Algebra, Cam-\nbridge University Press.\n2. Abhijit Das: Computational Number Theory, CRC Press.\n22",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "E6: Machine Learning for Security\nThis course would provide introduction to basic techniques and tools of machine learning\nand would include a few case studies of using these techniques in security applications.\n1. Supervised Learning\n(a) Setup for supervised learning\n(b) Regression, logistic regression\n(c) Generative learning algorithms, Gaussian Discriminant analysis, Naive Bayes\n(d) Nonparametric methods, k-nearest neighbor classiﬁcation\n(e) Supervised neural networks: Perceptrons, Multilayered perceptrons, radial ba-\nsis functions\n(f) Maximum margin classiﬁers, support vector machines\n(g) Model selection and feature selection\n(h) Ensemble methods: Bagging and Boosting\n2. Unsupervised learning\n(a) Clustering, K-means\n(b) Expectation maximization, Mixture of Gaussians\n(c) Factor analysis\n(d) Principal component analysis and Independent component analysis\n3. Possible case studies\n(a) Machine learning for intrusion detection.\n(b) Machine learning for side channel analysis.",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "(d) Principal component analysis and Independent component analysis\n3. Possible case studies\n(a) Machine learning for intrusion detection.\n(b) Machine learning for side channel analysis.\n(c) Privacy preserving machine learning.\n(d) Adversarial machine learning.\nReferences\n1. Tom M. Mitchell: Machine Learning, McGraw Hill Education.\n2. C. Bishop: Pattern Recognition and Machine Learning, Springer.\n3. Trevor Hastie, Robert Tibshirani: The Elements of Statistical Learning: Data Min-\ning, Inference, and Prediction, Springer, 2009.\n4. Recent research papers.\n23",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "E7: Blockchains and Cryptocurrencies\nThis course will provide introduction to blockchains and cryptocurrencies including Bit-\ncoin and contracts. Basic tools will be introduced ﬁrst, followed by implementation of\npractical blockchain protocols.\n1. Motivation and overview of blockchains.\n2. Building blocks: Hash functions, signature schemes, zero-knowledge proofs, con-\nsensus algorithms.\n3. Bitcoin: Transactions, blocks, mining, scripting, attacks on mining.\n4. Proof of work, proof of stake, proof of burn, proof of storage.\n5. Smart contracts\n6. Privacy issues: Anonymity, mixing techniques, privacy with ZK-Snarks.\n7. Permissioned blockchains: Distributed consensus, sharing algorithms, privacy is-\nsues.\n8. Scaling issues: Lightning networks, Payment networks.\n9. Platforms and ledgers: Ethereum, Ripple, Hyperledger, Algorand, etc.\n10. Altcoins and their analysis.\n11. Applications: Banking and ﬁnance, Data Sharing, Supply-chain, etc.\nReferences",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "9. Platforms and ledgers: Ethereum, Ripple, Hyperledger, Algorand, etc.\n10. Altcoins and their analysis.\n11. Applications: Banking and ﬁnance, Data Sharing, Supply-chain, etc.\nReferences\n1. A. Narayanan, J. Bonneau, E. Felten, A. Miller, S Goldfeder, J. Clark: Bitcoin and\nCryptocurrency Technologies, Princeton University Press. 2017.\n2. A. M. Antonopoulos: Mastering Bitcoin: Programming the Open Blockchain, O’Reilly,\n2017.\n3. Web Resources.\n24",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "E8: Social and Legal Aspects of Security\n1. History of Cryptology/Security\n2. Relationship between law/politics/social issues and cryptography/security\n3. Motivations at National and International Level\n4. Export control or Cryptologic/Security products\n5. Indian Cyber Law: (i) Information Technology Law in India (ii) Selected Cyber Law\nCases (iii) Selected Adjudicating Ofﬁcer Orders (iv) Data Privacy Law in India (v)\nIT Act Audit and Compliance (vi) Documentation Issues (vii) International Cyber\nCrime Law (viii) Emerging Issues in Cyber Law.\n6. Various facets of Cyber Crime and Investigation\n7. Copyright management\n8. Social Issues: Social welfare schemes such as Aadhar\n9. Electronic voting\n10. Security Ethics\nReferences\n1. Ross Anderson: Security Engineering, 2nd ed., Wiley. Available online: http://www.\ncl.cam.ac.uk/ rja14/book.html.\n2. Susan Landau: Surveillance or Security? The Risks Posed by New Wiretapping Tech-\nnologies, MIT Press, 2011",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "cl.cam.ac.uk/ rja14/book.html.\n2. Susan Landau: Surveillance or Security? The Risks Posed by New Wiretapping Tech-\nnologies, MIT Press, 2011\n3. Whitﬁeld Difﬁe and Susan Landau: Privacy on the Line The Politics of Wiretapping\nand Encryption, MIT Press, 2007\n4. Helen Nissenbaum: Privacy in Context: Technology, Policy, and the Integrity of\nSocial Life, Stanford University Press, 2009.\n25",
+      "metadata": {
+        "pdf_name": "MTechCryptology.pdf",
+        "pdf_path": "DATA\\MTechCryptology.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    }
+  ]
+}

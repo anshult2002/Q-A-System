@@ -1,0 +1,1448 @@
+{
+  "filename": "Brochure-BMath-2021.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "INDIAN STATISTICAL INSTITUTE\nStudents’ Brochure\nPART II\nBachelor of Mathematics (Hons.)\n(Effective from 2021-22 Academic Year)\n(See PART I for general information, rules and regulations)\nThe Headquarters is at\n203 BARRACKPORE TRUNK ROAD\nKOLKATA 700108",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          1
+        ],
+        "start_page": 1,
+        "end_page": 1
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "INDIAN STATISTICAL INSTITUTE\nBachelor of Mathematics (Hons.)\nContents\n1\nCurriculum\n1\n2\nSemi-compulsory and Elective Courses\n2\n2.1\nSemi-compulsory courses . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2\n2.2\nElective Courses\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2\n3\nDetailed Syllabi of the Courses\n4\n3.1\nCompulsory and Semi-compulsory Courses . . . . . . . . . . . . . . . . .\n4\n3.1.1\nFirst Year, Semester I . . . . . . . . . . . . . . . . . . . . . . . . .\n4\n3.1.2\nFirst Year, Semester II . . . . . . . . . . . . . . . . . . . . . . . .\n9\n3.1.3\nSecond Year, Semester III\n. . . . . . . . . . . . . . . . . . . . . .\n13\n3.1.4\nSecond Year, Semester IV . . . . . . . . . . . . . . . . . . . . . .\n17\n3.1.5\nThird Year, Semester V . . . . . . . . . . . . . . . . . . . . . . . .\n21\n3.1.6\nThird Year, Semester VI . . . . . . . . . . . . . . . . . . . . . . .\n24\n3.2\nElective Courses\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n25",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          3
+        ],
+        "start_page": 3,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "1\nCurriculum\nAll the courses listed below are allocated three lecture sessions and one practical/tutorial\nsession per week. The practical/tutorial session consists of two periods in the case of Statis-\ntics, Computer and Elective courses, and one period in case of Mathematics and Probability\ncourses. The periods are meant to be used for discussion on problems, practicals, computer\noutputs, assignments, for special lectures and self study, etc. All these need not be contact\nhours.\nFirst Year\nSemester I\nB1:\nReal Analysis I\nB2:\nProbability I\nB3:\nLinear Algebra I\nB4:\nElementary Number Theory\nB5:\nFundamentals of Computing and\nProgramming\nSemester II\nB6:\nReal Analysis II\nB7:\nProbability II\nB8:\nLinear Algebra II\nB9:\nIntroduction to Statistics and\nComputation with Data\nB10:\nNumerical Computing\nSecond Year\nSemester III\nB11:\nAnalysis of Several Variables\nB12:\nGroup Theory\nB13:\nIntroduction to Statistical Inference\nB14:\nClassical Mechanics\nB15:\nDiscrete Mathematics - I\nSemester IV\nB16:\nTopology",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "Semester III\nB11:\nAnalysis of Several Variables\nB12:\nGroup Theory\nB13:\nIntroduction to Statistical Inference\nB14:\nClassical Mechanics\nB15:\nDiscrete Mathematics - I\nSemester IV\nB16:\nTopology\nB17:\nRings and Modules\nB18:\nOrdinary Differential Equations\nB19:\nElectrodynamics\nB20:\nIntroduction to Linear Models\nand Regression\nThird Year\nSemester V\nSemi-compulsory I\nSemi-compulsory II\nB24:\nDesign and Analysis of Algorithms\nElective I\nElective II\nSemester VI\nB25:\nGeometry\nB26:\nComplex Analysis\nB27:\nOptimization\nElective III\nElective IV\n1",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "2\nSemi-compulsory and Elective Courses\n2.1\nSemi-compulsory courses\nA student has to take at least two out of the three courses listed below, compulsorily. All\nthe three courses will be offered every year. A student who chooses to take all the three\ncourses, will have to take only one other course as elective in the ﬁfth semester.\nB21: Field and Galois Theory\nB22: Probability III\nB23: Function Spaces\n2.2\nElective Courses\nA student has to choose elective courses offered from the following list. Not all of these\ncourses can be offered in a particular semester.\nE1: Discrete Mathematics - II\nE2: Analysis on Graphs\nE3: Games, Graphs and Algebra\nE4: Game Theory\nE5: Information Theory\nE6: Introduction to Stochastic Processes\nE7: Methods from Statistical physics\nE8: Data Structures and Algorithms\nE9: Mathematics of Data Science\nE10: Introduction to Analytic Methods in Number Theory\nE11: Algebraic Number Theory\nE12: Topics in Statistical Methods\nE13: Sample Surveys and Design of Experiments",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "E9: Mathematics of Data Science\nE10: Introduction to Analytic Methods in Number Theory\nE11: Algebraic Number Theory\nE12: Topics in Statistical Methods\nE13: Sample Surveys and Design of Experiments\nE14: Commutative Algebra\n2",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "E15: Representation Theory of Finite Groups\nE16: Geometric Group Theory\nE17: Geometric Algebra\nE18: Curves and Surfaces\nE19: Differential Geometry and Lie Groups\nE20: Differential Topology\nE21: p-adic numbers\nE22: Algebraic Geometry\nE23: Algebraic Topology\nE24: Introduction to Dynamical Systems\nE25: Mathematical Morphology and Applications\nE26: Economics-I\nE27: Economics-II\nE28: Economics-III\nE29: Quantum Mechanics\nE30: General Relativity\nE31: Computational Biology\nE32: Introduction to Statistical Physics\nE33: Quantum Computation and Quantum Information\nA student can choose to do a topics course (at most one) instead of one of the above elective\ncourses, provided the student has an average of 85% upto the previous semester. This topics\ncourse is also subject to willingness of an instructor and the topic is to be proposed by the\ninstructor in consultation with the concerned students.\n3",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "3\nDetailed Syllabi of the Courses\n3.1\nCompulsory and Semi-compulsory Courses\n3.1.1\nFirst Year, Semester I\nB1: Real Analysis I\nThe language of sets and functions - countable and uncountable sets. Real numbers\n- least upper bounds and greatest lower bounds. Sequences - limit points of a se-\nquence, convergent sequences; bounded and monotone sequences, the limit superior\nand limit inferior of a sequence. Cauchy sequences and the completeness of R. Se-\nries - convergence and divergence of series, absolute and conditional convergence.\nRiemann’s rearrangement theorem. Various tests for convergence of series. (Integral\ntest to be postponed till after Riemann integration is introduced in Analysis II.) Con-\nnection between inﬁnite series and decimal expansions, ternary, binary expansions\nof real numbers. Cauchy product, Inﬁnite products.\ncalculus of a single variable - continuity; attainment of supremum and inﬁmum of a",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "of real numbers. Cauchy product, Inﬁnite products.\ncalculus of a single variable - continuity; attainment of supremum and inﬁmum of a\ncontinuous function on a closed bounded interval, uniform continuity. Differentia-\nbility of functions. Chain Rule, Rolle’s theorem and mean value theorem. Higher\nderivatives, Leibniz formula, maxima and minima. Taylor’s theorem - various forms\nof remainder, inﬁnite Taylor expansions. L’Hospital Rule\nReferences\n(a) T. M. Apostol: Mathematical Analysis.\n(b) T. M. Apostol: Calculus.\n(c) S. Dineen: Multivariate Calculus and Geometry.\n(d) . R. R. Goldberg: Methods of Real Analysis.\n(e) T. Tao: Analysis I & II.\n(f) Bartle and Sherbert: Introduction to Real Analysis.\n(g) H. Royden: Real Analysis.\n(h) K. A. Ross: Elementary Analysis.\nB2: Probability Theory I\n• Random experiments, outcomes, sample space, events. Discrete sample spaces\nand probability models .\nEqually likely setup (including examples such as",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "B2: Probability Theory I\n• Random experiments, outcomes, sample space, events. Discrete sample spaces\nand probability models .\nEqually likely setup (including examples such as\nMaxwell-Boltzmann, Bose-Einstein, Fermi-Dirac statistics) and combinatorial\n4",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "probability (examples such as Gibbs distributions (deﬁnition)). Combination of\nevents: inclusion/exclusion, Boole’s inequality and Bonferroni’s inequality.\n• Conditional probability: independence, law of total probability and Bayes’ the-\norem, Composite experiments: Polya’s urn scheme.\n• Discrete random variables. Standard discrete distributions(degenerate, Bernoulli,\nBinomial, discrete uniform, Hypergeometric, Poisson, Geometric, negative bi-\nnomial). Convergence of Binomial to Poisson distribution and normal distribu-\ntion (latter only statement and sketch of proof).\n• Continuous random variables [with densities continuous except at ﬁnitely many\npoints]; Examples of uniform, exponential, beta, gamma, normal, Cauchy, Pareto\nand other densities . Introduction to cumulative distribution functions (CDF)\nand properties. Distributions with densities. Standard univariate densities (uni-\nform, exponential, beta, gamma, normal)",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "and other densities . Introduction to cumulative distribution functions (CDF)\nand properties. Distributions with densities. Standard univariate densities (uni-\nform, exponential, beta, gamma, normal)\n• functions of random variables , Expectation/mean , moments, variance , com-\nputations involving indicator random variables\n• Joint distributions of discrete random variables (multionomial distributions),\nlinearity and monotonicity of expectations,independence, covariance, variance\nof a sum,computations involving indicator random variables, distribution of\nsum of two independent random variables. Conditional distributions, condi-\ntional expectation.\nNote: In continous random variables, focus only on densities which are continous\nexcept at ﬁnitely many points and Riemann integration (proper and improper) to\nbe introduced in an informal manner without proofs. Also, emphasize that CDF or\ndensity matters and not the underlying uncountable sample space.\nReferences",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "be introduced in an informal manner without proofs. Also, emphasize that CDF or\ndensity matters and not the underlying uncountable sample space.\nReferences\n(a) W. Feller: Introduction to Probability: Theory and Applications - Vol. I and II..\n(b) J. Pitman: Probability.\n(c) Sheldon Ross: Probability Models.\n(d) Santosh S. Venkatesh: Theory of Probability - Explorations and Applications.\n(e) P. G. Hoel, S. C. Port and C. J. Stones: Introduction to Probability Theory.\n(f) K. L. Chung: Elementary Probability Theory with Stochastic Processes.\n(g) R. Meester: A Natural Introduction to Probability Theory.\n5",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "B3: Linear Algebra I\nNote: The ﬁeld of scalars should be assumed to be subﬁelds of complex numbers, i.e.,\nsubsets closed under addition, subtraction, multiplication and division by a nonzero\nnumber. The main examples to be considered should be the ﬁeld of real, complex or\nrational numbers.\nHomogeneous and non-homogeneous systems of linear equations, condition for con-\nsistency, solution set as a translate of a subspace.\nVector spaces, subspaces, linear independence, span, basis and dimension, sum and\nintersection of subspaces, direct sum, complement and projection.\nLinear transformation and its matrix with respect to a pair of bases, properties of\nmatrix operations, use of partitioned matrices.\nColumn space and row space, rank of a matrix, nullity, rank of AA∗.\ng-inverse and its elementary properties, left inverse, right inverse and inverse, in-\nverse of a partitioned matrix, lower and upper bounds for rank of a product, rank-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "g-inverse and its elementary properties, left inverse, right inverse and inverse, in-\nverse of a partitioned matrix, lower and upper bounds for rank of a product, rank-\nfactorization of a matrix, rank of a sum. Elementary operations and elementary ma-\ntrices, Echelon form, Normal form, Hermite canonical form and their use in solving\nlinear equations and in ﬁnding inverse or g-inverse. LDU-decomposition.\nReferences\n(a) C. R. Rao: Linear Statistical Inference and its Applications.\n(b) A. Ramachandra Rao and P. Bhimasankaram: Linear Algebra.\n(c) K. Hoffman and R. Kunze: Linear Algebra.\n(d) F. E. Hohn: Elementary Matrix Algebra.\n(e) P. R. Halmos: Finite Dimensional Vector Spaces.\n(f) S. Axler: Linear Algebra Done Right!\n(g) H. Helson: Linear Algebra.\n(h) R Bapat: Linear Algebra and Linear Models.\n(i) R. A. Horn and C. R. Johnson: Matrix Analysis.\n(j) M. Artin: Algebra.\nB4: Elementary Number Theory\n• Basic set theory, Equivalence relations and partitions. Mathematical Induction,",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "(i) R. A. Horn and C. R. Johnson: Matrix Analysis.\n(j) M. Artin: Algebra.\nB4: Elementary Number Theory\n• Basic set theory, Equivalence relations and partitions. Mathematical Induction,\nBinomial theorem, principle of inclusion-exclusion and pigeonhole.\n6",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "• Divisibility, Division algorithm, Euclidean algorithm, Fundamental theorem of\narithmetic and Sieve of Eratosthenes.\n• Basic properties, Fermat’s little theorem, Euler and Wilson congruences, RSA,\nChinese remainder theorem, Group structure of U(Z/nZ), Primitive roots.\n• Quadratic residues, Quadratic reciprocity law, Jacobi symbol, Binary Quadratic\nforms, Sum of two squares.\n• Arithmetic Functions, M¨obius inversion formula, Linear recurrences, Linear\nDiophantine equations.\nReferences:\n(a) I. Niven, H. S. Zuckermann and H. L. Montgomery: An Introduction to the\nTheory of Numbers.\n(b) J. Kraft and L. Washington: An Introduction to Number Theory with Cryptog-\nraphy.\n(c) D. Burton: Elementary Number Theory.\nB5: Fundamentals of Computing and Programming\n• BASICS:\n– Elementary complexity motivation, concrete complexity, big O notation.\n– Integer representation, swtisions, values and variables, types, lvalue, rvalue,\nunary, binary, ternary operations.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "• BASICS:\n– Elementary complexity motivation, concrete complexity, big O notation.\n– Integer representation, swtisions, values and variables, types, lvalue, rvalue,\nunary, binary, ternary operations.\n– Numerical errors due to data representations and machine precision. Ap-\nproximation and error analysis. Illustration through examples.\n– Linux tools. Introduction to shell programming.\n• COMPUTING:\n– Fundamentals of Computing, Historical perspective, Early computers. Com-\nputing machine. Problems, Pseudo-code and ﬂowcharts. Memory, Vari-\nables, Values, Instructions, Programs.\n• INTRODUCTION TO C:\n– The language of C: Phases of developing a running computer program in\nC\n– Data concepts in C: Constants, Variables, Expressions, Operators, and op-\nerator precedence in C\n7",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "– Statements: Declarations, Input-Output Statements, Compound statements,\nSelection Statements. Conditions, Logical operators, Precedences. Repet-\nitive statements, While construct, Do-while Construct, For construct.\n– Conditionals, if-then, if-then-else, nested conditionals, switch-case. Loops,\nfor, while, repeat, loop invariants, precondition, postcondition.\n– Data types, size and values. Char, Unsigned and Signed data types. Num-\nber systems and representations. Constants, Overﬂow.\n– Arrays. Strings. Multidimensional arrays and matrices.\n• FUNCTIONS, RECURSIONS, SORTING AND SEARCH:\n– The prototype declaration, Function deﬁnition\n– Function call: Passing arguments to a function, by value, by reference.\nScope of variable names. Recursive function calls, Tail recursion. Analysing\nrecursion, Tree of recursion, linear recursion\n– Sorting problem: Selection Sort, Insertion Sort, Comparison between sort-\ning algorithms. Sorting in multidimensional arrays. Sorting in strings.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "recursion, Tree of recursion, linear recursion\n– Sorting problem: Selection Sort, Insertion Sort, Comparison between sort-\ning algorithms. Sorting in multidimensional arrays. Sorting in strings.\n– Search problem: Linear search and binary search. Comparison between\nsearch procedures. Recursive and Iterative formulations.\n• DATA TYPES IN C:\n– Pointers: Pointer variables. Declaring and dereferencing pointer variables.\nPointer Arithmetic. Examples. Accessing arrays through pointers. Pointer\ntypes, Pointers and strings. String operations in C.\n– Structures in C: Motivation, examples, declaration, and use. Operations on\nstructures. Passing structures as function arguments. type deﬁning struc-\ntures.\n– Self-referential structures. Dynamic Data Structures. Linked Lists. Exam-\nples\n– File input-output in C. Streams. Input, output and error streams. Opening,\nclosing and reading from ﬁles. Programming for command line arguments\nReference Texts:",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "ples\n– File input-output in C. Streams. Input, output and error streams. Opening,\nclosing and reading from ﬁles. Programming for command line arguments\nReference Texts:\n(a) O J Dahl, E W Dijkstra, C A R Hoare: Structured Programming\n(b) David Gries: The Science of Programming\n(c) E W Dijkstra: A Short Introduction to the Art of Programming\n(d) Dromey: How to solve it by Computer\n8",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "(e) Goodrich: Data Structures and Algorithms in Java\n(f) Thomas A Standish: Data Structures in Java.\n3.1.2\nFirst Year, Semester II\nB6: Real Analysis II\nThe existence of Riemann integral for sufﬁciently well behaved functions. Funda-\nmental theorem of Calculus, computation of deﬁnite integrals, improper integrals,\nsequences and series of functions, double sequences, pointwise versus uniform con-\nvergence for a function deﬁned on an interval of R, term by term differentiation and\nintegration, the Weierstrass’s theorem about uniform approximation of a continuous\nfunction by a sequence of polynomials on a closed bounded interval. Radius of con-\nvergence of power series and real analyticity of functions.\nReferences\n(a) T. M. Apostol: Mathematical Analysis.\n(b) T. M. Apostol: Calculus.\n(c) S. Dineen: Multivariate Calculus and Geometry.\n(d) R. R. Goldberg: Methods of Real Analysis.\n(e) T. Tao: Analysis I & II.\n(f) Bartle and Sherbert: Introduction to Real Analysis.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "(c) S. Dineen: Multivariate Calculus and Geometry.\n(d) R. R. Goldberg: Methods of Real Analysis.\n(e) T. Tao: Analysis I & II.\n(f) Bartle and Sherbert: Introduction to Real Analysis.\n(g) H. Royden: Real Analysis.\n(h) K. A. Ross: Elementary Analysis.\nB7: Probability Theory II\n• Distribution of sum of two independent random variables. Functions of more\nthan one discrete random variables.\nMarkov’s inequality, Tchebyshev’s in-\nequality and Weak law of large numbers.\n• Generating functions, Fluctuations in coin tossing and random walks, Review\nof conditional distributions and random sums of random variables.\n• Review of probability densities on the real line, Bivariate continuous distribu-\ntions, bivariate CDFs, independence, distribution of sums, products and quo-\ntients for bivariate continuous distributions, Examples: Bivariate Dirichlet and\nbivariate normal distributions. Independence and marginal distributions. Dis-\ntributions of functions of bivariate continuous random vectors.\n9",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "• Conditional distribution, conditional density, examples. Conditional distribu-\ntions of bivariate normal distribution.\n• Expectation of functions of random variables with densities, variance and mo-\nments of random variables. Conditional expectation and variance, illustrations.\n• Discussion of a.s. convergence, convergence in probability and distribution.\nStatements of CLT and Strong law of large numbers for i.i.d. random variables.\nReferences\n(a) W. Feller: Introduction to Probability: Theory and Applications - Vol. I and II..\n(b) J. Pitman: Probability.\n(c) Sheldon Ross: Probability Models.\n(d) Santosh S. Venkatesh: Theory of Probability - Explorations and Applications.\n(e) P. G. Hoel, S. C. Port and C. J. Stones: Introduction to Probability Theory.\n(f) K. L. Chung: Elementary Probability Theory with Stochastic Processes.\n(g) R. Meester: A Natural Introduction to Probability Theory.\nB8: Linear Algebra II",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "(f) K. L. Chung: Elementary Probability Theory with Stochastic Processes.\n(g) R. Meester: A Natural Introduction to Probability Theory.\nB8: Linear Algebra II\nDeterminant of n-th order and its elementary properties, expansion by a row or col-\numn, statement of Laplace expansion, determinant of a product, statement of Cauchy-\nBinet theorem, inverse through classical adjoint, Cramer’s rule, determinant of a par-\ntitioned matrix, Idempotent matrices.\nNorm and inner product on Rn and Cn, norm induced by an inner product, Orthonor-\nmal basis, Gram-Schmidt orthogonalization starting from any ﬁnite set of vectors,\northogonal complement, orthogonal projection into a subspace, orthogonal projector\ninto the column space of A, orthogonal and unitary matrices. Characteristic roots,\nrelation between characteristic polynomials of AB and BA when AB is square,\nCayley-Hamilton theorem, idea of minimal polynomial, eigenvectors, algebraic and",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "relation between characteristic polynomials of AB and BA when AB is square,\nCayley-Hamilton theorem, idea of minimal polynomial, eigenvectors, algebraic and\ngeometric multiplicities, characterization of diagonalizable matrices, spectral repre-\nsentation of Hermitian and real symmetric matrices, singular value decomposition.\nQuadratic form, category of a quadratic form, use in classiﬁcation of conics, La-\ngrange’s reduction to diagonal form, rank and signature, Sylvester’s law, determinant\ncriteria for n.n.d. and p.d. quadratic forms, Hadamard’s inequality,\nextrema of a p. d. quadratic form, simultaneous diagonalization of two quadratic\nforms one of which is p.d., simultaneous orthogonal diagonalization of commuting\nreal symmetric matrices, square-root method.\n10",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "Note: Geometric meaning of various concepts like subspace and ﬂat, linear inde-\npendence, projection, determinant (as volume), inner product, norm, orthogonality,\northogonal projection, and eigenvector should be discussed. Only ﬁnite-dimensional\nvector spaces to be covered.\nReferences\n(a) C. R. Rao: Linear Statistical Inference and its Applications.\n(b) A. Ramachandra Rao and P. Bhimasankaram: Linear Algebra.\n(c) K. Hoffman and R. Kunze: Linear Algebra.\n(d) F. E. Hohn: Elementary Matrix Algebra.\n(e) P. R. Halmos: Finite Dimensional Vector Spaces.\n(f) S. Axler: Linear Algebra Done Right!\n(g) H. Helson: Linear Algebra.\n(h) R Bapat: Linear Algebra and Linear Models.\n(i) R. A. Horn and C. R. Johnson: Matrix Analysis.\n(j) M. Artin: Algebra.\nB9: Introduction to Statistics and Computation with Data\nPrerequisites: Probability 1 or 2 should cover statements of Law of Large Numbers,\nStrong Law of Large Numbers, Binomial Central Limit Theorem and Central Limit\nTheorem.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "Prerequisites: Probability 1 or 2 should cover statements of Law of Large Numbers,\nStrong Law of Large Numbers, Binomial Central Limit Theorem and Central Limit\nTheorem.\n• R- Basics: Installing R, Variables, Functions, Workspace, External packages\nand Data Sets.\n• Introduction to exploratory Data analysis using R: Descriptive statistics; Graph-\nical representation of data: Histogram, Stem-leaf diagram, Box-plot; Visualiz-\ning categorical data.\n• Review of Basic Probability: Basic distributions, properties; simulating sam-\nples from standard distributions using R commands.\n• Sampling distributions based on normal populations: t, χ2 and F distributions.\n• Model ﬁtting and model checking: Basics of estimation, method of moments,\nBasics of testing including goodness of ﬁt tests, interval estimation; Distribution\ntheory for transformations of random vectors;\n• Nonparametric tests: Sign test, Signed rank test, Wilcoxon-Mann-Whitney test.\n11",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "• Bivariate data: covariance, correlation and least squares.\n• Resampling methods: Jackknife and Bootstrap.\nReferences\n(a) John Verzani: Using R for Introductory Statistics.\n(b) James McClave and Terry Sincich: Statistics\n(c) Deborah Nolan and Terry Speed: Stat Labs\n(d) John A. Rice: Mathematical Statistics and Data Analysis.\nB10: Numerical Computing\n• INTRODUCTION TO OCTAVE (OR APPROPRIATE PACKAGE): Octave as a cal-\nculator, Built-in Variables and Functions, Functions and Commands; Creat-\ning Matrices, Subscript Notation for Matrix Elements, Colon Notation, Delet-\ning Elements from Vectors and Matrices, Mathematical Operations with Ma-\ntrices, Reshaping Matrices, Strings, Working with Data from External Files,\nPlotting.Script. Scripts m-Files; Function m-Files; Input and Output Parame-\nters; Relational Operators, if...else..., Case Selection with switch , forLoops,\nwhileloops, breakCommand, return Command; Vectorization.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "ters; Relational Operators, if...else..., Case Selection with switch , forLoops,\nwhileloops, breakCommand, return Command; Vectorization.\n• Number representations, ﬁnite precision arithmetic, errors in computing. Con-\nvergence, iteration, Taylor series.\n• SOLUTION OF A SINGLE NON-LINEAR EQUATION: Bisection method. Fixed\npoint methods. Newton’s method. Convergence to a root, rates of convergence.\n• REVIEW OF APPLIED LINEAR ALGEBRA: Vectors and matrices. Basic op-\nerations, linear combinations, basis, range, rank, vector norms, matrix norms.\nSpecial matrices. Solving Systems of equations (Direct Methods): Linear sys-\ntems. Solution of triangular systems. Gaussian elimination with pivoting. LU\ndecomposition, multiple right-hand sides.\n• LEAST SQUARES FITTING OF DATA: Fitting a line to data. Generalized least\nsquares. QR decomposition.\n• INTERPOLATION: Polynomial interpolation by Lagrange polynomials. Alter-\nnate bases: Monomials, Newton, divided differences. Piecewise polynomial",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "squares. QR decomposition.\n• INTERPOLATION: Polynomial interpolation by Lagrange polynomials. Alter-\nnate bases: Monomials, Newton, divided differences. Piecewise polynomial\ninterpolation. Cubic Hermite polynomials and splines.\n• NUMERICAL QUADRATURE: Newton - Cotes Methods: Trapezoid and Simp-\nson quadrature. Gaussian quadrature. Adaptive quadrature.\n12",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "• ORDINARY DIFFERENTIAL EQUATIONS: Euler’s Method. Accuracy and Sta-\nbility. Trapezoid method. Runge - Kutta method. Boundary value problems\nand ﬁnite differences.\nReference Texts:\n(a) B. Kernighan and D. Ritchie: The C Programming Language.\n(b) J. Nino and F. A. Hosch: An Introduction to Programming and Object Oriented\nDesign using JAVA.\n(c) G. Recketenwald: Numerical Methods with Matlab.\n(d) Shilling and Harries: Applied Numerical methods for engineers using Matlab\nand C.\n(e) S. D. Conte and C. De Boor: Elementary Numerical Analysis: An Algorithmic\nApproach.\n(f) S. K. Bandopadhyay and K. N. Dey: Data Structures using C.\n(g) J. Ullman and W. Jennifer: A ﬁrst course in database systems.\n3.1.3\nSecond Year, Semester III\nB11: Analysis of Several Variables.\nCalculus of several variables: Differentiability of maps from Rm to Rn and the\nderivative as a linear map. Higher derivatives, Chain Rule, Taylor expansions in\nseveral variables, Local maxima and minima, Lagrange multiplier",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "derivative as a linear map. Higher derivatives, Chain Rule, Taylor expansions in\nseveral variables, Local maxima and minima, Lagrange multiplier\nMultiple integrals, Existence of the Riemann integral for sufﬁciently well-behaved\nfunctions on rectangles, i.e. product of intervals. Multiple integrals expressed as iter-\nated simple integrals. Brief treatment of multiple integrals on more general domains.\nChange of variables and the Jacobian formula, illustrated with plenty of examples.\nInverse and implicit functions theorems (with proofs). More advanced topics in the\ncalculus of one and several variables curves in R2 and R3. Line integrals, Surfaces in\nR3, Surface integrals, Divergence, Gradient and Curl operations, Green’s, Strokes’\nand Gauss’ (Divergence) theorems.\nReferences\n(a) T. M. Apostol: Mathematical Analysis.\n(b) T. M. Apostol: Calculus.\n(c) S. Dineen: Multivariate Calculus and Geometry.\n13",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "(d) R. R. Goldberg: Methods of Real Analysis.\n(e) T. Tao: Analysis I & II.\n(f) Bartle and Sherbert: Introduction to Real Analysis.\n(g) H. Royden: Real Analysis.\nB12: Group Theory\n• Equivalence relations and partitions, Zorn’s lemma, Axiom of choice, Principle\nof mathematical induction.\n• Groups, subgroups, homomorphisms, Modular arithmetic, quotient groups, iso-\nmorphism theorems.\n• Groups acting on sets, Sylow’s theorems, Permutation groups,Semidirect prod-\nucts.\n• Classiﬁcation of groups of small order.\n• Notion of solvable groups and proof of simplicity of An (for n > 4).\n• Matrix groups O(2), U(2), SL(2, R), Matrix exponential.\nReferences\n(a) M. Artin: Algebra.\n(b) S. D. Dummit and M. R. Foote: Abstract Algebra.\n(c) I. N. Herstein: Topics in Algebra.\n(d) K. Hoffman and R. Kunze: Linear Algebra.\n(e) J. A. Gallian: Contemporary Abstract Algebra.\nB13: Introduction to Statistical Inference\nFor Prob III: All limit theorems used in this course will be stated in context with",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "(e) J. A. Gallian: Contemporary Abstract Algebra.\nB13: Introduction to Statistical Inference\nFor Prob III: All limit theorems used in this course will be stated in context with\napplications. These can be proved in Probability III rigorously.\n• Sufﬁciency, Exponential family, Bayesian methods, Moment methods, Maxi-\nmum likelihood estimation.\n• Criteria for estimators; UMVUE, Fisher Information.\n• Multivariate normal distribution: Marginals, Conditionals; Distribution of lin-\near forms.\n• Order statistics and their distributions.\n14",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "• Large sample theory: Consistency, asymptotic normality, asymptotic relative\nefﬁciency\n• Elements of hypothesis testing; Neyman-Pearson Theory, UMP tests, Likeli-\nhood ratio and related tests, Large sample tests.\n• Conﬁdence intervals.\nReferences\n(a) George Casella and Roger L Berger: Statistical Inference\n(b) Peter J Bickel and Kjell A Doksum: Mathematical Statistics\n(c) Erich L Lehmann and George Casella: Theory of Point Estimation\n(d) Erich L Lehmann and Joseph P Romano: Testing Statistical Hypotheses\nB14: Classical Mechanics\n• Space, time, force and inertial mass; Newton’s three laws of motion in differ-\nential vector form; Projectile motion with and without air resistance; frictional\nforces and tension forces; Gravitational forces.\n• Rotational Motion of a particle or system of particles about an axis; Uniform\ncircular motion and centripetal force; Torque; Center of Mass; Linear momen-\ntum, Angular momentum and their conservation. Static and dynamic equilib-\nrium.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "circular motion and centripetal force; Torque; Center of Mass; Linear momen-\ntum, Angular momentum and their conservation. Static and dynamic equilib-\nrium.\n• Work-energy theorem; Kinetic energy and potential energy; potential for con-\nservative forces; Work done by non-conservative forces; Principle of conserva-\ntion of mechanical energy.\n• Oscillations and Hooke’s Law; Simple Harmonic Motion in one and two di-\nmensions; Damped Oscillations; Driven damped oscillations; Resonances.\n• Calculus of variations and Euler-Lagrange equations; Generalized co-ordinates\nas degrees of freedom; The Lagrangian and the action; The principle of the Sta-\ntionarity of the action; Lagrange’s Equations for constrained and unconstrained\nsystems; Lagrange multiplier method. Noether’s theorem and re-visiting the\nConservation of linear momentum, angular momentum and mechanical energy.\n• The Central Force problem; Centre-of-Mass and relative co-ordinates; Motion",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "Conservation of linear momentum, angular momentum and mechanical energy.\n• The Central Force problem; Centre-of-Mass and relative co-ordinates; Motion\nin the Centre of Mass frame; Conservation of angular momentum; Bounded\nand unbounded Keplerian orbits.\n15",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "• Rigid Bodies: The rotation problem about a ﬁxed axis; the Angular momentum;\nThe inertia tensor; Principal inertial axis; the Eigenvalue equation; The spinning\ntop problem.\n• The Hamiltonian formalism; phase-space co-ordinates; Legendre transforma-\ntion and construction of the Hamiltonian from the Lagrangian; Hamilton’s equa-\ntion of motion; Liouville’s theorem for the phase-space; if time permits, the\ninstructor may feel free to discuss topics like Poisson brackets, orbits in phase\nspace, etc.\n• Any other special topics are left to the discretion of the instructor.\nReferences\n(a) Classical Mechanics - J. R. Taylor.\n(b) Classical Dynamics of Particles and Systems - S. T. Thornton, J. B. Marion\n(c) Classical Mechanics (3rd edition) - H. Goldstein, C. Poole, J. Safko\n(d) Fundamentals of Physics - R. Resnick, D. Halliday and J. Walker.\nB15: Discrete Mathematics\n• BASIC COUNTING TECHNIQUES: Double-counting, Averaging principle, Inclusion-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "(d) Fundamentals of Physics - R. Resnick, D. Halliday and J. Walker.\nB15: Discrete Mathematics\n• BASIC COUNTING TECHNIQUES: Double-counting, Averaging principle, Inclusion-\nExclusion principle. Euler indicator, M¨obius function and inversion formula.\nRecursions and generating functions.\n• PIGEONHOLE PRINCIPLE: The Erd¨os-Szekeres theorem. Mantel’s theorem.\nTuran’s theorem, Dirichlet’s theorem, Schur’s theorem, Ramsey theory.\n• GRAPHS: Euler’s theorem and Hamilton Cycles. Spanning Trees. Cayley’s\ntheorem and Spanning trees.\n• SYSTEMS OF DISTINCT REPRESENTATIVES: Hall’s marriage theorem, Appli-\ncations to latin rectangles and doubly stochastic matrices, K¨onig-Egervary the-\norem, Dilworth’s theorem, Sperner’s theorem.\n• FLOWS IN NETWORKS: Max-ﬂow min-cut theorem, Ford-Fulkerson theorem,\nIntegrality theorem for max-ﬂow.\n• LATIN SQUARES AND COMBINATORIAL DESIGNS: Orthogonal Latin squares,\nExistence theorems and ﬁnite projective planes. Block designs. Hadamard",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "Integrality theorem for max-ﬂow.\n• LATIN SQUARES AND COMBINATORIAL DESIGNS: Orthogonal Latin squares,\nExistence theorems and ﬁnite projective planes. Block designs. Hadamard\ndesigns, Incidence matrices. Steiner triple systems.\nReferences:\n16",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "(a) S. Jukna: Extremal Combinatorics.\n(b) J. H. van Lint & R. M. Wilson: A Course in Combinatorics.\n(c) D. B. West: Introduction to Graph Theory.\n(d) R. A. Beeler: How to Count: An Introduction to Combinatorics and Its Appli-\ncations.\n(e) H. J. Ryser: Combinatorial Mathematics.\n3.1.4\nSecond Year, Semester IV\nB16: Topology\n• METRIC SPACES: Elements of metric space theory. Sequences and Cauchy\nsequences and the notion of completeness, elementary topological notions for\nmetric spaces i.e.open sets, closed sets, compact sets, connectedness, contin-\nuous and uniformly continuous functions on a metric space. The Bolzano -\nWeirstrass theorem, Supremum and inﬁmum on compact sets, Rn as a metric\nspace.\n• TOPOLOGICAL SPACES: Deﬁnitions and Examples; Bases and sub-bases; Sub-\nspace and metric topology; closed sets, limit points and continuous functions;\nproduct and quotient topology.\n• SEPARATION: Countability and Seperation axioms, Normal spaces, Urysohn\nlemma, Tietze extension theorem.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "product and quotient topology.\n• SEPARATION: Countability and Seperation axioms, Normal spaces, Urysohn\nlemma, Tietze extension theorem.\n• CONNECTEDNESS AND COMPACTNESS: Connected subspaces of the real line,\nCompact subspaces of the real line, limit point compactness, local compactness.\nTychnoff’s theorem. One point compactiﬁcation.\nReferences:\n(a) J. Munkres: Topology a ﬁrst course.\n(b) M. A. Armstrong: Basic Topology.\n(c) G. F. Simmons: Introduction to Topology and Modern Analysis.\n(d) K. Janich: Topology.\nB17: Rings and Modules\n• Rings, Left and Right ideals, Examples of Polynomial rings, Matrix rings and\nGroup rings, Quotient rings by two-sided ideals.\n17",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "• Commutative rings: Units, Nilpotents, Adjunction of elements, Chinese re-\nmainder theorem, Maximal and prime ideals, Localization.\n• Factorisation theory in domains: Irreducible and prime elements, Euclidean do-\nmains, Principal Ideal Domains, Unique Factorisation Domains, Gauss’s lemma,\nEisenstein’s Criterion.\n• Noetherian rings, Hilbert basis theorem.\n• Modules: Structure of ﬁnitely generated modules over a PID and their repre-\nsentation matrices, Applications to Rational canonical form and Jordan form of\na matrix.\nReferences\n(a) M. Artin: Algebra.\n(b) S. D. Dummit and M. R. Foote: Abstract Algebra.\n(c) I. N. Herstein: Topics in Algebra.\n(d) K. Hoffman and R. Kunze: Linear Algebra.\n(e) C. Musili: Rings and Modules.\n(f) J. A. Gallian: Contemporary Abstract Algebra.\n(g) N. Jacobson: Basic Algebra.\nB18: Ordinary Differential Equations\n• First order differential equations, Picard’s theorem, existence and uniqueness",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "(f) J. A. Gallian: Contemporary Abstract Algebra.\n(g) N. Jacobson: Basic Algebra.\nB18: Ordinary Differential Equations\n• First order differential equations, Picard’s theorem, existence and uniqueness\nof solution to ﬁrst order ordinary differential equations (Peano’s existence the-\norem, Osgood’s uniqueness theorem), Systems of ﬁrst order differential equa-\ntions, higher order linear differential equations, solving higher order linear DE\nwith constant coefﬁcients.\n• Introduction to power series solutions, Equations with regular singular points,\nSpecial ordinary differential equations arising in physics and some special func-\ntions (eg. Bessels functions, Legendre polynomials, Gamma functions)\n• Sturm -Liouville problems, Sturm comparison principle, Critical points and sta-\nbility in linear systems.\n• Nonlinear equations - Lyapunov’s method for detecting stability in systems,\nsimple critical points of nonlinear systems, Periodic solutions, statement of the",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "bility in linear systems.\n• Nonlinear equations - Lyapunov’s method for detecting stability in systems,\nsimple critical points of nonlinear systems, Periodic solutions, statement of the\nPoincare-Bendixson theorem (no proof).\n18",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "• Numerical methods and error analysis - Euler method, Second order Taylor\nmethod, Trapezoid method, Improved Euler method, Runge-Kutta method.\nReferences\n(a) G.F. Simmons: Differential equations with applications and historical notes.\n(b) Dmitry Panchenko: Lecture notes on Ordinary Differential Equations. (AMS\nopen notes)\n(c) Garrett Birkhoff and Gian-Carlo Rota: Ordinary Differential Equations.\n(d) Peter J. Olver: Lecture notes on Nonlinear Ordinary Differential Equations.\n(e) W. Boyce and R. C. DiPrima: Elementary Differential Equations.\n(f) E. A. Coddington and N. Levinson: Theory of Ordinary Differential Equations.\nB19: Electrodynamics\n• Brief review of vector calculus. Physical interpretation of gradient, divergence\nand curl; Statement and physical interpretations of Green’s theorem, Gauss’ di-\nvergence theorem, Stokes’ curl theorem. Differential forms (in R3); gradient,\ndivergence, curl as co-boundaries (d’s) of differential forms (in R3); Statement",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "vergence theorem, Stokes’ curl theorem. Differential forms (in R3); gradient,\ndivergence, curl as co-boundaries (d’s) of differential forms (in R3); Statement\nof Stokes’ theorem for differential forms (in R3); Green’s theorem, the diver-\ngence theorem, the curl theorem as special cases (Generalized Fundamental\nTheorem of Calculus). Spherical coordinates; Cylindrical coordinates. Dirac\ndelta function in in one/two/three dimensions; Delta function as divergence of a\nradially outward vector ﬁeld; Justiﬁcation for treating Dirac delta as a function;\nRemarks on Schwartz’s distribution theory. Vector ﬁelds and potentials.\n• Electrostatics. Coulomb’s Law for discrete and continuous charge distributions;\nDivergence and curl of electrostatic ﬁelds. Electric potential; Poisson’s equa-\ntion and Laplace’s equation; Electrostatic Boundary Conditions; General re-\nmarks on Green’s function (Impulse response). Work and Energy in Electro-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "tion and Laplace’s equation; Electrostatic Boundary Conditions; General re-\nmarks on Green’s function (Impulse response). Work and Energy in Electro-\nstatics. Conductors; Surface Charge and the Force on a Conductor; Capacitors.\n• Potential and ﬁeld due to arrangement of charges. Solution to Laplace’s equa-\ntion; Harmonic Functions; Mean-value property; Illustration in One Dimension,\nTwo Dimensions, Three Dimensions. Boundary Conditions and Uniqueness\nTheorems for Laplace’s equation; Application to conductors.\n• The Method of Images. Separation of variables. Multipole Expansion; Monopole\nand Dipole terms; The Electric Field of a Dipole. Dielectrics; Polarization;\nElectric displacement.\n19",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "• Magnetostatics. Lorentz Force Law; Magnetic ﬁelds; Currents. Biot-Savart\nLaw; Steady Currents; Magnetic Field of a Steady Current. Divergence and\nCurl of Magnetic ﬁeld; Ampere’s Law; Maxwell’s Equations for Electrostatics\nand Magnetostatics. Magnetic vector potential.\n• Electromotive Force; Ohm’s Law. Electromagnetic Induction; Faraday’s Law;\nInductance; Energy in magnetic ﬁeld. Maxwell’s correction to Ampere’s law\nfor magnetodynamics; Maxwell’s Equations - differential and integral form;\nThe Conundrum of Magnetic Charge/Monopole.\n• Conservation Laws; The Continuity Equation; Poynting’s work-energy theo-\nrem of electrodynamics. Maxwell’s Stress Tensor; Conservation of Momen-\ntum. Electromagnetic Waves. The Wave Equation; Sinusoidal Waves; General\nremarks on the Fourier transform; Polarization. Electromagnetic Waves in Vac-\nuum; The Wave Equation for E and B; Monochromatic Plane Waves; Energy\nand Momentum in Electromagnetic Waves.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "remarks on the Fourier transform; Polarization. Electromagnetic Waves in Vac-\nuum; The Wave Equation for E and B; Monochromatic Plane Waves; Energy\nand Momentum in Electromagnetic Waves.\n• Special Theory of Relativity from Maxwell’s electrodynamics; Einstein’s thought-\nexperiment and postulates. Relativity of simultaneity; Time dilation; Lorentz\nlength contraction. The Lorentz group of transformations; The Structure of\nSpacetime; The Lorentz Metric; Space-time diagrams. Remarks on magnetism\nas a relativistic phenomenon.\nReferences\n(a) Introduction to Electrodynamics - D. J. Grifﬁths\n(b) Foundations of Electromagnetic theory - J. R. Reitz, F. J. Milford and W. Charisty\n(c) (Chapter 5) A Visual Introduction to Differential Forms and Calculus on Mani-\nfolds - J. P. Fortney\n(d) Theory and Problems of Electromagnetics (Schaum’s Outlines) - J. A. Edmin-\nister\n(e) A Guide to Physics Problems part 1: Mechanics, Relativity and Electrodynam-\nics - S. B. Cahn and B. E. Badgorny",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "ister\n(e) A Guide to Physics Problems part 1: Mechanics, Relativity and Electrodynam-\nics - S. B. Cahn and B. E. Badgorny\nB20: Introduction to Linear Models and Regression\n• Multivariate distributions and properties; Multivariate densities; Independence,\nmarginal and conditional distributions; Distributions of functions of continuous\nrandom vectors; Examples of multivariate densities: Dirichlet and multivariate\nnormal distributions; Transformations and quadratic forms.\n20",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "• Review of matrix algebra involving projection matrices and matrix decomposi-\ntions; Fisher-Cochran Theorem.\n• Simple linear regression and Analysis of variance.\n• General linear model, Matrix formulation, Estimation in linear model, Gauss-\nMarkov theorem, Estimation of error variance.\n• Testing in the linear model, Analysis of variance.\n• Partial and multiple correlations, Multiple comparisons.\n• Stepwise regression, Regression diagnostics.\n• Odds ratios, Logit model.\n• Splines and Lasso.\nReferences\n(a) Sanford Weisberg: Applied Linear Regression\n(b) C R Rao: Linear Statistical Inference and Its Applications\n(c) George A F Seber and Alan J Lee: Linear Regression Analysis\n3.1.5\nThird Year, Semester V\nB21: Field and Galois theory\n• Algebraic extensions: degree, Splitting ﬁelds and normal extensions, Algebraic\nclosure.\n• Separable extensions, Fundamental theorem of Galois theory.\n• Finite ﬁelds, Cyclic extensions, Kummer theory.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 53,
+      "text": "closure.\n• Separable extensions, Fundamental theorem of Galois theory.\n• Finite ﬁelds, Cyclic extensions, Kummer theory.\n• Ruler and compass constructions, Solvability by radicals.\n• Transcendental extensions: Transcendence bases and transcendence degree.\nReferences\n(a) M. Artin: Algebra.\n(b) S. D. Dummit and M. R. Foote: Abstract Algebra.\n(c) I. N. Herstein: Topics in Algebra.\n(d) K. Hoffman and R. Kunze: Linear Algebra.\n(e) C. Musili: Rings and Modules.\n21",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 54,
+      "text": "(f) P. Morandi: Field and Galois theory.\n(g) N. Jacobson: Basic Algebra.\nB22: Probability III\n• Sigma-algebras, axioms of probability, π −λ theorem (proof can be skipped),\nuniqueness of extension for probability measures. Examples of countable prob-\nability spaces, Borel sigma-algebra on the real line and standard probability\ndistributions on the real line.\n• Construction of Lebesgue measure (statement alone). Random variables and\nexamples. Push-forward of a probability measure (sketch of proof) . Borel\nprobability measures on Euclidean spaces as push-forward of Lebesgue mea-\nsure (statement alone); Cumulative distribution function and properties.\n• General deﬁnition of expectation and properties. Change of variables. Review\nof conditional distribution and conditional expectation, General deﬁnition, Ex-\namples.\n• Limit theorems: Monotone Convergence Theorem (MCT) (without proof), Fa-\ntou’s Lemma, Dominated Convergence Theorem (DCT), Bounded Convergence",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 55,
+      "text": "amples.\n• Limit theorems: Monotone Convergence Theorem (MCT) (without proof), Fa-\ntou’s Lemma, Dominated Convergence Theorem (DCT), Bounded Convergence\nTheorem (BCT), Cauchy-Schwartz, Jensen and Chebyshev inequalities.\n• Different modes of convergence and their relations, Weak Law of large num-\nbers, First and Second Borel-Cantelli Lemmas, Strong Law of large numbers\n(proof under ﬁnite variance).\n• Characteristic functions, properties, Inversion formula and Levy continuity the-\norem (statements only), CLT in i.i.d. ﬁnite variance case. Slutsky’s Theorem.\n• Introduction to Finite Markov chains - Deﬁnition. Random mapping represen-\ntation. Examples. Irreducibility and aperiodicity. Stationary distribution and\nreversibility. Random walks on graphs.\nReferences\n(a) N. Lanchier: Stochastic Modelling.\n(b) W. Feller: Introduction to Probability: Theory and Applications - Vol. I and II..\n(c) J. Pitman: Probability.\n(d) Sheldon Ross: Probability Models.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 56,
+      "text": "(a) N. Lanchier: Stochastic Modelling.\n(b) W. Feller: Introduction to Probability: Theory and Applications - Vol. I and II..\n(c) J. Pitman: Probability.\n(d) Sheldon Ross: Probability Models.\n(e) Santosh S. Venkatesh: Theory of Probability - Explorations and Applications.\n(f) R. Meester: A Natural Introduction to Probability Theory.\n22",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 57,
+      "text": "(g) S. R. Athreya and V. S. Sunder: Measure and Probability.\nB23: Function Spaces\nReview of compact metric spaces. C([a; b]) as a complete metric space, the contrac-\ntion mapping principle. Banach’s contraction principle and its use in the proofs of\nPicard’s theorem. Uniform convergence. The Stone-Weierstrass theorem and Arzela-\nAscoli theorem for C(X). Periodic functions, Elements of Fourier series - uniform\nconvergence of Fourier series for well behaved functions and mean square conver-\ngence for square integrable functions.\nReferences\n(a) T. M. Apostol: Mathematical Analysis.\n(b) T. M. Apostol: Calculus.\n(c) S. Dineen: Multivariate Calculus and Geometry.\n(d) R. R. Goldberg: Methods of Real Analysis.\n(e) T. Tao: Analysis I & II.\n(f) Bartle and Sherbert: Introduction to Real Analysis.\n(g) H. Royden: Real Analysis.\nB24: Design and Analysis of Algorithms\nBasics of Algortihm Analysis: Models of computation, asymptotic order of growth,",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 58,
+      "text": "(g) H. Royden: Real Analysis.\nB24: Design and Analysis of Algorithms\nBasics of Algortihm Analysis: Models of computation, asymptotic order of growth,\nalgorithm analysis, time and space complexity, average and worst case analysis,\nlower bounds.\nAlgorithm design techniques: Greedy algorithms, Divide and conquer, dynamic pro-\ngramming, amortization, randomization.\nComplexity classes: Problem classes P, NP, PSPACE; reducibility, NP-hard and NP\ncomplete problems. Approximation algorithms for some NP-hard problems.\nRefrences:\n(a) T.H.Cormen, C.E.Leiserson, R.L.Rivest, C. Stein: Introduction to Algorithms\n(b) J. Kleinberg and E. Tardos: Algorithm Design\n(c) R. Sedgewick and P. Flajolet: Introduction to the Analysis of Algorithms\n(d) R. Sedgewick: Algorithms.\n23",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 59,
+      "text": "(e) A. Aho, J. Hopcroft and J. Ullmann: Introduction to Algorithms and Data\nStructures.\n(f) M. Sipser: Introduction to the Theory of Computation.\n(g) S. S. Skiena: The algorithm Design Manual.\n3.1.6\nThird Year, Semester VI\nB25: Geometry\n• AFFINE GEOMETRY: Afﬁne spaces, mappings. Thales’ theorem, Pappus’ the-\norem, Desargues’ theorem. Convexity.\n• EUCLIDEAN GEOMETRY: Euclidean vector spaces, Euclidean afﬁne spaces.\nLinear isometries and rigid motions. Spheres, Spherical triangles, Polyhedra\nand Euler’s formula.\n• PROJECTIVE GEOMETRY: Projective spaces, Pappus’ and Desargues’ theorem.\nProjective duality, Projective transformations. Cross Ratio. Complex projective\nline and circular group.\nReferences:\n(a) M. Audin: Geometry\n(b) R. Fenn: Geometry\n(c) P. M. H. Wilson: Curved Spaces: From Classical Geometries to Elementary\nDifferential Geometry.\nB26: Complex Analysis\nHolomorphic functions and the Cauchy-Riemann equations, Power series, Func-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 60,
+      "text": "(c) P. M. H. Wilson: Curved Spaces: From Classical Geometries to Elementary\nDifferential Geometry.\nB26: Complex Analysis\nHolomorphic functions and the Cauchy-Riemann equations, Power series, Func-\ntions deﬁned by power series as holomorphic functions, Complex line integrals and\nCauchy’s theorem, Cauchy’s integral formula. Representations of holomorphic func-\ntions in terms of power series. Zeroes of analytic functions, Liouville’s theorem,\nThe fundamental theorem of algebra, The maximum modulus principle, Schwarz’s\nlemma, The argument principle, The open mapping property of holomorphic func-\ntions. The calculus of residues and evaluation of integrals using contour integration.\nReferences\n(a) D. Sarason: Notes on Complex Function Theory.\n(b) T. W. Gamelin: Complex Analysis.\n24",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 61,
+      "text": "(c) J. B. Conway: Functions of one complex Variable.\nB27: Optimization\n• Perron-Frobenius theory.\n• LINEAR PROGRAMMING: Basic notions; fundamental theorem of LP; the sim-\nplex algorithm; duality and applications. Karmarkar’s algorithm.\n• CONSTRAINED OPTIMIZATION PROBLEMS: Equality constraints, Lagrange\nmultipliers; Inequality constraints, Karush-Kuhn-Tucker theorem; Illustrations\n(including situations where the above can fail).\n• FURTHER TOPICS: Convexity and optimization. Unconstrained optimization\nproblems and descent methods.\nReferences\n• H. Karloff: Linear Programming\n• Sher-Cherng Fang and Sarat Puthenpura: Linear optimization and extensions\nTheory and algorithms\n• R. K. Sundaram: A ﬁrst course in optimization Theory.\n• S. Boyd and L. Vendenberhe: Convex Optimization.\n• S.J. Miller: Mathematics of optimization: how to do things faster.\n• D. Bertsimas and J. Tsitsikilis: Introduction to Linear Optimization.\n• D. Bertsekas: Convex Optimization Theory.\n3.2\nElective Courses",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 62,
+      "text": "• D. Bertsimas and J. Tsitsikilis: Introduction to Linear Optimization.\n• D. Bertsekas: Convex Optimization Theory.\n3.2\nElective Courses\nE1: Discrete Mathematics - II\nMORE GRAPH THEORY: Vertex and edge connectivities, Menger’s theorem, Tutte’s\n1-factor theorem, Chromatic polynomials.\nLINEAR ALGEBRA METHOD: Basics of the method and applications to graph de-\ncompositions, inclusion matrices and Ramsey graphs. Orthogonal coding. Balanced\npairs. Hadamard matrices.\nTHE POLYNOMIAL METHOD: DeMillo-Lipton-Schwartz-Zippel Lemma, Kakeya’s\nproblem in ﬁnite ﬁelds, Combinatorial Nullstellensatz.\n25",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 63,
+      "text": "PROJECTIVE AND COMBINATORIAL GEOMETRIES: Projective and afﬁne geome-\ntries, duality, Pasch’s axiom, Desargues’ theorem, combinatorial geometries, geo-\nmetric lattices, Greene’s theorem.\nADDITIONAL TOPICS FROM: Codes and Designs, algebraic techniques in graph\ntheory, analytic combinatorics, probabilistic combinatorics.\nReferences\n(a) R. A. Beeler: How to Count: An introduction to combinatorics and its applica-\ntions.\n(b) H. J. Ryser: Combinatorial mathematics.\n(c) J. H. van Lint & R. M. Wilson: A course in ombinatorics.\n(d) D. B. West: Introduction to graph theory.\n(e) S. Jukna: Extremal combinatorics.\nE2: Analysis on Graphs\nIncidence matrix, Adjacency matrix and Laplace matrix of a graph. The Laplace op-\nerator on graphs. Cycles and cuts. The matrix-tree theorem and Kirchoff’s theorem.\nDirichlet Problem. Spectral properties. Perron-Frobenius theory. Interlacing in-\nequalities. Algebraic connectivity. Fiedler’s theorem. Cheeger’s inequality. Graphs",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 64,
+      "text": "Dirichlet Problem. Spectral properties. Perron-Frobenius theory. Interlacing in-\nequalities. Algebraic connectivity. Fiedler’s theorem. Cheeger’s inequality. Graphs\nand electrical networks, Resistance distance. Expander graphs. Spectral gap and\ngraph expansion.\nADDITIONAL TOPICS FROM: Random walks on graphs; Eigenvalues and mixing\ntime; Matrix games on graphs.\nReferences\n(a) R. B. Bapat: Graphs and Matrices.\n(b) A. Grigor’yan: Introduction to Analysis on Graphs.\n(c) C. Godsil and D. Royle: Algebraic Graph Theory.\n(d) S. Jukna: Extremal Combinatorics.\nE3: Games, Graphs and Algebra\nDivisors - Dollar Game, Picard and Jacobian groups. Discrete Laplacian, Matrix-\ntree theorem and Structure of Picard group. Dhar’s algorithm and Abel-Jacobi map.\nAcylic orientations. Rank function, Riemann-Roch theorem on graphs and applica-\ntions. Sandpiles, Sandpile group and Recurrent sandpiles. Existence, Uniqueness\n26",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 65,
+      "text": "and Dhar’s burning algorithm. Harmonic morphisms. Riemann Hurwitz formula.\nADDITIONAL TOPICS FROM: Parking functions and divisors on complete graphs;\nMatroids and Tutte Polynomials, Merino’s theorem for superstable conﬁgurations;\nIntroduction to Abelian networks.\nReferences\n(a) S. Corry and D. Perkinson. Divisors and Sandpiles: An Introduction to Chip-\nFiring.\n(b) B. Bond and L. Levine. Abelian Networks: Foundations and Examples, arXiv:1309.3445v1.\n(c) D. Perkinson, J. Perelman and John Wilmes. Primer for the Algebraic Geome-\ntry of Sandpiles, arXiv:1112.6163.\nE4: Game Theory\nCombinatorial Games - Impartial and Partisan games. Two person zero-sum games,\nSaddle points and Nash equilibria, linear programming and minmax theorems, Exis-\ntence of Nash equilibria and ﬁxed-point theorems. Zero sum games on graphs. Two\nperson general sum games: Non-cooperative and cooperative games, General sum\ngames with more than two players. Symmetric and Potential games. Evolutionary",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 66,
+      "text": "person general sum games: Non-cooperative and cooperative games, General sum\ngames with more than two players. Symmetric and Potential games. Evolutionary\nand correlated equilibria. Cooperative games and Shapley’s theorem. Auctions and\nMechanism design.\nADDITIONAL TOPICS FROM: Social choice, Voting and ranking Mechanisms, Ar-\nrow’s impossibility theorem; Repeated games; Random-turn games; Fair-design;\nReferences\n(a) A. R. Karlin and Y. Peres. Game Theory, Alive.\n(b) T. Ferguson. Game Theory. Available online.\nhttps://www.math.ucla.edu/˜tom/Game_Theory/Contents.html\n(c) D. Easley and J. Kleinberg. Networks, Crowds, and Markets.\n(d) M. Maschler, E. Solan and S. Zamir. Game Theory.\n(e) M. J. Osborne and A. Rubinstein. A Course in Game Theory.\n(f) Roger B. Myerson. Game Theory: Analysis of Conﬂict.\n(g) D. Fudenberg and J. Tirole. Game Theory.\n(h) Y. Narahari. Game Theory and Mechanism Design.\n27",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 67,
+      "text": "E5: Information Theory\nIntroduction to Markov chains (if necessary). Shannon’s entropy, Gibb’s inequal-\nity, Typical sequences of random vectors, Shannon’s theorem. Capacity-cost func-\ntion and channel coding theorem. Rate distortion function and source coding theo-\nrem. Stein’s lemma and properties of information measures. Uniquely decipherable\ncodes, Codes on trees, Kraft’s inequality, Kraft’s code, Huffman’s code, Shannon-\nFano-Elias code. Parsing codes and trees, Turnstall’s code. Universal source coding,\nEmpirical distributions, Kullback-Leibler divergence. Parsing entropy, Lempel-Ziv\nalgorithm, Entropy equivalence. Mutual information and capacity of noisy channels.\nADDITIONAL TOPICS FROM: Stationary coding of ﬁnite alphabets, Ergodic theorem\nfor binary alphabets and examples. Frequencies of ﬁnite blocks and Entropy theorem.\nReferences\n(a) T. M. Cover and J. A. Thomas. Elements of Information Theory.\n(b) P. Bremaud. Discrete Probability Models and Methods.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 68,
+      "text": "References\n(a) T. M. Cover and J. A. Thomas. Elements of Information Theory.\n(b) P. Bremaud. Discrete Probability Models and Methods.\n(c) D. J. C. Mackay. Information Theory, Inference and Learning Algorithms.\n(d) Robert J. McEliece. The Theory of Infomation and Coding.\n(e) Paul C. Shields. The Ergodic Theory of Discrete Sample Paths.\nE6: Introduction to Stochastic Processes\n• DISCRETE-TIME MARTINGALES: Optional Stopping theorem, Martingale con-\nvergence theorem, Doob’s inequality and convergence.\n• BRANCHING PROCESSES: Model deﬁnition. Connection with martingales.\nProbability of survival. Mean and variance of number of individuals.\n• DISCRETE-TIME MARKOV CHAINS: Classiﬁcation of states, Stationary distri-\nbution, reversibility and convergence. Random walks and electrical networks.\nCollision and recurrence.\n• BASIC PROBABILISTIC INEQUALITIES AND APPLICATIONS: First and Second\nMoment methods. Applications to Longest increasing subsequences, Random",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 69,
+      "text": "Collision and recurrence.\n• BASIC PROBABILISTIC INEQUALITIES AND APPLICATIONS: First and Second\nMoment methods. Applications to Longest increasing subsequences, Random\nk-Sat problem and connectivity threshold for Erdos-Renyi graphs. Chernoff\nbounds and Johnson-Lindenstrauss lemma.\nReferences\n(a) N. Lanchier: Stochastic Modelling.\n28",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 70,
+      "text": "(b) W. Feller: Introduction to Probability: Theory and Applications - Vol. I and II..\n(c) L. Levine, Y. Peres and E. Wilmer: Markov chains and mixing times.\n(d) Sheldon Ross: Probability Models.\n(e) Santosh S. Venkatesh: Theory of Probability - Explorations and Applications.\n(f) R. Meester: A Natural Introduction to Probability Theory.\n(g) S. R. Athreya and V. S. Sunder: Measure and Probability.\n(h) Sebastien Roch: Modern Discrete Probability: A toolkit. (Notes).\nE7: Methods from Statistical Physics\n• STATISTICAL PHYSICS AND PHASE TRANSITION: Boltzmann distribution.\nThermodynamic potentials, The ﬂuctuation–dissipation relations, The thermo-\ndynamic limit, Ferromagnets and Ising models, The Ising spin glass. Review of\nProbabilistic tools. Gibbs free energy. Connections to combinatorial optimiza-\ntion and information theory.\n• RANDOM ENERGY MODEL: Deﬁnition of the model, Thermodynamics of the\nREM, The condensation phenomenon, quenched and annealed averages. Replica",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 71,
+      "text": "tion and information theory.\n• RANDOM ENERGY MODEL: Deﬁnition of the model, Thermodynamics of the\nREM, The condensation phenomenon, quenched and annealed averages. Replica\nsolution. The fully connected p-spin glass model. Extreme value statistics and\nthe REM.\n• BELIEF PROPOGATION: Two examples, BP on trees, Optimization, Loopy BP,\nGeneral message-passing algorithms.\n• ADDITIONAL TOPICS FROM: Lattice gas model; Sherrington-Kirkpatrick model:\nfree energy based on replicas, alternate derivation of the replica symmetric free\nenergy using the cavity method, Approximate message passing and connections\nto cavity method, 1 RSB cavity method, some rigourous results, the Guerra up-\nper bound using interpolation; Hopﬁeld model: derivation of the replica sym-\nmetric free energy using replicas; Message-passing algorithm and combinato-\nrial optimization problems; Clustering of networks and community detection;\nLinear estimation and compressed sensing; Factor graphs; Random satisﬁabil-\nity problems.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 72,
+      "text": "rial optimization problems; Clustering of networks and community detection;\nLinear estimation and compressed sensing; Factor graphs; Random satisﬁabil-\nity problems.\nReferences\n(a) M. Mezard, G. Parisi, and M. A. Virasoro. Spin glass theory and beyond.\n(b) M. Mezard and A. Montanari: Information, Physics, and Computation.\n(c) S. Friedli and Y. Velenik: Statistical mechanics of lattice systems: a concrete\nmathematical introduction.\n29",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 73,
+      "text": "(d) N. Merhav: Statistical physics and information theory.\n(e) D. Panchenko: The Sherrington-Kirkpatrick model.\n(f) A. Bandeira, A. Perry and A. S. Wein. Notes on Computational-to-Statistical\ngaps: Predictions using statistical physics. (https://arxiv.org/pdf/1803.11132.pdf)\n(g) Statistical Physics, Optimization, Inference and Message-Passing Algorithms.\nEdited by Krzakala et al.\n(h) F. Krzakala and L. Zdberova. Statistical Physics for Optimization and Learning.\n(i) F. Krzakala and L. Zdberova. Statistical physics of inference: Thresholds and\nalgorithms.\nE8: Data Structures and Algorithms\nIntroduction to data structures, abstract data types, analysis of algorithms. Creation\nand manipulation of data structures: arrays, lists, stacks, queues, trees, heaps, hash\ntables, balanced trees, tries, graphs. Algorithms for sorting and searching, order\nstatistics, depth-ﬁrst and breadth-ﬁrst search, shortest paths and minimum spanning\ntree.\nReferences",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 74,
+      "text": "tables, balanced trees, tries, graphs. Algorithms for sorting and searching, order\nstatistics, depth-ﬁrst and breadth-ﬁrst search, shortest paths and minimum spanning\ntree.\nReferences\n(a) T. Cormen, C. Leiserson, R. Rivest, C. Stein: Introduction to Algorithms.\n(b) S. Sahni:Data Structures, Algorithms and Applications in C++\n(c) R. Sedgewick and P. Flajolet: Introduction to the Analysis of Algorithms\n(d) R. Sedgewick: Algorithms.\n(e) A. Aho, J. Hopcroft and J. Ullmann: Introduction to Algorithms and Data\nStructures.\n(f) S. S. Skiena: The algorithm Design Manual.\nE9: Mathematics of Data Science\n• INTRODUCTION AND OPTIMIZATION PROBLEMS: Knapsack Problems, Greedy\nAlgorithms, Graph-theoretic Models and optimization problems (Depth ﬁrst\nSearch and Breadth-First Search).\n• STATISTICAL ASPECTS: Conﬁdence Intervals and Sampling and Standard Er-\nror, Understanding Experimental Data.\n• MACHINE LEARNING: Introduction, Perceptron Algorithm, Kernel method,",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 75,
+      "text": "• STATISTICAL ASPECTS: Conﬁdence Intervals and Sampling and Standard Er-\nror, Understanding Experimental Data.\n• MACHINE LEARNING: Introduction, Perceptron Algorithm, Kernel method,\nExamples, Online learning, Support vector machines, VC-dimension.\n30",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 76,
+      "text": "Additional Topics from:\n• CLUSTERING: k-means clustering, Spectral clustering, Cheeger’s inequality,\nHigh- density clusters, graph partitioning.\n• HIGH-DIMENSIONAL GEOMETRY: Gaussians in high-dimensions, Random pro-\njections and Johnson-Lindenstrauss lemma. Fitting spherical Gaussian.\n• PRINCIPAL COMPONENT ANALYSIS (PCA): PCA and dimension reduction,\nClustering a mixture of spherical Gaussians, Ranking documents.\n• GRAPHICAL MODELS; DIFFUSION MAPS AND SEMI-SUPERVISED LEARN-\nING; COMMUNITY DETECTION; STOCHASTIC GRADIENT DESCENT AND DEEP\nLEARNING; COMPRESSED SENSING AND SPARSE RECOVERY.\nReferences\n(a) R. E. Vershynin: High-dimensional probability.\n(b) A. Blum, J. Hopcroft and R. Kannan: Foundations of Data Science.\n(c) A. Bandeira: Ten lectures and forty two open problems in the Mathematics of\nData Science (Notes).\n(d) M. Mitzenmacher and E. Upfal: Probability and Computing: Randomization\nand Probabilistic Techniques in Algorithms and Data Analysis.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 77,
+      "text": "Data Science (Notes).\n(d) M. Mitzenmacher and E. Upfal: Probability and Computing: Randomization\nand Probabilistic Techniques in Algorithms and Data Analysis.\n(e) T. Hastie, R. Tbshirani and J. Friedman: The elements of statistical learning.\n(f) Kevin Murphy: Machine Learning - A Probabilistic Perspective.\n(g) M. J. Wainwright: High-Dimensional Statistics -A Non-Asymptotic Viewpoint.\nE10: Introduction to analytic methods in number theory\nDirichlet multiplication of arithmetic function, Euler’s summation, Abel’s partial\nsummation, Asymptotic order of arithmetic functions, Elementary estimates on dis-\ntribution of primes, Chebychev’s theorem and Bertrand’s postulate, Dirichlet charac-\nters and Dirichlet’s theorem on primes in progressions.\nReferences\n(a) T. Apostol, Introduction to Analytic Number Theory.\nE11: Algebraic number theory\nNumber ﬁelds and number rings, prime decomposition in number rings, Dedekind",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 78,
+      "text": "References\n(a) T. Apostol, Introduction to Analytic Number Theory.\nE11: Algebraic number theory\nNumber ﬁelds and number rings, prime decomposition in number rings, Dedekind\ndomains, deﬁnition of the ideal class group, Galois theory applied to prime decom-\nposition and Hilbert ramiﬁcation theory, Gauss reciprocity law, Cyclotomic ﬁelds and\n31",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 79,
+      "text": "their ring of integers as an example, the ﬁniteness of the ideal class group, Dirichlet\nUnit theorem.\nReferences\n(a) D. Marcus: Number ﬁelds.\n(b) G. J. Janusz: Algebraic Number Theory\nE12: Topics in Statistical Methods\nLarge sample arguments for goodness of ﬁt chi-square, test of independence and\nothers for contingency tables, measures of association (12 lectures)\nNonparametric density estimation Empirical d.f., Kolmogorov-Smirnov test Tests\nand conﬁdence intervals for population quantiles (9 lectures)\nElements of Bayesian inference including Bayes estimates, credible intervals and\ntests. (12 lectures)\nIntroduction to statistical computing E-M algorithm Introduction to Markov Chain\nMonte Carlo techniques with applications, Gibbs sampling, Metropolis-Hastings al-\ngorithm. (16 lectures)\nReferences\n(a) A. Agresti: An Introduction to Categorical Data Analysis.\n(b) C. R. Bilder and T. M. Loughlin: Analysis of Categorical data with R.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 80,
+      "text": "gorithm. (16 lectures)\nReferences\n(a) A. Agresti: An Introduction to Categorical Data Analysis.\n(b) C. R. Bilder and T. M. Loughlin: Analysis of Categorical data with R.\n(c) P. J. Bickel and K. A. Doksum: Mathematical Statistics\n(d) E.L. Lehmann: Nonparametrics: Statistical Methods Based on Ranks.\n(e) J. O. Berger: Statistical Decision Theory and Bayesian Analysis, Second Ed.\n(f) G. J. McLachlan and T. Krishnan: The EM Algorithm and Extensions\n(g) A. Gelman et al.: Bayesian Data Analysis.\n(h) J. S. Liu: Monte Carlo Strategies in Scientiﬁc Computing.\nE13: Sample Surveys and Design of Experiments\nScientiﬁc basis of sample surveys. Complete enumeration vs. sample surveys. Prin-\ncipal steps of a sample survey; illustrations; methods of drawing a random sample.\nSRSWR and SRSWOR: Estimation, sample size determination. Stratiﬁed sampling;\nestimation, allocation, illustrations. Systematic sampling, linear and circular, vari-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 81,
+      "text": "SRSWR and SRSWOR: Estimation, sample size determination. Stratiﬁed sampling;\nestimation, allocation, illustrations. Systematic sampling, linear and circular, vari-\nance estimation. Some basics of PPS sampling, Two-stage sampling and Cluster\nsampling. Nonsampling errors. Ratio and Regression methods.\n32",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 82,
+      "text": "The need for experimental designs and examples, basic principles, blocks and plots,\nuniformity trials, use of completely randomized designs. Designs eliminating hetero-\ngeneity in one direction: General block designs and their analysis under ﬁxed effects\nmodel, tests for treatment contrasts, pairwise comparison tests; concepts of connect-\nedness and orthogonality of classiﬁcations with examples; randomized block designs\nand their use. Some basics of full factorial designs. Practicals using statistical pack-\nages.\nReferences\n(a) M. N. Murthy: Sampling Theory and Methods.\n(b) P. Mukhopadhyay: Theory and Methods of Survey Sampling.\n(c) W. G. Cochran: Sampling Techniques.\n(d) A. Dean and D. Voss: Design and Analysis of Experiments.\n(e) A. Dey: Theory of Block Designs.\n(f) D. C. Montgomery: Design and Analysis of Experiments.\n(g) O. Kempthorne: The Design and Analysis of Experiments.\n(h) W. G. Cochran and G. M. Cox: Experimental Designs.\nE14: Commutative Algebra",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 83,
+      "text": "(f) D. C. Montgomery: Design and Analysis of Experiments.\n(g) O. Kempthorne: The Design and Analysis of Experiments.\n(h) W. G. Cochran and G. M. Cox: Experimental Designs.\nE14: Commutative Algebra\nPrime ideals and primary decompositions, Ideals in polynomial rings, Hilbert basis\ntheorem, Noether normalisation theorem, Hilbert’s Nullstellensatz, Tensor product\nof modules, Localization, Noetherian and Artinian modules, Cayley-Hamilton trick\nand Nakayama lemma, Elementary dimension theory.\nReferences\n(a) M. Atiyah and I.G. MacDonald: Commutative Algebra.\n(b) J. Harris: Algebraic Geometry.\n(c) I. Shafarervich: Basic Algebraic Geometry.\n(d) W. Fulton: Algebraic curves.\n(e) M. Reid: Undergraduate Commutative Algebra.\nE15: Representation theory of ﬁnite groups\nIntroduction to multilinear algebra: Review of linear algebra, multilinear forms, ten-\nsor products, wedge product, Grassmann ring, symmetric product. Deﬁnition and ex-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 84,
+      "text": "Introduction to multilinear algebra: Review of linear algebra, multilinear forms, ten-\nsor products, wedge product, Grassmann ring, symmetric product. Deﬁnition and ex-\namples of representations,; Group algebra and Maschke’s Theorem, Schur’s lemma,\n33",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 85,
+      "text": "Characters and Schur’s Orthogonality relations; Burnside’s pq theorem, Permutation\nrepresentations; Induced representations; Frobenius reciprocity law, Representation\ntheory of symmetric groups, Random walks on groups.\nReferences\n(a) A. Prasad: Representation Theory: A Combinatorial Viewpoint.\n(b) Benjamin Steinberg: Representation Theory of Finite Groups:An Introductory\nApproach.\n(c) W. Fulton and J. Harris: Representation Theory, Part I.\n(d) J-P Serre: Linear representations of ﬁnite groups.\nE16: Geometric group theory.\n• Review of group theory (basic notions and operations with groups, solvable\nand nilpotent groups), Groups with generators and relations: Generating sets,\nfree groups, reduced words, presentation of a group, ﬁnitely presented groups.\nProducts and extensions of groups, free products and amalgamated free prod-\nucts.\n• Groups and their Cayley graphs, trees and free groups, Review of groups ac-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 86,
+      "text": "Products and extensions of groups, free products and amalgamated free prod-\nucts.\n• Groups and their Cayley graphs, trees and free groups, Review of groups ac-\ntions, free actions, orbits and stabilisers, transitive actions. Free groups and\nactions on trees, The ping-pong lemma, The Tits alternative.\n• Quasi-isometry of metric spaces, quasi-isometry type of groups, quasi-geodesic\nand quasi-geodesic spaces, the ˇSvarc-Milnor Lemma with applications, quasi-\nisometry invariants.\n• Growth of groups, growth types, groups of polynomial growth, groups of uni-\nform exponential growth.\n• ADDITIONAL TOPICS FROM: Hyperbolic groups, Ends and boundaries, Amenable\ngroups.\nReferences\n(a) Clara Loh: Geometric Group Theory: An introduction\n(b) Pierre de la Harpe: Topics in Geometric Group Theory.\n(c) John Meier: Groups, Graphs and Trees: An introduction to the geometry of\ninﬁnite groups\n(d) M. Clay and D. Margalit: Ofﬁce Hours with a geometric group theorist.\n34",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 87,
+      "text": "E17: Geometric Algebra\nGeneral and Special Linear groups.\nBilinear forms, Symmetric and Alternating\nforms. Symplectic groups. Quadratic forms and Orthogonal groups. Witt’s exten-\nsion and cancellation theorems. Cartan-Dieudonne theorem and Associated simple\ngroups. Clifford algebra and Spin groups. Hermitian forms and Unitary groups.\nReferences:\n(a) Emil Artin: Geometric Algebra\n(b) Larry C. Grove:Classical groups and Geometric algebra.\n(c) N. Jacobson: Basic Algebra.\n(d) H. Weyl: Classical Groups.\nE18: Curves and Surfaces.\nCurves in two and three dimensions, Curvature and torsion for space curves, Exis-\ntence theorem for space curves, Serret-Frenet formula for space curves, Inverse and\nimplicit function theorems, Jacobian theorem, Surfaces in R3 as two dimensional\nmanifolds, Tangent space and derivative of maps between manifolds, First funda-\nmental form, Orientation of a surface, Second fundamental form and the Gauss map,",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 88,
+      "text": "manifolds, Tangent space and derivative of maps between manifolds, First funda-\nmental form, Orientation of a surface, Second fundamental form and the Gauss map,\nMean curvature and scalar curvature, Integration on surfaces, Stokes formula, Gauss-\nBonnet theorem.\nReferences:\n(a) M.P. do Carmo: Differential Geometry of Curves and Surfaces.\n(b) A. Pressley: Elementary Differential Geometry.\n(c) J.Thorpe: Elementary Topics in Differential Geometry.\nE19: Differential Geometry\nManifolds and Lie groups, Frobenius theorem, Tensors and Differential forms, Stokes\ntheorem, Riemannian metrics, Levi-Civita connection, Curvature tensor and funda-\nmental forms.\nReferences:\n(a) S. Kumaresan: A course in Differential Geometry and Lie Groups.\n(b) T. Aubin: A course in Differential Geometry.\n(c) T. Aubin: A course in Differential Geometry.\n(d) John Lee: Introduction to Smooth Manifold.\n35",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 89,
+      "text": "(e) John Lee: Introduction to Riemannian Manifolds.\n(f) W.Boothby: An Introduction to Differentiable Manifolds and Riemannian Ge-\nometry.\n(g) F.Warner: Foundations of Differentiable Manifolds and Lie Groups.\n(h) L.Tu: Introduction to Manifolds.\n(i) L.Tu: Differential Geometry (Connections, Curvature and Characteristic Classes).\nE20: Differential Topology\nManifolds. Inverse function theorem and immersions, submersions, transversality,\nhomotopy and stability, Sard’s theorem and Morse functions, Embedding manifolds\nin Euclidean space, manifolds with boundary, intersection theory mod 2, winding\nnumbers and Jordan- Brouwer separation theorem, Borsuk-Ulam ﬁxed point theo-\nrem.\nReferences:\n(a) V. Guillemin and Pollack: Differential Topology (Chapters I, II and Appendix\n1, 2).\n(b) J. Milnor: Topology from a differential viewpoint.\nE21: p-adic numbers\nAbsolute values on Q, the ﬁeld of p-adic numbers Qp, Hensel’s lemma, elementary",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 90,
+      "text": "1, 2).\n(b) J. Milnor: Topology from a differential viewpoint.\nE21: p-adic numbers\nAbsolute values on Q, the ﬁeld of p-adic numbers Qp, Hensel’s lemma, elementary\nanalysis in Qp, vector spaces and ﬁeld extensions of Qp, the extension Cp of Qp,\nanalysis in Cp.\nReferences:\n(a) Gouvea: p-adic numbers, an introduction (second edition).\n(b) Katok: p-adic analysis compared with real.\n(c) Koblitz: p-adic numbers, p-adic analysis and zeta functions.\n(d) Borevich and Shafarevich: Number Theory.\n(e) Cassels: Local ﬁelds\nE22: Algebraic Geometry\nHilbert Basis Theorem, Hilbert Nullstellensatz, Afﬁne algebraic sets and varieties\nand morphisms, afﬁne coordinate rings, regular functions, Projective space, Projec-\ntive varieties and morphisms, quasi projective varieties, sheaf of regular functions,\n36",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 91,
+      "text": "rational functions, rational maps, function ﬁelds, nonsingular varieties, algebraic\ncurves, Bezout’s theorem, Riemann Roch theorem (if time permits)\nReferences:\n(a) Hartshorne: Algebraic Geometry (Chapter 1).\n(b) Fulton: Algebraic Curves.\n(c) Shafarevich: Algebraic Geometry Volume I.\n(d) Reid: Undergraduate Algebraic Geometry.\n(e) Mumford: Red Book of Varieties and Schemes (Chapter 1).\n(f) Kirwan: Complex Algebraic Curves.\n(g) Harris: Algebraic Geometry.\nE23: Algebraic Topology\nGeometric complexes, Polyhedra, Simplicial homology groups, Simplicial approxi-\nmation theorem, Fundamental Groups, Covering Spaces.\nReferences:\n(a) Croom:Basic Concepts of Algebraic Topology.\n(b) Hatcher: Algebraic Topology.\n(c) Greenberg and Harper: Algebraic Topology, a ﬁrst course.\n(d) Massey: A Basic Course in Algebraic Topology.\n(e) Massey: Algebraic Topology, an Introduction.\n(f) Munkres: Elements of Algebraic Topology.\n(g) Armstrong: Basic Topology.\nE24: Introduction to Dynamical systems",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 92,
+      "text": "(e) Massey: Algebraic Topology, an Introduction.\n(f) Munkres: Elements of Algebraic Topology.\n(g) Armstrong: Basic Topology.\nE24: Introduction to Dynamical systems\nLinear maps and linear differential equation: attractors, foci, hyperbolic points; Lya-\npunov stability criterion, Smooth dynamics on the plane:Critical points, Poincare\nindex, Poincare-Bendixson theorem, Dynamics on the circle: Rotations: recurrence,\nequidistribution, Invertible transformations: rotation number, Denjoy construction,\nConservative systems: Poincare recurrence. Newtonian mechanics.\nReferences:\n(a) B. Hasselblatt and A. Katok: A ﬁrst course in dynamics.\n(b) M. Brin and G. Stuck: Introduction to dynamical systems.\n37",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 93,
+      "text": "(c) V. I. Arnold: Geometrical methods in the theory of Ordinary Differential Equa-\ntions.\nE25: Mathematical Morphology and Applications\nIntroduction to mathematical morphology: Minkowski addition and subtraction, Struc-\nturing element and its decompositions. Fundamental morphological operators: Ero-\nsion, Dilation, Opening, Closing. Binary Vs Greyscale morphological operations.\nMorphological reconstructions: Hit-or-Miss transformation, Skeletonization, Cod-\ning of binary image via skeletonization, Morphological shape decomposition, Mor-\nphological thinning, thickening, pruning. Granulometry, classiﬁcation, texture anal-\nysis: Binary and greyscale granulometries, pattern spectra analysis. Morpholog-\nical Filtering and Segmentation: Multiscale morphological transformations, Top-\nHat and Bottom-Hat transformations, Alternative Sequential ﬁltering, Segmentation.\nGeodesic transformations and metrics: Geodesic morphology, Graph-based mor-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 94,
+      "text": "Hat and Bottom-Hat transformations, Alternative Sequential ﬁltering, Segmentation.\nGeodesic transformations and metrics: Geodesic morphology, Graph-based mor-\nphology, City-Block metric, Chess board metric, Euclidean metric, Geodesic dis-\ntance, Dilation distance, Hausdorff dilation and erosion distances. Efﬁcient imple-\nmentation of morphological operators. Some applications of mathematical morphol-\nogy.\nReferences:\n(a) J. Serra, 1982, Image Analysis and Mathematical Morphology, Academic Press\nLondon, p. 610.\n(b) J. Serra, 1988, Image Analysis and Mathematical Morphology: Theoretical Ad-\nvances, Academic Press, p. 411.\n(c) L. Najman and H. Talbot (Eds.), 2010, Mathematical Morphology, Wiley, p.\n50.\n(d) P. Soille, 2003, Morphological Image Analysis, Principles and Applications,\n2nd edition, Berlin: Springer Verlag.\n(e) N. A. C. Cressie, 1991, Statistics for Spatial Data, John Wiley.\nE26: Economics I\nIntroduction to Economics: Micro and Macro Economics. Micro Economics: Wel-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 95,
+      "text": "2nd edition, Berlin: Springer Verlag.\n(e) N. A. C. Cressie, 1991, Statistics for Spatial Data, John Wiley.\nE26: Economics I\nIntroduction to Economics: Micro and Macro Economics. Micro Economics: Wel-\nfare Economics: Supply and Demand, Elasticity; Consumption and Consumer be-\nhaviour; Production and Theory of costs. Market Organisation: Competition, Monopoly.\nMacro Economics: National income accounting, demand and supply. Simple Keyne-\nsian model and extensions. Consumption and Investment. Inﬂation and Unemploy-\nment. Fiscal policy Money, banking and ﬁnance.\n38",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 96,
+      "text": "References:\n(a) Intermediate Microeconomics by Hal Varian\n(b) Microeconomic Theory by Richard Layard and A.A. Walter\n(c) Microeconomics in Context by N. Goodwin, J. Harris, J. Nelson, B. Roach and\nM. Torras\n(d) Microeconomics: behavior, institutions, and evolution by Bowles S\n(e) Macroeconomics by N. G. Mankiw\n(f) Macroeconomics by R Dornbusch and S Fisher\n(g) Macroeconomics in context by N Goodwin, J Harris, J Nelson, B Roach and M\nTorras\nE27: Economics II - Themes in Development Theory and Policy.\nTheories of growth: historical pattern, classical models, structural models, neo-\nclassical and contemporary approaches. Concept of development: beyond growth\n(basic needs, capabilities, freedom). Agricultural transformation. Strategies of in-\ndustrial development. Unemployment, underemployment and poverty. Population\nand demographic transition. Migration and urbanisation.Trade theory and develop-\nment experience. Environment and sustainable development\nReferences:",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          43
+        ],
+        "start_page": 43,
+        "end_page": 43
+      }
+    },
+    {
+      "chunk_id": 97,
+      "text": "and demographic transition. Migration and urbanisation.Trade theory and develop-\nment experience. Environment and sustainable development\nReferences:\n(a) Development Economics by Michael P Todaro\n(b) Leading Issues in Economic Development by G.M Meier and J E Rauch\n(c) International Economics: Theory and Policy by Paul Krugman and M Obstfeld\n(d) Halting Degradation of Natural Resources by J. M. Baland and J. P. Platteau\n(e) Chapters 1-3 of Book I of Adam Smith’s The Wealth of Nations\n(f) Development economics. Princeton University Press by Ray\n(g) Increasing returns and economic progress. The Economic Journal 38, 527 542,\nYoung A.A (1928)\n(h) Industrialization and the Big Push. The Journal of Political Economy 97, 1003\n1026 by Murphy K.M., A. Shleifer, and R.W. Vishny\n(i) Why Poverty Persists in India: A Framework for Understanding the Indian\nEconomy. OUP Catalogue by Eswaran M., and A. Kotwal\n39",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          43
+        ],
+        "start_page": 43,
+        "end_page": 43
+      }
+    },
+    {
+      "chunk_id": 98,
+      "text": "E28: Economics III - Poverty and Inequality: theory and empirics\nTopics from: Concept and measurement of inequality in incomes. Concentration of\nwealth. Intra-household inequality Poverty, relatively speaking. Deﬁ\nnition and measurement of poverty. Poverty and undernutrition. Trends in poverty\nand inequality in India.\nReferences:\n(a) Measurement of Inequality and Poverty, Oxford University Press, 1997, by S\nSubramanian (ed).\n(b) Measuring Inequality by Frank Cowel.\n(c) On Economic Inequality by Amartya Sen.\n(d) Why Poverty Persists in India: A Framework for Understanding the Indian\nEconomy. OUP Catalogue by Eswaran M., and A. Kotwal.\n(e) Growing public: Volume 1, the story: Social spending and economic growth\nsince the eighteenth century by Lindert P.H.\n(f) The Haves and the Have-Nots: A brief and idiosyncratic history of global in-\nequality by Milanovic B\nE29: Quantum Mechanics\nHistorical Review: Limitations of Classical Mechanics and conﬂict with experi-",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          44
+        ],
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    {
+      "chunk_id": 99,
+      "text": "equality by Milanovic B\nE29: Quantum Mechanics\nHistorical Review: Limitations of Classical Mechanics and conﬂict with experi-\nments on atomic scale, Wave Particle Duality, De Broglie’s Hypothesis, Postulates\nof Quantum Mechanics, Dirac Notation, Observables as Hermitian Operators on\nHilbert Space, Eigenvalues, Eigenvectors and Expectation values, Probabilistic in-\nterpretation of outcome of measurements, Time Evolution of the State Vector, Un-\ncertainty Principle, Schrodinger Equation and Wave Function, General Properties of\none-dimensional Schrodinger equation, Stationary States, Bound States and Scatter-\ning States, Inﬁnite and ﬁnite square well potentials, Harmonic Oscillator, Free Par-\nticle and spreading of Wave Packets, Scattering from Potential Barriers, Reﬂection\nand Transmission Coefﬁcients, Schrodinger Equation in three dimensions, Hydrogen\natom, Angular Momentum and Spin.\nReferences:\n(a) Grifﬁths: Introduction to Quantum Mechanics\n(b) Liboff: Introductory Quantum Mechanics",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          44
+        ],
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    {
+      "chunk_id": 100,
+      "text": "atom, Angular Momentum and Spin.\nReferences:\n(a) Grifﬁths: Introduction to Quantum Mechanics\n(b) Liboff: Introductory Quantum Mechanics\n(c) R. Shankar: Principles of Quantum Mechanics\n40",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          44
+        ],
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    {
+      "chunk_id": 101,
+      "text": "E30: General Relativity\n• Review of Special Relativity, Spacetime diagrams and four-vectors\n• Gravity as geometry: the equivalence principle, clocks in a gravitational ﬁeld\n• The Description of Curved Spacetime: metric, Penrose diagrams, local inertial\nframes, light cones and world lines, embedding diagrams, vectors in curved\nspace-time.\n• The Geodesic Equation: Solving the geodesic equation- symmetries and con-\nservation laws, Killing vectors, null geodesics, local inertial frames and freely\nfalling frames\n• Schwarzschild geometry, the gravitational redshift, particle and light ray orbits,\nSolar system tests of General Relativity.\n• Schwarzschild Black hole, Kruskal-Skekeres coordinates\n• Vectors, Dual Vectors, Covariant Derivatives\n• Equation of Geodesic Deviation, Riemann Curvature, Einstein Equation in vac-\nuum.\n• The Source of Curvature: Densities, Conservation Laws, Einstein Equation\nwith matter-energy as a source.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          45
+        ],
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "chunk_id": 102,
+      "text": "• Equation of Geodesic Deviation, Riemann Curvature, Einstein Equation in vac-\nuum.\n• The Source of Curvature: Densities, Conservation Laws, Einstein Equation\nwith matter-energy as a source.\n• Cosmological Solutions of Einstein’s Equations. Robertson-Walker metric. ( If\ntime permits)\nReferences:\n(a) Gravity: An Introduction to Einstein’s General Relativity - James Hartle.\n(b) A First Course in General Relativity- B. Schutz\n(c) Spacetime and Geometry: An Introduction to General Relativity- Sean M. Car-\noll\nE31: An Introduction to Computational Biology\n• Basic Molecular Biology. DNA, RNA and proteins; The Central Dogma. Genes\nand transcripts; Gene expression and regulation; SNPs. Remarks on secondary,\ntertiary and quaternary structures of proteins; Functional domains of proteins.\nHistory of sequencing technologies; The Human Genome Project. Sequence\nsimilarity, homology and alignment.\n41",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          45
+        ],
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    {
+      "chunk_id": 103,
+      "text": "• Pairwise alignment; scoring models; alignment algorithms. Global alignment;\nDynamic programming; Needleman-Wunsch algorithm. Local alignment; Smith-\nWaterman algorithm. Time and space complexity. Finite state machines (FSM);\nNW algorithm and SW algorithm in FSM models. Afﬁne gap penalty models.\nGenome assembly; Shotgun sequencing; Contigs; Anchored contigs; super-\nstring problem.\n• Hidden Markov models in biological sequence analysis. The three main al-\ngorithms; Forward/Backward Algorithms; Viterbi algorithm; Baum-Welch al-\ngorithm. Remarks on design of HMMs for biological applications. Modeling\nprotein families; Proﬁle HMMs; multiple sequence alignment; PFam. Gene\nFinding.\n• Protein sequences and substitution matrices; BLOSUM, PAM substitution ma-\ntrices. Relation with scoring models; Substitution matrices from an information-\ntheoretic perspective.\n• Review of basic random walk theory. Fluctuation theory of partial sums of iid",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 104,
+      "text": "trices. Relation with scoring models; Substitution matrices from an information-\ntheoretic perspective.\n• Review of basic random walk theory. Fluctuation theory of partial sums of iid\nrandom variables; Fluctuation identities; Remarks on extreme value distribu-\ntions.\n• Probability and statistics of sequence alignment; Signiﬁcance of scores. Global\nAlignment; Linear growth of alignment score; The Azuma-Hoeffding Lemma;\nLarge Deviations from the Mean. Local Alignment; Laws of Large Numbers.\nThe BLAST random walk; parameter calculations; choice of a score; bounds\nand approximations for the BLAST p-value; the number of high-scoring ex-\ncursions; The Karlin-Altschul Sum Statistic; Edge Effects; Multiple Testing;\nGapped BLAST and PSI BLAST.\nReferences:\n(a) An Introduction to Statistical Methods in Bioinformatics - W. Ewens, G. Grant\n(b) Biological sequence analysis: probability models of proteins and nucleic acids\n- R. Durbin, S. Eddy, A. Krogh, G. Mitchison",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 105,
+      "text": "(b) Biological sequence analysis: probability models of proteins and nucleic acids\n- R. Durbin, S. Eddy, A. Krogh, G. Mitchison\n(c) An Introdution to Computational Biology: Maps, sequences and genomes - M.\nS. Waterman\n(d) A First Course in Stochastic Processes - S. Kalin, H. M. Taylor\n(e) A Second Course in Stochastic Processes - S. Karlin, H. M. Taylor\nE32: Introduction to Statistical Physics\n42",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          46
+        ],
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    {
+      "chunk_id": 106,
+      "text": "• Quick Review of thermodynamics: zeroth, ﬁrst and second laws of thermo-\ndynamics, entropy, thermodynamic potentials, stability conditions, third law.\n• Kinetic theory of gases: Liouville Theorem, Boltzmann Equation, H- theorem\nand irreversibility, Equations of hydrodynamics.\n• Statistical Physics: Micro-Canonical, Canonical and Grand Canonical en sem-\nbles, Mixing entropy and Gibbs paradox.\n• Methods for interacting particles: Cluster and cumulant expansions, virial the-\norem, Van der Waals equation.\n• Quantum Statistical Mechanics: Combinatorics for indistinguishable par- ticles;\nBose and Fermi distributions. Blackbody radiation. Phonons.\n• Quantum Gases: ideal Bose gas, ideal Fermi gas, Bose condensation and super-\nﬂuidity.\n• Ising model: Curie-Weiss mean-ﬁeld theory, thermodynamics, phase tran- sitions,\nmean-ﬁeld critical exponents, other magnetism models like Potts model, clock\nmodel, quantum Heisenberg model as per instructor’s discretion.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          47
+        ],
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    {
+      "chunk_id": 107,
+      "text": "mean-ﬁeld critical exponents, other magnetism models like Potts model, clock\nmodel, quantum Heisenberg model as per instructor’s discretion.\n• General ideas of phase transition: The scaling hypothesis and the appli- cation\nof thermodynamic limit, calculation of critical exponents, coarse- graining and\nLandau-Ginzburg expansion with illustrative examples.\nReferences:\n(a) M. Kardar: Statistical Physics of Particles.\n(b) M. Kardar: Statistical Physics of Fields.\n(c) R. K. Pathria and Paul D. Beale: Statistical Mechanics.\n(d) F. Reif: Fundamentals of Statistical and Thermal Physics.\n(e) L. D. Landau and E. M. Lifshitz: Statistical Physics Part 1.\n(f) N. Goldenfeld: Lectures on Phase Transitions and the Renormalization Group.\nE33: Quantum Computation and Quantum Information\nA previous course of Quantum Mechanics is a necessary pre-requisite to this course.\n• Depending upon the composition of the student body and their experience, as",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          47
+        ],
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    {
+      "chunk_id": 108,
+      "text": "A previous course of Quantum Mechanics is a necessary pre-requisite to this course.\n• Depending upon the composition of the student body and their experience, as\nwell as instructor’s discretion, one or two lectures introducing quantum compu-\ntation and its relevance in modern science and technology may be considered.\nHowever, this is not an integral portion of the course, more in the way of Intro-\nduction to Quantum Computing and Information.\n43",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          47
+        ],
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    {
+      "chunk_id": 109,
+      "text": "• Quantum Mechanics: Postulates of Quantum Mechanics; Unitary time- evo-\nlution; Quantum measurements; Phase of a state; Composite systems; The\ndensity matrix and reduced density matrix; Schmidt Decomposition; Einstein-\nPodolsky-Rosen paradox; Hidden variables and Bell’s inequality.\n• Models of computation; Turing machine; Logic Circuit; Review of complexity\nof an algorithm; Big-O notation, Decision problems; P and NP classes.\n• Deﬁning a Qubit; Spin- 1\n2 as example; Quantum Gates; Single Qubit operations;\nControlled Operations; Measurement; Universal Quantum Gates; Brief intro-\nduction to quantum Complexity.\n• Bell states; The No-cloning theorem; Quantum Algorithms: Shor’s Factoriza-\ntion algorithm; Deutsch-Jozsa algorithm; Grover’s quantum search algorithm.\n• Shannon’s entropy; Quantum and classical distance measures; Fidelity; Von\nNeumann entropy; Relative Entropy and Mutual information; Concavity and\nadditivity of entropy measures.",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          48
+        ],
+        "start_page": 48,
+        "end_page": 48
+      }
+    },
+    {
+      "chunk_id": 110,
+      "text": "• Shannon’s entropy; Quantum and classical distance measures; Fidelity; Von\nNeumann entropy; Relative Entropy and Mutual information; Concavity and\nadditivity of entropy measures.\n• Quantum Error Correction: Bit-ﬂip and Phase-ﬂip; Stabilizer codes; Fault- tol-\nerant Quantum computation; Fault-tolerant Quantum logic.\n• Quantum Information; Noiseless and noisy quantum channels.\n• Time permitting, the instructor may introduce and discuss other topics.\nReferences:\n(a) Quantum Computation and Quantum Information - M. A. Nielsen and I.L.\nChuang.\n(b) Problems and Solutions in Quantum Computation and Quantum Information -\nW-H. Steeb and Y. Hardy.\n(c) Quantum Computer Science: an introduction - N. D. Mermin.\n(d) Classical and Quantum Computation- A. Yu. Kitaev, A. H. Shen and M.N.\nVyalai.\n(e) Lectures on Quantum Computation, Quantum Error Correcting Codes and In-\nformation Theory - K. R. Parthasarathy.\n44",
+      "metadata": {
+        "pdf_name": "Brochure-BMath-2021.pdf",
+        "pdf_path": "DATA\\Brochure-BMath-2021.pdf",
+        "page_numbers": [
+          48
+        ],
+        "start_page": 48,
+        "end_page": 48
+      }
+    }
+  ]
+}

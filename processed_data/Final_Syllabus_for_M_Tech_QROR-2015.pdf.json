@@ -1,0 +1,1111 @@
+{
+  "filename": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "INDIAN STATISTICAL INSTITUTE\nStudents’ Brochure\nPART II\nMaster of Technology in Quality, Reliability and Operations\nResearch\n(Effective from 2015-16 Academic Year)\n(See PART I for general information, rules and regulations)\nThe Headquarters is at\n203 BARRACKPORE TRUNK ROAD\nKOLKATA 700108\n\nINDIAN STATISTICAL INSTITUTE\nMaster of Technology in Quality, Reliability and Operations Research\nContents\n1\nCurriculum\n1\n2\nDetailed Syllabi of Courses\n2\n2.1\nFirst Semester Courses . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2\n2.2\nSecond Semester Courses . . . . . . . . . . . . . . . . . . . . . . . . . . .\n12\n2.3\nThird Semester Compulsory Courses . . . . . . . . . . . . . . . . . . . . .\n21\n2.4\nThird Semester Elective Courses . . . . . . . . . . . . . . . . . . . . . . .\n26\n2.5\nFourth Semester Curriculum . . . . . . . . . . . . . . . . . . . . . . . . .\n38\n3\nDissertation and Project\n38",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          1,
+          3
+        ],
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "1\nCurriculum\nThe ﬁrst year of this two-year programme is divided into streams, for students from Engi-\nneering background (E-stream) and those from Statistics background (S-stream). The two\nstreams merge in the second year. Altogether there are 15 courses, including 2 elective\ncourses in the third semesters. Each of these courses is allocated four hours per week.\nThere is a summer internship in between the ﬁrst and the second years (i.e., between the\nsecond and third semesters). The fourth semester consists of a dissertation and/or project\nwork at the locations of internship.\nFirst Year: Engineering Stream\nSemester I (500 marks)\nSemester II (500 marks)\nProbability\nElements of Stochastic Processes\nStatistical Methods I\nStatistical Methods II\nOperations Research I\nStatistical Quality Control\nProgramming Techniques and Data Structures\nReliability I\nQuality Management and System\nIndustrial Engineering and Management\nFirst Year: Statistics Stream\nSemester I (500 marks)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "Programming Techniques and Data Structures\nReliability I\nQuality Management and System\nIndustrial Engineering and Management\nFirst Year: Statistics Stream\nSemester I (500 marks)\nSemester II (500 marks)\nElectrical and Electronics Engineering\nMechanical Engineering\nEngineering Drawing and Workshop\nWorkshop II\nOperations Research I\nStatistical Quality Control\nProgramming Techniques and Data Structures\nReliability I\nQuality Management and System\nIndustrial Engineering and Management\nSummer Internship of 10 weeks*\nSecond Year\nSemester I (500 marks)\nSemester II (500 marks)\nOperations Research II\nSummer Internship*\nIndustrial Experimentation\nDissertation and/or Project\nReliability II\nElective I\nElective II\n*100 marks of Summer Internship are carried forward to the Second Year, Semester II.\n1",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "Elective Courses\nAdvanced Statistical Quality Control\nAdvanced Multivariate Analysis\nApplied Stochastic Processes and Time Series Modeling\nBusiness Analytics\nSix Sigma\nSoftware Engineering\nDatabase Management System\n2\nDetailed Syllabi of Courses\nThe number shown in parentheses after a particular topic indicates the suggested number\nof lectures allocated to that topic.\n2.1\nFirst Semester Courses\nProbability\n1. Concept of probability (6)\nIntroduction and citation of examples for applications of probability. Classical deﬁ-\nnition of probability and its drawbacks. Sample space and events. Concept of random\nexperiment with examples. Axiomatic deﬁnition of probability. Discrete and general\nprobability space. Properties of probability. Conditional probability, Bayes’ theorem.\nIndependence of events, pair wise and mutual independence.\n2. Combinatorial probability (4)\nProbability of occurrence of at least one and exactly m events, Birth day problems,\nMatching problems, and Occupancy problems.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "2. Combinatorial probability (4)\nProbability of occurrence of at least one and exactly m events, Birth day problems,\nMatching problems, and Occupancy problems.\n3. Concept of random variables and probability distributions (10)\nDeﬁnition of random variable, Discrete random variables - their pmf and cdf Contin-\nuous random variables and their pdf and cdf. Mathematical expectation and variance\nand their properties; mgf, pgf and cf -– deﬁnitions, properties and relationship. State-\nment of uniqueness theorem of cf and its applications. Moments, their properties and\ninterpretation. Moments through pgf, mgf and cf. Variance of sum of independent\nrandom variables. Conditional expectation. Conditional variance.\n2",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "4. Discrete random variable and its distribution (8)\nBinomial, Poisson, geometric, negative binomial, hypergeometric distributions: their\nproperties, relationship and simple approximations. (Hypergeometric to binomial\nand binomial to Poisson). Numerical examples. Statistical tables for individual and\ncumulative probabilities. Marginal and conditional density functions, independence\nof discrete random variables. Distribution of the sum of two or more discrete inde-\npendent random variables.\n5. Continuous random variable and its distribution (8)\nUniform, normal, gamma, beta, exponential, Weibull, Cauchy, lognormal distribu-\ntions. Relationship between gamma and Poisson, beta and binomial distributions.\nCumulative probabilities. Independence of continuous random variables. Distribu-\ntion of sum, product and ratio of two independent random variables. Some derived\ndistributions such as χ2, t and F distributions. Order statistics and distribution of\nrange.\n6. Bivariate random variables (8)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "distributions such as χ2, t and F distributions. Order statistics and distribution of\nrange.\n6. Bivariate random variables (8)\nBivariate distribution - marginal and conditional density. Bivariate normal distribu-\ntion. Correlation coefﬁcient and its properties.\n7. Limit Theorems (6)\nChebyshev’s lemma, Chebyshev’s inequality, Weak law of large numbers (WLLN),\nCentral limit theorem (Lindbergh and Levy). De Moivre’s theorem; examples of\napplication of these limit theorems in Statistical Quality Control.\nReferences\n1. Introduction of Probability Models: S.M. Ross, Academic Press, New York.\n2. A First Course in Probability, 9th Ed.: S.M. Ross, Pearson Education Limited\n3. Introduction to Probability Theory: P.G. Hoel, S.C. Port and C.J. Stone, Houghton\nMifﬂin, Boston.\n4. Introduction to the Theory of Probability and its Applications, Vol. 1: W. Feller, John\nWiley, New York.\n5. Probability Theory and Mathematical Statistics: M. Fisz, Wiley, London.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "Mifﬂin, Boston.\n4. Introduction to the Theory of Probability and its Applications, Vol. 1: W. Feller, John\nWiley, New York.\n5. Probability Theory and Mathematical Statistics: M. Fisz, Wiley, London.\n6. Modern Probability Theory and its applications: E. Parzen, John Wiley, New York.\n3",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "7. Introduction to the Theory of Statistics: A.M. Mood, F.A.Graybill, D.C. Boes, Mc-\nGraw Hill, New York.\n8. Mathematical Methods of Statistics: H. Cram´er.\n9. Elementary Probability Theory with Stochastic Processes: Kai Lai Chung, Springer\nVerlag, New York.\nStatistical Methods I\n1. Introduction (4)\nDeﬁnition of Statistics. Scope, purpose and objectives. Population and Sample,\nMeasurement scales. Types of Data. Primary and secondary Data.\n2. Descriptive Statistics (18)\nClassiﬁcation and tabulation of univariate data. Graphical representation – line dia-\ngram, bar diagram, and pie chart. Frequency distribution and histogram. Frequency\nand cumulative frequency curve. Descriptive measures - central tendency, quantiles,\ndispersion, coefﬁcient of variation, skewness and kurtosis. Bivariate data – summa-\nrization, marginal and conditional frequency distribution, scatter diagram, correlation\ncoefﬁcient, rank correlation and correlation ratio.\n3. Sampling Techniques (8)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "rization, marginal and conditional frequency distribution, scatter diagram, correlation\ncoefﬁcient, rank correlation and correlation ratio.\n3. Sampling Techniques (8)\nRandom numbers. Sampling frame. Concepts of random sampling from ﬁnite and\ninﬁnite populations. Simple random sampling (with replacement and without re-\nplacement). Expectation and standard error of sample mean and proportion.\n4. Estimation (10)\nPrinciples of statistical inference. Formulation of problems with examples. Point\nestimation. Estimator and estimate. Criteria for good estimates - unbiasedness, con-\nsistency, efﬁciency and sufﬁciency. Method of moments estimation and maximum\nlikelihood estimation. Fisher Information matrix. Properties of maximum likelihood\nestimator. Conﬁdence intervals.\n5. Distribution Fitting (4)\nFitting of univariate distribution by graphical method (PP and QQ plots).\n6. Simulation (6)\nSimulation from common univariate distributions (discrete and continuous) and bi-",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "Fitting of univariate distribution by graphical method (PP and QQ plots).\n6. Simulation (6)\nSimulation from common univariate distributions (discrete and continuous) and bi-\nvariate normal distribution.\n4",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "References\n1. Fundamentals of Statistics, Vol. I: A.M. Goon, M.K. Gupta and B. Dasgupta.\n2. Applied Statistics and Probability for Engineers: D.C. Montgomery and G.C. Runger.\n3. Statistical Methods: G.W. Snedecor and W.G. Cochran.\n4. Statistical Concepts and Methods: G.K. Bhattacharya and R.A. Johnson.\n5. An Outline of Statistical Theory, Vol. II: A.M. Goon, M.K. Gupta and B. Dasgupta.\n6. Mathematical Statistics: Parimal Mukhopadhyay.\n7. An Introduction to Probability Theory and Mathematical Statistics: V. K. Rohatgi.\n8. Modern Mathematical Statistics: E.J. Dudewicz and S.N. Mishra.\n9. Sampling Techniques: W.G. Cochran.\n10. Elements of Simulation: Byron J.T. Morgan.\nOperations Research I\n1. Introduction to OR (2)\nOrigin of OR and its deﬁnition. Concept of optimizing performance measure, Types\nof OR problems, Deterministic vs. Stochastic optimization, Phases of OR problem\napproach – problem formulation, building mathematical model, deriving solutions,",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "of OR problems, Deterministic vs. Stochastic optimization, Phases of OR problem\napproach – problem formulation, building mathematical model, deriving solutions,\nvalidating model, controlling and implementing solution.\n2. Linear Programming (22)\nLinear programming – Examples from industrial cases, formulation and deﬁnitions,\nMatrix form, Implicit assumptions of LPP.\nSome basic concepts and results of linear algebra – Vectors, Matrices, Linear Inde-\npendence/Dependence of vectors, Rank, Basis, System of linear eqns., Hyperplane,\nConvex set, Convex polyhedron, Extreme points, Basic feasible solution etc.\nGeometric method: 2-variable case, Special cases – infeasibility, unboundedness,\nredundancy and degeneracy, Sensitivity analysis.\nSimplex Algorithm – slack, surplus and artiﬁcial variables, computational details,\nbig-M method, identiﬁcation and resolution of special cases through simplex itera-\ntions.\n5",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "Duality – formulation, results, fundamental theorem of duality, dual-simplex and\nprimal-dual algorithms.\n3. Transportation and Assignment problems (5)\nTP - Examples, Deﬁnitions – decision variables, supply and demand constraints,\nformulation, Balanced and unbalanced situations, Solution methods – NWCR, mini-\nmum cost and VAM, test for optimality (MODI method), degeneracy and its resolu-\ntion.\nAP - Examples, Deﬁnitions – decision variables, constraints, formulation, Balanced\nand unbalanced situations, Solution method – Hungarian, test for optimality (MODI\nmethod), degeneracy and its resolution.\n4. PERT – CPM (3)\nProject deﬁnition, Project scheduling techniques – Gantt chart, PERT and CPM, De-\ntermination of critical paths, Estimation of Project time and its variance in PERT\nusing statistical principles, Concept of project crashing/time-cost trade-off.\n5. Inventory Control (8)\nFunctions of inventory and its disadvantages, ABC analysis, Concept of inventory",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "using statistical principles, Concept of project crashing/time-cost trade-off.\n5. Inventory Control (8)\nFunctions of inventory and its disadvantages, ABC analysis, Concept of inventory\ncosts, Basics if inventory policy (order, lead time, types), Fixed order-quantity mod-\nels – EOQ, POQ and Quantity discount models. EOQ models for discrete units, sen-\nsitivity analysis and Robustness, Special cases of EOQ models for safety stock with\nknown/unknown stock out situations, models under prescribed policy, Probabilistic\nsituations.\n6. Queuing Theory (6)\nDeﬁnitions – queue (waiting line), waiting costs, characteristics (arrival, queue, ser-\nvice discipline) of queuing system, queue types (channel vs. phase).\nKendall’s notation, Little’s law, steady state behaviour, Poisson’s Process and queue,\nModels with examples - M/M/1 and its performance measures; M/M/m and its per-\nformance measures; brief about some special models.\n7. Simulation Methodology (4)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "Models with examples - M/M/1 and its performance measures; M/M/m and its per-\nformance measures; brief about some special models.\n7. Simulation Methodology (4)\nDeﬁnition and steps of simulation, random number, random number generator, Dis-\ncrete Event System Simulation – clock, event list, Application in Scheduling, Queu-\ning systems, Inventory systems.\nReferences\n6",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "1. Principles of OR with Application to Managerial Decisions: H.M. Wagner, Prentice\nHall.\n2. Introduction to Operations Research: F.S. Hiller and G.J. Lieberman, Addison Wes-\nley.\n3. Operations Research : An Introduction: H.A. Taha, Macmillan, N.Y.\n4. Operations Research and Management Science, Hand Book: Edited By A. Ravi\nRavindran, CRC Press, Taylor & Francis Group.\n5. Linear Programming: G. Hadley, Addison Wesley.\n6. Linear Programming and Network ﬂows: M.S. Bazaraa, J J Jarvis and H D Sherali,\nJohn Wiley.\n7. Linear Programming and Extensions: G.Dantzig, Princeton, N.J.\n8. Linear Programming: K.G. Murthy, John Wiley\n9. Fundamentals of Project Management: James P. Lewis, American Management As-\nsociation, 2007.\n10. Management Guide to PERT/CPM 2nd edn, Wiest and Levy, PHI\n11. Project Management and Control: Narendra Singh, Himalaya Publishing House.\n12. Project Management: A Managerial Approach: Jack R. Meredith and Samuel J.\nMantel, John Wiley & Sons, 2009.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "11. Project Management and Control: Narendra Singh, Himalaya Publishing House.\n12. Project Management: A Managerial Approach: Jack R. Meredith and Samuel J.\nMantel, John Wiley & Sons, 2009.\n13. Project Management: A Systems Approach to Planning, Scheduling and Controlling:\nHerold Kerzner, John Wiley Inc., 2009.\n14. Project Management: 24 steps to help you master any project: Gary R. Heerkens,\nMcGraw-Hill 2007.\n15. Modern Inventory Management: J.W. Prichard and R.H. Eagle, John Wiley.\n16. Material Management in Inventory Systems: M.K. Starr and R.J. Tersine, North Hol-\nland.\n17. Queues: D.R. Cox and W.L. Smith.\n18. Analysis of Queuing Systems: J.A. White, J.W. Schmidt and G.K. Bennet, Academic\nPress.\n7",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "19. Elements of Queuing Theory: Thomas L. Saaty, McGraw Hill.\n20. Introduction to Queuing Theory: B.V. Gnedenko and I.N. Kovalenko.\n21. Queues, Inventories and Maintenance: Philip M. Morse.\n22. Queues and Inventories: N.U. Prabhu.\n23. Queuing Systems Theory: Leonard Kleinrock.\n24. System Simulation with Digital Computer: Narsingh Deo, PHI (EEE).\n25. System Simulation: Geoferry Gordan, PHI (EEE).\n26. Simulation with Arena: W.D.Kelton, R.P. Sadowski (1998), McGraw Hill Interna-\ntional.\nProgramming Techniques and Data Structures\n1. Programming Techniques and Structures (8)\nC-language and structural programming concepts. Use of sequential ﬁles.\n2. Data Structures (20)\nFormal deﬁnitions, operations, implementations and applications of basic data struc-\ntures; array, stack, queue, dequeue, priority queue, linked lists, doubly linked list,\nbinary tree and traversal algorithms, threaded binary tree. Implementation.\n3. Search Techniques (12)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "tures; array, stack, queue, dequeue, priority queue, linked lists, doubly linked list,\nbinary tree and traversal algorithms, threaded binary tree. Implementation.\n3. Search Techniques (12)\nBinary search, Fibonacci search, binary search tree, height balanced tree, heap, AVL\ntree, B-tree, hashing techniques. Implementation.\n4. Sorting Techniques (10)\nBubble sort, insertion sort, heap sort, merge and quick sort. External sorting tech-\nniques. Implementation.\n5. Programming assignments.\nReferences\n1. Data Structures using C: A.M. Tanenbaum and M.J. Augesestein, Y. Langsan.\n2. The Art of Computer programming, Vol. I: D.E. Kunth.\n8",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "3. C Programming Language: Brian W. Karnighan and Dennis M. Ritchie.\n4. Introduction to Algorithms: Thomas H. Cormen, Charles E. Leiserson, Ronald L.\nRivest.\nQuality Management and System\n1. Introduction to Quality and Quality Management – evolution, needs and perspec-\ntives (4)\nHistorical evolution of quality movement and quality management. Major questions\naddressed by the concepts of quality and quality management. Different deﬁnitions,\ndimensions and views of quality. Quality of products, services, projects and sys-\ntems. Distinction between defensive and strategic approach to quality. Quality and\nproﬁtability as well as sustenance. Importance of quality in society.\n2. Different Models of Quality Management (2)\nIntroduction to the theory of Quality management. Concept of Quality management\nmodels. Introduction to models like MBNQA and EFQM.\n3. Customer Satisfaction Models (4)\nConcepts of customers. Internal and external customers. Different types of customers",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "models. Introduction to models like MBNQA and EFQM.\n3. Customer Satisfaction Models (4)\nConcepts of customers. Internal and external customers. Different types of customers\nlike regulatory bodies, public, external customers who pay etc. Chain of internal cus-\ntomers to deliver value to the external customers. Concepts of customer satisfaction\nand dissatisfaction. Measuring customer satisfaction – concepts of latent variables\nand indicators. Different Customer Satisfaction Models like ACSI, SCSB, ECSI etc.\n4. Concepts of service quality (2)\nConcepts of intangibility, inseparability and heterogeneity. Introduction to service\nquality dimensions and SERVQUAL. Critiques of SERVQUAL and some alterna-\ntives.\n5. Cost of Quality (4)\nDeﬁnition of cost of quality. Components of costs of quality. Identiﬁcation of dif-\nferent costs of quality in different organizations. Different views regarding costs of\nquality. Quality assurance perspectives.\n6. Six sigma and other improvement initiatives (6)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "ferent costs of quality in different organizations. Different views regarding costs of\nquality. Quality assurance perspectives.\n6. Six sigma and other improvement initiatives (6)\nConcepts of quantitative, process based improvement. Introduction to different types\nof processes. Activities and processes – distinction between Business Value Added\n9",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "(BVA), Regulatory Value Added (RVA) and Non Value Added (NVA) activities. Pro-\ncess maps and their usage in Quality Management. Concepts of effectiveness, efﬁ-\nciency and performance measurement. R – D – M – A – I – C – S – I and other road\nmaps for six- sigma. Overview of lean six-sigma.\n7. Views and theories of eminent quality experts (4)\nApproach of eminent experts like Deming, Juran, Crosby, Taguchi, Ishikawa, Fiegen-\nbaum, Shigeo Shingo. Discussions on Deming’s 14 points as a theory of quality\nmanagement.\n8. Evaluation of Management Thinking and typical barriers to Quality (4)\nThinking of Frederick Taylor, Max Weber, Henry Fayol; Human Relations and Maslow’s\nneed hierarchy; organizational structure and layers of action; impact of theory of\nmanagement on quality practices. Overall view of Quality management.\n9. Current Management Systems (20)\nISO 9000 QMS, ISO 14000 EMS, OHSAS 18000, SA 8000 and other systems.\nReferences\n1. Quality Management: Graeme Knowles.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "9. Current Management Systems (20)\nISO 9000 QMS, ISO 14000 EMS, OHSAS 18000, SA 8000 and other systems.\nReferences\n1. Quality Management: Graeme Knowles.\n2. Quality Planning and Analysis: Juran and Gryna.\n3. Out of the Crisis: Deming.\n4. Quality: A Critical Introduction: John Beckford.\n5. Delivering Service Quality: Zeithmal, Parasuraman and Berry.\n6. Total Quality Control: A V Feigenbaum.\n7. The ISO 9000 Book: John T Rabbitt.\n8. Quality Management Essentials: David Hoyle.\n9. Six Sigma: The Breakthrough Management Strategy Revolutionizing the World’s Top\nCorporations: Mikel Harry and Richard Schroeder.\n10. The Six Sigma Handbook: Thomas Pyzdek and Paul A. Keller.\n11. Practitioner’s Guide for Statistics and Lean Six Sigma for Process Improvements:\nMikel J. Harry, Prem S. Mann, Ofelia de Hodgins, Chris Lacke and Richard Hulbert.\n10",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "Electrical and Electronics Engineering\n1. Basic Electrical Systems and Control (25)\nD.C. and A.C. circuits (including three phase circuits), Electromagnetic induction,\nPrinciples of D.C. motors and generators, Transformers, Alternators and A.C. mo-\ntors. Feedback and feed forward control, Stability of control systems, Kirchoff’s law,\nanalysis of RLC circuits, Network theorems.\n2. Electronics (25)\nPrinciples of semiconductor diodes and transistors, Transistor biasing and RC-coupled\nampliﬁers, Operational ampliﬁers, Feedback ampliﬁers, Oscillators, Pulse and digital\nCircuits.\nReferences\n1. Electronics: fundamentals and Applications: D. Chattopadhyay, P.C. Rakshit.\n2. Fundamentals of Electrical Engineering and Electronics: B.L. Theraja.\n3. Electrical Technology: B.L. Theraja, A.K. Theraja\n4. Network, Lines and Fields: J.D. Ryder, Asia Publishing.\n5. Electronics Engineering Principle: J.D. Ryder, McGraw Hill.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "3. Electrical Technology: B.L. Theraja, A.K. Theraja\n4. Network, Lines and Fields: J.D. Ryder, Asia Publishing.\n5. Electronics Engineering Principle: J.D. Ryder, McGraw Hill.\n6. Integrated Electronics: Analog and Digital Circuits and Systems: S. Millman and\nC.C. Halkias, McGraw Hill.\n7. Analysis and Design of Feedback Control Systems: G.J. Thaler and R.G. Brown,\nMcGraw Hill.\n8. Operational Ampliﬁers: Design and Applications: J.G. Graeme and T.E. Tobey, Mc-\nGraw Hill.\n9. Transistor Engineering: A.B. Phillips, McGraw Hill.\n10. Digital Electronics with Engineering Applications: T.P. Sifferlen and V. Vartanian,\nPrentice Hall, NJ.\n11",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "Engineering Drawing and Workshop\n1. Engineering Drawing (30)\nBasic concept of orthogonal projection, third angle and ﬁrst angle projections, scale\nof drawing and dimensioning, theory of section and conventional sectional view,\noffset section, revolved section, auxiliary view.\nConvention of representing screw threads in a drawing, diametral clearance in bolt\nholes and their spacing, standard bolt diameters, bolt circle diameter and ﬂange di-\nameter.\nConcept of ﬁtting boss and alignment, standard key, key ways and spline, dimen-\nsioning parts before assembly and after assembly, Duplication of dimensions and\ncumulative errors, representing gears by pitch circles in a drawings.\nComputer aided graphics, sketch-pad concept, features drawing and simple topo-\ngraphical representation of product (practical demonstration with OMC drafting ma-\nchine).\n2. Basic workshop practices (20)\nExercises on Electrical and Electronics Engineering.\n2.2\nSecond Semester Courses",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "chine).\n2. Basic workshop practices (20)\nExercises on Electrical and Electronics Engineering.\n2.2\nSecond Semester Courses\nElements of Stochastic Processes\n1. Concept of a stochastic process (4)\nState space and parameter space. Examples of various types of stochastic processes.\n2. Markov processes and Markov chains (5)\nDeﬁnition and Examples\n3. Discrete Time Parameter, Time Homogeneous Markov Chains (35)\n(a) Transition probabilities, Chapman-Kolmogorov equations, First passage time (8)\n(b) Communication among states. Classiﬁcation of states. Deﬁnition of recurrence,\ntransience, positive and null recurrence, periodicity (10)\n(c) Stability of Markov chain. Limiting probabilities. (3)\n(d) Absorption probabilities. (3)\n(e) Examples of Markov chains: 2-state chains; Birth and Death chain, Random\nwalk, Ehrenfest chain, Gambler’s ruin chain etc. (2)\n12",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "(f) Modeling of common industrial and real life systems as Markov chains. Exam-\nples of waiting line and inventory models (9)\n4. Poisson processes (6)\nPostulates for Poisson processes. Inter-event times and their distributions; Properties\nof Poisson processes.\nReferences\n1. Elements of Applied Stochastic Process, 3rd Ed.: U.N. Bhatt and G. K. Miller, John\nWiley, New York.\n2. Introduction to the Theory of Probability and its Applications, Vol. 1, 3rd Ed.: W.\nFeller, John Wiley, New York.\n3. Introduction to Stochastic Processes: P.G. Hoel, S.C. Port and C.J. Stone, Houghton\nMifﬂin, Boston.\n4. A First course in Stochastic Processes, 2nd Ed.: S. Karlin and H.M. Taylor, Aca-\ndemic Press, Boston.\n5. Stochastic Processes, 2nd Ed.: J. Medhi, New Age International, New Delhi.\n6. An Introduction to Probability Models, 10th Ed.: S.M. Ross, Academic Press, CA.\n7. Stochastic Processes, 2nd Ed.: S.M. Ross, John Wiley, New York.\nStatistical Methods II\n1. Introduction (2)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "6. An Introduction to Probability Models, 10th Ed.: S.M. Ross, Academic Press, CA.\n7. Stochastic Processes, 2nd Ed.: S.M. Ross, John Wiley, New York.\nStatistical Methods II\n1. Introduction (2)\nPrinciples of Statistical Inference. Formulation of the problems with examples.\n2. Tests of Hypotheses (14)\nSimple and composite hypotheses. Null and alternative hypotheses. Tests - type\nI and type II error and power. Most powerful test, uniformly most powerful test\nand uniformly most powerful unbiased test. Neyman-Pearson Lemma. Likelihood\nratio test. Testing of mean and variance of normal population (one sample and two\nsamples). Exact and asymptotic tests of proportions. Chi squared test for goodness\nof ﬁt and r × c contingency tables.\n13",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "3. Linear Statistical Models (6)\nDeﬁnition of linear model. One way and two way ANOVA models. ANCOVA – one\nway classiﬁcation with single covariate.\n4. Linear Regression (20)\nSimple linear regression. Estimation of parameters. Properties of least square esti-\nmators. Estimation of error variance. Conﬁdence intervals. Prediction Interval.\nMultivariate data. Multiple linear regression. Multiple and partial correlation. De-\ntection of Collinearity. Stepwise regression.\nValidation of model assumptions. Detection of outliers, inﬂuential observation and\nautocorrelation.\n5. Non-parametric Inference (8)\nComparison with parametric inference, Use of order statistics. Conﬁdence inter-\nval for fractile. Sign test, Wilcoxon signed rank test, Mann-Whitney test, Run test,\nKolmogorov-Smirnov test.\nSpearman’s and Kendall’s test.\nKruskal–Wallis test,\nAnderson-Darling test for normality.\nReferences\n1. Fundamentals of Statistics (Vol. I and Vol. II): A.M. Goon, M.K. Gupta and B.\nDasgupta.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "Spearman’s and Kendall’s test.\nKruskal–Wallis test,\nAnderson-Darling test for normality.\nReferences\n1. Fundamentals of Statistics (Vol. I and Vol. II): A.M. Goon, M.K. Gupta and B.\nDasgupta.\n2. Applied Statistics and Probability for Engineers: D.C. Montgomery and G.C. Runger.\n3. Statistical Methods: G.W. Snedecor and W.G. Cochran.\n4. Statistical Concepts and Methods: G.K. Bhattacharya and R.A. Johnson.\n5. Introduction to Linear Regression Analysis: D.C. Montgomery and E. Peck.\n6. Practical Nonparametric Statistics: W.J. Conover.\n7. Applied Regression Analysis: N. Draper and H. Smith.\n8. Regression Analysis: Concepts and Applications: F.A. Graybill and H.K. Iyer.\n9. Regression Analysis by Example: S. Chatterjee and A.S. Hadi.\n10. An Outline of Statistical Theory, Vol. II: A.M. Goon, M.K. Gupta and B. Dasgupta.\n11. Mathematical Statistics: Parimal Mukhopadhyay.\n14",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "12. An Introduction to Probability Theory and Mathematical Statistics: V. K. Rohatgi.\n13. Modern Mathematical Statistics: E. J. Dudewicz and S. N. Mishra.\nStatistical Quality Control\n1. Introduction to SQC (6)\nDimensions of quality, quality deﬁnition, stratiﬁcation, check sheet, Pareto analysis,\nIshikawa diagram, box plot and schematic box plot, concept of common and special\ncauses of variation, type I and type II errors, Juran’s feedback control, Deming’s\nPDCA/PDSA.\n2. SPC Techniques (30)\n¯X-R chart, ¯X-S chart, X-MR chart, p-chart, np-chart, c-chart, u-chart, demerit sys-\ntem, process capability indices (Cp, Cpk, Cpm, Cpmk), scatter plot, Pearsonian corre-\nlation coefﬁcient, sloping control chart, economic process centering, operating char-\nacteristic functions of ¯X-chart and R-chart, average run length function of Shewhart\ncontrol chart, Exponentially Weighted Moving Average (EWMA) control chart, Cu-",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "acteristic functions of ¯X-chart and R-chart, average run length function of Shewhart\ncontrol chart, Exponentially Weighted Moving Average (EWMA) control chart, Cu-\nmulative Sum (CUSUM) control chart, modiﬁed control chart, gage repeatability and\nreproducibility study for measurable data, Kappa index for attribute data.\n3. Acceptance Sampling (14)\nPurpose of acceptance sampling; advantages and disadvantages of acceptance sam-\npling; deﬁnitions of AOQ, AOQL, AQL, ASN, ATI, LTPD, Producer’s risk, Con-\nsumer’s risk; type A and type B OC curves; basic awareness about various accep-\ntance sampling plans; mathematical proofs on probability of acceptance is an in-\ncreasing function of c, decreasing function of n and decreasing function of p; single\nsampling attribute type plan and its determination through NOMOGRAM, double\nsampling plan; OC curve and function of double sampling plan; ASN for double\nsampling plans; usage of Grubb’s table for determining double sampling plans; MIL.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "sampling plan; OC curve and function of double sampling plan; ASN for double\nsampling plans; usage of Grubb’s table for determining double sampling plans; MIL.\nSTD. 105-D; acceptance rectiﬁcation plans (concepts of AOQ, AOQL, ATI and for-\nmulae); Dodge-Romig sampling inspection tables for single and double sampling;\nintroduction to variable sampling plan (MIL. STD. 414).\nReferences\n1. Statistical Quality Control, 7th edition: E.L. Grant and R.S. Leavenworth, McGraw\nHill, NY.\n15",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "2. Quality Control and Industrial Statistics, 5th edition: A.J. Duncan, Jewin, Home-\nwood.\n3. Statistical Quality Control – A Modern Introduction, Sixth edition: Douglas C. Mont-\ngomery, Wiley India.\n4. Principle of Quality Control: Jerry Banks, John Wiley.\nReliability I\n1. Concept of Reliability (4)\nImportance of reliability, Deﬁnition of reliability and its measures. Concept of fail-\nure. Fault tree analysis. Failure mode and effect analysis (FMEA).\n2. System Reliability (12)\nComponents and systems. Series, parallel, k-out-of-n system (including concept of\nredundancy) and their reliability block diagrams. Coherent system, path sets and\ncut sets. Structural importance of components. Modular decomposition of coherent\nsystem. Reliability of coherent system with independent components. Reliability\nimportance of components. Concept of associated random variables. Bounds on\nsystem reliability.\n3. Lifetime Models (10)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "system. Reliability of coherent system with independent components. Reliability\nimportance of components. Concept of associated random variables. Bounds on\nsystem reliability.\n3. Lifetime Models (10)\nNotion of aging, concept of hazard rate for both continuous and discrete life dis-\ntributions, reliability function and mean residual life. IFR and DFR class of life\ndistributions. Bath-tub failure curve. Lifetime distributions: exponential, Weibull,\nlog normal, gamma, Inverse Gaussian. Mixture distribution. Multiple failure modes\n(Competing risks model).\n4. System reliability, standby redundancy and stress-strength models (8)\nReliability of systems studied in (2) under different lifetime distributions. Reliability\nof hot and cold standby redundant systems. Reliability of shared load parallel system.\nStress- strength models. Cumulative damage model.\n5. Life Testing and inference (16)\nLife testing. Complete data and censored data. Type-I, Type-II, hybrid and random",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "Stress- strength models. Cumulative damage model.\n5. Life Testing and inference (16)\nLife testing. Complete data and censored data. Type-I, Type-II, hybrid and random\ncensoring schemes. Parametric inference based on complete and censored data using\nasymptotic likelihood theory. Nonparametric estimate (Life table and Kaplan-Meier)\nof reliability. Graphical methods (PP, QQ and TTT plots) and standard statistical\n16",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "tests for model validation. Life test acceptance sampling plans in exponential case.\nBasic concept of accelerated life testing.\nReferences\n1. Statistical Theory of Reliability and Life Testing Probability Models: R.E. Barlow\nand F. Proschan, Holt, Rinehart and Winston, New York.\n2. Mathematical Theory of Reliability: R.E. Barlow and F. Proschan, John Wiley, New\nYork.\n3. System Reliability Theory: Models and Statistical Methods: A. Hoyland, and M.\nRausand, John Wiley, New York.\n4. Reliability in Engineering Design: K.C. Kapur, and L.R. Lamberson, John Wiley,\nNew York.\n5. Statistical Models and Methods for Lifetime Data: J.F. Lawless, Wiley, New York.\n6. A Primer of Reliability Theory: D.L. Grosh.\n7. Life Time Data: Statistical Models and Methods: J.V. Deshpande and S.G. Purohit,\nWorld Scientiﬁc, Singapore.\n8. Statistical Methods for Reliability Data: W.Q. Meeker, and L.A. Escobar, John Wi-\nley, New York.\n9. Applied Life Data Analysis: W. Nelson, Wiley, New York.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "World Scientiﬁc, Singapore.\n8. Statistical Methods for Reliability Data: W.Q. Meeker, and L.A. Escobar, John Wi-\nley, New York.\n9. Applied Life Data Analysis: W. Nelson, Wiley, New York.\n10. Failure Mode and Effect Analysis: FMEA from Theory to Execution: D.H. Stamatis,\nASQ Quality Press.\nIndustrial Engineering and Management\n1. Industrial Engineering (28)\n(a) Operations Management (10)\nWhat is Operations Management? Operations Strategy.\nMethod. Methods study: Recording techniques, critical examination, and de-\nvelopment of alternative and implementation. Examples: Estimation of task\ntimes by past data approach, direct time study approach, predetermined time\nstandards approach, work sampling approach.\n17",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "Machine. Equipment selection, techniques and replacement strategies, Exam-\nples; Break-down, preventive and predictive maintenance, distribution of break-\ndown time, distribution of repair time, determination of crew sizes, Scheduling.\n(b) Man Management: (4)\nIncentive schemes, job speciﬁcation, job evaluation, work and job design.\n(c) Material and Management (10)\nPlanning and Control of Material: Managing Demand, Material Requirement\nPlanning, Capacity planning, Inventory Planning. Choice of materials, stan-\ndardization, value engineering and analysis.\n(d) Plant Management (4)\nPlant location, plant layout, and materials handling.\n2. Industrial Management (14)\n(a) Introduction to management and Systems (10)\nUnderstanding Supply Chain, Functions of management, Planning, Supply chain\nCo-ordination, Motivation and Control.\nDecision making, Roles and role conﬂict, Organisation structure, Communica-\ntion and information subsystem, Administration and management of change,\nCase studies.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "Decision making, Roles and role conﬂict, Organisation structure, Communica-\ntion and information subsystem, Administration and management of change,\nCase studies.\n(b) Management Accounting and Financial Management (4)\nIntroduction to ﬁnancial Management, Scope and functions, structure and com-\nponents of balance sheet, income statement, funding ﬂow and cash ﬂow, Ratio\nanalysis, and interpretation of ﬁnancial statements.\n3. Marketing (8)\nConsumer, Demand Forecasting, Marketing strategy (Segmentation, Pricing, Distri-\nbution channel), Product life cycle and product development, Market research (tech-\nniques of data collection and information processing), Brand Management, Adver-\ntising and Promotional activity.\nReferences\n1. Industrial Engineering and Management Science: P.R. Banga, S.C. Sharma and N.K.\nAgrawal.\n2. Operations Management: Strategy and Analysis, 6th ed.: L.J. Krajewski, L.P. Ritz-\nman and M. Malhotra, Pearson Education, 2002.\n18",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "3. Introduction to Materials Management, 3rd Edition: T. Arnold, Prentice Hall.\n4. Industrial Engineering and Operations Research: D.M. Miller and J.W. Schmidt,\nJohn Wiley, NY.\n5. Motion and Time Study: W.N. Benjamin, Irwin, Homewood, IL.\n6. Industrial Engineering Handbook: H.B. Maynard (Ed.) McGraw Hill. NY.\n7. Job Evaluation Methods, C.W. Lytle Ronald Press, NY.\n8. Introduction to Work Study, 3rd edition: ILO, Geneva, Universal Book Corporation.\n9. Management: A System and Contingency Analysis of Managerial Functions: H.\nKoontz and C.O. Donnell.\n10. Market Research: D.J. Luck and R.S. Rubin, Prentice Hall.\n11. Market Research: Text and Cases: H.W. Blyd, R. Westfall and S.F. Stasch, Richard\nAllwyn Inc, IL.\n12. Marketing Management, Analysis, Planning, Implementation and Control: Philip\nKotler, Prentice Hall (India).\n13. Financial Management and Policy, 9th edition: J.C. Van Horne, Prentice Hall (India).\n14. Financial Management: Theory and Practice, 2nd edn: P. Chandra, Tata McGrew",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "Kotler, Prentice Hall (India).\n13. Financial Management and Policy, 9th edition: J.C. Van Horne, Prentice Hall (India).\n14. Financial Management: Theory and Practice, 2nd edn: P. Chandra, Tata McGrew\nHill (India).\n15. Accounting Theory and Management Accountancy: S.P. Jain and K.L. Narang, Kalyani\nPublishers.\nMechanical Engineering\n1. Mechanical Properties of Materials (13)\nBrittleness, ductility, toughness, Engineering and true stress strain curves, Instability\nin tension, yielding criteria for ductile materials, tensile properties, anisotropy, Tor-\nsional properties, Hardness, Impact strength, Fatigue and Creep behaviors at low and\nelevated temperature.\n2. Metrology (12)\nObjectives of Metrology, Characteristics of measuring instruments, Functional ele-\nments of instruments, classiﬁcation of methods of measurement.\n19",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "Standards for measurement and standardizing organizations International system (SI)\nof units.\nMeasurement uncertainty/error, types of error, methods of estimating total uncer-\ntainty in a measurement process.\nLinear measurement-steel rule, calipers, surface plates, straight edges, gauges, vernier\ncalipers. Limits, Fits and Tolerances.\nStraightness, ﬂatness, squareness, parallelism, roundness, circularity, runout. Surface\nroughness measurement.\n3. Machining (13)\nVarious machining methods and machine tools for metal cutting. Inﬂuence of various\nfactors like speed, feed and depth of cut on tool life. Economic tool life, various\nangles and geometry of single point cutting tools (ISO standard). Design of single\npoint cutting tool. Forces of turning, drilling and milling operations.\nNon conventional machining. NC/CNC Machines.\n4. Mechanical working of Metals (12)\nPlastic deformation of metals, Hot and cold working, Forging, Rolling, Extrusion,",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "Non conventional machining. NC/CNC Machines.\n4. Mechanical working of Metals (12)\nPlastic deformation of metals, Hot and cold working, Forging, Rolling, Extrusion,\nWire drawing, Deep drawing, Stretch forming, Blanking, Piercing, Bending. Hydro-\nforming and explosive forming.\nReferences\n1. Production Technology by HMT: Tata McGraw Hill.\n2. Manufacturing and Machine Tool Operation: H.W. Pollack, Prentice Hall, NY.\n3. Manufacturing Analysis: N.H. Cook, Addison-Wesley.\n4. Structure and Properties of Engineering Materials: R.M. Brick, A.W. Pouse, R.B.\nGorden, McGraw Hill.\n5. Mechanical Metallurgy: E.M. Dieter, McGraw Hill.\n6. Workshop Technology, Parts 1,2,3: W.A.J. Chapman, ELBS.\n7. Numerical Control of Machines: S.J. Martin, ELBS.\n8. Principles of Machine Tools: G.C. Sen and A. Bhattacharya.\n9. Fundamental of Tool Design: ASTME, Prentice Hall.\n20",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "10. Fundamentals of Rolling: Z. Wusatowski, Pergamon Press, Oxford.\n11. Nontraditional Machining Process: R.K. Springborn (Ed.), ASTM.\n12. Principles of Numerical Control: J.J. Childs, Ind. Press Inc, NY.\n13. Engineering Metrology: R.K. Jain, Khanna, N. Delhi.\n14. Measurement Systems: Application and Design: E.O. Doebelin, McGraw Hill.\n15. Handbook of Industrial Metrology: ASTME, Prentine Hall.\n16. Engineering Metrology: K.J. Hume, McDonald.\n17. Engineering Dimensional Metrology: L. Miller, Arnold.\nWorkshop II\n1. Instrumentation/ Digital Electronics (16)\n2. Material Testing (10)\n3. Metrology and Machining Practices (24)\n2.3\nThird Semester Compulsory Courses\nOperations Research II\n1. Integer Programming: (8)\nFormulation of various problems as integer and mixed integer programming prob-\nlems, Branch and bound algorithm, Cutting plane method for pure and mixed integer\nprogramming problems.\n2. Nonlinear Programming: (22)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "lems, Branch and bound algorithm, Cutting plane method for pure and mixed integer\nprogramming problems.\n2. Nonlinear Programming: (22)\nIntroduction to nonlinear programming, Convex function and its generalization, Un-\nconstraint and constraint optimization, KKT necessary and sufﬁcient conditions for\noptimality, Linear complementarity problem and Lemke’s complementary pivot al-\ngorithm, Quadratic programming and algorithm for solving quadratic programming\nproblem, Separable programming, Linear fractional programming.\n3. Game Theory and Decisions Making: (10)\nGame theory to determine strategic behavior, Elements of decision theory and de-\ncision trees, Elements of cooperative and non-cooperative games, Two-person zero-\nsum game, Bimatrix games and Lemke’s algorithm for solving bimatrix games.\n21",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "4. Network Analysis: (10)\nTypes of network problems with examples, Flows in network, Max-ﬂow min-cut\ntheorem and its application, Ford-Fulkerson method.\nReferences\n1. Integer Programming: R.S. Garﬁnkel and G.L. Nemhauser, John Wiley.\n2. Integer Programming: Theory, Applications and Computations: H.M. Taha, Aca-\ndemic Press.\n3. Nonlinear Programming: Theory and Algorithms: Bazaraa, Sherali and Shetty, John\nWiley.\n4. Nonlinear Programming: W.I. Zangwill, Prentice Hall.\n5. Practical Methods of Optimization: R. Fletcher, John Wiley.\n6. Conﬂicting Objectives in Decisions: D. Bell, R.L. Keenev and H. Raiffa (Eds.), John\nWiley.\n7. Thinking Strategically: Avinash K. Dixit and B. J. Nalebuff.\n8. Statistical Decision Theory: James O. Berger, Springer Verlag.\n9. Game Theory: Guillermo Owen, Academic Press.\n10. Network based Management Systems: R.D. Archibald, John Wiley.\n11. Network Analysis for Planning and Scheduling: A. Battersby, Macmillan. 12. Linear",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "9. Game Theory: Guillermo Owen, Academic Press.\n10. Network based Management Systems: R.D. Archibald, John Wiley.\n11. Network Analysis for Planning and Scheduling: A. Battersby, Macmillan. 12. Linear\nProgramming and Network ﬂows - M.S. Bazaraa, J J Jarvis and H D Sherali, John\nWiley\nIndustrial Experimentation\n1. Introduction (6)\nBasic concepts of experimental design. Concepts of experimental unit, experimen-\ntal error, factor, levels, treatments, treatment combinations and interaction. Fixed\nand random factors. Basic principles of experimentation. Contrasts and orthogonal\ncontrasts. Concept of orthogonality of data.\n2. Basic Designs (10)\nCompletely Randomized Design, Randomized Complete Block Design, Latin Square\nDesign, Graeco-Latin Square Design, Balanced Incomplete Block Design.\n22",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "3. Factorial Designs (12)\nIntroduction. Two-factor factorial design. 2k and 3k factorial designs. Confounding\nin 2k and 3k factorial design. Concept of partial confounding. Two-level and three-\nlevel fractional factorial designs. Plackett- Burman designs.\n4. Nested and Split Plot Designs (6)\nTwo stage nested design. General m-stage nested designs. Design with nested and\ncrossed factors. Split- plot design, Split-split plot design.\n5. Orthogonal Arrays and Taguchi’s Linear Graphs (6)\nLinear graphs and their applications, Different types of 2 and 3 level orthogonal\narrays. Multilevel arrangement. Pseudo-factor designs.\n6. Response Surface Methodology (6)\nIntroduction, Method of steepest ascent. Analysis of second-order surface. Response\nsurface designs for ﬁrst order and second order models. Optimal designs.\n7. Robust Design Concepts (4)\nBackground and Taguchi’s concepts of robust design. Parameter design. Inner array",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "surface designs for ﬁrst order and second order models. Optimal designs.\n7. Robust Design Concepts (4)\nBackground and Taguchi’s concepts of robust design. Parameter design. Inner array\nand outer array. Signal to noise ratios. Response surface approach to robust design.\nReferences\n1. Design and Analysis of Experiments: D.C. Montgomery.\n2. Design and Analysis of Experiments with SAS: John Lawson.\n3. Statistics for Experimenters: An Introduction to Design, Data Analysis and Model\nBuilding: G.E.P. Box, W.G. Hunter, J.S. Hunter.\n4. Experimental Designs: W.G. Cochran and G.M. Cox.\n5. Statistical Design and Analysis of Experiments: P.W.M. John.\n6. The Design of Experiments, 14th edition: R.A. Fisher.\n7. Design and Analysis of Experiments: M.N. Das and N.C. Giri.\n8. Empirical Model Building and Response Surfaces: G.E.P. Box and N.R. Draper.\n9. Response Surface Methodology: Process and Product Optimization Using Designed\nExperiments: R.H. Myers and D.C. Montgomery.\n23",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 53,
+      "text": "10. Introduction to Off-line Quality Control: G. Taguchi.\n11. Taguchi Techniques for Quality Engineering: Loss Function, Orthogonal Experi-\nments, Parameter and Tolerance Design: Phillip J. Ross.\n12. Experimental Design Techniques in Statistical Practice: A Practical Software-Based\nApproach: William P. Gardiner and G. Gettinby.\n13. Optimum Experimental Designs: A.C. Atkinson and A.N. Donev.\nReliability II\nTopics 1–4 are compulsory, covering 40 lectures. Other topics may be chosen from the rest\nto cover 50 lectures altogether.\n1. Classes of Life Distribution (8)\nClasses of life distributions based on aging properties: IFR, IFRA, DFR, DFRA,\nNBU, NBUE, NWU, NWUE, DMRL, IMRL, etc.. Relationship between different\nclasses of life distributions. Statement of results on closure properties.\n2. Dependent components and their distributions (6)\nMultivatiate distributions for dependent components. Marshal Olkin Bivariate expo-",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 54,
+      "text": "2. Dependent components and their distributions (6)\nMultivatiate distributions for dependent components. Marshal Olkin Bivariate expo-\nnential Weibull distribution and their properties. Parametric inference of bivariate\nmodels. Fatal and non-fatal shock models and bivariate exponential distribution de-\nrived from them.\n3. Repairable System Analysis (20)\nConcept of Markov process. NHPP and renewal process. Inferential results on HPP\nand NHPP.\nPerfect and imperfect repairs. Up-time and down-time. Availability function, average\navailability and limiting availability of components and coherent systems. Reliabil-\nity/availability of repairable standby systems.\nAnalysis of data from repairable system. Maintainability; Maintainability increment,\nMethods of achieving optimum maintainability.\n4. Reliability Optimization (6)\nThe basic model. Some advanced models. Optimal spare part allocation, Generalized\nKettelle’s algorithm.\n24",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 55,
+      "text": "5. Software Reliability\nThe basic concept and deﬁnition. Difference between hardware and software reli-\nability, Jelinski-Moranda Model and some other relevant models. The problem of\noptimal release time. Some recent models.\n6. Regression Models\nAccelerated failure-time model and proportional hazard models.\n7. Miscellaneous Topics\nWarranty analysis, Bayesian reliability, Degradation Model. Multi state system reli-\nability. Accelerated life testing.\nReferences\n1. Statistical Theory of Reliability and Life Testing: Probability Models: R.E. Barlow\nand F. Proschan, Holt, Rinehart and Winston, New York.\n2. Mathematical Theory of Reliability: R.E. Barlow and F. Proschan, John Wiley, New\nYork.\n3. System Reliability Theory: Models and Statistical Methods: A. Høyland and M.\nRausand, John Wiley, New York.\n4. Statistical Models and Methods for Lifetime Data: J.F. Lawless, Wiley, New York.\n5. Repairable System Reliability: H. Ascher and H. Feingold, Marcel Dekker, New\nYork.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 56,
+      "text": "4. Statistical Models and Methods for Lifetime Data: J.F. Lawless, Wiley, New York.\n5. Repairable System Reliability: H. Ascher and H. Feingold, Marcel Dekker, New\nYork.\n6. Statistical Methods for the Reliability of Repairable Systems: S.E. Rigdon and A.P.\nBasu, John Wiley, New York.\n7. Bayesian Reliability Analysis: H.F. Martzad and R.A. Waller, John Wiley, New York.\n8. Introduction to Reliability Analysis: S. Zacks, Springer Verlag, NY.\n9. Practical Method for Reliability Data Analysis: J.I. Ansell and M.J. Phillps, Claren-\ndon, Oxford.\n10. Mathematical Methods of Reliability Theory: B.V. Gnedenko, B.V. Belyayev, K. Yu\nand A.D. Solovyev, Academic Press, NY.\n11. Multistate Systems Reliability Theory with Applications: B. Netvig, John Wiley, New\nYork.\n25",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 57,
+      "text": "12. Product Warranty Handbook: W.R. Blischke and D.N. Prabhakar Murthy, ed., Mar-\ncel Dekker Inc., New York.\n13. Software Reliability: H. Pham, Springer Verlag.\n14. Software Reliability and Modeling: M. Xie, World Scientiﬁc.\n2.4\nThird Semester Elective Courses\nThe elective subjects to be offered will be decided by the Teachers’ Committee. Any two\nelectives will have to be chosen by the students from the list of electives being offered.\nAdvanced Statistical Quality Control\n1. Advanced SPC Techniques (20)\n• Group control chart for multiple stream processes.\n• Control chart for short run processes.\n• SPC with correlated quality characteristics: model-based approach and model-\nfree approach.\n• Economic design of control charts: economic models of ¯X-R control chart,\neconomic design of p chart.\n• Multivariate control chart: control chart of process mean vector and process\nvariability matrix.\n• Engineering process control, Interface and integration between SPC and EPC.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 58,
+      "text": "• Multivariate control chart: control chart of process mean vector and process\nvariability matrix.\n• Engineering process control, Interface and integration between SPC and EPC.\n• Process capability analysis under non-normal situation: using data transfor-\nmation, ﬁtting standard non-normal distribution and ﬁtting a generic family of\ndistributions.\n2. Taguchi’s on-line QC Techniques (15)\n• Loss function and quality level: Derivation of the loss function, uses of the\nloss function, economic consequences of tightening tolerances as a means to\nimprove quality, the loss function for similar products (or for a system with\nindependent components), the loss function and justiﬁcation of improvements,\nquality evaluations and types of tolerances, determinations of tolerances.\n• On-line quality control - attribute characteristics: Checking interval for attribute\ncharacteristics, optimal interval between successive diagnoses, frequency of\nprocess diagnosis, methods of process improvements.\n26",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 59,
+      "text": "• On-line feedback quality control - variable characteristics: Feedback control\nwith measurement interval of one unit of production (mean squared drift), feed-\nback control with measurement intervals greater than one unit of production,\ncontrol systems for lot or batch types of production.\n• Feed forward control: β correction factor.\n3. Further topics in Acceptance Sampling (15)\n• Continuous sampling plan and its modiﬁcations.\n• Skip lot sampling plan.\n• Bulk sampling.\nReferences\n1. Statistical Quality Control: A Modern Introduction: Douglas C. Montgomery, Wiley\nIndia.\n2. Statistical Process Control Methods for Long and Short Runs: Gary K. Grifﬁth,\nASQC Quality Press.\n3. On-line Quality Control during Production: Genichi Taguchi, Japanese Standards\nAssociation.\n4. Quality Engineering in Production Systems: Genichi Taguchi, Elsayed A. Elsayed\nand Thomas C. Hsiang, McGraw-Hill Book Company.\nAdvanced Multivariate Analysis\n1. Introduction (4)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 60,
+      "text": "Association.\n4. Quality Engineering in Production Systems: Genichi Taguchi, Elsayed A. Elsayed\nand Thomas C. Hsiang, McGraw-Hill Book Company.\nAdvanced Multivariate Analysis\n1. Introduction (4)\nMultivariate data, objectives of multivariate data analysis, multivariate Statistical dis-\ntribution, graphical representation of multivariate data, Classiﬁcation of multivariate\ntechniques: Dependence and Interdependence techniques.\n2. Multivariate Normal Distributions (4)\nMultivariate normal distribution and its properties, Estimation of parameters.\n3. Multivariate Test of Hypothesis (8)\nTest for mean of multivariate normal distribution: single and two samples with\nknown and unknown dispersion matrix. One and Two-way MANOVA.\n27",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 61,
+      "text": "4. Principal Component and Factor Analysis (8)\nMotivation. Derivation of principal components. Deciding on how many principal\ncomponents to retain and interpretation. Factor analysis model, Extracting common\nfactors and determining number of factor. Factor rotation.\n5. Advanced Multiple Linear Regression Models (12)\nRemedies of multicollinearity: Ridge and Principal Component Regression. Logistic\nregression and Poisson regression. Multivariate regression models: assumptions and\nparameter estimation.\n6. Discrimination and Classiﬁcation (8)\nMotivation. Linear discriminant functions and their properties. Relation to logistic\nregression. Classiﬁcation into Two /Several groups.\n7. Cluster Analysis (6)\nDistance Measures. Types of clustering. Clustering by hierarchical and partitioning\nmethods.\nReferences\n1. Multivariate Data Analysis: J F Hair Jr. et al.\n2. An Introduction to Applied Multivariate Analysis with R: Brian Everitt, Torsten Hothorn.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 62,
+      "text": "methods.\nReferences\n1. Multivariate Data Analysis: J F Hair Jr. et al.\n2. An Introduction to Applied Multivariate Analysis with R: Brian Everitt, Torsten Hothorn.\n3. Applied Multivariate Statistical Analysis: Richard A. Johnson and Dean W. Wichern.\n4. Multi and Megavariate Data Analysis: Principles and Applications: L. Eriksson, E.\nJohnsson, N. Kettaneh-Wold and S. Wold.\n5. Applied Multivariate Statistical Analysis, Third Edition: Wolfgang Karl H¨ardle, L´eopold\nSimar.\n6. Methods of Multivariate Analysis, Third Edition: Alvin C. Rencher, 2012.\n7. An Introduction to Multivariate Statistical Analysis: T.W. Anderson, Applied.\n8. Multivariate Data Analysis, Vol. I and II: J.D. Jobson.\n9. Statistical Tests for Multivariate Analysis: H. Kris.\n10. Applied Linear Regression Models: J. Neter, W. Wasserman and M.H. Kutner.\n11. The Foundations of Factor Analysis: A.S. Mulaik.\n28",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 63,
+      "text": "12. Introduction to Linear Regression Analysis: D.C. Montgomery and E.A. Peck.\n13. Logistic Regression: A Self Learning Text: D G. Kleinbaum and M. Klein.\n14. Modelling Binary Data: D. Collette.\n15. Cluster Analysis for Applications: M.R. Anderberg,\n16. Cluster Analysis, B. Everitt, Halsted, NY.\n17. Multivariate Statistical Analysis: D.F. Morrison.\n18. Introduction to Multivariate Analysis: G.H. Dunteman.\nApplied Stochastic Processes and Time Series Modeling\n1. Application of Poisson Process (8)\nApplications of HPP and NHPP. Compound Poisson Processes.\n2. Continuous time Markov Chain (10)\nGeneral theory of continuous time Markov chain. Kolmogorov differential equations.\nPure birth process and pure death process. Birth and death processes. Application of\nbirth and death processes to queuing theory and industrial problems.\n3. Brownian Motion and Brownian Bridge (4)\n4. Renewal Process (8)\nRenewal equation, renewal theorem, delayed and equilibrium renewal process, alter-",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 64,
+      "text": "3. Brownian Motion and Brownian Bridge (4)\n4. Renewal Process (8)\nRenewal equation, renewal theorem, delayed and equilibrium renewal process, alter-\nnating renewal process, renewal reward process. Excess and spent life distribution\nand their limiting behavior. Applications to replacement models and other problems.\n5. Time Series Modeling (20)\nStationarity, time average, ACF and PACF. MA process, AR Process, ARMA and\nARIMA process. Identiﬁcation, estimation and various speciﬁcation tests. Seasonal-\nity and seasonal difference. Forecast and its properties.\nReferences\n1. Stochastic Processes: S. Ross, John Wiley.\n2. A First Course in Stochastic Processes: S. Karlin, Academic Press.\n3. Stochastic Processes: J. Medhi, Wiley Eastern Limited.\n29",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 65,
+      "text": "4. Elements of Applied Stochastic Processes: U.N. Bhatt and K. G. Miller, Wiley, New\nYork.\n5. Elementary Probability Theory with Stochastic Processes: K. L. Chung, Springer,\nNew York.\n6. Applied Economic Time Series: W. Enders, John Wiley.\n7. Time Series Analysis and its Application: R.H. Shumway, D.S. Stoffer, Springer Text\nin Statistics.\n8. Time Series Techniques for Economists: T.C. Mills, Cambridge University Press.\n9. Introduction to Time Series and Forecasting: P.J. Brockwell and R.A. Davis, Springer,\nNew York.\nBusiness Analytics\n1. Introduction (4)\nIntroduction to usual decision making process and need for data driven decisions;\ndirected and undirected (supervised and unsupervised) analytics; fundamental ana-\nlytic tasks; examples of applications of analytics in different areas like HR, sales\nand marketing, operations, supply chain and in different business verticals like retail,\nhealth care, banking and ﬁnancial services, manufacturing etc.; concepts of business",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 66,
+      "text": "and marketing, operations, supply chain and in different business verticals like retail,\nhealth care, banking and ﬁnancial services, manufacturing etc.; concepts of business\nsolutions and implementation challenges.\n2. Classiﬁcation, value estimation and association (22)\nNa¨ıve Bayes’ classiﬁer; Bayesian Networks; Decision trees; Generalized Additive\nModels; Nearest neighbour algorithms; market basket analysis; assumptions, valida-\ntion, interpretation and practical usages; examples of model building.\n3. Interdependency analyses – dimension reduction (8)\nProposing and validating common factor models using CFA; introduction to SEM\nand path models; assumptions, pitfalls, validations; interpretation and practical us-\nage; case examples\n4. Fundamentals and Building blocks of ANN (4)\nBasic Concepts of Artiﬁcial Neural Network (ANN), Similarity with biological neu-\nrons, General characteristics, Historical development and domain speciﬁc applica-",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 67,
+      "text": "Basic Concepts of Artiﬁcial Neural Network (ANN), Similarity with biological neu-\nrons, General characteristics, Historical development and domain speciﬁc applica-\ntions, Statistical modeling and ANN. Architecture, Weights, Bias, Net Input, Thresh-\nold, Activation functions, Training and its related parameters.\n30",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 68,
+      "text": "5. Learning Rules of ANN (2)\nHebbian, Perceptron, Delta, Competitive, Perceptron convergence theorem.\n6. Feed Forward Networks (4)\nMulti Layer Perceptron (MLP) – Generalized Delta (Back Propagation) Learning\nrule, architecture, training algorithm, selection of parameters, learning constraints,\napplication algorithm, local optimum, merits and demerits, applications Radial Basis\nFunction (RBF) – architecture, training algorithm\n7. Introduction to data warehouse concepts (6)\nDifference between operational database systems and data warehouse; data cubes;\nstars, snowﬂakes and fact constellation – schemas for multidimensional databases;\nOLAP operations; data warehouse architecture and usage; from OLAP to OLAM\n8. Analytics project\nReferences\n1. An Introduction to Statistical Learning: Gareth James, Daniela Witten, Trevor Hastie,\nRobert Tibshirani.\n2. The Elements of Statistical Learning: Trevor Hastie, Robert Tibshirani and Jerome\nFriedman.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 69,
+      "text": "Robert Tibshirani.\n2. The Elements of Statistical Learning: Trevor Hastie, Robert Tibshirani and Jerome\nFriedman.\n3. Data Mining Concepts and Techniques: Jiawei Han and Micheline Kamber.\n4. Handbook of Statistical Analysis and Data Mining: Robert Nisbert, John Elder, Gary\nMiner.\n5. The Data Warehouse Toolkit: The Deﬁnitive Guide to Dimensional Modelling: Ralph\nKimball, Mary Ross.\n6. Data Mining and Business Analytics with R: Johannes Ledolter.\n7. An Introduction to Neural Networks: K. Gurney, UCL Press.\n8. Neural Network Fundamentals: N.K. Bose, P. Liung, McGraw Hill Inc., 1996.\n9. Neural Networks: Simon Haykin, Macmilan, UK, 1994.\n10. Neural networks for Pattern Recognition: C. Bishop, Oxford Univ. Press, 1995.\n11. Neural Networks for Statistical Modeling: Murray Smith.\n12. Neuro-Fuzzy PR-Methods in Soft Computing: Sankar K. Pal and Sushmita Mitra,\nJohn Wiley.\n31",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 70,
+      "text": "Six Sigma\n1. Overview : Six Sigma and the organization (18)\nA. Six Sigma and organizational goals\ni. Value of six sigma: Recognize why organizations use six sigma, how they\napply its philosophy and goals, and the origins of six sigma. Describe how\nprocess inputs, outputs, and feedback impact the larger organization.\nii. Organizational drivers and metrics: Recognize key drivers for business\n(proﬁt, market share, customer satisfaction, efﬁciency, product differen-\ntiation) and how key metrics and scorecards are developed and impact the\nentire organization.\niii. Organizational goals and six sigma projects: Describe the project selec-\ntion process including the advantages of six sigma improvement method-\nology (DMAIC) as opposed to other quality management methodologies\nlike TQM etc., and conﬁrm that the project supports and is linked to orga-\nnizational goals.\nB. Lean principles in the organization\ni. Lean concepts and tools: Deﬁne and describe concepts such as value chain,",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 71,
+      "text": "nizational goals.\nB. Lean principles in the organization\ni. Lean concepts and tools: Deﬁne and describe concepts such as value chain,\nﬂow, pull, perfection etc. and tools commonly used to eliminate waste,\nincluding kaizen, 5S, error-prooﬁng, value-stream mapping etc.\nii. Value-added and non-value-added activities\nC. Design for Six Sigma (DFSS) in the organization\ni. Quality function deployment (QFD) Describe how QFD ﬁts into the overall\nDFSS process.\nii. Design and process FMEA\niii. Road maps for DFSS\nDescribe and distinguish between DMADV (deﬁne, measure, analyze, de-\nsign, verify) and IDOV (identify, design, optimize, verify), identify how\nthey relate to DMAIC and how they help close the loop on improving the\nend product/process during the design (DFSS) phase.\n2. Six Sigma – Deﬁne (5)\nA. Process Management for Projects\ni. Process elements (SIPOC diagram, detailed process ﬂow chart etc.)\nii. Owners and stakeholders\n32",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 72,
+      "text": "iii. Identify and classify internal and external customers as applicable to a par-\nticular project, and show how projects impact customers.\niv. Collect customer data\nv. Analyze customer data\nvi. Translate customer requirements: Assist in translating customer feedback\ninto project goals and objectives, including critical to quality (CTQ) at-\ntributes and requirements statements. Use voice of the customer analysis\ntools such as quality function deployment (QFD) to translate customer re-\nquirements into performance measures.\nB. Project management basics\ni. Project charter and problem statement\nii. Project scope.\niii. Project metrics (e.g. primary metrics like quality, cycle time, cost and\nestablish key project metrics that relate to the VOC.)\niv. Project planning tools (Gantt chart, prioritization matrices etc.)\nv. Project documentation for phase reviews, management reviews etc.\nvi. Project risk analysis including resources, ﬁnancials, impact on customers\nand other stakeholders etc.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 73,
+      "text": "v. Project documentation for phase reviews, management reviews etc.\nvi. Project risk analysis including resources, ﬁnancials, impact on customers\nand other stakeholders etc.\nvii. Project closure.\nC. Team Dynamics and Performance\nDeﬁne the qualiﬁcations, roles and responsibilities of teams including Cham-\npion, MBB, BB, GB, Process Owner etc., utilities of brainstorming and related\ntools and techniques.\n3. Six Sigma – Measure (15)\nA. Gage R & R studies for variables\nB. Kappa index for attributes\nC. Six Sigma Metrics for ﬁnding long-term, short-term, normalized sigma levels\nof a process based on throughput yield, rolled throughput yield, TDPU, normal-\nized yield, and DPUNORM.\n4. Six Sigma – Analyze (3)\nAn overview of statistical tools that can be used for root cause analysis.\n5. Six Sigma – Improve (4)\n33",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 74,
+      "text": "A. Innovation – prioritization approach.\nB. Piloting solution\nC. Validating solutions through Box plots, F-test, t-test, FMEA, Sigma level cal-\nculation etc.\n6. Six Sigma – Control (5)\nDeveloping a control plan to document and hold the gains and assist in implement-\ning controls and monitoring systems through selection and application of different\ncontrol charts.\nReferences\n1. The Six Sigma Handbook: A Complete Guide for Green Belts, Black Belts, and Man-\nagers at All Levels: Thomas Pyzdek and Paul A. Keller.\n2. Six Sigma: The Breakthrough Management Strategy Revolutionazing the World’s Top\nCorporations: Mikel Harry and Richard Schroeder.\n3. Statistical and Managerial Techniques for Six Sigma Methodology: Theory and Ap-\nplication: Stefano Barone and Eva Lo Franco.\n4. Practitioner’s Guide to Statistics and Lean Six Sigma for Process Improvements:\nMikel Harry, Prem S. Mann, Ofelia C. De Hodgins, Richard L. Hulbert and Christo-\npher J. Lacke.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 75,
+      "text": "4. Practitioner’s Guide to Statistics and Lean Six Sigma for Process Improvements:\nMikel Harry, Prem S. Mann, Ofelia C. De Hodgins, Richard L. Hulbert and Christo-\npher J. Lacke.\n5. Lean Six Sigma: Process Improvement Tools and Techniques: Donna C.S. Summers.\nSoftware Engineering\nThe syllabus given below is only a guideline.\nNote: Computer programming skills is a must for this course.\n1. Introduction (4)\nProgramming in the small vs. programming in the large; software project failures\nand importance of software quality and timely availability; engineering approach to\nsoftware development; role of software engineering towards successful execution of\nlarge software projects; emergence of software engineering as a discipline.\n2. Software Project Management (6)\nBasic concepts of life cycle models – different models and milestones; software\nproject planning – identiﬁcation of activities and resources; concepts of feasibility\n34",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 76,
+      "text": "study; techniques for estimation of schedule and effort; software cost estimation\nmodels and concepts of software engineering economics; techniques of software\nproject control and reporting; introduction to measurement of software size; intro-\nduction to the concepts of risk and its mitigation; conﬁguration management.\n3. Software quality and reliability (8)\nInternal and external qualities; process and product quality; principles to achieve soft-\nware quality; introduction to different software quality models like McCall, Boehm,\nFURPS / FURPS+, Dromey, ISO – 9126; introduction to Capability Maturity Mod-\nels (CMM and CMMI); introduction to software reliability, reliability models and\nestimation.\n4. Software Requirements Analysis, Design and Construction (10)\nIntroduction to Software Requirements Speciﬁcations (SRS) and requirement elicita-\ntion techniques; techniques for requirement modeling – decision tables, event tables,",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 77,
+      "text": "Introduction to Software Requirements Speciﬁcations (SRS) and requirement elicita-\ntion techniques; techniques for requirement modeling – decision tables, event tables,\nstate transition tables, Petri nets; requirements documentation through use cases; in-\ntroduction to UML, introduction to software metrics and metrics based control meth-\nods; measures of code and design quality.\n5. Object Oriented Analysis, Design and Construction (8)\nConcepts – the principles of abstraction, modularity, speciﬁcation, encapsulation and\ninformation hiding; concepts of abstract data type; Class Responsibility Collaborator\n(CRC) model; quality of design; design measurements; concepts of design patterns;\nRefactoring; object oriented construction principles; object oriented metrics.\n6. Software testing (8)\nIntroduction to faults and failures; basic testing concepts; concepts of veriﬁcation and\nvalidation; black box and white box tests; white box test coverage – code coverage,",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 78,
+      "text": "6. Software testing (8)\nIntroduction to faults and failures; basic testing concepts; concepts of veriﬁcation and\nvalidation; black box and white box tests; white box test coverage – code coverage,\ncondition coverage, branch coverage; basic concepts of black-box tests – equivalence\nclasses, boundary value tests, usage of state tables; testing use cases; transaction\nbased testing; testing for non-functional requirements – volume, performance and\nefﬁciency; concepts of inspection.\n7. Any other topics may be included by the course teacher.\n8. Project and assignments\nReferences\n1. Software Engineering: Ian Sommerville.\n35",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          39
+        ],
+        "start_page": 39,
+        "end_page": 39
+      }
+    },
+    {
+      "chunk_id": 79,
+      "text": "2. Fundamentals of Software Engineering: Carlo Ghezzi, Jazayeri Mehdi and Mandri-\noli Dino.\n3. An Integrated Approach to Software Engineering: P. Jalote.\n4. Software Requirements and Speciﬁcation: A Lexicon of Practice, Principles and\nPrejudices: Michael Jackson.\n5. The Uniﬁed Development Process: Ivar Jacobson, Grady Booch and James Rum-\nbaugh.\n6. Design Patterns: Elements of Object-Oriented Reusable Software: Erich Gamma,\nRichard Helm, Ralph Johnson and John Vlissides.\n7. Software Metrics: A Rigorous and Practical Approach: Norman E Fenton and Shari\nLawrence Pﬂeeger.\n8. Software Engineering: Theory and Practice: Shari Lawrence Pﬂeeger and Joanne\nM. Atlee.\n9. Object-Oriented Software Construction: Bertrand Meyer.\n10. Object Oriented Software Engineering: A Use Case Driven Approach: Ivar Jacob-\nson.\n11. Touch of Class: Learning to Program Well with Objects and Contracts: Bertrand\nMeyer.\n12. UML Distilled: A Brief Guide to the Standard Object Modeling Language: Martin\nFowler.",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 80,
+      "text": "son.\n11. Touch of Class: Learning to Program Well with Objects and Contracts: Bertrand\nMeyer.\n12. UML Distilled: A Brief Guide to the Standard Object Modeling Language: Martin\nFowler.\nDatabase Management System\n1. Introduction (4)\nPurpose of Database systems, Data abstraction and Modelling, Instances and schemes,\nDatabase manager, Database users and their interactions, Data Deﬁnition and manip-\nulation language, Data Dictionary, Overall system structure, Database models (rela-\ntional, hierarchical, network, object oriented, object-relational)\n2. Entity relationship model (4)\nEntities and entity sets, Relationship and relationship sets, Mapping constraints, E-R\ndiagram, Primary keys, Strong and weak entities, Reducing E-R diagram to tables,\nGeneralization and Specialization, Aggregation.\n36",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          40
+        ],
+        "start_page": 40,
+        "end_page": 40
+      }
+    },
+    {
+      "chunk_id": 81,
+      "text": "3. Files and Data-structure Revisited (3)\nSequential ﬁle organization, buffer management, mapping tables, ISAM ﬁle, Use of\nB-tree and B+ tree for indexing, Hashing and Hash functions.\n4. Relational Model (5)\nStructure of relational database, operations on relation Relational Algebra, Tuple and\nDomain relational calculus, Salient features of query language.\n5. Normalization in Relational System (5)\nPitfalls in RDBMs, Importance of normalization, Functional and multi-valued de-\npendencies, 1NF to 4NF, Limitations of RDBMS.\n6. Description of an actual RDBMS and its Query language (2)\nInvolves extensive practice in computer centre to get an idea of an actual implemen-\ntation.\n7. Query Optimization (5)\nImportance of query processing, Equivalence of queries, Cost estimation for pro-\ncessing a query, general strategies, bi-relational and multi-relational join algorithms,\nalgebraic manipulations, database tuning.\n8. Failure and Crash recovery in DBMS (2)",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 82,
+      "text": "cessing a query, general strategies, bi-relational and multi-relational join algorithms,\nalgebraic manipulations, database tuning.\n8. Failure and Crash recovery in DBMS (2)\nFailure classiﬁcation, transactions, log maintenance, check point implementation.\n9. Security and Integrity (2)\nSecurity and Integrity violations and constraints, Authorization and views, Encryp-\ntion, Example of an actual implementation.\n10. Project (18)\n11. Programming Assignments\nReferences\n1. Database System Concepts: Abraham Silberschatz, Henry F. Korth and S. Sudarshan.\n2. Database Systems: The Complete Book: H.G. Molina, J.D. Ullman and J. Widom,\nPearson Education.\n3. Fundamentals of Database System: Ramez Elmasri and Shamkant B Navathe.\n4. Database Management Systems: Raghu Ramakrishnan and Johannes Gehrke.\n37",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          41
+        ],
+        "start_page": 41,
+        "end_page": 41
+      }
+    },
+    {
+      "chunk_id": 83,
+      "text": "2.5\nFourth Semester Curriculum\nA ten-week Summer Internship starts immediately after the second semester examinations.\nThe summer internship is for 100 marks, which are carried forward to the fourth Semester.\nDuring this semester, every student has to opt for either a project or a dissertation or a\ncombination of the two, which carries a total of 400 marks.\n3\nDissertation and Project\nThe dissertation and/or project should be supervised by a faculty of the institute, and should\nrun for total of six months.\nIf a student opts for a combination of project and dissertation then the distribution\nof marks for project and dissertation is either (0+400) or (100 + 300) or (200+200) or\n(300+100) or (400+0). The total time frame of six months is also divided in the same ratio\nbetween project and dissertation, that is, (0 + 6) months, (1.5 + 4.5) months, (3 + 3) months,\n(4.5 + 1.5) months and (6 + 0) months respectively, with at least 4 contact hours per week.1",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    },
+    {
+      "chunk_id": 84,
+      "text": "between project and dissertation, that is, (0 + 6) months, (1.5 + 4.5) months, (3 + 3) months,\n(4.5 + 1.5) months and (6 + 0) months respectively, with at least 4 contact hours per week.1\n1Decided in the 69th meeting of the Academic Council of the Institute, held on March 27 and April 4,\n2019.\n38",
+      "metadata": {
+        "pdf_name": "Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "pdf_path": "DATA\\Final_Syllabus_for_M_Tech_QROR-2015.pdf",
+        "page_numbers": [
+          42
+        ],
+        "start_page": 42,
+        "end_page": 42
+      }
+    }
+  ]
+}

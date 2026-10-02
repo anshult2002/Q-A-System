@@ -1,0 +1,1007 @@
+{
+  "filename": "MSQMBA-Brochure-2026.pdf",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "text": "INDIAN STATISTICAL INSTITUTE\nStudents’ Brochure\nPART II\nMaster of Science in Quality Management and Business\nAnalytics\n(Effective from 2026-27 Academic Year)\n(See PART I for general information, rules and regulations)\nThe Headquarters is at\n203 BARRACKPORE TRUNK ROAD\nKOLKATA 700108\n\nINDIAN STATISTICAL INSTITUTE\nMaster of Science in Quality Management and Business Analytics\nContents\n1\nCurriculum\n1\n2\nDetailed Syllabi of Courses\n2\n2.1\nFirst Semester Courses . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2\n2.2\nSecond Semester Courses . . . . . . . . . . . . . . . . . . . . . . . . . . .\n12\n2.3\nThird Semester Courses . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n24\n2.4\nFourth Semester Courses . . . . . . . . . . . . . . . . . . . . . . . . . . .\n32\n3\nEvaluation procedure\n33",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          1,
+          3
+        ],
+        "start_page": 1,
+        "end_page": 3
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "1\nCurriculum\nThis two-year program consists of 14 compulsory courses, 2 elective courses in the first\nthree semesters, and a dissertation along with a live project in the fourth semester. The first\ntwo semesters will be conducted at Bengaluru campus while the third semester will take\nplace at the Hyderabad campus. The project work in the fourth semester will be carried\nout at the respective Centre or Unit of ISI where the student is undertaking the project.\nAll courses, except dissertation and project work, are assigned four hours per week. The\nstructure given below follows the sequencing approved in the 86th meeting of the Academic\nCouncil.\nFirst Year\nSemester I (500 marks)\nSemester II (600 marks)\nStatistics for Decision Making I∗\nStatistics for Decision Making II\nProbability\nStatistical Quality Control\nOperations Research I\nReliability\nQuality Management I\nApplied Regression & Time series analysis\nBusiness Analytics I\nBusiness Analytics II\nFoundations of Industrial Engineering∗",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "Operations Research I\nReliability\nQuality Management I\nApplied Regression & Time series analysis\nBusiness Analytics I\nBusiness Analytics II\nFoundations of Industrial Engineering∗\nElective I\n∗Statistics for Decision Making I (For all students except those with statistics degree)/\nFoundations of Industrial Engineering (Only for students from statistics degree)\nSecond Year\nSemester I (500 marks)\nSemester II (400 marks)\nMultivariate Analysis\nDissertation (100 marks)\nOperations Research II\nProject/Dissertation (300 marks)\nIndustrial Experimentation\nQuality Management II\nElective II\n1",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          5
+        ],
+        "start_page": 5,
+        "end_page": 5
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "Elective Courses#\nElective I\nElective II\nSupply Chain & Operations Management\nSurvival Analysis\nFoundations of MSME Practices & Manage-\nment\nAdvanced Operations Research\n#Whether a particular elective course is offered in a given semester will depend on stu-\ndents’ interest and availability of teachers.\n2\nDetailed Syllabi of Courses\nThe number shown in parentheses after a particular topic indicates the suggested number\nof lectures allocated to that topic.\n2.1\nFirst Semester Courses\nStatistics for Decision Making I\n1. Introduction (8)\nDefinition of Statistics, Descriptive and Inferential Statistics, Basic objectives, Ap-\nplications to various disciplines with examples, Abuses of statistics, Impact of Com-\nputer on Data analysis. Primary and Secondary data, Population and Sample, Rep-\nresentative Sample, Types of data – continuous and discrete, frequency and non-\nfrequency data, variable and attribute, Types of measurement scale, Likert scale.\n2. Descriptive Statistics (16)",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "resentative Sample, Types of data – continuous and discrete, frequency and non-\nfrequency data, variable and attribute, Types of measurement scale, Likert scale.\n2. Descriptive Statistics (16)\nScrutiny, classification, and tabulation of univariate data. Data visualization – bar\nplot, line diagram, column diagram, Histogram, pie chart, Box plot, Multi-vari chart.\nDescriptive statistics – central tendency, dispersion, quantiles, Skewness and Kurto-\nsis; various properties of these measures and their utility. Bivariate data – definition\nand real-life examples, marginal and conditional frequency distribution, Scatter dia-\ngram, Simple linear regression, correlation, least squares method, Rank correlation.\n3. Association of Attributes (8)\nDefinition of attributes with real life examples, Contingency table, Sensitivity and\nspecificity, Types and measures of association, Odds ratio, Cohen’s Kappa.\n4. Sampling Techniques (8)\n2",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          6
+        ],
+        "start_page": 6,
+        "end_page": 6
+      }
+    },
+    {
+      "chunk_id": 5,
+      "text": "Random sampling, Bias and its sources, Sampling from finite and infinite popula-\ntions, Estimates and standard error (sampling with replacement and sampling with-\nout replacement), Sampling distribution of sample mean, Stratified random sampling,\nSystematic sampling, Cluster sampling.\n5. Fitting probability distribution (6)\nEmpirical distribution function, Kernel density estimation. Fitting probability dis-\ntributions to observed data. Goodness of fit using Pearson’s χ2, and P-P and Q-Q\nplots.\n6. Simulation (4)\nSimulation from probability distributions, Monte Carlo simulation.\nReferences\n1. Spiegelhalter, D. (2019). The art of statistics: How to learn from data. Pelican\nBooks.\n2. Holcomb, Z. (1998). Fundamentals of descriptive statistics. Routledge, Taylor &\nFrancis Group.\n3. Jones, J. S., & Goldring, J. (2022). Exploratory and descriptive statistics. Sage\nPublishers.\n4. Montgomery, D. C., & Runger, G. C. (2016). Applied statistics and probability for\nengineers (6th ed.). Wiley.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 6,
+      "text": "Publishers.\n4. Montgomery, D. C., & Runger, G. C. (2016). Applied statistics and probability for\nengineers (6th ed.). Wiley.\n5. Mood, A. M., Graybill, F. A., & Boes, D. C. (2017). Introduction to the theory of\nstatistics (3rd ed.). McGraw-Hill Education.\n6. Goon, A. M., Gupta, M. K., & Dasgupta, B. (1978). Fundamentals of statistics (Vols.\n1–2). World Press.\n7. Rencher, A. C.,& Christensen, W. F. (2012). Methods of multivariate analysis. Wi-\nley.\n8. Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). Introduction to linear\nregression analysis (5th ed.). Wiley.\n9. Thomopoulos, N. T. (2013). Essentials of Monte Carlo simulation. Springer.\n10. Robert, C. P., & Casella, G. (2004). Monte Carlo statistical methods. Springer.\n3",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          7
+        ],
+        "start_page": 7,
+        "end_page": 7
+      }
+    },
+    {
+      "chunk_id": 7,
+      "text": "Probability\n1. Concept of probability (8)\nConcept of random experiment with examples. Sample space and events. Basic prop-\nerties with union and intersection of events. Classical definition of probability and\nits drawbacks. Axiomatic definition of probability, conditional probability, Bayes’\ntheorem, Independence of events, pair wise and mutual independence.\n2. Concept of random variables and probability distributions (8)\nDiscrete and continuous random variables, Probability mass function, Probability\ndensity function, Cumulative distribution function, Expectation, Variance, Moments,\nMoment generating function, Probability generating function, etc.\n3. Discrete distributions (7)\nBinomial, Geometric, Negative Binomial, Poisson; Poisson approximation to Bino-\nmial distribution; moments- expectation and variance. Independence of discrete ran-\ndom variables. Distribution of the sum of two or more discrete independent random\nvariables.\n4. Continuous distributions (8)",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 8,
+      "text": "dom variables. Distribution of the sum of two or more discrete independent random\nvariables.\n4. Continuous distributions (8)\nUniform, Normal, Log-Normal, Exponential, Weibull and their moments; Indepen-\ndence of continuous random variables. Distribution of sum, product and ratio of\ntwo independent random variables. Some derived distributions such as χ2, t and F\ndistributions.\n5. Bivariate distribution (7)\nJoint probability distribution; Conditional distributions; covariance; correlation co-\nefficient; bivariate normal distribution.\n6. Limit Theorems (3)\nChebyshev’s inequality, Weak law of large numbers (WLLN), Central limit theorem\n(Lindebergh & Levy).\n7. Stochastic Process (9)\nConcept of Stochastic process, Markov Chains: Definition, Examples - Transition\nprobability matrix - Chapman- Kolmogorov equation - classification of states - lim-\niting and stationary distributions - ergodicity.\nReferences\n4",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          8
+        ],
+        "start_page": 8,
+        "end_page": 8
+      }
+    },
+    {
+      "chunk_id": 9,
+      "text": "1. Hoel, P. G., Port, S. C., & Stone, C. J. (1971). Introduction to probability theory.\nHoughton Mifflin.\n2. Feller, W. (1957). An introduction to probability theory and its applications (Vol. 1).\nJohn Wiley & Sons.\n3. Feller, W. (1966). An introduction to probability theory and its applications (Vol. 2).\nJohn Wiley & Sons.\n4. Ross, S. M. (2005). A first course in probability. Prentice Hall.\n5. Karlin, S., & Taylor, H. M. (2014). A first course in stochastic processes. Academic\nPress.\n6. Medhi, J. (2009). Stochastic processes (3rd ed.). New Age International.\n7. Dobrow, R. P. (2016). Introduction to stochastic processes with R. Wiley.\n8. Cinlar, E. (2013). Introduction to stochastic processes. Courier Corporation.\nOperations Research I\n1. Introduction to Optimization (2)\nOrigin of Operations Research (OR) and its definitions - Operations Research with\nspecial emphasis on interdisciplinary and systems approach, Stages of OR project,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 10,
+      "text": "1. Introduction to Optimization (2)\nOrigin of Operations Research (OR) and its definitions - Operations Research with\nspecial emphasis on interdisciplinary and systems approach, Stages of OR project,\nproblem formulations. Developing a model. Testing the adequacy of the model,\nDeriving a solution, Evaluation of the solution and implementation. Basic tools for\noptimization.\n2. Linear Programming (18)\nLinear programming (LP): examples and modeling. LP formulations using matrix\nnotation, Standard and canonical forms, Row operations, and pivoting. Convex sets,\nPolyhedral sets, Extreme points and basic feasible solutions, the connection to ex-\ntreme points. Graphical method for solving LP. Existence of optimal basic feasible\nsolutions. The simplex method. Two-phase and the Big-M method. Degeneracy in\nLP and its resolution. The revised simplex method and its significance.\n3. Duality Theorem (10)\nFormulations, The fundamental theorems of duality and proofs, Complementary",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 11,
+      "text": "LP and its resolution. The revised simplex method and its significance.\n3. Duality Theorem (10)\nFormulations, The fundamental theorems of duality and proofs, Complementary\nslackness conditions, The dual simplex algorithm, The sensitivity analysis.\n5",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          9
+        ],
+        "start_page": 9,
+        "end_page": 9
+      }
+    },
+    {
+      "chunk_id": 12,
+      "text": "4. Applications of LP (10)\nThe transportation and the assignment model, the LPP with bounded variables. Case\nstudies on industrial applications of OR and DSS. Game theory: Two-person zero-\nsum games. Saddle points graphical methods.\n5. Advanced techniques in Project Management (10)\nPERT/CPM, Sequencing and scheduling, Dependency structure matrix analysis, M7\ntools, Decision analysis.\nReferences\n1. Ravindran, A. R. (2016). Operations research and management science handbook.\nCRC Press.\n2. Hillier, F. S., & Lieberman, G. J. (2015). Introduction to operations research. McGraw-\nHill Education.\n3. Taha, H. A. (2013).Operations research: An introduction. Pearson Education India.\nQuality Management I\n1. Understanding Quality (7)\nQuality definitions (Jurans, Taguchi, etc.), Elements of quality, Characteristics of\nquality (quality of design, quality of conformance, Quality of performance), Dimen-\nsions of quality (Kano concepts), Service quality, Stakeholder perceptions (society,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 13,
+      "text": "quality (quality of design, quality of conformance, Quality of performance), Dimen-\nsions of quality (Kano concepts), Service quality, Stakeholder perceptions (society,\ncustomers, management,suppliers). Introduction to evolution of quality: concepts of\ninspection, quality control, TQM etc.\n2. Organizing for Quality (7)\nElements of Strategic Management, Quality policies & objectives, Implementing to-\ntal quality. Organization for quality, coordination of quality activities, role of up-\nper/middle management, workforce, and teams. Self-managing teams, quality cir-\ncles.\nCulture, Motivation, Creating and maintaining quality awareness; Achieving total\ncommitment to quality.\n3. Economics for Quality (7)\nCost of Quality concepts, Costs of Poor Quality (COPQ), Cost of Good Quality\n(COGP), Categories of Quality Costs, Analysis of Quality Costs, Economic mod-\nels of quality. Organization bottom line: ROI, NPV, Capital Investment, etc.\n6",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          10
+        ],
+        "start_page": 10,
+        "end_page": 10
+      }
+    },
+    {
+      "chunk_id": 14,
+      "text": "4. Approaches for Quality Management (9)\nQuality Guru’s approaches: Juran, Deming, Feigenbaum, Ishikawa, Taguchi and\nCrosby, etc. Concepts on Quality Planning, Quality Control, Quality Inspection &\nBreakthrough, PDCA/PDSA.\n5. Tools and Techniques for Quality Management (10)\nOverview of 7 QC Tools, M7 tools, Why-Why Analysis, Seven-step approach for\nproblem-solving, Process mapping, Failure Mode & Effect Analysis (FMEA), Fault\nTree Analysis (FTA).\n6. Systems and Standards for QM & Related Aspects (10)\nOverview of quality management system; Basics of ISO 9000/9001/9004, Sector-\nspecific standards, Integrated Management System (IMS), IATF 16949, ISO 14000\nsystems & other standards; Quality System Audit, Audit Reporting, Accreditation of\nsystems, Overview on quality awards: Deming, National Quality Award, etc.\nReferences\n1. Juran, J. M., & Gryna, F. M. (1993). Quality planning and analysis. Tata McGraw-\nHill.\n2. Feigenbaum, A. V. (1991). Total quality control. McGraw-Hill.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 15,
+      "text": "References\n1. Juran, J. M., & Gryna, F. M. (1993). Quality planning and analysis. Tata McGraw-\nHill.\n2. Feigenbaum, A. V. (1991). Total quality control. McGraw-Hill.\n3. Juran, J. M. (1999). Juran’s quality handbook. McGraw-Hill.\n4. Hall, H. (1990). Total quality management: A practical approach. Wiley Eastern.\n5. Lock, D. (Ed.). (1993). Handbook of quality management. Jaico Publishing House.\n6. International Organization for Standardization. (2015). ISO 9001, ISO 14001 &\nIATF 16949 quality assurance system standards. ISO.\n7. Ott, E. R., Schilling, E. G., & Neubauer, D. V. (2005). Process quality control:\nTroubleshooting and interpretation of data (4th ed.). ASQ Quality Press.\n8. Society of Manufacturing Engineers. (1988). Troubleshooting manufacturing pro-\ncesses. SME, Michigan, USA.\n9. Kume, H. (1987). Statistical methods for quality improvement. Productivity Press.\n10. Ryan, T. P. (2000). Statistical methods for quality improvement. John Wiley & Sons.\n7",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          11
+        ],
+        "start_page": 11,
+        "end_page": 11
+      }
+    },
+    {
+      "chunk_id": 16,
+      "text": "11. Hart, R. F., & Hart, M. K. (1989). Quantitative methods for quality and productivity\nimprovement. ASQ Quality Press.\n12. Gitlow, H. S., Oppenheim, A. J., Oppenheim, R. D., & Gitlow, S. J. (1989). Tools\nand methods for the improvement of quality. Irwin Inc.\nBusiness Analytics I\n1. Introduction to Analytics (7)\nIntroduction, reasons for the popularity of business analytics and/or data science, ex-\namples of analytics problems, components of an analytics/data science project, im-\nportant analytics tasks, hypothesis testing, predictive modeling, discovering dimen-\nsions, profiling, association, and concurrence grouping, link prediction, constraint\noptimization, etc.\n2. Introduction to R and R Studio (4)\nGetting started, installation of R and R Studio, comments, variables, data types, num-\nbers, arithmetic & assignment operators, logical or comparison operators, R math\nfunctions, arrays, conditional statements - if, else if, if else, nested if statements,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 17,
+      "text": "bers, arithmetic & assignment operators, logical or comparison operators, R math\nfunctions, arrays, conditional statements - if, else if, if else, nested if statements,\nloops - while loop & for loop, R functions, getting help, R packages, vectors, matrix,\ndata frames, importing and exporting data, data summarization, visualization.\n3. Introduction to Python (8)\nGetting started, installation of Python, Anaconda Navigator, & Jupyter Notebook,\nvariables, comments, data types, Python keywords, arithmetic operators, comparison\noperators, Python math functions, lists, arrays, array functions, conditional state-\nments - if else, loops - while loop & for loop, Python functions, data frames, import-\ning and exporting data, data summarization & Visualization.\n4. Data Preprocessing (6)\nData sorting, filtering, file merging, feature generation, file appending, missing value\nhandling - checking for missing values, identifying fields with missing values, delet-",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 18,
+      "text": "Data sorting, filtering, file merging, feature generation, file appending, missing value\nhandling - checking for missing values, identifying fields with missing values, delet-\ning missing value records, missing value imputation techniques, identification of ze-\nros, duplicate records, unique records, etc. in datasets and anomaly detection.\n5. Data Visualization using R & Python (6)\nCorrelation, scatter plot, data aggregation, box plot, interval plot, density plot, condi-\ntional density plot, cross tabulation & contingency tables, bar chart, pie chart, mosaic\nplot.\n8",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          12
+        ],
+        "start_page": 12,
+        "end_page": 12
+      }
+    },
+    {
+      "chunk_id": 19,
+      "text": "6. Descriptive Analytics (6)\nSummarization of large volumes of data into formats such as tables, charts, graphs,\nor dashboards, Applications of descriptive analytics - business performance analy-\nsis, market research, customer segmentation, inventory management, quality control,\nlogistics & transportation, maintenance & repair, employee performance, etc., de-\nscriptive analytics examples in sales and supply chain management.\n7. Introduction to Database Management (5)\nRelational Database Management System (RDBMS), database tables, MySQL, MySQL\nstatements - Select, where, and, or, not, order by, insert into, update, delete, joins,\nfunctions, etc.\n8. RFM Analysis & Customer Segmentation (4)\nCosine similarity, collaborative filtering: user-based, item-based, content-based fil-\ntering, and hybrid methods.\n9. Association and Co-occurrence grouping (4)\nMarket Basket Analysis - Frequent itemset generation and association rule mining.\nReferences",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 20,
+      "text": "tering, and hybrid methods.\n9. Association and Co-occurrence grouping (4)\nMarket Basket Analysis - Frequent itemset generation and association rule mining.\nReferences\n1. Jones, O., Maillardet, R., & Robinson, A. (2009). Introduction to scientific program-\nming and simulation using R. Chapman & Hall/CRC.\n2. Matloff, N. (2011). The art of R programming: A tour of statistical software design.\nNo Starch Press.\n3. Crawley, M. J. (2012). The R book (2nd ed.). John Wiley & Sons.\n4. Chambers, J. M. (2008). Software for data analysis: Programming with R. Springer.\n5. Unpingco, J. (2016). Python for probability, statistics, and machine learning. Springer\nInternational Publishing.\n6. Kumar, A. (2019). Mastering pandas: A complete guide to pandas, from installation\nto advanced data analysis techniques. Packt Publishing Ltd.\n7. Lambert, K. A. (2018). Fundamentals of Python: First programs (2nd ed.). Cengage\nLearning.\n9",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          13
+        ],
+        "start_page": 13,
+        "end_page": 13
+      }
+    },
+    {
+      "chunk_id": 21,
+      "text": "8. Haslwanter, T. (2016). An introduction to statistics with Python: With applications\nin the life sciences. Springer International Publishing.\n9. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statis-\ntical learning: With applications in R. Springer\nFoundations of Industrial Engineering\n1. Basic Concepts (10)\nDefinition of process; objectives, need, and elements of industrial engineering. Overview\nof engineering processes in different sectors such as mechanical, chemical, and pharma\nprocess etc. Engineering Specifications with measurements and units with different\nexamples.\n2. Work System Design (12)\nDefinition of Productivity, Productivity concepts, Manual work systems, Worker-\nmachine systems, Automated work systems, Cycle time analysis of Manual work and\nin worker machine systems (including numerical), Service operations, Office work,\nILO recommendations for productivity measurement of semi & fully automated sys-\ntems.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 22,
+      "text": "in worker machine systems (including numerical), Service operations, Office work,\nILO recommendations for productivity measurement of semi & fully automated sys-\ntems.\nHuman aspects in Engineering process: Definition, objective, and scope of work\nstudy. Work study and management, work-study and supervision, work study and\nworker.\n3. Methods for Work Performance Measurements (20)\nMethods and Process Analysis: Basic overview, Techniques of methods engineer-\ning, Basic data collection and analysis techniques - Network diagrams, Traditional\ncharting and Diagramming techniques, Block diagrams and Process maps.\nMotion study and Work design: Basic motion elements and work analysis, Principles\nof motion economy and work design.\nWork measurement & time study: Work measurement & its techniques, Time study:\nprocedure, Determination of number of work cycle to be timed, Performance rating,\ntime study equipment, Overview of PMTS, MTM, and MOST techniques. Case\nexamples and exercises.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 23,
+      "text": "procedure, Determination of number of work cycle to be timed, Performance rating,\ntime study equipment, Overview of PMTS, MTM, and MOST techniques. Case\nexamples and exercises.\n4. Process & Product Quality Understanding and Improvement: (8)\n10",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          14
+        ],
+        "start_page": 14,
+        "end_page": 14
+      }
+    },
+    {
+      "chunk_id": 24,
+      "text": "Quality problems & their types, Problem solving approach from the quality view-\npoint: mindset, quality first, consumer orientation; PDCA cycle, Process control, dis-\npersion control, recurrence prevention, standardization; Benefits of problem-solving\napproaches. Case examples and exercises.\nReferences\n1. Groover, M. P. (2017). Work systems: The methods, measurement, and management\nof work. Pearson India Education.\n2. Kanawaty, G. (1992). Introduction to work study (4th rev. ed.). International Labour\nOffice\n3. Meyers, F. E., & Stewart, J. R. (2002). Motion and time study for lean manufacturing\n(3rd ed.). Prentice Hall.\n4. Niebel, B. W., & Freivalds, A. (2014). Niebel’s methods, standards, and work design\n(13th ed.). McGraw-Hill Education.\n5. Ott, E. R., Schilling, E. G., & Neubauer, D. V. (2005). Process quality control:\nTroubleshooting and interpretation of data (4th ed.). ASQ Quality Press.\n6. Society of Manufacturing Engineers. (1988). Troubleshooting manufacturing pro-",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 25,
+      "text": "Troubleshooting and interpretation of data (4th ed.). ASQ Quality Press.\n6. Society of Manufacturing Engineers. (1988). Troubleshooting manufacturing pro-\ncesses. SME, Michigan, USA.\n7. Kume, H. (1987). Statistical methods for quality improvement. Productivity Press.\n8. Ryan, T. P. (2000). Statistical methods for quality improvement. John Wiley & Sons.\n9. Hart, R. F., & Hart, M. K. (1989). Quantitative methods for quality and productivity\nimprovement. ASQ Quality Press.\n10. Gitlow, H. S., Oppenheim, A. J., Oppenheim, R. D., & Gitlow, S. J. (1989). Tools\nand methods for the improvement of quality. Irwin Inc.\n11. Chase, R. B., Jacobs, F. R., & Aquilano, N. J. (2006). Operations management for\ncompetitive advantage. McGraw-Hill/Irwin.\n11",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          15
+        ],
+        "start_page": 15,
+        "end_page": 15
+      }
+    },
+    {
+      "chunk_id": 26,
+      "text": "2.2\nSecond Semester Courses\nStatistics for Decision Making II\n1. Introduction (2)\nPrinciples of statistical inference. Formulation of the problems with examples.\n2. Estimation (12)\nPoint estimation, Estimator and Estimate, Criteria for good estimates: Unbiasedness,\nConsistency, Efficiency and Sufficiency with illustrations. Methods of estimation of\nParameters of standard distributions. Interval estimation: Confidence intervals of the\nparameters of the standard distributions.\n3. Test of hypothesis (14)\nFormulation of the problem and concepts for evaluation of tests, Illustrations. Statis-\ntic, Sampling distributions of statistic and its Standard error. Large sample tests in\none and two-sample problems of standard probability distributions. Relationship of\nconfidence intervals with tests of hypothesis. Determination of sample size. Analysis\nof categorical data. Chi squared test for goodness of fit, contingency tables, χ2- test\nfor independence and homogeneity.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 27,
+      "text": "of categorical data. Chi squared test for goodness of fit, contingency tables, χ2- test\nfor independence and homogeneity.\n4. Linear Statistical Models (10)\nDefinition of linear model, interactions with illustrations. Gauss-Markov Theorem,\nGeneralized linear models. One way and two-way analysis of variance - fixed, ran-\ndom and mixed effect models. Nested ANOVA.\n5. Non-parametric Inference (12)\nComparison with parametric inference, Use of order statistics. Run test, Sign test,\nWilcoxon signed rank test, Mann-Whitney test, Kolmogorov-Smirnov test. Spear-\nmen and Kendall’s test, Kruskal-Wallis test.\nReferences\n1. Casella, G., & Berger, R. L. (2024). Statistical inference (2nd ed.). CRC Press.\n2. Rohatgi, V. K., & Saleh, A. K. Md. E. (2015). An introduction to probability and\nstatistics (3rd ed.). Wiley.\n3. Rao, C. R. (2002). Linear statistical inference and its applications (2nd ed.). Wiley.\n12",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          16
+        ],
+        "start_page": 16,
+        "end_page": 16
+      }
+    },
+    {
+      "chunk_id": 28,
+      "text": "4. Lehmann, E. L., & Romano, J. P. (2005). Testing statistical hypotheses (3rd ed.).\nSpringer.\n5. Lehmann, E. L., & Casella, G. (1998). Theory of point estimation (2nd ed.). Springer.\n6. McCullagh, P., & Nelder, J. A. (1989). Generalized linear models (2nd ed.). Chap-\nman & Hall/CRC.\n7. Dunn, P. K., & Smyth, G. K. (2018). Generalized linear models with examples.\nSpringer.\n8. Dobson, A. J., & Barnett, A. G. (2008). An introduction to generalized linear models.\nChapman & Hall/CRC.\n9. Tsybakov, A. B. (2009). Introduction to nonparametric estimation. Springer.\n10. Gibbons, J. D., & Chakraborti, S. (2020). Nonparametric statistical inference (6th\ned.). CRC Press.\nStatistical Quality Control\n1. Introduction to SPC (2)\nConcept of process, Role of SPC in this context, Concept of variation due to common\nand assignable causes; meaning of control, expected benefits of SPC.\n2. Control Charts (18)\n• Introduction to Shewhart Control charts, Statistical basis for control charts,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 29,
+      "text": "and assignable causes; meaning of control, expected benefits of SPC.\n2. Control Charts (18)\n• Introduction to Shewhart Control charts, Statistical basis for control charts,\nControl chart for variables and attributes: X Bar-R; X Bar-S; X-MR; p, np,\nc, u charts.\n• Sloping control chart, modified control limits, CUSUM chart, EWMA chart,\nPre-control chart, Run Chart.\n• Group control chart for multiple stream processes.\n• Control chart for short run processes.\n• Dominance System – Concept of Process dominance patterns (setup, machine,\noperator, component, etc.) with examples, and methods of process control.\n• Implementation of Process Control – Steps for implementation of control chart\nfor on line process monitoring with out-of-control action plan.\n13",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          17
+        ],
+        "start_page": 17,
+        "end_page": 17
+      }
+    },
+    {
+      "chunk_id": 30,
+      "text": "3. Process Capability Analysis (6)\nProcess capability Analysis, process capability and machine capability indices (Cp,\nPp, Cpk, Ppk, Cpm, Cpmk), Process Capability calculation for Non-normal data,\nClements’ method.\nEstimation of process capability indices for live data by statistical software.\nApproaches for process improvement an overview.\n4. Engineering process control (EPC) & Taguchi’s Online QC Technique (6)\nProcess Monitoring, Process regulation, Process control by Feedback adjustment,\nCombining EPC & SPC. Taguchi’s Loss Function and quality level – definition and\ncalculation of loss function for different types of quality characteristics. Online qual-\nity control system and method of process improvement – calculation of Beta correc-\ntion factor by ANOVA method and implementation of the same.\n5. Acceptance Sampling (18)\nPurpose of sampling inspection, Critique of acceptance sampling, Relevance of sam-\npling inspection in today’s techno-economic scenario.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 31,
+      "text": "5. Acceptance Sampling (18)\nPurpose of sampling inspection, Critique of acceptance sampling, Relevance of sam-\npling inspection in today’s techno-economic scenario.\nConcept and definitions: Single sampling, Double sampling, Multiple sampling plans,\nAQL, LTPD, Type A and Type B OC function, ASN, AOQL and ATI for acceptance\nrectification plans.\nPublished sampling plans: Dodge-Romig system of AOQL and LTPD plans; Sam-\npling plans based on OC curve; Military standards (105D, 105E, 1414) and equiva-\nlent Indian/ISO standards.\nContinuous sampling plans (CSP-1, CSP-2, CSP-3, etc.), Multilevel plans.\nSpecial purpose plans: Chain sampling, Sequential sampling plan, Skip lot sampling\nplans.\nReferences\n1. Montgomery, D. C. (2019). Introduction to statistical quality control (8th ed.). Wi-\nley.\n2. Grant, E. L., & Leavenworth, R. S. (2017). Statistical quality control (7th ed.).\nMcGraw-Hill.\n3. Duncan, A. J. (1974). Quality control and industrial statistics (5th ed.). Irwin.\n14",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          18
+        ],
+        "start_page": 18,
+        "end_page": 18
+      }
+    },
+    {
+      "chunk_id": 32,
+      "text": "4. Schrock, E. M. (2013). Quality control and statistical methods. Asia Publishing\nHouse.\n5. Wetherill, G. B., & Brown, D. W. (1991). Statistical process control: Theory and\npractice. Chapman & Hall.\n6. Dodge, H. F., & Romig, H. G. (1941). Single sampling and double sampling inspec-\ntion tables. Bell System Technical Journal, 20, 1–61. (Reprinted in Dodge, H. F., &\nRomig, H. G. (1959). Sampling inspection tables (2nd ed.). Wiley.)\n7. U.S. Department of D´efense. (1963). Sampling procedures and tables for inspection\nby attributes (MIL-STD-105D). U.S. Government Printing Office.\n8. Johnson, S., & Kotz, S. (Eds.). (2016). Multivariate QC. In Encyclopaedia of statis-\ntical sciences (Vol. 6). Wiley.\n9. Banks, J. (1989). Principles of quality control. John Wiley & Sons.\n10. Pearn, W. L., & Kotz, S. (2016). Encyclopaedia and handbook of process capability\nindices: A comprehensive exposition of quality control measures (Series on Quality,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 33,
+      "text": "10. Pearn, W. L., & Kotz, S. (2016). Encyclopaedia and handbook of process capability\nindices: A comprehensive exposition of quality control measures (Series on Quality,\nReliability and Engineering Statistics, Vol. 12). World Scientific Publishing.\nReliability\n1. Introduction (2)\nDefinition of reliability and related measures; concept of failure; quality and reliabil-\nity; importance of reliability.\n2. Failure Patterns – Probability Models (8)\nHazard rate; bath tub curve; causes of early failure; failure-time distributions: Expo-\nnential, Weibull, Log-normal, Gamma; their properties and uses.\n3. System Reliability (10)\nSeries, parallel, series-parallel, r-out-of-n configurations; reliability block diagram;\ncut set and path set; reliability of different system.\n4. Life Testing (12)\nLife testing methods; estimation of parameters and reliability with standard proba-\nbility models using complete and censored samples; Type - I, Type – II, Interval, ran-",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 34,
+      "text": "4. Life Testing (12)\nLife testing methods; estimation of parameters and reliability with standard proba-\nbility models using complete and censored samples; Type - I, Type – II, Interval, ran-\ndom and progressive censoring. Properties of these estimators; confidence intervals;\n15",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          19
+        ],
+        "start_page": 19,
+        "end_page": 19
+      }
+    },
+    {
+      "chunk_id": 35,
+      "text": "probability plot and graphical procedures for estimating the parameter; validation of\nmodel; life test acceptance sampling plans in exponential case.\n5. Reliability of Repairable System (12)\nTypes of repair: good-as-new, minimal; modeling failure processes: renewal process,\nPoisson process, non-homogeneous Poisson process. Serviceability, maintainability,\navailability, operational readiness; reliability and maintainability trade-off.\n6. Warranty Analysis (6)\nRole of warranty; quality improvement versus warranty; free-replacement warranty\n(FRW) and pro-rated warranty (PRW); warranty policy and cost; analysis of warranty\npolicy – some simple cases.\nReferences\n1. Kapur, K. C., & Lamberson, L. R. (1977). Reliability in engineering design. John\nWiley & Sons.\n2. Meeker, W. Q., & Escobar, L. A. (1998). Statistical methods for reliability data.\nJohn Wiley & Sons.\n3. Lawless, J. F. (1982). Statistical models and methods for lifetime data. John Wiley\n& Sons.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 36,
+      "text": "2. Meeker, W. Q., & Escobar, L. A. (1998). Statistical methods for reliability data.\nJohn Wiley & Sons.\n3. Lawless, J. F. (1982). Statistical models and methods for lifetime data. John Wiley\n& Sons.\n4. Ascher, H., & Feingold, H. (1984). Repairable system reliability. Marcel Dekker.\n5. Blischke, W. R., & Murthy, D. N. P. (1994). Warranty cost analysis. Marcel Dekker.\n6. Srinath, L. S. (1975). Concepts in reliability. Affiliated East-West Press Pvt. Ltd.\n7. Barlow, R. E., & Proschan, F. (1975). Statistical theory of reliability and life testing.\nHolt, Rinehart and Winston.\nApplied Regression & Time Series Analysis\n1. Simple Linear Regression (5)\nThe simple regression model, importance of scatter plot, Least squares method of\nestimation of parameters, Test for slope and intercept, Interval estimation in sim-\nple linear regression, Prediction of new observations, Co-efficient of determination,\nEstimation by maximum likelihood method.\n16",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          20
+        ],
+        "start_page": 20,
+        "end_page": 20
+      }
+    },
+    {
+      "chunk_id": 37,
+      "text": "2. Checking Model Adequacy (5)\nResidual analysis, Detection and treatment of outliers, Lack of fit and pure error,\nNeed for transformation, Weighted least squares. Autocorrelation.\n3. Multiple Linear Regression (20)\nMultiple regression models, Estimation of model parameters, Confidence intervals\nand hypothesis testing in multiple regression, Prediction of new observations, Mul-\ntiple correlation co-efficient. Polynomial regression. Checking for the validity of\nmodel assumptions: Role of residuals and hat matrix, standardized and studentized\nresiduals. Plots: Fitted values against residuals, regressors against residuals, added\nvariable plots, normal probability plot.\nDetecting influential observations: DFBETAS, DFFITS, Cook’s D, COVRATIO.\nSources and effects of multicollinearity, multicollinearity diagnostics: VIF and vari-\nance proportions.\nMethods for dealing with multicollinearity, Principal component regression and its",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 38,
+      "text": "Sources and effects of multicollinearity, multicollinearity diagnostics: VIF and vari-\nance proportions.\nMethods for dealing with multicollinearity, Principal component regression and its\npitfalls, Subset selection: Criteria for choice of subset size, Co-efficient of multiple\ndetermination, Residual mean square, Adjusted co-efficient of determination, Mal-\nlows’ Cp statistic, AIC and BIC criteria. Comparison of different criteria. Ridge\nregression. Validation of regression models.\n4. Indicator Variables (3)\nConcept and use of indicator variables as regressors, models with only indicator\nvariables, interaction terms involving indicator variables, indicator variables for seg-\nmented models.\n5. Terminologies in the use of Regression analysis (5)\nHeteroscedasticity, Transformations, Box-Cox transformation, Generalized least squares,\nDesigned experiments for regression, Relationship between regression and analysis",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 39,
+      "text": "Heteroscedasticity, Transformations, Box-Cox transformation, Generalized least squares,\nDesigned experiments for regression, Relationship between regression and analysis\nof variance. Non-linear models: Estimation of parameters of a non-linear system.\n6. Logistic Regression (4)\nDiscrete response models, Linear probability models, Logistic regression model, Test\nof significance of coefficients, Multiple logistic regression model, Fitting and testing\nthe significance of the model, Interpretation of the coefficients of the logistic re-\ngression model – Dichotomous, Polytomous and Continuous independent variable,\nMeasures of goodness of fit – Pearson Chi-square and Deviance, Hosmer–Lameshow\ntests, Logistic regression diagnostics. Probit regression\n17",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          21
+        ],
+        "start_page": 21,
+        "end_page": 21
+      }
+    },
+    {
+      "chunk_id": 40,
+      "text": "7. Time Series and Forecasting (8)\nIntroduction to time series and forecasting, Nature of time series data, Measures of\nDependence: Auto Correlation and Cross Correlation, ACF & PACF, Portmanteau\nTests, Dicky Fuller (DF) & ADF tests, Stationarity and Non-stationarity, Tests of\nstationarity, Additive & Multiplicative models, Exponential and Double Exponential\nSmoothing, ARMA, ARIMA models, Introduction to Vector ARIMA, ARCH and\nGARCH models.\nReferences\n1. Draper, N. R., & Smith, H. (1998). Applied regression analysis. McGraw-Hill.\n2. Rawlings, J. O., Pantula, S. G., & Dickey, D. A. (1998). Applied regression analysis:\nA research tool. Springer.\n3. Montgomery, D. C., Peck, E. A., & Vining, G. G. (2021). Introduction to linear\nregression analysis. John Wiley & Sons.\n4. Chatterjee, S., & Hadi, A. S. (2015). Regression analysis by example. John Wiley &\nSons.\n5. Dobson, A. J., & Barnett, A. G. (2018). An introduction to generalized linear models.\nChapman & Hall/CRC.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 41,
+      "text": "Sons.\n5. Dobson, A. J., & Barnett, A. G. (2018). An introduction to generalized linear models.\nChapman & Hall/CRC.\n6. Hosmer, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). Applied logistic regres-\nsion (3rd ed.). Wiley.\nBusiness Analytics II\n1. Introduction to Data Analytics (10)\nIntroduction to types of data. Basic operations including convolution, correlation,\nand filtering of signal/image/video information. Basic transformation methods.\nBasics of pattern recognition. Design principles of pattern recognition system. Learn-\ning and adaptation.\n2. Feature Selection and Extraction (8)\nFeature selection problem statement and uses. Probabilistic Separability-based cri-\nterion functions. Interclass distance-based criterion functions. Branch and bound\nalgorithm. Sequential forward/backward selection algorithms. Feature extraction\napproaches: PCA, Kernel PCA, Transform-based methods.\n18",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          22
+        ],
+        "start_page": 22,
+        "end_page": 22
+      }
+    },
+    {
+      "chunk_id": 42,
+      "text": "3. Supervised Learning (10)\nStandardization and normalization. Linear and non-linear discriminant boundaries.\nBayesian Decision Theory. Distance metrics. Basic classification methods, such as\nminimum distance, K-NN Classifiers, etc. Linear and Logistic Regression. Cost\nfunction optimization. Classification & Regression Tree (CART). Ensemble classifi-\ncation methods - bagging, random forest, boosting & voting classifier.\n4. Performance evaluation and model comparison (8)\nChoosing the right model: accuracy vs speed vs interpretability. Metrics for super-\nvised learning performance evaluation, types of errors, ROC curves, and confusion\nmatrices and related measures. Metrics for unsupervised learning performance eval-\nuation. Cross-validation methods, Training sets and test sets, leave one out, k-fold,\nstratified. Bias-Variance trade off.\n5. Unsupervised Learning (8)\nMinimum within cluster distance criterion. K-means clustering. Single linkage and",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 43,
+      "text": "stratified. Bias-Variance trade off.\n5. Unsupervised Learning (8)\nMinimum within cluster distance criterion. K-means clustering. Single linkage and\ncomplete linkage clustering, MST, DBSCAN, etc.\n6. Application of Pattern Recognition Model (6)\nFace Detection, Sentiment Analyzer, Object Detection, Fraud Analytics, Real time\nAnalytics. A/B Testing.\nReferences\n1. Duda, R. O., Hart, P. E., & Stork, D. G. (2001). Pattern classification (2nd ed.).\nWiley.\n2. Bishop, C. M. (1995). Neural networks for pattern recognition. Oxford University\nPress.\n3. Haykin, S. (2009). Neural networks and learning machines (3rd ed.). Pearson Edu-\ncation India.\n4. Theodoridis, S., Koutroumbas, K., & Tsoumakas, G. (2010). Introduction to pattern\nrecognition: A MATLAB approach. Academic Press.\n5. G´eron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and Tensor-\nFlow. O’Reilly Media.\n19",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          23
+        ],
+        "start_page": 23,
+        "end_page": 23
+      }
+    },
+    {
+      "chunk_id": 44,
+      "text": "6. Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning:\nData mining, inference, and prediction (2nd ed.). Springer.\n7. Starmer, J. (2022). The StatQuest illustrated guide to machine learning. StatQuest.\n8. Mello, R. F., & Ponti, M. A. (2018). Machine learning: A practical approach on the\nstatistical learning theory. Springer.\n9. James, G., Witten, D., Hastie, T., and R. Tibshirani. (2021), An Introduction to\nStatistical Learning: with Applications in R. Springer,\n10. Mehryar, M., Rostamizadeh, A. and Talwalkar, A. (2018). Foundations of Machine\nLearning. MIT Press.\nElective I\nSupply chain & Operations Management\n1. Supply Chain Management: Introduction & Philosophy (8)\nConcepts on Supply Chain, Supply chain networks, Integrated supply chain planning,\nprocess view (mapping and flow chart) of a supply chain, and supply chain flows.\nOverview of supply chain models and modelling systems, Supply chain planning,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 45,
+      "text": "process view (mapping and flow chart) of a supply chain, and supply chain flows.\nOverview of supply chain models and modelling systems, Supply chain planning,\nSupply Chain Management as a Management Philosophy, Function of Supply Chain\nManagement, Customer focus in Supply Chain Management, Buyers and Suppliers\nPerspective, Value chain. Introduction to distribution network, Factors influencing\ndistribution, design options, e-business, and its impact.\n2. Supply Chain Network Design (5)\nSupply chain distribution networks in Practice, network design in the supply chain,\nmodelling for supply chain. Transportation network and sourcing in supply chain.\n3. Planning Supply and Demand (8)\nRole of Forecasting in a supply chain, Factors of Demand Forecast, Basic approach\nto Demand Forecasting, Aggregate planning in supply chain, Managing Predictable\nvariability.\n4. Operations Management (7)\nIntroduction; Historical Development, Concept of Production, Classification of Pro-",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 46,
+      "text": "variability.\n4. Operations Management (7)\nIntroduction; Historical Development, Concept of Production, Classification of Pro-\nduction System, Production Management, A Framework of Managing Operations,\nOperations Management, Productivity, and productivity analysis.\n20",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          24
+        ],
+        "start_page": 24,
+        "end_page": 24
+      }
+    },
+    {
+      "chunk_id": 47,
+      "text": "5. Aggregate Planning and Scheduling (7)\nIntroduction to Aggregate Production Planning, Variables used in Aggregate Plan-\nning, Aggregate Planning Strategies, Mixed Strategies, Mathematical Planning Model,\nMaster Scheduling. Introduction to Scheduling, Classification of Scheduling Prob-\nlems (Sequence of Machines, Number of Machines, Job Arrival Times, etc), Two\nMachines Flow-Shop Problem, Single-Machine Scheduling.\n6. Project Management (8)\nIntroduction; Critical path method; PERT network analysis; Statistical analysis of\nproject duration; Precedence diagramming method; Software tools for project man-\nagement.\n7. Simulation (7)\nIntroduction; Basics of simulation; Simulation languages and software; Simulation\nprojects.\nReferences\n1. Hillier, F. S., & Lieberman, G. J. (2015). Introduction to operations research. McGraw-\nHill.\n2. Chopra, S., Meindl, P., & Kalra, D. V. (2007). Supply chain management. Pearson\nEducation India.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 48,
+      "text": "1. Hillier, F. S., & Lieberman, G. J. (2015). Introduction to operations research. McGraw-\nHill.\n2. Chopra, S., Meindl, P., & Kalra, D. V. (2007). Supply chain management. Pearson\nEducation India.\n3. Chopra, S., & Meindl, P. (2016). Supply chain management: Strategy, planning, and\noperation (6th ed.). Pearson Education.\n4. Raghuram, G., & Rangaraj, N. (2000). Logistics and supply chain management:\nCases and concepts. Macmillan India Ltd.\n5. Simchi-Levi, D., Kaminsky, P., & Simchi-Levi, E. (1999). Designing and managing\nthe supply chain: Concepts, strategies, and cases. McGraw-Hill.\n6. Handfield, R. B., & Nichols, E. L., Jr. (1999). Introduction to Supply chain manage-\nment. Prentice Hall.\n7. Mentzer, J. T., Myers, M. B., & Stank, T. P. (2006). Handbook of global supply chain\nmanagement. Sage Publications.\n8. Coyle, J. J., Bardi, E. J., & Langley, C. J. (1992). The management of business\nlogistics (Vol. 580). West Publishing Company.\n21",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          25
+        ],
+        "start_page": 25,
+        "end_page": 25
+      }
+    },
+    {
+      "chunk_id": 49,
+      "text": "9. Ballon, R. H. (2004). Business logistics/supply chain management: Planning, orga-\nnizing, and controlling the supply chain. Pearson Education, Inc.\n10. Pandey, R. (2001). Essentials of supply chain management (R. P. Mohanty & S. G.\nDeshmukh, Authors). 238–239.\nFoundations of MSME Practices & Management\n1. Introduction (2)\nAbout Micro Small and Medium Entrepreneurship (MSME): Concept & Definition;\nRole of Business in the modern Indian Economy SMEs in India; Employment and\nexport opportunities in MSMEs; Issues and challenges of MSMEs.\n2. Statistical Methods in MSMEs (15)\nFundamental of Statistical Methods & Techniques in MSMEs; Sampling; Data Col-\nlection methods; Probability Distribution; Data Analysis; SPC – Control charts (vari-\nable and attributes charts), Process Capability, Acceptance Sampling, Product & Pro-\ncess Design – Experimental Designs; Reliability Engineering; Methods for Process\nModeling. Case examples and exercises.\n3. Shop Floor Practices in MSMEs (15)",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 50,
+      "text": "cess Design – Experimental Designs; Reliability Engineering; Methods for Process\nModeling. Case examples and exercises.\n3. Shop Floor Practices in MSMEs (15)\nQuality Management: Brief introduction about quality management in MSMEs;\nMSMEs Classification; Importance of Quality Management in Business Processes;\nManagement Practices. Quality Management Tools: Six Sigma; Seven Quality Con-\ntrol Tools; Measurement System Analysis: Gauge R &R; QFD: Vendor rating and\nValue Analysis.\nLean Concepts & Tools: 5S –Value stream mapping – Changeover/setup time (SMED);\nProduction leveling – Line balancing; TPM (Objectives and functions) – Reliability\nCentered Maintenance (RCM) – maintenance types; Outsourcing – Make vs. buy\napproach.\nCase examples and exercises on Six Sigma in MSMEs.\n4. Research and Development Practices in MSMEs (10)\nOverview on creativity & innovation; ICEDIP Process and Tools – Six Thinking\nHats, Lateral Thinking, TRIZ methodology, 8D approach etc., Pilot to Production,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 51,
+      "text": "Overview on creativity & innovation; ICEDIP Process and Tools – Six Thinking\nHats, Lateral Thinking, TRIZ methodology, 8D approach etc., Pilot to Production,\nProject Evaluation Methods, Case examples.\n5. Quality and Excellence in MSMEs (6)\n22",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          26
+        ],
+        "start_page": 26,
+        "end_page": 26
+      }
+    },
+    {
+      "chunk_id": 52,
+      "text": "Institutional (MSME): Overview on Quality systems – Basics of ISO 9000/9001/9004,\nSector-specific standards, & other standards; Requirements and benefits – awards for\nMSMEs like EFQM excellence model; Malcolm Baldridge quality award; Deming’s\nPrize; Rajiv Gandhi National Quality Award (RGNQA)- IMEA Award; IEI Industry\nExcellence award etc.\nIndividual (MSME Employee): Overview on Self certifications & benefits; ASQ\ncertifications – Six Sigma belts; CRE; CSQP, CSQE; Program Management Profes-\nsional (PgMP); Certified Associate in Project Management (CAPM); Quality Audi-\ntor.\n6. Setting of MSMEs (2)\nOverview on setting up of MSMEs; Different schemes & formalities for setting up\nan enterprise; Location of Enterprise; Rural entrepreneurship – Women entrepreneur-\nship.\nReferences\n1. Chaudhury, S. K. (2013). Micro, small and medium enterprises in India. Raj Publi-\ncations.\n2. Aneet, & Agarwal, M. (2009). Small and medium enterprises in transitional economies:",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 53,
+      "text": "ship.\nReferences\n1. Chaudhury, S. K. (2013). Micro, small and medium enterprises in India. Raj Publi-\ncations.\n2. Aneet, & Agarwal, M. (2009). Small and medium enterprises in transitional economies:\nChallenges and opportunities. DEEP and DEEP Publications. https://doi.org/ISBN:978-\n8184501667\n3. Shukla, M. B. (2011). Entrepreneurship and small business management. Kitab\nMahal.\n4. Sharma, R. K. (n.d.). Quality management practices in MSME sectors. Springer\nSingapore. https://doi.org/ISBN:978-981-15-9511-0\n5. Antony, J., Vinodh, S., & Gijo, E. V. (2016). Lean Six Sigma for small and medium-\nsized enterprises: A practical guide. CRC Press.\n6. Chase, R. B., Jacobs, F. R., & Aquilano, N. J. (2006). Operations management for\ncompetitive advantage. McGraw-Hill/Irwin.\n7. Montgomery, D. C. (2019). Introduction to statistical quality control (8th ed.). Wi-\nley.\n8. Kume, H. (1987). Statistical methods for quality improvement. Productivity Press.\n23",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          27
+        ],
+        "start_page": 27,
+        "end_page": 27
+      }
+    },
+    {
+      "chunk_id": 54,
+      "text": "9. Ryan, T. P. (2000). Statistical methods for quality improvement (2nd ed.). John Wiley\n& Sons.\n10. Hart, R. F., & Hart, M. K. (1989). Quantitative methods for quality and productivity\nimprovement. ASQ Quality Press.\n11. Lesikar, R. V., Pettit, J. D., & Flatly, M. E. (2009). Lesikar’s basic business commu-\nnication (11th ed.). Tata McGraw-Hill.\n12. Hurr, F. (1999). Rousing creativity: Think new now. Crisp Publications Inc. ISBN\n1560525479.\n2.3\nThird Semester Courses\nMultivariate Analysis\n1. Multivariate data (3)\nIntroduction to Multivariate data, Multivariate data visualization, Multivariate data\nsummarisation.\n2. Multivariate normal distribution (18)\nMultivariate normal distribution and its properties, Inference on mean vectors in\nmultivariate populations, Hotelling’s T 2: Comparing Mean Vectors from Two Pop-\nulations, Wishart distribution (definition, properties); Construction of tests using\nUnion - Intersection and likelihood ratio principles, Mahalanobis D2, Bartlett’s Test,",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 55,
+      "text": "ulations, Wishart distribution (definition, properties); Construction of tests using\nUnion - Intersection and likelihood ratio principles, Mahalanobis D2, Bartlett’s Test,\nMANOVA.\n3. Principal Component Analysis (5)\nPrincipal Component Analysis (PCA) based on the population covariance matrix,\nanalysis based on the sample covariance matrix; use of principal components.\n4. Factor analysis (5)\nLoading, communality, variance of a factor & total variance; estimation of Parame-\nters, choosing number of factors; selection of loading - rotation.\n5. Discriminant Analysis and Classification (7)\nConcepts of discriminant analysis - Computation of linear discriminant function\n(LDF) - Classification between k multivariate normal populations based on LDF–\nFisher’s Method for discriminating two or several populations - Evaluating Classi-\nfication Functions - Probabilities of misclassification and their estimation - Maha-\nlanobis D2.\n24",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          28
+        ],
+        "start_page": 28,
+        "end_page": 28
+      }
+    },
+    {
+      "chunk_id": 56,
+      "text": "6. Cluster analysis, Multidimensional scaling, Correspondence analysis (8)\nSimilarity measures, clustering methods and algorithms; multidimensional scaling –\nbasic algorithm; correspondence analysis – algebraic development, inertia, interpre-\ntation.\n7. Methods for multivariate SPC (4)\nMultivariate control charts, Multivariate process capability analysis.\nReferences\n1. Johnson, D. E. (1998). Applied multivariate methods for data analysts. Duxbury\nPress.\n2. Hair, J. F., Jr., Anderson, R. E., Tatham, R. L., & Black, W. C. (2006). Multivariate\ndata analysis with readings (6th ed.). Pearson Prentice Hall.\n3. Sharma, S. (1996). Applied multivariate techniques. Wiley.\n4. Mason, R. L., & Young, J. C. (2002). Multivariate statistical process control with\nindustrial applications. Society for Industrial and Applied Mathematics.\n5. Malhotra, N. K., Nunan, D., & Birks, D. F. (2020). Marketing research (5th ed.).\nPearson UK.\nOperations Research II\n1. Integer Programming (10)",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 57,
+      "text": "5. Malhotra, N. K., Nunan, D., & Birks, D. F. (2020). Marketing research (5th ed.).\nPearson UK.\nOperations Research II\n1. Integer Programming (10)\nIntroduction to ILP, formulation, branch and bound and cutting plane methods for\nsolving ILPs. Applications of ILP: traveling salesman problem, cutting stock, and\nmaterial optimization problems. The minimum cost network flow problems, Network\nModels.\n2. Dynamic Programming (8)\nDeterministic dynamic programming problems, Bellman’s optimality principle, For-\nward and backward approaches for solving dynamic programming problems, and\ncontinuous and discrete variable problems.\n3. Queueing Models (7)\nIntroduction to waiting line models, steady-state behaviour of M/M/1, M/M/C queues,\nthe problem of machine interference problem and use of finite queueing tables, in-\ntroduction to M/G/1 and M/G/C models.\n25",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          29
+        ],
+        "start_page": 29,
+        "end_page": 29
+      }
+    },
+    {
+      "chunk_id": 58,
+      "text": "4. Inventory Control & Management (10)\nIntroduction to Supply Chain Inventory Management - cycle and safety inventory. In-\nventory theory: Economic Order Quantity Models, Reorder Point Models and Multi-\nechelon Inventory Systems, Relevant deterministic and stochastic inventory models,\nSingle and multi-product, Inventory management in practice (JIT, VMI, etc.).\n5. Non-Linear Programming (15)\nUnconstrained optimization problem and the optimality conditions (steepest descent\nmethod, and conjugate direction method). The constrained nonlinear optimization\nproblem; Lagrange multiplier method, Karush-Kuhn-Tucker optimality conditions;\nnecessary and sufficient conditions for optimality.\nReferences\n1. Bazaraa, M. S., Sherali, H. D., & Shetty, C. M. (2006). Nonlinear programming:\nTheory and algorithms (3rd ed.). John Wiley & Sons.\n2. Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University\nPress.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 59,
+      "text": "Theory and algorithms (3rd ed.). John Wiley & Sons.\n2. Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University\nPress.\n3. Pardalos, P. M., & Resende, M. G. C. (2002). Handbook of applied optimization.\nOxford University Press.\n4. Taha, H. A. (2013). Operations research: An introduction (9th ed.). Pearson Educa-\ntion India.\n5. Luenberger, D. G. (1997). Optimization by vector space methods (2nd ed.). John\nWiley & Sons.\nIndustrial Experimentation\n1. Introduction (2)\nIntroduction to Design of Experiments, Role of experimental designs in industries,\nIdentification, and classification of factors. Classical statistical design of experi-\nments, Basic principles of experimentation, concept of main effect and interaction,\nCurrent trends in experimentation.\n2. Basic Designs (4)\nCompletely Randomized Design, Randomized complete block design, Latin square\ndesign, Residual analysis: assessment of Model.\n26",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          30
+        ],
+        "start_page": 30,
+        "end_page": 30
+      }
+    },
+    {
+      "chunk_id": 60,
+      "text": "3. Factorial Designs (14)\nIntroduction to factorial design, 2K and 3K factorial designs, Statistical analysis,\nModel adequacy checking. Confounding in the ¬2K factorial design. 2k−p and 3k−p\nfractional Factorial designs. Residual analysis: model adequacy tests.\n4. Nested/Hierarchical Designs (4)\nTwo-stage nested design, Statistical analysis, diagnostic checking. General m-stage\nnested designs. Design with nested and crossed factors.\n5. Response Surface Methodology (5)\nIntroduction, Method of steepest ascent, Analysis of quadratic models, Response\nsurface designs for first order and second order models, rotatable and orthogonal de-\nsigns, Equiradial, simplex, central composite, Box Behnken designs, Optimal design\nand criteria.\n6. Mixture Designs (5)\nIntroduction, Simplex lattice designs (Scheffe). Simplex centroid designs, Extreme\nvertices designs, Response surface designs with mixtures: first order and second\norder model for constrained mixture spaces.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 61,
+      "text": "vertices designs, Response surface designs with mixtures: first order and second\norder model for constrained mixture spaces.\n7. Taguchi Methods (Phase I) (5)\nLinear graphs and their applications, Different types of Orthogonal Arrays, Split unit\ndesign, Multilevel arrangement, Pseudo-factor designs, Statistical analysis.\n8. Taguchi’s Robust Designs (Phase II & III) (7)\nTaguchi’s philosophy of quality engineering, Loss function, Taguchi’s Noise strategy\ncontrasting basic principles of classical experimentation. Concepts of robust design\n(parameter design & tolerance design), Inner array and outer array, Signal to noise\nratios - static and dynamic, Statistical analysis, Critique of Taguchi Methods.\n9. Computer-Aided Experiments, Space-Filling Designs (4)\nOverview on computer-aided experiments, Space filling designs.\nReferences\n1. Montgomery, D. C. (2019). Design and analysis of experiments (10th ed.). John\nWiley & Sons.\n27",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          31
+        ],
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    {
+      "chunk_id": 62,
+      "text": "2. Box, G. E. P., & Hunter, W. G. (1978). Statistics for experimenters: An introduction\nto data analysis and model building. John Wiley & Sons.\n3. Cochran, W. G., & Cox, G. M. (1992). Experimental designs (2nd ed.). John Wiley\n& Sons.\n4. Fisher, R. A. (1974). The design of experiments. Hafner.\n5. Ghosh, S. (1990). Statistical design and analysis of industrial experiments. Marcel\nDekker.\n6. Das, M. N., & Giri, N. C. (1981). Design and analysis of experiments. Wiley Eastern.\n7. Box, G. E. P., & Draper, N. R. (1987). Empirical model building and response\nsurfaces. John Wiley & Sons.\n8. Myers, R. H., & Montgomery, D. C. (2016). Response surface methodology: Process\nand product optimization using designed experiments (4th ed.).\n9. Khuri, A. I., & Cornell, J. A. (1996). Response surface designs and analysis. Marcel\nDekker.\n10. Taguchi, G. (1986). Introduction to quality engineering. APO, UNIPUB.\n11. Taguchi, G. (2016). Introduction to off-line quality control. Central Japan Quality",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 63,
+      "text": "Dekker.\n10. Taguchi, G. (1986). Introduction to quality engineering. APO, UNIPUB.\n11. Taguchi, G. (2016). Introduction to off-line quality control. Central Japan Quality\nControl Association.\n12. Taguchi, G. (1987). System of experimental designs: Engineering methods to opti-\nmize quality and minimize cost. UNIPUB/Kraus International.\n13. Cornell, J. A. (2006). Experiments with mixtures: Design, model, and the analysis of\nmixture data. John Wiley & Sons.\n14. Wu, C. F. J., & Hamada, M. (2000). Experiments: Planning, analysis, and parameter\ndesign optimization. John Wiley & Sons.\n15. Taguchi, G., & Chowdhury, S. (2004). Taguchi’s quality engineering handbook (Y.\nWu, Ed.). John Wiley & Sons.\n28",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          32
+        ],
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    {
+      "chunk_id": 64,
+      "text": "Quality Management II\n1. Six Sigma Methodology (5)\nIntroduction to Six Sigma, Principles of Six Sigma – DMAIC & DFSS Philosophy,\nSix Sigma Implementation Process – How to Select Six Sigma Project, Role of Top\nManagement; Role of - Champion, Master Black Belt, Black Belt, Green Belt &\nYellow Belt; Training strategy.\n2. DMAIC Methodology (20)\nVOC, QFD, CTQ, CTQ Tree, Project Charter, SIPOC, Process Map, Cause & Effect\nMatrix, MSA: variable & attribute - R& R Concepts, Estimation of Kappa, Uncer-\ntainty Measurement etc., performance evaluation, Benchmarking, Tools for Analyze,\nImprove, and Control phase. EFQM Business Excellence Models.\n3. Lean Concepts and Methodology (15)\nDefinition of waste and its types, Value-added (VA) and non-value-added activities\n(NVA), Takt Time, Flow, pull & Bottleneck, Value stream Mapping, Cycle time\nDetermination, Lean Tools: 5S, Kaizen, Kanban, GEMBA, SMED, poka-yoke etc.\nOverview of Risk Analysis & Mitigation Methods. Introduction to Toyota Produc-",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 65,
+      "text": "Determination, Lean Tools: 5S, Kaizen, Kanban, GEMBA, SMED, poka-yoke etc.\nOverview of Risk Analysis & Mitigation Methods. Introduction to Toyota Produc-\ntion System: Philosophy and Objectives.\n4. Sustainable Quality Management (10)\nIntegration of Lean Six Sigma Methodology with a focus on the environment &\nsociety.\nReferences\n1. Przekop, P. (2005). Six Sigma for business excellence. McGraw-Hill.\n2. Brue, G., & Launsby, R. (2003). Design for Six Sigma. McGraw-Hill.\n3. Cavanagh, R., Neuman, R., & Pande, P. (2005). What is design for Six Sigma. Tata\nMcGraw-Hill.\n4. Pande, P. S., Neuman, R. P., & Cavanagh, R. R. (2000). The Six Sigma way: How GE,\nMotorola, and other top companies are honing their performance. McGraw-Hill.\n5. George, M., Rowlands, D., & Kastle, B. (2004). What is Lean Six Sigma. McGraw-\nHill.\n6. Montgomery, D. C. (n.d.). Introduction to statistical quality control (5th ed.). Wiley.\n29",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          33
+        ],
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    {
+      "chunk_id": 66,
+      "text": "7. Gupta, P. (2004). Six Sigma business scorecard. McGraw-Hill.\n8. Adams, C. W., Wilson, C. E., Jr., & Gupta, P. (2003). Six Sigma deployment. Elsevier\nScience.\n9. Munro, R. A., Ramu, G., & Zrymiak, D. J. (2022). Certified Six Sigma Green Belt\nhandbook (3rd ed.). ASQ.\n10. McShane-Vaughn, M. (2022). Certified Six Sigma Black Belt handbook (4th ed.).\nASQ.\n11. Antony, J., Vinodh, S., & Gijo, E. V. (2016). Lean Six Sigma for small and medium-\nsized enterprises: A practical guide. CRC Press.\n12. Bass, I., & Lawton, B. (2009). Lean Six Sigma using SigmaXL and Minitab. McGraw-\nHill.\n13. Voehl, F., Harrington, H. J., Mignosa, C., & Charron, R. (2014). The Lean Six Sigma\nBlack Belt handbook: Tools and methods for process acceleration. CRC Press.\n14. Turner, J., & Nelly, B. L. (2019). Lean Six Sigma. International Consulting Ltd.\n15. Creveling, C. M., Slutsky, J. L., & Antis, D., Jr. (2003). Design for Six Sigma in\ntechnology and product development (3rd ed.). Pearson Education.\nElective II",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 67,
+      "text": "15. Creveling, C. M., Slutsky, J. L., & Antis, D., Jr. (2003). Design for Six Sigma in\ntechnology and product development (3rd ed.). Pearson Education.\nElective II\nSurvival Analysis\n1. Introduction (2)\nType of data (uncensored, censored, grouped, truncated); Dependence on covariates;\nDifferent end points.\n2. Failure time models (4)\nExponential, Weibull, and Gamma. Discrete hazard.\n3. Likelihood based inference for censored data (8)\nConstruction of likelihood for different types of censoring; Maximum likelihood es-\ntimation (Newton-Raphson method, EM algorithm); Asymptotic likelihood theory\n(statement of results only); Testing of hypotheses in parametric models.\n30",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          34
+        ],
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    {
+      "chunk_id": 68,
+      "text": "4. Nonparametric inference (8)\nLife Table estimates; Kaplan-Meier estimate; Nelson-Aalen estimate; Two-sample\nproblem.\n5. Regression models (5)\nExponential and Weibull regression; Proportional Hazard and Accelerated Life Time\nmodels; Discrete regression models; Two-sample problem using regression models.\n6. Proportional Hazard model (8)\nMarginal and Partial likelihoods; Estimation of baseline survival function; Inclusion\nof strata; Time dependent covariates; Scope and validity of the PH model.\n7. Accelerated Life Time model (5)\nMaximum likelihood estimation; Least square estimation; Linear rank test.\n8. Competing risks (10)\nCause specific hazard/Multiple decrement models; PH model for competing risks\ndata; Multiple failure time data. Counting Process Theory; Multiplicative intensity\nmodel; Nelson-Aalen Estimator.\nReferences\n1. Kalbfleisch, J. D., & Prentice, R. L. (2002). The statistical analysis of failure time\ndata (2nd ed.). Wiley.",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 69,
+      "text": "model; Nelson-Aalen Estimator.\nReferences\n1. Kalbfleisch, J. D., & Prentice, R. L. (2002). The statistical analysis of failure time\ndata (2nd ed.). Wiley.\n2. Miller, R. G., Jr. (2011). Survival analysis. Wiley.\n3. Cox, D. R., & Oakes, D. (1984). Analysis of survival data. Chapman & Hall.\n4. Lawless, J. F. (2003). Statistical models and methods for lifetime data (2nd ed.).\nWiley.\n5. Klein, J. P., & Moeschberger, M. L. (2003). Survival analysis: Techniques for cen-\nsored and truncated data (2nd ed.). Springer.\nAdvanced Operations Research\n1. Numerical optimization techniques (10)\nLine search methods, gradient methods, Newton’s method, conjugate direction meth-\nods, quasi-Newton methods.\n31",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          35
+        ],
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    {
+      "chunk_id": 70,
+      "text": "2. Multiple Criteria Decision Making (15)\nBasic concepts; Multiple criteria methods for finite alternatives; Multiple criteria\nmathematical programming problems; Goal programming; Method of global crite-\nrion and compromise programming; Interactive methods; applications and software.\nRanking of Decisions-AHP and TOPSIS Methods.\n3. Evolutionary Algorithms (10)\nGenetic Algorithms, NSGA, PSO etc. and implementation.\n4. Large Scale Optimization (15)\nIntroduction to computer software for solving OR problems. Introduction to large-\nscale optimization problems and the decomposition principle-the Benders’ decompo-\nsition. Network Problems, Shortest Path Problem, Multi-Period Problems, Schedul-\ning Decisions, Set covering and Max Flow problems.\nReferences\n1. Ravindran, A. R. (2016). Operations research and management science handbook.\nCRC Press.\n2. Hillier, F. S., & Lieberman, G. J. (2015). Introduction to operations research (10th\ned.). McGraw-Hill\n2.4\nFourth Semester Courses",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 71,
+      "text": "CRC Press.\n2. Hillier, F. S., & Lieberman, G. J. (2015). Introduction to operations research (10th\ned.). McGraw-Hill\n2.4\nFourth Semester Courses\nDissertation (100) (Period: January to February, 8 weeks)\nThe dissertation has no specific syllabus but consists of all the topics covered till the third\nsemester and such other related topics as deemed necessary by the guide. It is typically\nexpected to be completed by the end of February, unless an extension is granted by the\nTeachers’ Committee or the Dean of Studies / Associate Dean.\nTwo copies of the dissertation duly certified by the supervisor are to be submitted to ISI\non completion of the work.\nProject/Dissertation (300) (Period: March to June, 16 weeks)\nEach student is required to undertake a live project or dissertation focused on solving a\nproblem related to Quality Management and/or Business Analytics, either in collabora-\ntion with an industry organization or under the guidance of the assigned supervisor. The\n32",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          36
+        ],
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    {
+      "chunk_id": 72,
+      "text": "project/ dissertation involves the application of concepts covered in Semester I, Semester II,\nSemester III, and any other relevant topics as deemed necessary by the project/ dissertation\nsupervisor.\nThe project should commence on the first working day of March, or on a date an-\nnounced by ISI following the submission and defense of the dissertation. It is expected to\ncontinue for 16 consecutive weeks and be completed by the end of June, unless an extension\nis granted by the Teachers’ Committee or the Dean of Studies / Associate Dean.\nTwo copies of the project report, duly certified by the supervisor, must be submitted to\nISI upon completion of the work.\n3\nEvaluation procedure\nDissertation\nA student of the second year of MS (QMBA) is required to do an eight-week long dis-\nsertation in the beginning of fourth semester under the supervision of a permanent faculty\nmember of the Indian Statistical Institute. The student is required to submit the name of",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 73,
+      "text": "sertation in the beginning of fourth semester under the supervision of a permanent faculty\nmember of the Indian Statistical Institute. The student is required to submit the name of\nthe supervisor to the Dean of Studies / Associate Dean before the end of classes of the third\nsemester.\nThe entire evaluation process dissertation will be organized by a committee appointed\nby the Dean of Studies / Associate Dean.\nEach dissertation should be evaluated by a committee appointed by the Dean of Studies\n/ Associate Dean, which should consist of members as follows:\n1. Chairman (a faculty member of ISI, who is not the supervisor of the student);\n2. Convener (the supervisor of the student);\n3. Member (another faculty member of ISI or an external expert).\nAn interim progress report of the dissertation must be submitted to the supervisor by the\nend of the fourth week. The final dissertation report approved and signed by the supervisor",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 74,
+      "text": "An interim progress report of the dissertation must be submitted to the supervisor by the\nend of the fourth week. The final dissertation report approved and signed by the supervisor\nmust be submitted to the Committee one week prior to the presentation date. A student is\nrequired to give a seminar on his/her work to defend his/her work. The evaluation of the\ndissertation will be done by the Committee by a deadline to be announced in the Academic\nCalendar.\nThe final evaluation report along with score must be submitted by the Committee to the\nDean of Studies/ Associate Dean after the seminar.\n33",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          37
+        ],
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    {
+      "chunk_id": 75,
+      "text": "Project / Dissertation\nA student of the second year of MS (QMBA) is required to do a 16-week long project /\ndissertation in the second semester under the supervision of a permanent faculty member of\nthe Indian Statistical Institute. The student is required to submit the name of the supervisor\nand the name of the organization where project will be carried out to the Dean of Studies /\nAssociate Dean before the end of classes of the third semester.\nThe entire evaluation process of project/dissertation will be organized by a committee\nappointed by the Dean of Studies / Associate Dean.\nEach project should be evaluated by a committee appointed by the Dean of Studies /\nAssociate Dean, which should consist of members as follows:\n1. Chairman (a faculty member of ISI, who is not the supervisor of the student);\n2. Convener (the supervisor of the student);\n3. Member (another faculty member of ISI or an external expert).",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    },
+    {
+      "chunk_id": 76,
+      "text": "1. Chairman (a faculty member of ISI, who is not the supervisor of the student);\n2. Convener (the supervisor of the student);\n3. Member (another faculty member of ISI or an external expert).\nAn interim progress report of the project / dissertation must be submitted to the super-\nvisor by the end of the 8-weeks during the project/dissertation. The final project / disser-\ntation report approved and signed by the supervisor must be submitted to the Committee\none week prior to the presentation date. A student is required to give a seminar on his/her\nwork to defend his/her work. The evaluation of the project / dissertation will be done by\nthe Committee by a deadline to be announced in the Academic Calendar.\nThe final evaluation report along with score must be submitted by the Committee to the\nDean of Studies/ Associate Dean after the seminar.\n34",
+      "metadata": {
+        "pdf_name": "MSQMBA-Brochure-2026.pdf",
+        "pdf_path": "DATA\\MSQMBA-Brochure-2026.pdf",
+        "page_numbers": [
+          38
+        ],
+        "start_page": 38,
+        "end_page": 38
+      }
+    }
+  ]
+}
